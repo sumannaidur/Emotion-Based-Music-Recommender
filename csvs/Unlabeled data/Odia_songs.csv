@@ -1,0 +1,941 @@
+song_name,singer,singer_id,duration,language,released_date,danceability,acousticness,energy,liveness,loudness,speechiness,tempo,mode,key,Valence,time_signature,popularity,Stream
+Nida Bhara Rati,Nirmal Mishra,/artist/nirmal-mishra,03:04,Odia,10-07-2007,0.84,0.33,0.911,0.586,-5.307,0.068,174.123,0,3,0.0371,4,50,8287080
+Om Santi Om Santi,Sikandar Alam,/artist/sikandar-alam,04:21,Odia,08-12-2020,0.21,0.463,0.426,0.097,-4.852,0.02,174.003,0,1,0.09,4,77,9301817
+Jajabara Mana Mora,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,06:53,Odia,01-09-2005,0.35,0.36,0.034,1,-6.159,0.027,173.953,1,6,0.0089,4,44,7518878
+Ekato Bhakata Jibana,Akshaya Mohanty,/artist/akshaya-mohanty,02:34,Odia,01-08-2007,0.22,0.87,0.047,0.383,-10.583,0.0989,174.043,0,2,0.05,4,30,10274507
+Kala Thakur Pua Mohara,Kavita Krishnamurthy,/artist/kavita-subramaniam,08:00,Odia,05-05-2020,0.53,0.33,0.929,0.102,-7.331,0.09,171.943,0,9,0.061,4,55,2943343
+Tata Mata Karuchhanti Rodana,Akshaya Mohanty,/artist/akshaya-mohanty,03:02,Odia,09-01-2003,0.09,0.736,0.838,0.756,-9.676,0.06,174.032,1,1,0.024,4,75,10403179
+Phoor Kina Udigala Bani,Trupti Das|Geeta Patnaik,/artist/trupti-das|/artist/geeta-patnaik,02:59,Odia,07-11-2015,0.06,1,0.712,0.02,-2.1,0.02,173.942,1,10,0.0813,4,44,736013
+Patita Jananku Uddhariba Pain,Bhikari Bal,/artist/bhikari-bal-1,03:51,Odia,09-11-2015,0.88,0.939,0.429,0.368,-2.098,0,174.068,1,3,0.0031,4,95,5404752
+Jochhana Luchana,Akshaya Mohanty|Nirmal Mishra,/artist/akshaya-mohanty|/artist/nirmal-mishra,03:15,Odia,05-05-2001,0.85,0.32,0.616,0.607,-12.337,0.07,173.418,0,5,0.053,4,57,7656801
+Kene Gheni,Akshaya Mohanty,/artist/akshaya-mohanty,03:02,Odia,07-04-2010,0.43,0.675,0.829,0.756,-3.656,0.05,175.011,1,1,0.017,4,72,10539395
+Kathata Ta Atike,Anuradha Paudwal|Mohammad Aziz|Mahendra Kapoor|Akhyay Mohanty|Rabindra Sathe,/artist/anuradha-paudwal-2|/artist/mohammad-aziz|/artist/mahendra-kapoor|/artist/akhyay-mohanty|/artist/rabindra-sathe,05:21,Odia,04-06-2012,0.73,0.04,0.952,0.466,-11.121,0.0877,174.007,1,5,0.06,4,32,3838856
+Ahe Prabhu Mahabahu,Geeta Das,/artist/geeta-das,03:09,Odia,03-02-2022,0.8,0.844,0.595,0.108,-13.393,0.05,171.986,1,9,0.06,4,78,900543
+Rupa Sagadirey Suna Kaniya,Mohammad Aziz,/artist/mohammad-aziz,06:23,Odia,12-07-2008,0.97,0.88,0.953,0.254,-8.461,0.07,174.013,1,2,0.016,4,71,9784097
+Hrudayara Ei Sunyataku,Sekhar Ghosh,/artist/sekhar-ghosh,04:59,Odia,06-03-2008,0.35,0.553,0.746,0.516,-9.886,0.01,174.001,1,9,0.032,4,26,1432475
+Gadi Chale Pachhei,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,02:46,Odia,10-08-2008,0.93,0.18,0.661,0.933,-9.793,0.05,173.981,0,10,0.0265,4,51,3447217
+Samalei Ma Go,Fakir Patnaik,/artist/fakir-patnaik-54,06:34,Odia,03-11-2023,0.65,0.866,0.439,0.821,-8.739,0,174.03,1,8,0.057,4,36,11002013
+E Banara Chai,Amit Kumar|Suman Kalyanpur,/artist/amit-kumar|/artist/suman-kalyanpur,03:01,Odia,12-09-2014,0.97,0.56,0.832,0.196,-6.042,0.0489,173.968,1,2,0.099,4,32,7224307
+Chaala Sakhi Aambhe,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:13,Odia,08-04-2010,0.39,0.452,0.551,0.996,-12.987,0.09,174.052,1,9,0.0962,4,25,3360394
+Bhagya Thile Dhara Dhara,Akshaya Mohanty,/artist/akshaya-mohanty,02:38,Odia,02-02-2014,0.51,0.17,0.562,0.542,-8.761,0.1,174.553,1,0,0.02,4,50,5508590
+Keon Nama Dhari,Pranab Kishore Patnaik|Vani Jairam,/artist/pranab-kishore-patnaik|/artist/vani-jayaram,04:23,Odia,09-05-2015,0.68,0.839,0.484,0.095,-8.138,0.0751,172.015,0,0,0.01,4,93,9124812
+E Milana Kahani Ama Jibanara,Kavita Krishnamurthy|Udit Narayan,/artist/kavita-subramaniam|/artist/udit-narayan,07:00,Odia,03-01-2004,0.74,0.52,0.896,0.996,-8.685,0.005,172.075,0,7,0.09,4,93,5871095
+Monar Desare,Anuradha Paudwal|Mohammad Aziz|Mahendra Kapoor|Akhyay Mohanty|Rabindra Sathe,/artist/anuradha-paudwal-2|/artist/mohammad-aziz|/artist/mahendra-kapoor|/artist/akhyay-mohanty|/artist/rabindra-sathe,05:09,Odia,07-10-2013,0.99,0.84,0.58,0.086,-11.148,0.08,174.058,0,5,0.02,4,73,11201853
+Dinabandhu Daitari,Akshaya Mohanty,/artist/akshaya-mohanty,03:51,Odia,06-02-2001,0.34,0.16,0.438,0.834,-9.071,0.01,174.947,0,4,0.079,4,78,5614663
+Brundabane Banshi,Sikander Alam,/artist/sikander-alam,02:48,Odia,07-09-2004,0.22,0.948,0.556,0.424,-2.842,0.08,173.97,1,1,0.0882,4,78,1859719
+Re Mita Aa Sangata,Pranab Kishore Patnaik|Sikandar Alam,/artist/pranab-kishore-patnaik|/artist/sikandar-alam,03:18,Odia,06-07-2003,0.44,0.86,0.929,0.228,-4.911,0.1,173.965,0,9,0.0899,4,49,5727634
+Mora Kapale Baisi Pancha,Sekhar Ghosh,/artist/sekhar-ghosh,02:53,Odia,02-01-2020,0.32,0.764,0.571,0.594,-3.164,0.01,172.029,0,10,0.0884,4,40,9359979
+Manima Shunima Heyu,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:36,Odia,07-08-2008,0.97,0.6,0.62,0.932,-3.785,0.0347,173.001,1,4,0.06,4,90,3696466
+Jagannatha Hey,Bhikari Bal,/artist/bhikari-bal-1,05:35,Odia,02-06-2002,0.17,0.49,0.046,0.524,-11.791,0.01,175.023,0,5,0.013,4,38,9167443
+Kaili Lo,Unknown,/artist/unknown,05:12,Odia,12-04-2001,0.86,0.61,0.954,0.001,-5.294,0.05,171.981,1,0,0.08,4,80,7160812
+Prathame Banduchhe Sri Ganeswar,Fakir Patnaik,/artist/fakir-patnaik-55,03:19,Odia,02-07-2013,0.3,0.313,0.547,0.991,-2.508,0.1,173.948,0,11,0.086,4,88,4149911
+Bhasa Megha,Akshaya Mohanty,/artist/akshaya-mohanty,03:19,Odia,03-11-2004,0.53,0.98,0.18,0.443,-3.019,0.07,174.026,1,11,0.0059,4,62,10245783
+Ahe Ramahari,Prafulla Kar,/artist/prafulla-kar,02:58,Odia,08-10-2021,0.44,0.664,0.104,0.244,-11.244,0.08,173.909,0,0,0.031,4,98,5458133
+Samarpi Deli,Akshaya Mohanty,/artist/akshaya-mohanty,03:16,Odia,08-02-2022,0.64,0.3,0.834,0.076,-10.336,0.0613,175.071,0,5,0.001,4,96,4582412
+Majhire,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:05,Odia,05-04-2023,0.14,0.583,0.534,0.791,-3.962,0.0345,173.98,0,5,0.09,4,79,2334143
+Boita Bandana,Sikandar Alam|Indira Nanda|Bhikari Bal,/artist/sikandar-alam|/artist/indira-nanda|/artist/bhikari-bal-1,06:23,Odia,11-11-2018,0.18,0.77,0.128,0.674,-13.432,0.02,171.764,0,7,0,4,91,3766268
+Hai Se Harini Akhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:34,Odia,01-03-2012,0.42,0.438,0.016,0.003,-10.763,0.09,174.073,0,5,0.0276,4,56,7397381
+Hai Lo Mora Berinigi Chithhi,Anuradha Paudwal|Mohammad Aziz|Mahendra Kapoor|Akhyay Mohanty|Rabindra Sathe,/artist/anuradha-paudwal-2|/artist/mohammad-aziz|/artist/mahendra-kapoor|/artist/akhyay-mohanty|/artist/rabindra-sathe,05:08,Odia,01-02-2015,0.06,0.09,0.39,0.726,-4.449,0.01,173.962,1,1,0.088,4,58,2384815
+Kripasindhu Badana,Bhikari Bal,/artist/bhikari-bal-1,04:17,Odia,04-03-2002,0.27,0.272,0.472,0.174,-10.126,0.0528,174.021,0,2,0.0726,4,46,11090154
+Asiba Asiba Jane Dine Ta,Kavita Krishnamurthy|Udit Narayan,/artist/kavita-subramaniam|/artist/udit-narayan,06:00,Odia,07-02-2014,0.62,0.67,0.099,0.442,-13.442,0.041,174.068,1,1,0.092,4,72,4423759
+A  B  C  D  E  F  G Bhabigee O - Bhabigee,Trupti Das|Debasis Mahapatro|MANOHAR UDASH,/artist/trupti-das|/artist/debasis-mahapatro|/artist/manohar-udash,08:00,Odia,01-04-2021,0.65,0.513,0.098,0.829,-13.728,0.0442,174.095,0,11,0.09,4,72,9242910
+Bhujatale Mote,Prafulla Kar,/artist/prafulla-kar,04:16,Odia,01-06-2007,0.4,0.04,0.914,0.339,-2.642,0.075,174.007,0,4,0.013,4,37,4543489
+Kala Kalebara Kanhai,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,06:07,Odia,06-05-2022,0.93,0.048,0.915,0.354,-9.32,0.0171,175.025,1,5,0.0643,4,78,667934
+Tora Uri Uri Jaye Kani,Kanak Mohapatra|Subash Das,/artist/kanak-mohapatra|/artist/subash-das-1,04:23,Odia,03-05-2012,0.13,0.19,0.29,0.193,-2.496,0.0725,174.102,0,4,0.021,4,46,6173445
+Nupur Kahinki Mu,Tansen Singh,/artist/tansen-singh,03:03,Odia,07-04-2022,0.09,0.725,0.434,0.766,-4.778,0.0957,174.001,0,9,0.0256,4,29,2742737
+Gala Rati Jhumrarsure,Fakir Patnaik,/artist/fakir-patnaik-53,03:04,Odia,09-02-2010,0.7,0.47,0.62,0.035,-12.74,0.0019,172.042,1,7,0.06,4,52,7791879
+Danei Das Kahere Bhai,Akshaya Mohanty|Geeta Patnaik,/artist/akshaya-mohanty|/artist/geeta-patnaik,03:17,Odia,01-08-2002,0.06,0.29,0.468,0.137,-13.175,0.023,173.051,0,8,0.05,4,44,6853306
+Kalia Kalia Tuhi Tulsi Mali,Anuradha Paudwal|Mohammad Aziz|Mahendra Kapoor|Akhyay Mohanty|Rabindra Sathe,/artist/anuradha-paudwal-2|/artist/mohammad-aziz|/artist/mahendra-kapoor|/artist/akhyay-mohanty|/artist/rabindra-sathe,07:09,Odia,02-10-2008,0.58,0.32,0.06,0.562,-12.606,0.0324,174.026,1,1,0.05,4,38,7722500
+Nila Chakre Bana,Prafulla Kar,/artist/prafulla-kar,02:47,Odia,02-12-2006,0.85,0.531,0.741,0.759,-3.566,0.0262,174.005,0,8,0.069,4,87,9589795
+Boita Bandana,Sikandar Alam|Bhikari Bal|Indira Nanda,/artist/sikandar-alam|/artist/bhikari-bal-1|/artist/indira-nanda,06:23,Odia,07-03-2016,0.57,0.15,0.498,0.252,-3.069,0.01,173.033,1,9,0.09,4,85,8321591
+Jibana Khojuchhi Hata Badhei,Anuradha Paudwal|Mohammad Aziz|Mahendra Kapoor|Akhyay Mohanty|Rabindra Sathe,/artist/anuradha-paudwal-2|/artist/mohammad-aziz|/artist/mahendra-kapoor|/artist/akhyay-mohanty|/artist/rabindra-sathe,05:33,Odia,02-12-2016,0.61,0.707,0.508,0.263,-13.326,0.07,175.014,1,4,0.0447,4,85,7814835
+Nei jare megho mote,S. Janaki,/artist/s-janaki,05:28,Odia,10-04-2020,0,0.02,0.371,0.808,-7.483,0.0761,174.019,0,5,0.03,4,63,8987356
+Nanda Goura,Unknown,/artist/unknown,05:00,Odia,04-03-2018,0.1,0.837,0.944,0.456,-5.914,0.04,173.987,1,6,0.02,4,45,2290201
+Bata Chada,Kumar Sanu,/artist/kumar-sanu,04:51,Odia,04-02-2018,0.86,0.61,0.093,0.966,-11.802,0.0479,171.83,1,1,0.05,4,69,5007249
+Jaubanaru Aparadha,Pranab Kishore Patnaik|Sudha Rama,/artist/pranab-kishore-patnaik|/artist/sudha-rama,04:21,Odia,12-04-2007,0.75,0.202,0.146,0.416,-11.328,0,173.948,0,10,0.08,4,40,3215022
+Abhimaninee Amaniya Dehu,Aarti Mukherji,/artist/aarti-mukherji,05:08,Odia,01-12-2018,0.64,0.24,0.47,0.765,-13.821,0.03,174.002,1,2,0.0492,4,99,1483748
+Ahe Ramahari,Banikantha Nimai Charan Harichandan,/artist/banikantha-nimai-charan-harichandan,02:37,Odia,01-03-2005,0.41,0.386,0.091,0.38,-2.309,0.01,174.995,0,2,0.0199,4,80,3299369
+Liti Udey Phuru Phuru,Fakir Patnaik,/artist/fakir-patnaik-48,03:07,Odia,03-09-2010,0.81,0.06,0.167,0.598,-2.485,0.038,175.016,1,2,0.0411,4,63,9019168
+Tume he swarga moro,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:16,Odia,03-01-2023,0.6,0.104,0.912,0.454,-7.9,0.03,174.974,0,5,0.04,4,51,5299876
+Patita Pabana Bana,Sikander Alam,/artist/sikander-alam,04:08,Odia,10-06-2000,0.24,0.89,0.958,0.891,-9.539,0.04,176.087,0,7,0.082,4,42,1972443
+Mo Kolo To,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,04:08,Odia,04-03-2019,0.55,0.843,0.008,0.517,-13.49,0.046,173.989,0,2,0.0242,4,55,836815
+Ea Agana Ea Ghara,Trupti Das|Swaroop Naik,/artist/trupti-das|/artist/swaroop-naik,06:00,Odia,03-07-2010,0.67,0.3,0.15,0.465,-2.615,0.04,172.118,1,7,0.0072,4,77,10545010
+Chulbuli Bhulbuli Chulbul,Anuradha Paudwal|Mohammad Aziz,/artist/anuradha-paudwal-2|/artist/mohammad-aziz,04:42,Odia,10-10-2021,0.88,0.833,0.931,0.08,-3.343,0.063,174.931,0,5,0.065,4,52,5198134
+Raati Sukha Sare,K J Yesudas|Trupti Das,/artist/k-j-yesudas|/artist/trupti-das,05:15,Odia,06-08-2022,0.04,0.94,0.52,0.197,-5.964,0.0784,173.986,0,9,0.03,4,72,446902
+Maa Tume Mamatara,Suresh Wadkar,/artist/suresh-wadkar,03:25,Odia,02-11-2004,0.28,0.704,0.764,0.467,-10.591,0.077,173.007,1,1,0.067,4,58,8129232
+Mu Danda Balunga,Akshaya Mohanty,/artist/akshaya-mohanty,05:27,Odia,01-03-2002,0.91,0.41,0.867,0.119,-10.633,0.07,174.943,1,6,0.03,4,84,11306868
+Patent Medicine - Part - I,Geeta Patnaik|Sekhar Ghosh|Fakir Pattanaik,/artist/geeta-patnaik|/artist/sekhar-ghosh|/artist/fakir-pattanaik,19:27,Odia,11-11-2013,0.86,0.526,0.069,0.916,-2.609,0.07,174.111,1,8,0.1,4,39,6444393
+Ma Jashoda,Unknown,/artist/unknown,04:22,Odia,07-11-2002,0.49,0.48,0.044,0.513,-3.436,0.036,174.065,1,1,0.0043,4,62,10535272
+Kalia Re Bada Gumana,Sekhar Ghosh,/artist/sekhar-ghosh,03:13,Odia,05-06-2004,0.83,0.35,0.116,0.157,-9.124,0.0567,173.985,1,7,0.028,4,50,766431
+Subhadra Haran Jatra,Indira Nanda|balakrushna das|Bhikari Bal|Sikandar Alam,/artist/indira-nanda|/artist/balakrushna-das|/artist/bhikari-bal-1|/artist/sikandar-alam,06:00,Odia,09-09-2021,0.41,0.47,0.355,0.253,-6.787,0.01,175.091,0,9,0.01,4,67,2275206
+E Bhikhyare,Bhikari Bal,/artist/bhikari-bal-1,01:51,Odia,02-05-2020,0.29,0.396,0.657,0.861,-12.506,0.1,172.992,0,0,0.016,4,93,10276084
+Krupasindhu Badana,Bhikari Bal,/artist/bhikari-bal-1,04:17,Odia,10-11-2003,0.23,0.05,0.55,0.264,-2.328,0.09,174.998,0,1,0.04,4,57,7917795
+Samayara Chaka,Subhash Das,/artist/subhash-das,06:06,Odia,09-08-2023,0.46,0.591,0.068,0.553,-13.37,0.0327,174.015,1,5,0.1,4,74,8474694
+Jaya Jadu Nandan,Suman Kalyanpur,/artist/suman-kalyanpur,03:18,Odia,02-05-2008,0.99,0.97,0.206,0.013,-3.895,0.05,175.907,0,5,0.0156,4,51,5566805
+Manika Alo Alo Manika,Chittaranjan Jena|Mohd. Habib,/artist/chittaranjan-jena-13|/artist/mohd-habib,03:04,Odia,07-12-2006,0.2,0.233,0.988,0.912,-7.31,0.02,174.087,0,9,0.07,4,73,11352419
+Kahai Mana Are,Chitta Jena,/artist/chitta-jena,05:20,Odia,05-08-2018,0.44,0.14,0.123,0.575,-7.092,0.0074,174.029,0,11,0.02,4,30,10897915
+He Bishnu,Unknown,/artist/unknown,05:00,Odia,08-11-2016,0.03,0.896,0.214,0.751,-2.763,0.0981,174.068,1,0,0.019,4,89,9245867
+E Jibana Mane Nuhen Aaha,Bhupinder Singh|Suresh Wadkar,/artist/bhupinder-singh|/artist/suresh-wadkar,02:55,Odia,08-05-2001,0.08,0.68,0.027,0.123,-5.332,0.037,174.09,1,2,0.0671,4,88,9512444
+Sahararey Lagejiba,Akshaya Mohanty|Anuradha Paudwal,/artist/akshaya-mohanty|/artist/anuradha-paudwal-2,03:48,Odia,01-05-2012,0.85,0.553,0.549,0.304,-12.607,0.02,174.955,0,7,0.0653,4,82,7920988
+Sarav Sahini Maa,Fakir Patnaik,/artist/fakir-patnaik-29,03:02,Odia,08-06-2003,0.09,0.44,0.13,0.133,-11.77,0.05,174.031,0,5,0.034,4,84,3802323
+Mukuda Murari,Vani Jairam|Sudha Rama,/artist/vani-jayaram|/artist/sudha-rama,04:12,Odia,06-02-2012,0.59,0.848,0.421,0.104,-7.481,0.06,173.998,0,5,0.0355,4,90,4068873
+Mu Ta Purana Nachila Bali,Kavita Krishnamurthy,/artist/kavita-subramaniam,03:00,Odia,03-01-2004,0.36,0.7,0.113,0.501,-11.444,0.09,174.01,1,1,0.099,4,99,6644965
+Kahin Gale Shama Ghana,Chittaranjan Jena,/artist/chittaranjan-jena-13,03:05,Odia,03-04-2004,0.89,0.085,0.043,0.076,-11.416,0.0847,173.795,1,6,0.0021,4,95,4343246
+Koilee Lo Keshhaba Je,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,06:31,Odia,02-05-2009,0.15,0.72,0.776,0.326,-6.996,0.04,172.071,1,8,0.04,4,49,7658730
+Hansini Kaha Hansini,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,05:49,Odia,08-04-2021,0.33,0.888,0.098,0.955,-4.234,0.0379,174.004,1,0,0.08,4,90,10711036
+Shri Guru Charan - Hanuman Chalisha,Subash Das,/artist/subash-das-1,09:00,Odia,02-03-2013,0.63,0.69,0.18,0.15,-8.827,0.057,175.102,0,10,0.1,4,34,1228916
+Jishura Nama,Geeta Das|Others,/artist/geeta-das|/artist/others,03:05,Odia,12-04-2005,0.31,0.77,0.412,0.911,-6.841,0.0125,169.952,1,8,0.04,4,51,6830377
+Megha Barasila - Vani Jairam,Vani Jairam,/artist/vani-jayaram,02:58,Odia,09-02-2011,0.71,0.27,0.841,0.611,-4.125,0.009,174.037,0,6,0.097,4,38,2902944
+Kala Srimukha Bhajan,Arati Misra,/artist/arati-misra,03:25,Odia,02-04-2021,0.7,0.97,0.622,0.384,-13.459,0.02,173.858,1,9,0.035,4,55,1304776
+Na Jaa And Radhika,Raghunath Panigrahi,/artist/raghunath-panigrahi,04:48,Odia,05-03-2005,0.01,0.96,0.758,0.23,-5.319,0.064,174.066,0,4,0.06,4,80,2231268
+Kangsara Gharani Padmabati,Fakir Patnaik,/artist/fakir-patnaik-47,02:59,Odia,07-03-2016,0.56,0.978,0.601,0.918,-3.932,0.0976,174.029,0,4,0.05,4,76,5960473
+Kahin Gale Shama Ghana,Chittaranjan Jena,/artist/chittaranjan-jena-13,03:05,Odia,08-02-2010,0.74,0.03,0.66,0.812,-13.442,0.08,174.031,0,0,0.008,4,62,5763223
+Boita Bandan,Bhikari Bal|Indira Nanda|Sikandar Alam,/artist/bhikari-bal-1|/artist/indira-nanda|/artist/sikandar-alam,06:24,Odia,11-12-2010,0.31,0.673,0.767,0.179,-12.58,0.0957,172.973,0,11,0.05,4,58,3967799
+Khola Kholi Prema Heu Aaji Bahare,Akshya Mohanty|Haimanti Shukla,/artist/akshya-mohanty|/artist/haimanti-shukla,04:52,Odia,03-12-2009,0.32,0.66,0.857,0.39,-3.922,0.08,173.972,0,6,0.05,4,79,3127348
+Agare Balia Bhai Pachhare Kalia,Fakir Patnaik,/artist/fakir-patnaik-49,03:08,Odia,09-03-2002,0.64,0.697,0.425,0.789,-12.158,0.052,174.027,1,4,0.0894,4,99,8299073
+Chik Mik Chik Mik,Akshaya Mohanty|Swarupa Chakravarty,/artist/akshaya-mohanty|/artist/swarupa-chakravarty,04:03,Odia,11-05-2008,0.96,0.63,0.85,0.758,-6.919,0.0957,173.983,1,7,0.06,4,44,10169889
+Devjani,Subash Das|Arati Mishra,/artist/subash-das-1|/artist/arati-mishra,04:48,Odia,04-05-2017,0.35,0.016,0.995,0.826,-13.364,0.0472,173.99,1,6,0.0323,4,82,614686
+Shankara Shankara,Akshaya Mohanty|Anuradha Paudwal,/artist/akshaya-mohanty|/artist/anuradha-paudwal-2,04:42,Odia,04-11-2022,0.72,0.61,0.849,0.518,-6.108,0.002,174.019,0,11,0.01,4,94,7465499
+Aahe Nila Sreela,Raghunath Panigrahi,/artist/raghunath-panigrahi,03:31,Odia,09-04-2012,0.18,0.079,0.093,0.512,-9.035,0.023,173.995,1,1,0.082,4,38,4568724
+Ahe Ramahari,Geeta Das,/artist/geeta-das,03:18,Odia,07-03-2006,0.26,0.13,0.559,0.424,-8.991,0.049,175.995,1,0,0.0752,4,40,8958941
+Sathire Sathire,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:18,Odia,12-08-2007,0.32,0.588,0.137,0.991,-12.743,0.0144,173.964,1,1,0.047,4,38,5161135
+Madhaba Hey Madhaba,Ira Mohanty,/artist/ira-mohanty,05:29,Odia,08-06-2022,0.03,0.89,0.758,0.894,-7.564,0.01,173.995,0,8,0.0364,4,41,6980698
+Om Namah Bhagabate,Sikandar Alam|Vani Jairam,/artist/sikandar-alam|/artist/vani-jayaram,04:45,Odia,06-06-2005,0.89,0.793,0.705,0.616,-8.234,0.02,174.026,0,7,0.0769,4,56,1680398
+Krishna He Murari,Sikandar Alam,/artist/sikandar-alam,04:35,Odia,07-12-2012,0.17,0.01,0.059,0.25,-4.334,0.1,174.022,0,4,0.0499,4,73,8644895
+Kalia Mahaguru,Unknown,/artist/unknown,05:01,Odia,05-12-2001,0.47,0.63,0.745,0.314,-6.978,0.02,175.074,0,10,0.0184,4,75,7651436
+Surabalire,Fakir Patnaik,/artist/fakir-patnaik-52,03:06,Odia,12-02-2013,0.97,0.67,0.436,0.951,-2.523,0.036,173.986,1,1,0.03,4,93,11093646
+Baidya Baja Baja,Prafulla Kar,/artist/prafulla-kar,04:14,Odia,06-08-2021,0.31,0.011,0.259,0.959,-11.484,0.088,174.028,0,1,0.0361,4,69,7889033
+Muhen Tor Kanya Mahani,Fakir Patnaik,/artist/fakir-patnaik-50,02:03,Odia,11-12-2009,0.04,0.45,0.479,0.703,-5.089,0.046,175.089,0,8,0.055,4,89,5143834
+Tiki tiki tiki hue mo,Bani Joyram,/artist/bani-joyram,03:34,Odia,10-04-2013,0.33,0.71,0.032,0.426,-11.616,0.0042,174.005,0,9,0.08,4,43,9110469
+Chetanara Rupakara,Bhikari Bal|K. Bhanumati|J. Adeni,/artist/bhikari-bal-1|/artist/k-bhanumati|/artist/j-adeni-1,03:12,Odia,05-01-2008,0.86,0.55,0.413,0.239,-8.876,0.047,171.868,1,1,0.009,4,58,2613888
+Nilachale Asi,Sekhar Ghosh,/artist/sekhar-ghosh,03:17,Odia,11-03-2009,0.32,0.082,0.549,0.21,-9.704,0.03,172.998,1,1,0.069,4,30,5381214
+Kalia Mo Dehe,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,Odia,04-02-2004,0.08,0.35,0.464,0.26,-8.363,0.001,172.017,0,9,0.0708,4,48,9156621
+Kahana Auta Katha,Kumudini Mishra|K. Bhanumati,/artist/kumudini-mishra|/artist/k-bhanumati,03:02,Odia,08-02-2016,0.91,0.093,0.393,0.866,-7.56,0.0018,173.943,0,10,0.0948,4,26,10956290
+Mangle Aila Usha,Indira Nanda|Sikandar Alam,/artist/indira-nanda|/artist/sikandar-alam,01:13,Odia,05-02-2001,0.32,0.34,0.524,0.399,-13.86,0.09,170.25,0,10,0.078,4,96,9998804
+Ahe Dukha Hari,Bhikari Bal|Vani Jairam,/artist/bhikari-bal-1|/artist/vani-jayaram,04:12,Odia,10-06-2010,0.68,0.334,0.24,0.366,-13.315,0.01,174.055,0,9,0.036,4,42,1592772
+Prabhu Pada Tale Pronoti Dhale,Nirmal Mishra|Bhikari Bal,/artist/nirmal-mishra|/artist/bhikari-bal-1,03:02,Odia,10-08-2019,0.12,0.97,0.603,0.619,-6.198,0.008,174.017,0,6,0.02,4,88,9576675
+Mu Ta Jhia Nuhen,Kavita Krishnamurthy,/artist/kavita-subramaniam,05:00,Odia,06-09-2008,0.15,0.304,0.016,0.283,-12.504,0.02,173.988,1,5,0.04,4,60,10519561
+Fatai Khaili Bela,Vijayalaxmi|Prabhasini Rath|Noor Begum|Jagyaseni,/artist/vijayalaxmi|/artist/prabhasini-rath|/artist/noor-begum|/artist/jagyaseni,03:00,Odia,09-08-2012,0.28,0.83,0.863,0.114,-7.286,0.068,173.937,0,7,0.0419,4,84,5659113
+Kaudi Khaira Khela,Unknown,/artist/unknown,07:06,Odia,04-04-2007,0.1,0.844,0.975,0.462,-4.166,0.07,174.028,1,0,0.06,4,52,8347945
+Priye Chare Sile,Bhikari Bal,/artist/bhikari-bal-1,03:00,Odia,11-11-2000,0.1,0.42,0.144,0.459,-4.163,0.088,174.02,1,9,0.09,4,65,7866852
+Hayre Hay,Vani Jairam|Chittaranjan Jena,/artist/vani-jayaram|/artist/chittaranjan-jena-13,05:07,Odia,02-11-2020,0.47,0.05,0.361,0.263,-8.422,0.0529,173.958,0,9,0.0875,4,50,537376
+Dekhi Se Banamalli,Chittaranjan Jena|P. Susheela,/artist/chittaranjan-jena-13|/artist/p-suseela-2,03:01,Odia,11-02-2023,0.07,0.52,0.713,0.905,-12.858,0.059,174.017,0,4,0.014,4,76,6880502
+Hansuchhi Abala Khai,Unknown,/artist/unknown,04:59,Odia,10-03-2015,0.96,0.129,0.329,0.278,-13.164,0.07,174.014,1,0,0.014,4,98,7466694
+Thaka Mana Chala Jiba,Balakrishna Das,/artist/balakrishna-das,03:48,Odia,11-06-2007,0.02,0.8,0.741,0.098,-11.14,0.024,174.032,1,1,0.0963,4,81,5266636
+Gotie Singha Duaara,Sourav Nayak,/artist/sourav-nayak,04:25,Odia,08-07-2002,0.81,0.14,0.318,0.331,-13.713,0.01,173.977,1,0,0.068,4,99,10075075
+Kalia Tu Kapatia,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:07,Odia,08-05-2004,0.3,0.72,0.983,0.581,-7.636,0.0273,175,1,1,0.0034,4,86,8570218
+Janha Oothi Thiba,Trupti Das|Debasis Mahapatro,/artist/trupti-das|/artist/debasis-mahapatro,03:00,Odia,05-03-2009,0.62,0.501,0.232,0.414,-7.256,0.028,174.824,1,5,0.063,4,56,8034553
+Ketebele Kanta Tume,Geeta Patnaik|Gopi Patnaik|Jamuna|Kalpana|Tansen|Subash Das|Srikanta|Jyotsna,/artist/geeta-patnaik|/artist/gopi-patnaik|/artist/jamuna|/artist/kalpana|/artist/tansen|/artist/subash-das-1|/artist/srikanta|/artist/jyotsna,05:17,Odia,07-04-2014,0.12,0.36,0.107,0.965,-9.801,0.028,173.975,1,7,0.0124,4,61,4110550
+Music,Akshaya Mohanty,/artist/akshaya-mohanty,26:05:00,Odia,08-11-2007,0.95,0.426,0.191,0.313,-7.087,0.08,174.973,0,11,0,4,60,5543890
+Aahey Kalaa Srimukha,Bhikari Bal,/artist/bhikari-bal-1,03:48,Odia,05-12-2022,0.2,0.73,0.236,0.003,-6.53,0.05,172.008,0,4,0.05,4,56,6732179
+Tu Mora Swapanara,Mohammad Aziz,/artist/mohammad-aziz,05:19,Odia,01-11-2005,0.5,0.762,0.142,0.917,-5.199,0.057,173.955,0,2,0.013,4,66,1910549
+Kali Kapali - Prafulla Kar,Prafulla Kar,/artist/prafulla-kar,03:17,Odia,09-06-2016,0.84,0.41,0.053,0.312,-4.921,0.07,174.99,1,11,0.09,4,68,5498002
+Kie Daba Tate Gori Kanya,Mohammad Aziz,/artist/mohammad-aziz,04:45,Odia,08-01-2003,0.01,0.571,0.186,0.142,-5.75,0.0142,175.078,0,6,0.075,4,47,9350651
+Nadi Fere Sagaraku,Geeta Patnaik,/artist/geeta-patnaik,04:01,Odia,07-09-2004,0.48,0.82,0.172,0.899,-2.249,0.0923,174.013,1,5,0.06,4,55,7820707
+Ajib Kalia,Subash Das,/artist/subash-das-1,06:48,Odia,03-03-2012,0.5,0.962,0.516,0.413,-11.288,0.0931,175.095,0,9,0.0774,4,97,529347
+Adine Malli Mahaka,Sudha Rama|Vani Jairam,/artist/sudha-rama|/artist/vani-jayaram,04:41,Odia,11-02-2009,0.69,0.95,0.23,0.246,-6.949,0.09,173.964,1,8,0.08,4,45,1605990
+E Priyatama,Sekhar Ghosh|Subash Das|Kumudini Mishra,/artist/sekhar-ghosh|/artist/subash-das-1|/artist/kumudini-mishra-2,07:04,Odia,07-06-2000,0.94,0.492,0.81,0.787,-4.5,0.01,174.982,1,0,0.027,4,67,6308377
+Ahe Ramahari,Raghunath Panigrahi,/artist/raghunath-panigrahi,02:49,Odia,03-08-2022,0.5,0.02,0.33,0.021,-13.391,0.0796,174.004,1,7,0.0428,4,38,4090935
+Ahe Dukha Hari,Vani Jairam|Bhikari Bal,/artist/vani-jayaram|/artist/bhikari-bal-1,04:12,Odia,03-02-2013,0.05,0.895,0.187,0.567,-5.711,0.02,172.026,0,5,0.0351,4,53,1280098
+Ratna Singhasana,Sekhar Ghosh,/artist/sekhar-ghosh,02:59,Odia,10-12-2018,0.67,0.32,0.237,0.123,-6.12,0.09,173.969,0,11,0.02,4,67,9635718
+Jai Jai Jagannatha,Prafulla Kar,/artist/prafulla-kar,03:06,Odia,10-02-2007,0.34,0.851,0.955,0.344,-12.513,0.03,173.998,0,10,0.07,4,60,9805293
+Mu Hajichhi Tumari Sapanl,Swarupa Chakravarty|Sikandar Alam,/artist/swarupa-chakravarty|/artist/sikandar-alam,03:15,Odia,07-09-2006,0.19,0.77,0.924,0.989,-3.662,0.0005,173.976,1,10,0.0895,4,84,6199231
+Gan Kaniya Kahi,Anuradha Paudwal,/artist/anuradha-paudwal-2,03:28,Odia,01-11-2020,0.97,0.824,0.911,0.089,-6.92,0.0467,174.039,0,9,0.036,4,98,7439943
+Kanchi Abhijaan,Akshaya Mohanty,/artist/akshaya-mohanty,18:02,Odia,05-09-2022,0.67,0.6,0.456,0.279,-2.076,0.013,173.009,0,10,0.01,4,36,6324859
+Satte Gajamuga Kasi Gazara,Fakir Patnaik,/artist/fakir-patnaik-26,02:57,Odia,03-10-2015,0.2,0.476,0.254,0.022,-10.189,0.0157,174.022,0,5,0.077,4,96,1608704
+Mahabahu - Prafulla Kar,Prafulla Kar,/artist/prafulla-kar,03:06,Odia,10-10-2004,0.45,0.42,0.465,0.854,-8.967,0.0996,172.024,0,8,0.097,4,54,11280193
+Patent Medicine - Part - Ii,Geeta Patnaik|Sekhar Ghosh,/artist/geeta-patnaik|/artist/sekhar-ghosh,19:56,Odia,01-03-2003,0.72,0.723,0.982,0.395,-8.608,0.047,172.004,0,3,0.0924,4,30,7960451
+Nishi Bijane,Akshya Mohanty,/artist/akshya-mohanty,03:56,Odia,06-07-2012,0.53,0.86,0.098,0.72,-7.016,0.0564,173.78,0,1,0.07,4,78,6647780
+Phul Gajra Kala Mote Bai,Fakir Patnaik,/artist/fakir-patnaik-26,03:02,Odia,03-08-2002,0.69,0.597,0.365,0.774,-3.454,0.0649,173.927,1,5,0.07,4,30,3494145
+Govind Govind Gosain,Bhikari Bal,/artist/bhikari-bal-1,01:24,Odia,06-10-2002,0.46,0.32,0.645,0.485,-10.349,0.03,170.033,0,1,0.1,4,87,11307673
+Aau Makhibini Kajal,Ira Mohanty,/artist/ira-mohanty,04:47,Odia,05-05-2020,0.06,0.863,0.634,0.527,-13.42,0.02,174.998,1,8,0.08,4,58,8617626
+Tumi Sadhira Ranga,Prafulla Kar|Vani Jairam|Chittaranjan Jena,/artist/prafulla-kar|/artist/vani-jayaram|/artist/chittaranjan-jena-15,08:34,Odia,05-02-2016,0.57,0.17,0.187,0.489,-12.212,0.0433,173.967,1,1,0.072,4,95,10033246
+Aja Mur Dekhili Ganashyamaku Go,Banikantha Nimai Charan Harichandan,/artist/banikantha-nimai-charan-harichandan,03:03,Odia,10-07-2015,0.19,0.953,0.756,0.297,-3.65,0.043,174.974,0,4,0.06,4,80,1026313
+Ei Mane Sete Phula Phute,Bhupinder Singh|Suresh Wadkar|Aarti Mukherji,/artist/bhupinder-singh|/artist/suresh-wadkar|/artist/aarti-mukherji,04:05,Odia,03-03-2003,0.1,0.92,0.55,0.832,-6.058,0.01,172.015,0,4,0.0035,4,67,457030
+Niramala Bhaba,Akshaya Mohanty,/artist/akshaya-mohanty,04:43,Odia,03-06-2000,0.61,0.943,0.109,0.229,-7.008,0.01,174.009,1,2,0.1,4,98,8905330
+Kali Je Ratire,Vani Jairam|Arati Mishra,/artist/vani-jayaram|/artist/arati-mishra,04:01,Odia,02-07-2014,0.27,0.66,0.322,0.259,-10.15,0.01,174.109,0,5,0.0633,4,55,2707732
+Deba Deba Mahadeba,Debasis Mahapatro|Trupti Das|Chorus,/artist/debasis-mahapatro|/artist/trupti-das|/artist/chorus,06:00,Odia,11-05-2005,0.58,0.763,0.693,0.439,-8.611,0.0165,174.012,1,10,0.0631,4,63,3194083
+E Priyatama With Dialogue,Sekhar Ghosh|Sailajananda Nayak|Subash Das|Kumudini Mishra,/artist/sekhar-ghosh|/artist/sailajananda-nayak|/artist/subash-das-1|/artist/kumudini-mishra-1,07:04,Odia,01-05-2014,0.47,0.2,0.702,0.099,-3.588,0.02,173.999,0,4,0.003,4,60,6412332
+Kahinki Asichhu Mana,Raghunath Panigrahi,/artist/raghunath-panigrahi,02:56,Odia,01-01-2019,0.98,0.527,0.582,0.717,-2.275,0.01,170.051,0,4,0.058,4,28,378315
+Baby O Baby,Akshaya Mohanty|MaYan,/artist/akshaya-mohanty|/artist/mayan,03:12,Odia,01-04-2002,0.78,0.33,0.707,0.253,-2.591,0.055,173.993,0,10,0.014,4,31,10359060
+Seemahina Dariya,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,05:59,Odia,04-08-2005,0.48,0.958,0.548,0.351,-10.958,0.006,172.001,0,6,0.0856,4,64,617052
+Mu Ea Sahara Romeeo,Debasis Mahapatro|Chorus,/artist/debasis-mahapatro|/artist/chorus,04:00,Odia,11-03-2005,0.18,0.68,0.594,0.884,-7.428,0.084,173.999,0,10,0.013,4,76,8427168
+Kati Kati Kati,Mohammad Aziz,/artist/mohammad-aziz,05:01,Odia,04-02-2021,0.75,0.154,0.867,0.551,-12.096,0.078,171.981,0,8,0.04,4,82,7143559
+Bhoji Khaili,Baidyanath Gayak Ratna Sharma|Bhimsen Satapathi,/artist/baidyanath-gayak-ratna-sarma|/artist/bhimsen-satapathi-7,12:27,Odia,12-03-2006,0.36,0.26,0.026,0.933,-3.41,0.01,174.082,0,1,0.0758,4,47,8141218
+Shrikrushnara Banshi,Akshaya Mohanty,/artist/akshaya-mohanty,03:03,Odia,07-04-2017,0.52,0.855,0.357,0.499,-8.115,0.06,173.995,0,5,0.1,4,88,1038087
+Inqlab Zindabad,Gopi|Jamuna|Kalpana|Tansen|Bhikari Bal|Subash Das|Jyotsna,/artist/gopi|/artist/jamuna|/artist/kalpana|/artist/tansen|/artist/bhikari-bal-1|/artist/subash-das-1|/artist/jyotsna,02:29,Odia,05-01-2015,0.65,0.56,0.13,0.72,-3.837,0.07,174.042,0,4,0.0884,4,54,5757189
+Mu pau na thili,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:08,Odia,10-04-2007,0.77,0.812,0.899,0.698,-10.599,0.065,175.988,0,7,0.06,4,76,2448732
+Dosta Ae Jia Ko Nai Kuade,Anuradha Paudwal|Akshaya Mohanty|Udit Narayan,/artist/anuradha-paudwal-2|/artist/akshaya-mohanty|/artist/udit-narayan,04:36,Odia,04-12-2022,0.24,0.66,0.446,0.648,-8.828,0.001,173.988,0,6,0.052,4,48,11096346
+Raati Sukha Sare,Trupti Das|K J Yesudas,/artist/trupti-das|/artist/k-j-yesudas,05:14,Odia,05-11-2022,0.57,0.009,0.592,0.414,-5.357,0.0292,173.971,0,2,0.027,4,57,9138618
+Haa Ram Haa Ram,Chittaranjan Jena,/artist/chittaranjan-jena-13,04:37,Odia,01-10-2011,0.38,0.51,0.591,0.191,-13.991,0.0867,174.98,1,1,0.023,4,58,1641874
+Je Dinu Paichhi,Trupti Das,/artist/trupti-das,03:51,Odia,10-09-2009,0.01,0.973,0.687,0.083,-5.621,0.0296,175.079,0,8,0.0022,4,63,6176709
+Tu Eka Niriha Phula,Suresh Wadkar,/artist/suresh-wadkar,06:01,Odia,03-01-2004,0.06,0.04,0.225,0.221,-5.327,0.066,173.998,1,4,0.01,4,98,8249642
+He Dukha Hari,Pranab Kishore Patnaik|Swarupa Chakravarty,/artist/pranab-kishore-patnaik|/artist/swarupa-chakravarty,04:03,Odia,04-02-2008,0.01,0.708,0.067,0.208,-2.491,0.01,174.026,0,9,0.01,4,95,2572877
+Mahabahu Mahabahu,Tripti Das|Minati Bhanja,/artist/tripti-das|/artist/minati-bhanja,03:33,Odia,06-10-2007,0.23,0.51,0.068,0.637,-7.399,0.09,170.066,0,8,0.0735,4,61,7803417
+Bairee Re Bairee,Trupti Das|Anuradha Paudwal,/artist/trupti-das|/artist/anuradha-paudwal-2,05:00,Odia,11-05-2012,0.57,0.634,0.999,0.988,-5.856,0.043,173.967,1,7,0.01,4,96,2039487
+Kahinki Asichhu Mana,Raghunath Panigrahi,/artist/raghunath-panigrahi,03:04,Odia,03-12-2015,0.06,0.76,0.523,0.32,-12.37,0.024,174,0,9,0,4,92,11239574
+Jogi Geet,Bhikari Bal,/artist/bhikari-bal-1,01:51,Odia,12-08-2022,0.18,0.551,0.769,0.079,-10.778,0.031,174.022,0,6,0.009,4,26,9335973
+Badhila Jani Khyama,Prafulla Kar,/artist/prafulla-kar,03:02,Odia,12-02-2006,0.07,0.41,0.459,0.003,-6.663,0.08,176.027,0,8,0.075,4,39,510943
+Jaga Hatey Pagha Achhi,Anuradha Paudwal|Akshaya Mohanty,/artist/anuradha-paudwal-2|/artist/akshaya-mohanty,05:28,Odia,07-04-2010,0.65,0.255,0.114,0.17,-13.472,0.026,173.972,0,4,0.0142,4,38,4252104
+Tiki Tiki Tiki Ghanta,Akshaya Mohanty,/artist/akshaya-mohanty,02:34,Odia,09-03-2022,0.82,0.27,0.375,0.246,-9.446,0.05,172.049,1,1,0.039,4,98,6796284
+Jibana Patra Mo Bharichha Kete Mate,sunanda patnaik,/artist/sunanda-patnaik,04:42,Odia,11-10-2018,0.07,0.412,0.913,0.838,-8.818,0.057,172.017,0,11,0.079,4,73,5908029
+Katha Dio Matha Chhuin,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,04:46,Odia,11-07-2009,0.97,0.9,0.974,0.719,-12.612,0.08,174.023,1,0,0.09,4,86,2068723
+Chandana Charchita,Sekhar Ghosh,/artist/sekhar-ghosh,02:04,Odia,08-12-2006,0.08,0.506,0.871,0.818,-2.034,0.059,174.016,1,1,0.0418,4,70,2282331
+Pada Prante Mote Rakha,Geeta Das,/artist/geeta-das,03:12,Odia,02-12-2006,0.51,0.01,0.791,0.078,-12.242,0.04,173.96,1,7,0.03,4,64,6340201
+Chupi Chupi Gori Kane,Usha Mangeshkar,/artist/usha-mangeshkar-2,02:57,Odia,11-02-2023,0.79,0.164,0.434,0.077,-4.932,0.05,174.041,0,10,0.018,4,100,10070910
+A ahey dayamoye,Bani Joyram,/artist/bani-joyram,03:10,Odia,02-05-2022,0.54,0.69,0.225,0.576,-8.839,0.0718,172.003,1,7,0.045,4,70,1919497
+Khanjani Bhajan,Sikandar Alam,/artist/sikandar-alam,02:36,Odia,01-12-2008,0.26,0.358,0.589,0.037,-7.068,0.0986,174.062,1,1,0.0462,4,25,4960651
+Ekare Aneka,Sikandar Alam,/artist/sikandar-alam,03:16,Odia,10-05-2016,0.53,0.61,0.449,0.952,-11.241,0.1,174.997,1,8,0.06,4,78,6037249
+Jagabandhu He Gosain,Balakrishna Das,/artist/balakrishna-das,03:04,Odia,09-10-2001,0.7,0.296,0.628,0.532,-12.948,0.05,173.992,0,11,0.0204,4,28,7939303
+Suna Bainshi,Shakti Mishra,/artist/shakti-mishra,04:42,Odia,04-01-2021,0.3,0.1,0.072,0.349,-13.677,0.07,174.007,0,11,0.079,4,94,10664182
+Dhira Samire Yamuna Tire,Sikandar Alam,/artist/sikandar-alam,01:46,Odia,11-12-2023,0.39,0.456,0.577,0.555,-4.349,0.026,174.057,1,11,0.013,4,89,9116008
+Aasa Kie Khaiba Ho,Tansen Singh,/artist/tansen-singh,03:58,Odia,01-12-2007,0.86,0.62,0.192,0.477,-12.946,0.1,174.176,1,0,0.05,4,80,8614715
+Barsha Re Bhiji,Kavita Krishnamurthy,/artist/kavita-subramaniam,04:55,Odia,12-08-2006,0.36,0.636,0.774,0.327,-13.563,0.09,173.96,0,9,0.008,4,31,82626
+Holi holire holi,Debasish Mohapatra,/artist/debasish-mohapatra,02:34,Odia,06-08-2002,0.6,0.22,0.787,0.302,-11.535,0.0043,173.998,0,1,0.07,4,74,5475915
+Jaga Kaliare,Chitta Jena,/artist/chitta-jena,03:52,Odia,07-07-2007,0.16,0.957,0.315,0.033,-7.471,0.0476,173.991,1,9,0.016,4,64,9230439
+Haule Haule,Chittaranjan Jena,/artist/chittaranjan-jena-24,03:07,Odia,06-02-2014,0.52,0.27,0.706,0.527,-6.429,0.05,173.964,1,1,0.06,4,27,6186146
+Ahe Ramahari,Akshaya Mohanty,/artist/akshaya-mohanty,03:27,Odia,03-11-2003,0.7,0.296,0.35,0.464,-3.489,0.055,175.021,0,10,0.07,4,71,5348472
+Rupa Ni Lo,Muni,/artist/muni,04:00,Odia,10-07-2020,0.97,0.12,0.321,0.525,-2.631,0.051,174.002,0,11,0.0823,4,70,6940963
+Malli Phooti Mahaki,Noor Begum,/artist/noor-begum,03:00,Odia,03-03-2018,0.2,0.964,0.133,0.725,-10.557,0.077,174.03,1,5,0.1,4,58,11313376
+Aahare Kansi Labange,Vijayalaxmi|Mitrabhanu Biswal|Hrushi Meher,/artist/vijayalaxmi|/artist/mitrabhanu-biswal|/artist/hrushi-meher,05:00,Odia,09-01-2021,0.91,0.7,0.055,0.952,-2.4,0.089,170.054,0,8,0.089,4,29,9753505
+Athala Sagare,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,Odia,04-01-2009,0.31,0.319,0.564,0.006,-3.355,0.0154,174.008,0,0,0.022,4,70,2154805
+E Gumsum Rati,Swarupa Chakravarty,/artist/swarupa-chakravarty,05:04,Odia,03-11-2017,0.25,0.51,0.695,0.122,-8.901,0.0561,174.84,1,8,0.06,4,86,9792983
+Nadi eko phula bana,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:21,Odia,07-10-2001,0.31,0.417,0.637,0.334,-7.862,0.08,174.042,0,3,0.0416,4,31,3318545
+Akhila Bramhnda Pati,Vani Jairam|Ramona,/artist/vani-jayaram|/artist/ramona,02:02,Odia,06-12-2018,0.9,0.74,0.789,0.046,-11.611,0.047,173.996,0,1,0.0106,4,66,2532864
+Bhuli Nahin,Subhash Das,/artist/subhash-das,07:06,Odia,03-08-2005,0.73,0.897,0.071,0.76,-12.283,0.03,174.991,0,7,0.026,4,78,4844039
+Tumaku Dekhi,Akshaya Mohanty,/artist/akshaya-mohanty,03:45,Odia,08-12-2006,0.32,0.45,0.538,0.423,-11.184,0,173.97,0,10,0.03,4,68,2411568
+Ja Pain Bhabi,Trupti Das,/artist/trupti-das,04:03,Odia,12-08-2023,0.79,0.706,0.285,0.399,-10.341,0.084,173.873,0,4,0.059,4,99,9494284
+Gul Guli And Gul Guli,Prafulla Kar,/artist/prafulla-kar,05:03,Odia,06-07-2011,0.07,0.87,0.358,0.96,-11.913,0,172.046,0,0,0.048,4,90,9796026
+Shasyashalini Palli Malini,Jamuna|Bhikari Bal|Geeta Patnaik,/artist/jamuna|/artist/bhikari-bal-1|/artist/geeta-patnaik,04:37,Odia,05-03-2002,0.1,0.62,0.062,0.395,-8.449,0.0383,175.019,0,5,0.0628,4,66,2440824
+Chandana Charchita Nila Kalebara,Nirmal Mishra,/artist/nirmal-mishra,02:54,Odia,11-11-2019,0.47,0.54,0.719,0.689,-13.183,0.064,174.036,1,1,0.025,4,46,8961792
+Jaya Jadu Nandan,Suman Kalyanpur,/artist/suman-kalyanpur,03:18,Odia,10-05-2007,0.03,0.477,0.657,0.535,-5.559,0.075,174.095,0,9,0.002,4,46,560292
+Tume Ago Pahanti,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:58,Odia,12-12-2014,0.14,0.35,0.482,0.099,-6.044,0.049,173.986,0,9,0.097,4,39,1450166
+Chha Kaudia Chhaka,Fakir Patnaik|Susama Mishra,/artist/fakir-patnaik-26|/artist/susama-mishra,03:17,Odia,07-09-2003,0.54,0.848,0.775,0.935,-11.061,0.0878,173.996,1,8,0.009,4,49,9854386
+Tame Ea Ca Ea Ea Ba,Akshya Mohanty|Haimanti Shukla|Surjit Das,/artist/akshya-mohanty|/artist/haimanti-shukla|/artist/surjit-das,03:52,Odia,11-05-2020,0.85,0.56,0.392,0.523,-3.823,0.07,175.046,1,7,0.0865,4,91,883589
+Boiley Radhika Sunago Duti,Fakir Patnaik,/artist/fakir-patnaik-26,03:28,Odia,04-09-2004,0.15,0.584,0.504,0.169,-5.255,0.04,173.966,0,5,0.076,4,35,5783646
+Ahe Ramahari,Raghunath Panigrahi,/artist/raghunath-panigrahi,02:48,Odia,06-01-2024,0.14,0.86,0.527,0.034,-4.575,0.087,174.026,1,6,0.0783,4,53,275770
+Dhula Pare Baja Bajania,Akshaya Mohanty,/artist/akshaya-mohanty,04:32,Odia,09-01-2001,0.54,0.713,0.891,0.051,-2.615,0.003,173.996,1,0,0.03,4,56,8413465
+Pindhi Pata Shadhi,Trupti Das|Debasis Mahapatro,/artist/trupti-das|/artist/debasis-mahapatro,05:00,Odia,06-07-2013,0.01,0.21,0.311,0.542,-11.344,0.0932,174.003,1,1,0.0009,4,70,6867952
+Mu Ta Manisha Marini,Sikandar Alam,/artist/sikandar-alam,03:24,Odia,01-10-2006,0.41,0.639,0.574,0.959,-2.503,0.0082,173.979,1,1,0.086,4,38,2363809
+Guhari Suno,Suman Kalyanpur,/artist/suman-kalyanpur,02:58,Odia,01-03-2016,0.06,0.01,0.829,0.919,-9.736,0.091,173.965,0,1,0.099,4,36,5681091
+Ni Sa Ga Ma Pa Pa,Vani Jairam|K J Yesudas,/artist/vani-jayaram|/artist/k-j-yesudas,06:24,Odia,11-07-2022,0.48,0.465,0.924,0.198,-10.329,0.0681,174.992,1,1,0.01,4,56,8532200
+Mali Mala Shyam Ku Devi,Indira Nanda,/artist/indira-nanda,03:06,Odia,04-04-2009,0.36,0.07,0.82,0.284,-2.578,0.039,173.201,0,7,0.033,4,82,4826842
+Baya Mana Michhe Ete Bandhu Chhu Asa,Mohammad Aziz,/artist/mohammad-aziz,05:00,Odia,11-03-2004,0.78,0.488,0.575,0.556,-3.654,0.07,174.975,1,0,0.0785,4,55,1249962
+E Pahada Se Pakhey,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:59,Odia,12-01-2006,0.54,0.94,0.2,0.644,-13.39,0.042,174.012,0,8,0.094,4,60,2793317
+Ki Heba Sua Posile,Banikantha Nimai Charan Harichandan,/artist/banikantha-nimai-charan-harichandan,02:35,Odia,11-08-2005,0.07,0.459,0.741,0.327,-5.972,0.07,172.991,0,8,0.0622,4,94,8004167
+Tume Aasi Gala Neyee,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,05:25,Odia,09-05-2008,0.58,0.59,0.65,0.786,-12.298,0.0493,172.964,1,9,0.05,4,66,8969353
+Dheu Pare Dheu,Bibhu Das|Geeta Das,/artist/bibhu-das|/artist/geeta-das,03:53,Odia,10-11-2002,0.97,0.867,0.329,0.518,-8.751,0.09,174.023,1,1,0.0225,4,36,659543
+Dasta Bele Chala,Akshaya Mohanty,/artist/akshaya-mohanty,04:34,Odia,11-10-2015,0.51,0.09,0.034,0.414,-12.439,0.046,175.06,0,6,0.058,4,50,11248326
+Nachi Nachi Jhnli,Naba Mahattam,/artist/naba-mahattam,05:00,Odia,05-01-2010,0.12,0.508,0.737,0.516,-9.181,0.03,173.044,1,6,0.08,4,78,1681968
+Jogi Geet,Bhikari Bal,/artist/bhikari-bal-1,01:51,Odia,10-12-2016,0.04,0.31,0.099,0.726,-6.04,0.018,172.736,0,10,0.0319,4,48,6158831
+Haire Mote,Sipra Basu|Chittaranjan Jena,/artist/sipra-basu|/artist/chittaranjan-jena-20,03:15,Odia,08-06-2004,0.11,0.982,0.243,0.137,-7.552,0.03,174.025,0,8,0.05,4,73,5393904
+Sanja Sakale,Nirmal Mishra,/artist/nirmal-mishra,03:13,Odia,02-07-2011,0.82,0.28,0.857,0.723,-4.074,0.04,175.035,1,7,0.082,4,67,7329439
+Raat Sarabi Prita Gulabi,Sravanti Mazumder,/artist/sravanti-mazumder,03:13,Odia,10-02-2012,0.64,0.057,0.941,0.418,-5.577,0.04,173.989,1,11,0.071,4,93,10014909
+Baajare Mohan Murali,Hrushi Meher|Ramesh Kumar,/artist/hrushi-meher|/artist/ramesh-kumar,05:00,Odia,04-05-2002,0.43,0.85,0.603,0.916,-6.672,0.034,172.983,0,5,0.087,4,55,5914598
+Se Ye Shil Mil Sapana Chhuana Re,Nirmal Mishra,/artist/nirmal-mishra,02:52,Odia,04-03-2001,0.33,0.733,0.672,0.123,-3.029,0.049,174.008,1,2,0.08,4,60,3264176
+Maa Go Mamatamayi,Vani Jairam,/artist/vani-jayaram,03:12,Odia,01-12-2008,0.83,0.74,0.371,0.76,-7.436,0.03,175.453,0,9,0.0703,4,60,8609824
+Je Nama Sunile,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,Odia,06-01-2022,0.62,0.625,0.48,0.889,-8.839,0.045,173.978,0,5,0.0614,4,75,6450173
+Ahe Ramahari,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:18,Odia,09-03-2021,0.85,0.54,0.34,0.159,-5.898,0.03,174.03,0,10,0.06,4,85,8836494
+Jibanara Mane,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:13,Odia,11-10-2001,0.07,0.878,0.837,0.094,-7.1,0.01,172.027,1,0,0.0902,4,72,3681209
+Alekha Anadi Parambrahma,Fakir Patnaik,/artist/fakir-patnaik-45,03:21,Odia,06-01-2020,0.79,0.87,0.965,0.798,-13.174,0.08,171.934,1,1,0.03,4,94,663380
+Nanda Pacharila,Akshaya Mohanty,/artist/akshaya-mohanty,03:11,Odia,10-01-2022,0.02,0.997,0.894,0.212,-4.068,0.0899,174.01,0,1,0.03,4,73,10095491
+Sulsulia Chulbulia,Nirmal Mishra|Basanta Das,/artist/nirmal-mishra|/artist/basanta-das,04:01,Odia,12-01-2009,0.09,0.22,0.266,0.509,-12.025,0.0494,175.042,0,4,0.0567,4,65,7043336
+Ahe Ramahari,Balakrishna Das,/artist/balakrishna-das,03:53,Odia,05-06-2003,0.06,0.836,0.839,0.793,-10.501,0.01,174.017,1,1,0.0005,4,31,346936
+Bhagya Mile Jasa,Trupti Das,/artist/trupti-das,03:51,Odia,02-05-2012,0.07,0.22,0.277,0.49,-3.446,0.01,174.014,1,1,0.02,4,60,2460407
+Manima Pade Mo,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,Odia,04-03-2009,0.09,0.107,0.913,0.108,-8.046,0.0898,173.778,0,9,0.013,4,47,10892129
+Kahin Achha Natha,Raghunath Panigrahi,/artist/raghunath-panigrahi,02:55,Odia,12-03-2001,0.1,0.64,0.646,0.771,-2.655,0.01,170.084,0,10,0.055,4,71,8375402
+Chaka Nayanaku,Raghunath Panigrahi,/artist/raghunath-panigrahi,04:11,Odia,04-10-2006,0.37,0.788,0.603,0.275,-5.313,0.1,173.969,1,6,0.046,4,42,8640900
+Shamaku Juhara,Pranab Kishore Patnaik|P. Susheela,/artist/pranab-kishore-patnaik|/artist/p-suseela-2,03:14,Odia,06-02-2017,0.51,0.15,0.376,0.542,-3.909,0.05,173.813,1,2,0.077,4,60,5965062
+Kshyamanu Kampa Dhara He,Bhikari Bal,/artist/bhikari-bal-1,03:41,Odia,10-05-2020,0.81,0.759,0.631,0.395,-6.51,0.017,174.942,1,1,0.0107,4,86,2876338
+Namo Niranjana Nikhila Nidhana,Raghunath Panigrahi,/artist/raghunath-panigrahi,03:31,Odia,01-10-2017,0.83,0.88,0.591,0.645,-6.799,0.016,174.008,1,9,0.06,4,50,6195549
+Dekhalo Sangata,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:00,Odia,02-02-2009,0.86,0.381,0.476,0.273,-7.079,0.085,172.058,0,4,0.0041,4,46,5344028
+Baby Tora,Akshaya Mohanty,/artist/akshaya-mohanty,04:36,Odia,11-03-2010,0.12,0.25,0.308,0.364,-9.714,0.04,172.012,0,4,0.031,4,77,3778911
+Ahe Ramahari,Akshaya Mohanty,/artist/akshaya-mohanty,03:17,Odia,12-07-2001,0.27,0.419,0.06,0.178,-3.43,0.0631,174.02,1,11,0.0537,4,26,8198863
+Naba Keli,Baidyanath Gayak Ratna Sharma|Bhimsen Satapathi,/artist/baidyanath-gayak-ratna-sarma|/artist/bhimsen-satapathi-6,11:54,Odia,06-01-2017,0.87,0.15,0.012,0.382,-11.875,0.052,175.026,1,6,0.0579,4,60,5086159
+Mu Jane Na Tume Janena,Aarti Mukherji|Debashish Mohapatra,/artist/aarti-mukherji|/artist/debashish-mohapatra,02:45,Odia,03-07-2007,0.97,0.799,0.391,0.201,-9.828,0.024,174.998,0,1,0.08,4,87,6010241
+Niladrau Sankha Madhye,Prafulla Kar,/artist/prafulla-kar,02:12,Odia,04-05-2013,0.17,0.75,0.749,0.883,-13.843,0.03,173.932,0,6,0.059,4,54,1793973
+Badasi Jadi Kinchidapi,Sekhar Ghosh,/artist/sekhar-ghosh,03:34,Odia,07-01-2001,0.36,0.74,0.295,0.364,-13.121,0.05,173.02,0,2,0.009,4,68,8249361
+Sun Sun Natia Pilla,Fakir Patnaik,/artist/fakir-patnaik-26,03:16,Odia,02-04-2010,0.14,0.56,0.266,0.29,-10.202,0.092,174.022,1,5,0.091,4,55,1333925
+Nabaghana Barana,P. Susheela,/artist/p-suseela-2,04:20,Odia,01-10-2013,0.14,0.968,0.015,0.757,-13.909,0.0639,173.973,0,3,0.041,4,46,3434308
+Jaa Jaarey Bhaasi Jaa,Nirmal Mishra,/artist/nirmal-mishra,04:33,Odia,10-02-2012,0.12,0.79,0.611,0.664,-4.556,0.019,171.951,1,6,0.013,4,78,7811993
+Bagichhara Na Tini Konia,Akshaya Mohanty|Geeta Das,/artist/akshaya-mohanty|/artist/geeta-das,04:00,Odia,08-11-2000,0.21,0.451,0.601,0.41,-3.942,0.0586,174.992,1,2,0.025,4,91,4387886
+Michha Maya Bhara,Arjun Charan Samal,/artist/arjun-charan-samal,03:38,Odia,02-10-2001,0.11,0.91,0.365,0.451,-5.469,0.0059,174.056,0,10,0.012,4,33,5591013
+Dilo Khola,Akshaya Mohanty,/artist/akshaya-mohanty,04:24,Odia,06-03-2001,0.07,0.694,0.337,0.306,-6.967,0.086,173.744,1,7,0.038,4,51,3700333
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:56,Odia,07-06-2023,0.95,0.74,0.296,0.471,-5.556,0.06,169.998,0,9,0.033,4,72,1734954
+Kripasindhu Badana,Bhikari Bal,/artist/bhikari-bal-1,04:17,Odia,05-12-2021,0.04,0.082,0.592,0.619,-7.426,0.0886,174.961,1,7,0.0279,4,92,4575408
+Bhajamana Brajamana,Banikantha Nimai Charan Harichandan,/artist/banikantha-nimai-charan-harichandan,03:09,Odia,11-02-2014,0.08,0.42,0.794,0.561,-4.062,0.088,174.018,0,9,0.058,4,82,7445538
+Nani Dekh Chena Cake,Akshaya Mohanty,/artist/akshaya-mohanty,03:51,Odia,06-01-2003,0.33,0.803,0.036,0.204,-3.248,0.004,173.96,1,1,0.0036,4,68,7498759
+Tara Gela Basaria Deha,Subhasish,/artist/subhasish-1,03:43,Odia,10-03-2012,0.91,0.82,0.652,0.82,-6.16,0.058,173.999,0,5,0.0424,4,30,3816467
+Ei Chikimiki Hase To,Nirmal Mishra,/artist/nirmal-mishra,04:01,Odia,10-08-2010,0.41,0.815,0.077,0.278,-9.574,0.0996,174.976,0,7,0.07,4,61,2312646
+Tuhi Ma Biraja,Bhubaneshwari Mishra,/artist/bhubaneshwari-mishra-36,02:49,Odia,08-10-2000,0.06,0.03,0.379,0.572,-9.855,0.038,175.003,0,5,0.034,4,85,10590987
+Olata Brukshe Kheluchhi,Akshaya Mohanty,/artist/akshaya-mohanty,02:24,Odia,10-04-2005,0.84,0.232,0.584,0.073,-2.771,0.047,173.998,0,7,0.03,4,68,3770075
+Aaji Mun Shrabani Luhara Harini Jeun Rajani,Lata Mangeshkar,/artist/lata-mangeshkar,04:09,Odia,07-03-2007,0.4,0.78,0.908,0.709,-11.64,0.04,174.998,1,2,0.0648,4,36,9715958
+Chaka Akhi,Anuradha Paudwal,/artist/anuradha-paudwal-2,07:23,Odia,06-04-2005,0.79,0.15,0.924,0.341,-10.559,0.0694,174.002,0,11,0.051,4,97,3213426
+Kalia Tu Mohania,Anuradha Paudwal,/artist/anuradha-paudwal-2,01:41,Odia,01-07-2000,0.73,0.72,0.784,0.472,-11.512,0.06,174,0,8,0.086,4,60,10794468
+Arata Tarini Go,Fakira Pattnaik,/artist/fakira-pattnaik,03:00,Odia,10-05-2011,0.34,0.86,0.131,0.299,-11.197,0.0844,174.021,0,3,0.0504,4,30,709294
+Tumari Duaru Khali Hatha Nei,Mohammad Aziz|Chorus,/artist/mohammad-aziz|/artist/chorus,07:57,Odia,02-05-2018,0.69,0.24,0.962,0.111,-4.874,0.091,174.027,1,1,0.023,4,63,1736593
+Emiti Katha Han Thiba,Anuradha Paudwal|Akshaya Mohanty,/artist/anuradha-paudwal-2|/artist/akshaya-mohanty,04:24,Odia,01-01-2008,0.77,0.573,0.569,0.496,-10.059,0.0851,174.007,0,10,0.0503,4,42,9359882
+Prabhu Parama Brahama,Subash Das,/artist/subash-das-1,04:22,Odia,10-07-2015,0.12,0.25,0.478,0.608,-8.483,0.0499,174.999,0,8,0.057,4,36,4155550
+Music,Akshaya Mohanty,/artist/akshaya-mohanty,01:03,Odia,06-08-2014,0.19,0.62,0.361,0.773,-6,0.05,174.115,0,10,0.009,4,51,7988414
+Suna Chinhe Banian,Fakir Patnaik,/artist/fakir-patnaik-26,03:28,Odia,03-04-2013,0.36,0.81,0.244,0.773,-9.548,0.0367,172,0,9,0.05,4,94,927571
+Chikolika bambalika,Chitta Jana,/artist/chitta-jana,04:12,Odia,09-10-2013,0.65,0.811,0.76,0.887,-11.608,0.0841,173.898,0,5,0.061,4,45,2271005
+Au Na Pare Chali,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,Odia,02-09-2020,0.92,0.01,0.998,0.333,-8.486,0.04,175.114,1,1,0.0208,4,55,6697226
+Govind Govind Gosain,Bhikari Bal,/artist/bhikari-bal-1,01:24,Odia,09-02-2004,0.59,0.495,0.327,0.557,-13.271,0.01,175.051,1,4,0.064,4,90,3039020
+E Hama Harini,Bhikari Bal,/artist/bhikari-bal-1,04:17,Odia,09-02-2024,0.61,0.41,0.17,0.292,-5.307,0.0653,174.02,1,9,0.04,4,80,762891
+Jaha Mun Khojichhi,Pranab Kishore Patnaik|H. P. Gita,/artist/pranab-kishore-patnaik|/artist/h-p-gita,04:14,Odia,07-03-2013,0.26,0.192,0.706,0.813,-12.117,0.0751,172.021,1,0,0.07,4,58,2646572
+Mistiry O Mistiry,Akshaya Mohanty,/artist/akshaya-mohanty,04:36,Odia,05-09-2017,0.36,0.55,0.519,0.976,-3.108,0.072,174.038,0,10,0.08,4,91,5070582
+Mu Eka Bhasa Bauda,Chittaranjan Jena,/artist/chittaranjan-jena-26,03:06,Odia,12-05-2018,0.83,0.59,0.608,0.081,-7.151,0.03,171.98,0,5,0.03,4,58,4297707
+Upadi Debi To Kalapa Bata,Shakti Mishra,/artist/shakti-mishra,05:28,Odia,05-02-2010,0.06,0.73,0.99,0.831,-11.097,0.03,170.013,0,2,0.1,4,93,8702711
+Mayurigo Tama Akash Mun,Mohammed Rafi,/artist/mohammad-rafi,03:29,Odia,08-06-2010,0.22,0.657,0.686,0.114,-9.86,0.08,175.013,1,8,0.0886,4,37,508114
+Nindita Chandana Bindu,Bhubaneswari Mishra,/artist/bhubaneswari-mishra,03:11,Odia,04-09-2000,0.71,0.51,0.404,0.151,-5.008,0.0442,173.966,1,1,0.05,4,37,3783448
+More Ehi Anugraha Kara,Raghunath Panigrahi,/artist/raghunath-panigrahi,03:32,Odia,01-06-2010,0.77,0.055,0.028,0.062,-5.712,0.02,174,1,9,0.08,4,28,6796128
+Sephali Jaana Jhari,Vani Jairam,/artist/vani-jayaram,04:26,Odia,11-12-2004,0.02,0.78,0.659,0.148,-8.641,0.03,174.003,0,4,0.08,4,63,470142
+Bhoji Khaili,Baidyanath Gayak Ratna Sharma,/artist/baidyanath-gayak-ratna-sarma,12:07,Odia,11-01-2020,0.03,0.349,0.032,0.714,-13.732,0.032,174.016,0,5,0.073,4,64,8867670
+Bhakati Rasire,Sekhar Ghosh,/artist/sekhar-ghosh,06:21,Odia,05-05-2013,0.19,0.84,0.933,0.162,-3.032,0.06,172.008,0,11,0.067,4,31,8244182
+Rujhum Rumjhum Nachere,Trupti Das|Akshya Mohanty Baboo,/artist/trupti-das|/artist/akshya-mohanty-baboo,05:13,Odia,04-02-2012,0.31,0.347,0.013,0.02,-13.292,0.051,175.079,0,1,0.089,4,45,2170559
+Tu Hun Jagannath,Vani Jairam,/artist/vani-jayaram,04:37,Odia,04-08-2004,0.32,0.13,0.992,0.232,-8.367,0.068,174.056,0,11,0.0213,4,47,740796
+Govind Govin Gosain,Bhikari Bal,/artist/bhikari-bal-1,01:26,Odia,08-06-2015,0.1,0.605,0.157,0.586,-6.841,0.0969,172.892,0,7,0.067,4,35,8484430
+Tate Kie Kala Banachari,S. Janaki,/artist/s-janaki,04:13,Odia,07-12-2005,0.51,0.94,0.068,0.483,-5.791,0.0522,174.01,0,1,0.0889,4,64,4257641
+Thik Tumari Pari Jhiatie,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,04:40,Odia,12-11-2013,0.94,0.448,0.077,0.39,-12.391,0.06,172.028,1,6,0.0622,4,75,5895799
+Ahe Ramahari,Sekhar Ghosh,/artist/sekhar-ghosh,03:08,Odia,11-02-2012,0.08,0.62,0.875,0.187,-2.443,0.0595,174.004,0,10,0.09,4,58,8645041
+Kamala Pasara Baliki,Bhimsen Satapathi|Baidyanath Gayak Ratna Sharma,/artist/bhimsen-satapathi-3|/artist/baidyanath-gayak-ratna-sarma,05:50,Odia,06-11-2015,0.98,0.512,0.391,0.803,-8.124,0.03,174.986,1,1,0.06,4,69,3048680
+Tame Mo Maan Bana Ra Suna Chadei,Sourav Nayak|Lopita Mishra,/artist/sourav-nayak|/artist/lopita-mishra,05:22,Odia,08-12-2020,0.84,0.75,0.396,0.527,-3.586,0.0227,173.032,0,5,0.017,4,87,6896454
+Jadi Dariba,Bibhu Das|Etishre Das,/artist/bibhu-das|/artist/etishre-das,04:31,Odia,09-06-2002,0.35,0.922,0.545,0.606,-4.305,0.0325,171.985,1,1,0.067,4,69,5788965
+Ahe Ramahari,Sekhar Ghosh,/artist/sekhar-ghosh,03:09,Odia,10-03-2009,0.32,0.92,0.567,0.586,-6.853,0.019,173.978,0,9,0.003,4,34,9271204
+Chapi Chapi Basanti Raati,Akshaya Mohanty,/artist/akshaya-mohanty,03:03,Odia,06-11-2016,0.36,0.413,0.115,0.817,-9.026,0,173.992,0,2,0.06,4,88,5424925
+Re Priya Mora,Mukesh,/artist/mukesh,03:01,Odia,10-04-2013,0.42,0.63,0.293,0.2,-11.081,0.052,173.96,0,7,0.004,4,51,9652493
+Jyotsna Ane Prajapati,Trupti Das,/artist/trupti-das,03:39,Odia,12-09-2022,0.66,0.732,0.611,0.562,-2.17,0.054,173.858,0,9,0.001,4,30,10055548
+Jogi Get,Bhikari Bal,/artist/bhikari-bal-1,01:52,Odia,12-05-2013,0.08,0.73,0.58,0.15,-12.798,0.0745,174.017,0,4,0.048,4,90,4266573
+Sukhara Sapana,Vani Jairam,/artist/vani-jayaram,03:26,Odia,04-01-2009,0.45,0.732,0.975,0.575,-13.489,0.0988,174.019,1,0,0.03,4,69,9357317
+Mo Akhira Kete Katha,Sandhya Mukherjee,/artist/sandhya-mukherjee,03:08,Odia,06-07-2007,0.5,0.19,0.435,0.537,-9.991,0.0585,172.054,1,4,0.04,4,94,8878113
+Tiki Mora Naa,Bhubaneswari Mishra,/artist/bhubaneswari-mishra,03:17,Odia,10-12-2002,0.75,0.684,0.256,0.691,-2.212,0.071,174.039,0,5,0.0598,4,93,8259903
+Kete nadi ja bahi,Prafulla Kar,/artist/prafulla-kar,05:28,Odia,01-08-2013,0.57,0.07,0.627,0.543,-3.079,0.05,172.02,0,1,0.0715,4,74,10525913
+Gory To Gaanre,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,04:00,Odia,03-11-2006,0.54,0.061,0.195,0.552,-11.743,0.014,174.028,1,5,0.016,4,92,548595
+Rama Charita Ehi Gatha,S. Janaki|Swagatika Rath,/artist/s-janaki|/artist/swagatika-rath,04:36,Odia,02-12-2008,0.41,0.36,0.877,0.916,-4.367,0.02,174.008,0,10,0.06,4,30,9131661
+Gili Gili Gulu Gulu,Tansen Singh|Vani Jairam,/artist/tansen-singh|/artist/vani-jayaram,02:42,Odia,02-03-2011,0.68,0.51,0.992,0.817,-10.842,0.0241,175.024,1,8,0.045,4,75,8282662
+Snehara Basanti,Akshaya Mohanty,/artist/akshaya-mohanty,04:02,Odia,10-02-2015,0.81,0.37,0.927,0.849,-4.95,0.03,175.019,0,7,0.0538,4,70,10609830
+Aho Aho Balike,Prafulla Kar,/artist/prafulla-kar,03:02,Odia,10-02-2021,0.47,0.947,0.244,0.585,-12.127,0.002,174.012,1,6,0.0334,4,66,5239256
+Bhoji Khaili,Baidyanath Gayak Ratna Sharma|Bhimsen Satapathi,/artist/baidyanath-gayak-ratna-sarma|/artist/bhimsen-satapathi-4,06:15,Odia,06-01-2017,0.77,0.55,0.754,0.502,-8.063,0.085,174.987,0,9,0,4,32,3154478
+Tora Ei Khilikhili,Akshaya Mohanty,/artist/akshaya-mohanty,02:53,Odia,01-11-2017,0.09,0.677,0.682,0.76,-3.377,0.0647,174.033,0,10,0.08,4,39,3867682
+Swapna Bilashi Ame Milana Peasi Part - Ii,Nirmal Mishra|Shyamal Mitra,/artist/nirmal-mishra|/artist/shyamal-mitra,02:42,Odia,03-03-2009,0.81,0.83,0.954,0.577,-4.584,0.016,174,1,5,0.04,4,46,1893619
+Chher Chhera,Hrushi Meher|Manoj|Satya Mishra,/artist/hrushi-meher|/artist/manoj|/artist/satya-mishra,05:00,Odia,02-09-2020,0.88,0.497,0.33,0.476,-2.05,0.0677,173.947,0,9,0.0529,4,37,2243695
+Pangu Langha Parabata,Pranab Pattanayak,/artist/pranab-pattanayak,04:32,Odia,12-01-2022,0.7,0.98,0.791,0.15,-13.533,0.0416,174.008,1,9,0.05,4,67,6515357
+Kadambara Tale,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,Odia,10-11-2021,0.12,0.512,0.476,0.766,-11.419,0.04,174.94,0,7,0.0025,4,70,4558228
+Tume Jadi Sathi Mor,Nirmal Mishra,/artist/nirmal-mishra,03:21,Odia,02-01-2016,0.77,0.44,0.197,0.046,-7.726,0.0251,173.867,1,5,0.0237,4,68,1140375
+Dia Dia Mangala,Vani Jairam,/artist/vani-jayaram,04:00,Odia,07-10-2002,0.9,0.362,0.146,0.516,-3.4,0.05,174.02,1,5,0.0097,4,74,9230835
+Ahe Ramahari,Sekhar Ghosh,/artist/sekhar-ghosh,03:25,Odia,11-12-2002,1,0.41,0.376,0.834,-12.44,0.088,174.032,0,7,0.1,4,36,5045409
+Subha Lagane Bara Kale,Hrushi Meher|Manoj,/artist/hrushi-meher|/artist/manoj,03:00,Odia,02-03-2005,0.72,0.411,0.611,0.826,-10.126,0.0784,174.012,0,5,0.0617,4,79,3898903
+Mu Eka Asarani,Anuradha Paudwal,/artist/anuradha-paudwal-2,06:14,Odia,09-12-2020,0.96,0.63,0.52,0.618,-4.049,0.011,173.995,0,10,0.0506,4,53,10829071
+Abhimani Bandhure,Debasish Mohapatra,/artist/debasish-mohapatra,04:08,Odia,11-02-2017,0.11,0.713,0.025,0.337,-6.269,0.01,172.059,0,11,0.0735,4,71,5663369
+Aa Mo Pakhakuaa,Geeta Das,/artist/geeta-das,05:34,Odia,11-11-2005,0.69,0.41,0.7,0.303,-3.011,0.099,174.03,1,8,0.02,4,41,9602186
+Kahin Gale Bandhure,Ghanashyam Panda,/artist/ghanashyam-panda,04:29,Odia,07-09-2010,0.86,0.736,0.163,0.55,-10.22,0.02,172.952,0,4,0.0338,4,75,5128707
+Ame to bhai,Akshya Mohanty,/artist/akshya-mohanty,03:15,Odia,02-10-2017,0.53,0.97,0.407,0.847,-2.007,0.09,173.996,0,5,0.05,4,38,7950408
+Aakuchi Bakuchi Kia,Prabhasini Rath,/artist/prabhasini-rath,02:00,Odia,06-05-2004,0.39,0.186,0.686,0.801,-7.728,0.013,174,1,1,0.0142,4,74,8874375
+Bhogara Rogo,Bhikari Bal,/artist/bhikari-bal-1,03:53,Odia,11-08-2021,0.2,0.23,0.721,0.227,-3.147,0.0254,172.028,0,9,0.0806,4,27,5545338
+Jibana Bandhu Jaya Jaya He,sunanda patnaik,/artist/sunanda-patnaik,05:04,Odia,12-03-2012,0.56,0.996,0.205,0.938,-8.473,0.02,170.033,0,11,0.012,4,37,4495364
+Ki Naadare Prana Sangini,Raghunath Panigrahi,/artist/raghunath-panigrahi,03:36,Odia,02-10-2022,0.26,0.4,0.075,0.027,-7.384,0.08,173.986,0,0,0.0521,4,36,7265988
+Kahare Kiese,Chittaranjan Jena,/artist/chittaranjan-jena-14,03:16,Odia,07-05-2018,0.71,0.472,0.364,0.212,-5.62,0.063,173.992,1,1,0.03,4,35,9584519
+Chhota Mora E Ghar,Vani Jairam,/artist/vani-jayaram,03:02,Odia,08-09-2012,0.25,0.55,0.412,0.862,-12.978,0.01,173.948,1,1,0.094,4,81,10156905
+Surya Uinle,Chittaranjan Jena,/artist/chittaranjan-jena-21,06:02,Odia,02-10-2020,0.95,0.088,0.97,0.238,-13.748,0.059,175.018,0,4,0.046,4,83,9681668
+Bhoji Khaili,Baidyanath Gayak Ratna Sharma|Bhimsen Satapathi,/artist/baidyanath-gayak-ratna-sarma|/artist/bhimsen-satapathi-5,05:47,Odia,10-04-2022,0.84,0.87,0.038,0.053,-9.444,0.0232,174.007,0,4,0.07,4,48,3089320
+Chandana Charchita Nila Kalebara,Nirmal Mishra,/artist/nirmal-mishra,02:54,Odia,11-04-2004,0.63,0.215,0.463,0.706,-3.593,0.092,173.958,0,9,0.02,4,66,2357468
+Eka Sangey,Akshaya Mohanty,/artist/akshaya-mohanty,06:16,Odia,10-06-2009,0.97,0.44,0.894,0.84,-12.44,0.04,173.984,1,8,0.0791,4,94,7602990
+Om Namah Bhagabate,Sikandar Alam|Vani Jairam,/artist/sikandar-alam|/artist/vani-jayaram,04:45,Odia,06-01-2004,0.56,0.868,0.47,0.256,-2.629,0.0499,171.976,1,2,0.097,4,42,1548194
+Kichi Shadhi Kichi Beni,Srikanta Das,/artist/srikanta-das,03:08,Odia,04-04-2010,0.46,0.12,0.821,0.406,-5.718,0.056,175.016,1,0,0.074,4,95,2079982
+Saki Aji Tu,Subhash Das,/artist/subhash-das,06:01,Odia,09-10-2010,0.68,0.523,0.765,0.168,-2.552,0.05,170.013,0,5,0.0477,4,39,9078283
+Jai Jai Rama,Swagatika Rath,/artist/swagatika-rath,03:38,Odia,07-01-2006,0.55,0.25,0.252,0.233,-3.516,0.05,174.024,1,1,0.006,4,28,444151
+Smruti Tora Pherey,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:13,Odia,01-08-2006,0.34,0.741,0.805,0.464,-3.107,0.014,174.039,1,6,0.0452,4,46,11324724
+Suno Suga Janamane,Baidyanath Gayak Ratna Sharma|Bhimsen Satapathi,/artist/baidyanath-gayak-ratna-sarma|/artist/bhimsen-satapathi-3,06:08,Odia,10-02-2020,0.54,0.68,0.375,0.36,-10.868,0.022,175,0,8,0.047,4,26,3445775
+Kame Balau Mati,Bhikari Bal,/artist/bhikari-bal-1,04:16,Odia,06-06-2009,0.6,0.699,0.071,0.44,-10.81,0.02,174.007,1,5,0.02,4,63,8808672
+Besura Loka Ku Ishara Dei,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,05:53,Odia,05-02-2016,0.5,0.47,0.877,0.011,-11.976,0.09,173.991,0,4,0.003,4,81,3100936
+Tume Mora Mu Tumara,Rani Varma|Swarupa Chakravarty,/artist/rani-varma|/artist/swarupa-chakravarty,05:29,Odia,10-10-2016,0.51,0.556,0.665,0.829,-4.168,0.005,175.069,1,6,0.003,4,50,7863639
+Shree Radha Batuli,Banikantha Nimai Charan Harichandan,/artist/banikantha-nimai-charan-harichandan,03:15,Odia,11-03-2005,0.16,0.54,0.564,0.115,-4.93,0.0696,174.069,0,6,0.031,4,26,8938686
+Khabar Achchi,Kavita Krishnamurthy|Surjit Das,/artist/kavita-subramaniam|/artist/surjit-das,04:58,Odia,02-06-2005,0.78,0.704,0.28,0.286,-13.499,0.04,175.037,0,9,0.09,4,42,1124628
+Duniya Jibata Ta Jali,Mohammad Aziz|Chorus,/artist/mohammad-aziz|/artist/chorus,05:50,Odia,01-03-2015,0.89,0.66,0.747,0.054,-7.122,0.01,174.041,0,2,0.01,4,77,10823896
+Mangala Maya Bhakata Bandhaba,Amit Kumar|Uttara Kelkar|Mohammad Aziz,/artist/amit-kumar|/artist/uttara-kelkar|/artist/mohammad-aziz,06:00,Odia,04-12-2001,0.15,0.188,0.083,0.735,-11.821,0.0621,175.014,0,0,0.0156,4,51,107947
+Srikrushnanka Koli Khiya (Part 1),Bhimsen Satapathi|Baidyanath Gayak Ratna Sharma,/artist/bhimsen-satapathi-3|/artist/baidyanath-gayak-ratna-sarma,06:12,Odia,08-09-2004,0.61,0.68,0.926,0.312,-9.007,0.069,172.012,0,11,0.08,4,97,5510768
+Mu Kali Raati Sara Jama Soini,Sekhar Ghosh,/artist/sekhar-ghosh,03:26,Odia,10-04-2022,0.03,0.823,0.859,0.78,-9.1,0.02,173.029,0,11,0.0137,4,77,4985778
+Kiss a miss,Anupama Deshapande,/artist/anupama,03:28,Odia,04-12-2014,0.72,0.58,0.135,0.066,-11.709,0.01,174.018,1,6,0.091,4,44,9123160
+Biswa Jibana He,Vani Jairam,/artist/vani-jayaram,04:33,Odia,09-01-2015,0.26,0.829,0.664,0.826,-3.849,0.04,176.016,0,11,0.024,4,47,10102473
+Kumbha Jodi Jodi,Akshaya Mohanty,/artist/akshaya-mohanty,04:36,Odia,02-06-2017,0.4,0.48,0.391,0.634,-5.31,0.01,173.978,0,4,0.02,4,43,4639231
+Nilamaya Hey,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,Odia,05-10-2000,0.47,0.629,0.532,0.236,-7.317,0.078,170.008,0,10,0.009,4,86,10524872
+Aji Mahuri Baje,Nirmal Mishra|Sangeeta Mahapatra,/artist/nirmal-mishra|/artist/sangeeta-mahapatra,03:55,Odia,09-11-2013,0.43,0.95,0.79,0.902,-13.395,0.061,174,1,11,0.09,4,88,5101418
+Paunjye Mora,Mohammad Aziz,/artist/mohammad-aziz,07:05,Odia,11-05-2021,0.5,0.642,0.598,0.763,-9.041,0.094,174.023,0,2,0.012,4,80,7815639
+Kadachit Kalindi - Prafulla Kar,Prafulla Kar,/artist/prafulla-kar,07:28,Odia,01-10-2005,0.55,0.1,0.58,0.839,-4.798,0.038,172.059,1,1,0.0009,4,73,4262438
+Kasturi Tikalam,Sekhar Ghosh,/artist/sekhar-ghosh,01:17,Odia,01-08-2009,0.44,0.502,0.032,0.886,-13.39,0.045,174,1,7,0.07,4,31,2626740
+Aja Mur Dekhili Ganashyamaku Go,Banikantha Nimai Charan Harichandan,/artist/banikantha-nimai-charan-harichandan,03:00,Odia,03-03-2014,0.08,0.91,0.551,0.782,-11.98,0.064,174.136,1,1,0.035,4,67,10875494
+Hrudaya Bhari Mora,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:17,Odia,06-01-2017,0.24,0.483,0.651,0.745,-13.546,0.055,169.98,1,9,0.077,4,31,10521709
+Manasija Mana Mohana,Raghunath Panigrahi,/artist/raghunath-panigrahi,04:19,Odia,09-08-2012,0.56,0.79,0.705,0.209,-12.558,0.052,174.028,0,8,0.03,4,61,727105
+Tike de,Priti Sagar,/artist/priti-sagar,03:12,Odia,01-03-2005,0.26,0.603,0.01,0.824,-11.349,0.0407,174.014,0,7,0.0148,4,45,7264384
+Surya Uinle,Chittaranjan Jena,/artist/chittaranjan-jena-23,02:36,Odia,01-03-2022,0.8,0.96,0.319,0.335,-10.118,0.0306,174.03,1,8,0.06,4,60,268467
+Bhala Paye Boli,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,04:26,Odia,07-11-2022,0.87,0.081,0.368,0.092,-8.009,0.0882,174.02,0,9,0.043,4,57,1087514
+He Bandhu,Binapani Nayak,/artist/binapani-nayak-1,01:57,Odia,07-08-2010,0.22,0.55,0.32,0.125,-5.838,0.0238,172.036,1,1,0.0407,4,68,5696679
+Ja Ja Jare Nagara,S. Janaki,/artist/s-janaki,03:07,Odia,04-09-2005,0.52,0.966,0.009,0.546,-8.392,0.0505,174.005,0,5,0.016,4,93,1928860
+Dheu Dheuka,Nirmal Mishra,/artist/nirmal-mishra,03:25,Odia,10-11-2008,0.17,0.88,0.44,0.584,-13.862,0.022,173.966,0,4,0.008,4,43,1588991
+Odia Jhia Ku Prema Mu Kali,Sankar Ghosh,/artist/sankar-ghosh,05:12,Odia,07-09-2017,0.69,0.872,0.809,0.258,-6.021,0.007,173.903,0,11,0.0197,4,80,11177921
+Ae Nadi E Akasha,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:32,Odia,10-02-2010,0.49,0.92,0.764,0.713,-8.353,0.046,174.999,0,6,0.08,4,86,6912059
+A mahabharata kahani,Raghunath Panigrahi,/artist/raghunath-panigrahi,04:01,Odia,01-12-2005,0.11,0.991,0.465,0.788,-2.474,0.01,173.995,0,8,0.0093,4,56,208432
+Champakali Tote,Tansen Singh,/artist/tansen-singh,05:00,Odia,07-02-2013,0.97,0.85,0.013,0.01,-11.83,0.07,174.02,0,9,0.0623,4,77,9841694
+Sabuthu Bhala,Sekhar Ghosh,/artist/sekhar-ghosh,03:25,Odia,04-03-2004,0,0.571,0.833,0.047,-13.837,0.05,173.998,0,5,0.0508,4,68,8313158
+Bidhira Bidhana,Mohammad Aziz,/artist/mohammad-aziz,08:35,Odia,12-10-2022,0.8,0.68,0.725,0.007,-12.331,0.08,174.014,0,11,0.029,4,35,5505398
+Aaha Sita,Vani Jairam,/artist/vani-jayaram,04:37,Odia,11-10-2013,0.08,0.75,0.251,0.67,-7.088,0.063,176.977,0,11,0.02,4,49,4971046
+Tumaku Paruni Ta Bhuli,Mohammed Rafi,/artist/mohammad-rafi,03:25,Odia,01-04-2015,0.75,0.5,0.67,0.265,-7.449,0.0085,173.986,0,8,0.0836,4,46,3294078
+E Gramara Chasabhai,Pranab Kishore Patnaik|Chittaranjan Jena,/artist/pranab-kishore-patnaik|/artist/chittaranjan-jena-13,03:18,Odia,10-10-2007,0.68,0.362,0.245,0.551,-9.421,0.01,173.981,0,1,0.0344,4,39,9119663
+Radha Jhuruchhere,Krishna Patel|Bibhuti Patnaik,/artist/krishna-patel|/artist/bibhuti-patnaik-4,05:28,Odia,05-01-2019,0.63,0.39,0.156,0.977,-9.941,0.046,175.005,0,7,0.03,4,60,7466444
+Chaka Akhi,Akshaya Mohanty,/artist/akshaya-mohanty,04:51,Odia,11-01-2005,0.6,0.904,0.303,0.087,-9.135,0.06,175.01,1,1,0.056,4,39,5461268
+Kooili Re Kooili,Prabhasini Rath,/artist/prabhasini-rath,05:00,Odia,03-08-2015,0.64,0.52,0.586,0.927,-10.32,0.0383,172.027,0,11,0.03,4,69,4009653
+Itikili Mitikili,Bhubaneswari Mishra,/artist/bhubaneswari-mishra,02:58,Odia,12-11-2004,0.78,0.496,0.38,0.491,-4.65,0.0113,173.993,1,7,0,4,61,6838136
+Sunahe Sunahe Ramayana Gatha,S. Janaki|Swagatika Rath,/artist/s-janaki|/artist/swagatika-rath,05:09,Odia,04-10-2010,0.84,0.39,0.566,0.787,-4.426,0.03,173.983,0,11,0.064,4,52,3338310
+Hazoor Mora,Geeta Patnaik,/artist/geeta-patnaik,04:21,Odia,04-10-2017,0.73,0.361,0.034,0.113,-10.405,0.01,174.977,0,2,0.031,4,71,7828283
+Biti Jaye Re,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:17,Odia,02-06-2023,0.94,0.47,0.092,0.106,-6.797,0.008,172.015,1,0,0.0848,4,74,800174
+Rajani Jaani To Guru,K J Yesudas|Prabhakar Samal,/artist/k-j-yesudas|/artist/prabhakar-samal,04:02,Odia,01-02-2016,0.69,0.285,0.48,0.956,-8.78,0.06,172.028,1,7,0.089,4,64,9020634
+Kara Kshama Re,Prafulla Kar,/artist/prafulla-kar,03:01,Odia,12-05-2017,0.63,0.74,0.41,0.834,-8.265,0.09,174.95,1,8,0.029,4,34,2569708
+Jama Ragani,Sourav Nayak,/artist/sourav-nayak,04:22,Odia,11-09-2019,0.38,0.661,0.921,0.722,-9.363,0.07,174.019,0,3,0.0723,4,26,3862746
+Kahide Sasanilo,Nirmal Mishra,/artist/nirmal-mishra,03:15,Odia,04-03-2006,0.39,0.46,0.939,0.746,-8.469,0.07,174.035,0,6,0.026,4,59,7917328
+Eai Subah Dina Ashe Hasa Khushi,Amit Kumar|Mohammad Aziz|Chandrani Mukherjee,/artist/amit-kumar|/artist/mohammad-aziz|/artist/chandrani-mukherjee,06:00,Odia,12-02-2014,0.23,0.321,0.523,0.885,-11.2,0.04,173.983,1,7,0.065,4,61,2654668
+Are E Jhia Mane,Prafulla Kar|Pranab Kishore Patnaik,/artist/prafulla-kar|/artist/pranab-kishore-patnaik,03:18,Odia,10-02-2017,0.9,0.94,0.605,0.798,-2.213,0.06,174.015,0,5,0.087,4,99,7200599
+Nisabada Sarada Prate,sunanda patnaik,/artist/sunanda-patnaik,04:10,Odia,02-10-2005,0.72,0.272,0.994,0.085,-6.992,0.03,171.99,1,1,0.02,4,49,457266
+Barijakhi Manaru,Vani Jairam|Sudha Rama,/artist/vani-jayaram|/artist/sudha-rama,02:56,Odia,06-12-2001,0.04,0.69,0.327,0.479,-10.657,0.05,173.974,0,8,0.0526,4,28,1730607
+Kada Chit Kalindi,Anuradha Paudwal|Prafulla Kar,/artist/anuradha-paudwal-2|/artist/prafulla-kar,10:58,Odia,05-05-2003,0.61,0.349,0.929,0.765,-4.189,0.03,173.96,0,4,0.05,4,32,10891060
+Samaya Ra Dhara Kahin Jaye,Badal Kumar,/artist/badal-kumar,05:15,Odia,02-02-2003,0.64,0.6,0.797,0.528,-6.993,0.02,174.012,0,1,0.06,4,72,4235815
+Jamuna Jana,Manna Dey,/artist/manna-dey,05:26,Odia,05-03-2024,0.82,0.851,0.016,0.104,-8.013,0.073,173.945,0,5,0.05,4,50,4550696
+Amiti Kete Kete Dinaasiba,Akshaya Mohanty|Etishre Das,/artist/akshaya-mohanty|/artist/etishre-das,05:17,Odia,03-07-2002,0.9,0.76,0.243,0.03,-9.586,0.0524,174.997,1,8,0.09,4,86,7987142
+Mun Riksabala,Sikandar Alam,/artist/sikandar-alam,04:18,Odia,11-08-2011,0.83,0.916,0.819,0.749,-12.828,0.0731,173.96,0,2,0.06,4,63,8227766
+Jhimi Jhimi Ta Maza,Asha Bhosle,/artist/asha-bhosle-1,03:08,Odia,11-08-2017,0.32,0.4,0.473,0.295,-5.35,0.098,174.982,0,1,0.0236,4,88,7014501
+Bele Bele Ichha Hue,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:23,Odia,11-10-2012,0.33,0.063,0.115,0.031,-12.48,0.03,174.058,1,2,0.07,4,91,9816553
+Ame Athi Panchu Bhai,Subhash Das|Raghu Pradhan|P . Sarangi,/artist/subhash-das|/artist/raghu-pradhan|/artist/p-sarangi,04:55,Odia,11-02-2020,0.93,0.25,0.957,0.196,-7.984,0.017,171.956,1,5,0.097,4,60,10901847
+Shyama Apabada Mote,Shyamamani Devi,/artist/shyamamani-devi-8,04:03,Odia,06-04-2005,0.03,0.613,0.043,0.173,-4.011,0.0603,174.955,0,0,0.0111,4,33,122768
+Sri Purushottama,Raghunath Panigrahi,/artist/raghunath-panigrahi,03:09,Odia,09-07-2016,0.46,0.08,0.122,0.815,-4.701,0.0257,174.016,0,10,0.0052,4,47,3753688
+Kahai Mana Are,Chittaranjan Jena,/artist/chittaranjan-jena-19,05:02,Odia,11-03-2006,0.81,0.753,0.176,0.442,-2.618,0.04,175.006,0,10,0.0548,4,44,4017640
+Eka Deshe Thile Eka,Sikandar Alam,/artist/sikandar-alam,04:44,Odia,05-12-2015,0.8,0.57,0.427,0.187,-6.681,0.09,174.97,0,4,0.0253,4,40,5824632
+Mu Jebe Mantri Hebi,Akshaya Mohanty,/artist/akshaya-mohanty,06:12,Odia,08-08-2004,0.54,0.03,0.702,0.229,-4.522,0.064,173.968,1,7,0.0419,4,70,1471579
+Pirati Chore Chore,Chitaranjan Pani,/artist/chitaranjan-pani,04:10,Odia,10-01-2009,0.66,0.6,0.963,0.337,-13.632,0.01,171.97,0,11,0.058,4,42,7231348
+Adharam Madhuram,Prafulla Kar,/artist/prafulla-kar,07:44,Odia,09-01-2016,0.64,0.508,0.119,0.763,-11.606,0.0765,173.932,1,1,0.0448,4,69,4056120
+Mun Je Nisanga Aakashe,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:34,Odia,06-04-2016,0.56,0.73,0.452,0.874,-9.596,0.098,172.085,0,0,0.07,4,82,11141120
+Guruji O Guruji,Anuradha Paudwal|Subhash Das|Raghu Pradhan,/artist/anuradha-paudwal-2|/artist/subhash-das|/artist/raghu-pradhan,02:55,Odia,10-06-2004,0.43,0.39,0.973,0.881,-10.279,0.0048,170.015,1,9,0.03,4,50,5245695
+Ekeun Sahara Kemiti Sahara,Amit Kumar|Uttara Kelkar,/artist/amit-kumar|/artist/uttara-kelkar,05:00,Odia,02-03-2012,0.38,0.77,0.445,0.024,-9.573,0.07,171.966,1,1,0.09,4,61,10145194
+Kali Ma Ne Bali Maa,Kavita Krishnamurthy|Chorus,/artist/kavita-subramaniam|/artist/chorus,04:36,Odia,12-05-2004,0.66,0.437,0.343,0.577,-4.163,0.095,173.997,1,0,0.0499,4,77,4877244
+Amiti Kete Dinaasiba - Sad,Akshaya Mohanty,/artist/akshaya-mohanty,01:05,Odia,08-11-2001,0.12,0.15,0.346,0.273,-8.387,0.077,174.994,0,10,0.042,4,93,5360927
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:58,Odia,02-11-2008,0.42,0.038,0.311,0.138,-7.682,0.07,174.991,1,1,0.088,4,69,7172631
+Swapna Bilashi Ame Milana Peasi Part - I,Nirmal Mishra|Shyamal Mitra,/artist/nirmal-mishra|/artist/shyamal-mitra,02:55,Odia,09-02-2007,0.7,0.22,0.236,0.803,-5.484,0.07,172.126,0,7,0.087,4,86,10557328
+Rati Je Khoje,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,03:54,Odia,01-04-2006,0.28,0.372,0.243,0.386,-4.525,0.015,173.974,1,7,0.0538,4,84,10963822
+Sri Raghaban,S. Janaki|Swagatika Rath,/artist/s-janaki|/artist/swagatika-rath,00:54,Odia,03-10-2002,0.65,0.54,0.877,0.021,-5.372,0.07,174.007,0,11,0.09,4,35,1762766
+Ajana Ei Naee,Bhikari Bal,/artist/bhikari-bal-1,04:46,Odia,03-11-2000,0.01,0.225,0.291,0.363,-9.496,0.072,175.175,0,4,0.07,4,95,10550332
+Janha Dehara Joschna,Vani Jairam,/artist/vani-jayaram,03:14,Odia,03-02-2020,0.89,0.6,0.48,0.564,-2.154,0.06,173.953,0,9,0.09,4,32,653786
+Dhana Mora Dhana Mora,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:44,Odia,07-05-2008,0.17,0.196,0.528,0.022,-4.793,0.059,173.986,1,1,0.04,4,32,10786872
+Mahabahu Mahabahu,Trupti Das|Minati Bhanja,/artist/trupti-das|/artist/minati-bhanja-2,03:33,Odia,06-08-2006,0.74,0.76,0.269,0.932,-6.259,0.072,174.014,1,9,0.0146,4,81,7980786
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:35,Odia,09-03-2006,0.18,0.814,0.493,0.095,-8.87,0.0977,174.01,1,8,0.0472,4,89,1040840
+Baisi Puri Tejsi,Kavita Krishnamurthy,/artist/kavita-subramaniam,04:32,Odia,05-07-2018,0.56,0.13,0.894,0.582,-2.84,0.056,173.969,1,1,0.0243,4,42,5996458
+Thaka Mana Chala Jiba,Balakrishna Das,/artist/balakrishna-das,03:48,Odia,03-11-2022,0.68,0.731,0.183,0.986,-13.481,0.053,173.982,0,11,0.0673,4,91,1151753
+Tumaku Nijara Karibaa Bhagya,Swarupa Chakravarty,/artist/swarupa-chakravarty,03:44,Odia,10-10-2013,0.86,0.48,0.347,0.09,-4.586,0.07,174.02,0,4,0.077,4,32,5011047
+Go Radhe Bansiti,Akshaya Mohanty,/artist/akshaya-mohanty,03:15,Odia,03-07-2004,0.58,0.387,0.523,0.906,-2.67,0.06,174.978,0,8,0.08,4,51,2176121
+Basante Basanti,K J Yesudas,/artist/k-j-yesudas,06:43,Odia,06-08-2022,0.53,0.2,0.384,0.415,-2.622,0.06,172.02,0,10,0.03,4,43,1489594
+Joy Ma Mangala,Bhubaneswari Mishra,/artist/bhubaneswari-mishra,04:28,Odia,10-12-2003,0.1,0.622,0.306,0.469,-11.733,0.055,174.005,1,1,0.0082,4,100,9992402
+Kare Kankan Kati,Subhash Das,/artist/subhash-das,02:13,Odia,11-09-2013,0.09,0.77,0.189,0.891,-3.799,0.07,174.042,1,8,0.03,4,97,5623175
+Jeebana Kalasa Purna Karicha,Uttara Kelkar,/artist/uttara-kelkar,06:07,Odia,06-07-2017,0.87,0.687,0.577,0.554,-9.711,0.007,173.999,0,11,0.0957,4,76,10336233
+Aaji Kholia,Prafulla Kar|S. Janaki,/artist/prafulla-kar|/artist/s-janaki,04:03,Odia,09-03-2012,0.25,0.72,0.063,0.812,-13.939,0.0779,172.005,0,4,0.04,4,90,37987
+Guhari Suno,Suman Kalyanpur,/artist/suman-kalyanpur,02:58,Odia,02-12-2015,0.96,0.371,0.003,0.681,-13.046,0.0919,174.004,1,8,0.049,4,72,5559209
+Mummy Tara Motha Hera,Kavita Krishnamurthy|Chandrani Mukherjee|Kadambari,/artist/kavita-subramaniam|/artist/chandrani-mukherjee|/artist/kadambari,04:32,Odia,11-12-2010,0.58,0.14,0.768,0.425,-11.249,0.042,173.994,1,0,0.05,4,25,50971
+Saiji Saiji,Kudrat|Mina,/artist/kudrat|/artist/mina-2,03:04,Odia,03-04-2002,0.02,0.419,0.782,0.117,-4.671,0.06,172.998,0,10,0.076,4,65,7976322
+Mun Keun Saharey,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:05,Odia,10-04-2008,0.9,0.99,0.493,0.048,-11.575,0.07,174.023,0,9,0.068,4,79,7323646
+Krishna He Murari,Sikandar Alam,/artist/sikandar-alam,04:35,Odia,04-07-2016,0.25,0.03,0.652,0.331,-4.965,0.02,175,0,11,0.08,4,68,8149127
+Kankan Dashi,Mohd Aavid|Rajendra Sahani|Jagannatha Mohanty|Arun|Bandita Das|Manashi Nayak|Dr.Tarak Prashan Tripathi|Radhakanta Nanda,/artist/mohd-aavid|/artist/rajendra-sahani|/artist/jagannatha-mohanty|/artist/arun|/artist/bandita-das|/artist/manashi-nayak|/artist/drtarak-prashan-tripathi|/artist/radhakanta-nanda,54:33:00,Odia,02-04-2008,0.38,0.89,0.054,0.614,-10.89,0.099,172.022,0,4,0.079,4,97,6455329
+Srikrushnanka Koli Khiya (Part 2),Baidyanath Gayak Ratna Sharma|Bhimsen Satapathi,/artist/baidyanath-gayak-ratna-sarma|/artist/bhimsen-satapathi-3,05:55,Odia,01-06-2016,0.3,0.561,0.519,0.165,-4.441,0.05,174.006,0,10,0.063,4,55,9586629
+A Rickshaw Wala,Gopi Patnayak,/artist/gopi-patnayak,04:00,Odia,06-09-2003,0.47,0.72,0.161,0.577,-12.376,0.0618,174.016,0,8,0.058,4,31,9526840
+Mukuda Murari,Vani Jairam|Sudha Rama,/artist/vani-jayaram|/artist/sudha-rama,04:12,Odia,05-05-2014,0.74,0.478,0.27,0.55,-6.928,0.077,173.994,0,11,0.022,4,82,11039366
+Mukuda Murari,Vani Jairam|Sudha Rama,/artist/vani-jayaram|/artist/sudha-rama,04:12,Odia,10-10-2002,0.8,0.81,0.297,0.704,-5.262,0.0045,174.009,1,2,0.0786,4,85,3912278
+Janena Kahaku Mu Paichi Paichi,Shabbir Kumar|Anuradha Paudwal,/artist/shabbir-kumar|/artist/anuradha-paudwal-2,06:40,Odia,04-11-2019,0.88,0.122,0.448,0.501,-12.725,0.0137,173.969,1,0,0.0884,4,73,3433757
+Janame Rahichi,Bhikari Bal,/artist/bhikari-bal-1,03:51,Odia,06-08-2011,0.8,0.11,0.452,0.907,-2.322,0.05,174.056,1,6,0.0336,4,71,2168950
+Amora Manasi Asa,Sikandar Alam|S. Vidyarani,/artist/sikandar-alam|/artist/s-vidyarani-1,04:18,Odia,06-03-2018,0.33,0.495,0.342,0.352,-10.004,0.001,174.031,0,9,0.0416,4,73,773965
+He Mora Akhi Luha,Trupti Das,/artist/trupti-das,04:01,Odia,02-04-2021,0.57,0.61,0.702,0.23,-7.73,0.0167,174.001,0,10,0.0822,4,33,4595183
+Dhira Samire Yamuna Tire,Sikandar Alam,/artist/sikandar-alam,01:46,Odia,05-01-2016,0.59,0.79,0.998,0.732,-10.894,0.06,173.964,1,10,0.03,4,66,2203862
+Ghumura,Various Artist,/artist/various-artist,02:44,Odia,03-04-2006,0.5,0.45,0.573,0.809,-5.918,0.0803,173.963,1,5,0.0776,4,42,1197843
+Mo Manara Chadhei,Vani Jairam|Chittaranjan Jena,/artist/vani-jayaram|/artist/chittaranjan-jena-18,03:15,Odia,01-02-2018,0.24,0.274,0.732,0.664,-9.603,0.0195,173.987,1,11,0.03,4,94,4702544
+Manare Manare,Ghanashyam Panda,/artist/ghanashyam-panda,02:43,Odia,06-12-2012,0.72,0.84,0.901,0.298,-11.208,0.035,174.002,0,8,0.029,4,27,810473
+Bahu Shastra,Archana Das|Balakrishna Das,/artist/archana-das|/artist/balakrishna-das,03:47,Odia,05-12-2017,0.37,0.975,0.064,0.707,-8.261,0.07,174.008,0,10,0,4,76,2760507
+Alo Alo Ghara Bali,Sekhar Ghosh,/artist/sekhar-ghosh,03:14,Odia,09-01-2009,0.66,0.34,0.474,0.4,-6.495,0.0519,174.004,1,11,0.0224,4,58,9105218
+Uri Uri Uri,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:59,Odia,04-07-2013,0.55,0.368,0.659,0.069,-8.84,0.0891,172.998,0,1,0.01,4,65,9723991
+Hrudayaku Karidia,Geeta Patnaik,/artist/geeta-patnaik,04:43,Odia,07-11-2011,0.48,0.75,0.616,0.809,-3.606,0.054,173.94,1,1,0.09,4,57,476007
+Shyamaku Juhara,Mohan Sunder Deb Goswami,/artist/mohan-sunder-deb-goswami-1,04:04,Odia,06-01-2013,0.67,0.442,0.901,0.134,-6.639,0.025,173.874,0,10,0.013,4,73,8069429
+Bande Premamayee Radha,S. Janaki|balakrushna das,/artist/s-janaki|/artist/balakrushna-das,04:29,Odia,08-04-2015,0.57,0.95,0.137,0.499,-9.036,0.038,174.003,0,1,0.06,4,93,5459234
+Baha Baha Baha Dhabola,Mohammad Aziz|Akshaya Mohanty,/artist/mohammad-aziz|/artist/akshaya-mohanty,03:52,Odia,04-12-2010,0.6,0.619,0.54,0.327,-7.654,0.057,173.99,1,5,0.048,4,85,8934265
+Raatirey Aama Ghara Loka Sabu,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:15,Odia,07-06-2016,0.57,0.69,0.522,0.701,-4.09,0.02,174.037,0,5,0.0574,4,48,6708382
+Mu Abhimaanini Boli,Swarupa Chakravarty,/artist/swarupa-chakravarty,02:08,Odia,11-05-2016,0.37,0.446,0.179,0.384,-3.239,0.01,174.068,1,1,0.02,4,79,8990255
+Gelo Basarara Dina Sarigala,Manna Dey,/artist/manna-dey,03:29,Odia,03-01-2003,0.81,0.76,0.057,0.457,-8.719,0.016,174.994,0,11,0.08,4,95,9502360
+Baasa Mora - Sekhar Ghosh,Sekhar Ghosh,/artist/sekhar-ghosh,03:15,Odia,08-12-2018,0.19,0.657,0.263,0.321,-6.098,0.004,174.029,0,5,0.0826,4,81,598103
+Aau Se Janha Ku Na Khojibi,Vani Jairam|Laxmikant Palit,/artist/vani-jayaram|/artist/laxmikant-palit,02:03,Odia,07-03-2003,0.34,0.32,0.761,0.93,-9.866,0.011,174.022,0,8,0.0302,4,85,5919746
+Lekhide Lo,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,05:15,Odia,02-04-2009,0.32,0.447,0.547,0.58,-9.42,0.0737,173.94,0,11,0.073,4,69,5135697
+Jebe Tuhe Dekha Hula,Akshya Mohanty,/artist/akshya-mohanty,03:49,Odia,10-06-2015,0.15,0.22,0.494,0.604,-12.853,0.03,175.054,1,1,0.05,4,41,8492419
+Brundabane Banshi,Akshaya Mohanty,/artist/akshaya-mohanty,02:31,Odia,05-03-2015,0.82,0.235,0.74,0.847,-11.862,0,174.967,1,2,0.04,4,65,1902307
+Mote Bhulibaku,Subhash Das,/artist/subhash-das,05:07,Odia,07-11-2006,0.06,0.92,0.828,0.29,-9.629,0.077,174.004,1,6,0.076,4,88,11175030
+Mohabbat Ki Ye Rit Sikho Saian Jee,Geeta Rani Das,/artist/geeta-rani-das,06:08,Odia,02-04-2013,0.46,0.854,0.794,0.541,-13.308,0,175.453,0,4,0.036,4,54,317122
+Aahe Nila Sreela,Prafulla Kar,/artist/prafulla-kar,04:57,Odia,06-01-2010,0.62,0.15,0.686,0.682,-2.823,0.081,173.992,1,6,0.01,4,76,10481272
+Bandhure Shyamsundar,Ghanashyam Panda,/artist/ghanashyam-panda,03:33,Odia,11-07-2016,0.05,0.784,0.108,0.994,-12.493,0.0019,171.983,0,9,0.071,4,64,10916738
+Preama Tini Jaati,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:23,Odia,03-02-2010,0.46,0.69,0.572,0.648,-8.789,0.0545,173.964,0,9,0.02,4,92,9187649
+Ei Je Sagara Pirati Pagala,Sangeeta Mahapatra|Subasa Dash,/artist/sangeeta-mahapatra|/artist/subasa-dash,04:02,Odia,10-04-2022,0.84,0.216,0.03,0.447,-13.456,0.0945,175.157,0,6,0.04,4,93,2164118
+Mu Jhuruchhi,Naba Mahattam,/artist/naba-mahattam,05:00,Odia,11-12-2016,0.33,0.66,0.748,0.961,-9.667,0.069,174.05,0,10,0.094,4,90,384928
+Bhayena Dekha E Sasura,Prafulla Kar|Sikandar Alam,/artist/prafulla-kar|/artist/sikandar-alam,03:18,Odia,04-10-2021,0.64,0.194,0.006,0.102,-10.026,0.0379,173.046,0,6,0.0296,4,25,4554840
+Purba Janmare Kana,Kudrat,/artist/kudrat,03:55,Odia,10-01-2011,0.31,0.87,0.988,0.354,-13.102,0.0716,173.858,1,1,0.01,4,100,11189566
+Sadhu Jan Bandhu,Ira Mohanty|Krushna Chandra Mohanty,/artist/ira-mohanty|/artist/krushna-chandra-mohanty,04:32,Odia,04-05-2010,0.09,0.057,0.94,0.578,-11.79,0.093,175.003,0,10,0.031,4,74,10840194
+Nabaghana Barana,P. Susheela,/artist/p-suseela-2,03:08,Odia,02-02-2004,0.22,0.62,0.716,0.857,-12.874,0.0639,172.962,0,11,0.08,4,47,3167213
+Tuhme Mo Radha,Anuradha Paudwal|Chittaranjan Jena,/artist/anuradha-paudwal-2|/artist/chittaranjan-jena-16,04:59,Odia,01-03-2024,0.29,0.871,0.206,0.395,-2.418,0.0206,174.017,1,7,0.037,4,39,6252611
+Sabu Prema Aji Khola Khola,Pushpa Panda,/artist/pushpa-panda,03:49,Odia,03-09-2008,0.9,0.28,0.623,0.981,-13.9,0.072,174.06,1,0,0.0398,4,73,6827584
+Hallo Hallo Haluchi Para,Mohammad Aziz|Usha Mangeshkar,/artist/mohammad-aziz|/artist/usha-mangeshkar-2,05:00,Odia,07-06-2020,0.98,0.563,0.612,0.246,-6.166,0.0468,175.033,0,5,0.0938,4,38,11129725
+Bhagya Milejasa,Akshaya Mohanty,/artist/akshaya-mohanty,03:52,Odia,01-06-2003,0.49,0.45,0.711,0.46,-8.032,0.0344,173.996,1,1,0.01,4,68,10479167
+Manua Re Hari Nama Kara Bhajan,Swagatika,/artist/swagatika,04:00,Odia,05-02-2018,0.04,0.15,0.604,0.617,-8.361,0.0671,174.033,0,10,0,4,72,7149449
+Smita Dass,Srikanta Das,/artist/srikanta-das,03:03,Odia,08-05-2009,0.88,0.24,0.169,0.034,-13.339,0.034,173.985,1,8,0.04,4,89,9208423
+Dukhe Tumari Utsava Deepa,sunanda patnaik,/artist/sunanda-patnaik,04:12,Odia,07-05-2007,0.6,0.633,0.266,0.983,-13.463,0.01,174.05,1,0,0.09,4,78,4170314
+Lekha He Bako Jauchi Eko Nua Kahani,Anuradha Paudwal|Udit Narayan|Chorus,/artist/anuradha-paudwal-2|/artist/udit-narayan|/artist/chorus,05:28,Odia,06-09-2018,0.39,0.02,0.621,0.064,-5.249,0.0519,173.971,0,10,0.023,4,85,9429448
+Muna Babu Raja,Chittaranjan Jena,/artist/chittaranjan-jena-13,02:57,Odia,08-05-2015,0.49,0.226,0.23,0.451,-12.871,0.05,171.981,0,5,0.015,4,48,1473835
+Ei Chhota Kathatie Bhulo Na,Usha Mangeshkar|Pranab Kishore Patnaik,/artist/usha-mangeshkar-2|/artist/pranab-kishore-patnaik,03:23,Odia,11-02-2018,0.88,0.57,0.989,0.047,-4.833,0.0687,174.026,1,11,0.0118,4,94,2360808
+Nacha Nacha Sajani,Raghunath Panigrahi,/artist/raghunath-panigrahi,02:51,Odia,03-02-2006,0.35,0.582,0.64,0.466,-9.049,0.0396,174.029,1,0,0.1,4,67,8837860
+Calisalakha Najara,Kavita Krishnamurthy,/artist/kavita-subramaniam,05:47,Odia,07-02-2022,0.11,0.69,0.848,0.494,-10.818,0.0274,173.934,0,5,0.091,4,25,10517068
+Raakhi Re Riakhi,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:42,Odia,03-02-2006,0.36,0.417,0.035,0.963,-2.203,0.051,174.102,0,5,0.01,4,79,3572292
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:07,Odia,06-01-2004,0.5,0.39,0.445,0.176,-8.832,0.028,170.062,1,11,0.092,4,49,8995578
+Aakhi Buji Dele Kian,Pranab Kishore Patnaik|Aarti Mukherji,/artist/pranab-kishore-patnaik|/artist/aarti-mukherji,03:04,Odia,03-02-2010,0.4,0.902,0.383,0.533,-13.207,0.0306,176.002,1,3,0.02,4,87,7590765
+Shyamaku Juhara,Shyamamani Devi,/artist/shyamamani-devi-7,03:38,Odia,07-04-2004,0.72,0.99,0.92,0.093,-7.906,0.001,171.934,0,10,0.017,4,98,8225983
+Prema Nagar,mushir,/artist/mushir,03:31,Odia,04-03-2021,0.77,0.843,0.168,0.514,-10.205,0.04,173.989,1,6,0.069,4,45,11186084
+E Lina Tu Dine,Kudrat,/artist/kudrat,04:04,Odia,07-11-2005,0.79,0.24,0.049,0.152,-5.139,0.0372,173.898,0,1,0.09,4,68,5577826
+Kicchi Kahibara,Subhash Das,/artist/subhash-das,05:52,Odia,06-01-2021,0.95,0.636,0.249,0.737,-6.28,0.0252,173.941,0,9,0.04,4,83,5584426
+Mu Priyatama Se To,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:03,Odia,07-09-2013,0.12,0.02,0.187,0.936,-9.954,0.04,174.013,0,9,0.09,4,41,10045024
+Chaal Aame Palei Jiba Shahara,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:55,Odia,03-09-2010,0.37,0.748,0.396,0.151,-10.855,0.063,175.065,1,10,0.03,4,34,1051696
+Mun Jibi Mun Jibi,Santanu Mohapatra,/artist/santanu-mohapatra,04:49,Odia,12-12-2023,0.81,0.13,0.337,0.363,-6.428,0.011,174.906,0,11,0.0415,4,35,5718363
+Chiki Chiki Chikei,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,02:51,Odia,10-06-2017,0.88,0.229,0.057,0.881,-5.39,0.04,175.942,0,11,0.0541,4,45,7082487
+Mukhoji Buley Jaarey,Swarupa Chakravarty,/artist/swarupa-chakravarty,03:03,Odia,07-02-2017,0.01,0.6,0.087,0.637,-8.774,0.0872,175.002,0,10,0.013,4,80,1890026
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:14,Odia,11-12-2005,0.48,0.928,0.124,0.791,-3.753,0.0643,174,1,0,0.058,4,45,2386928
+Dukha Ete,Bani Joyram,/artist/bani-joyram,03:44,Odia,06-12-2010,0.76,0.58,0.552,0.628,-6.991,0.09,177.1,1,1,0.01,4,60,4660861
+To Ratha Dandi,Naba Mahattam,/artist/naba-mahattam,04:00,Odia,02-10-2005,0.84,0.556,0.202,0.63,-12.94,0.0916,172.038,0,8,0.05,4,96,10130235
+Mahabhav,Prafulla Kar,/artist/prafulla-kar,06:11,Odia,04-10-2003,0.61,0.66,0.633,0.511,-4.346,0.05,171.965,1,0,0.0012,4,63,5073614
+Jaya Jadu Nandan,Suman Kalyanpur,/artist/suman-kalyanpur,03:18,Odia,03-03-2012,0.44,0.009,0.104,0.812,-10.71,0.036,172.212,1,9,0.082,4,85,3508491
+Rupa Nai Kule Eka Chhota,Chandrani Mukherjee|Uttara Kelkar,/artist/chandrani-mukherjee|/artist/uttara-kelkar,04:40,Odia,09-04-2005,0.57,0.79,0.726,0.768,-6.439,0.078,173.029,0,4,0.0345,4,87,4018718
+Mathia Re Gote Kana,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,02:47,Odia,10-11-2006,0.18,0.624,0.168,0.659,-2.517,0.0817,174.072,1,2,0.0017,4,29,7840344
+Nali Chaha Chaha Sindoor Gori,Kavita Krishnamurthy|Uttara Kelkar|Udit Narayan|Chorus,/artist/kavita-subramaniam|/artist/uttara-kelkar|/artist/udit-narayan|/artist/chorus,06:10,Odia,09-01-2003,0.94,0.49,0.179,0.639,-10.991,0.037,173.969,1,1,0.04,4,77,9392613
+To Sathey Jibinee Mun,Pranab Kishore Patnaik|Aarti Mukherji,/artist/pranab-kishore-patnaik|/artist/aarti-mukherji,03:00,Odia,12-11-2006,0.09,0.215,0.549,0.505,-9.464,0.065,174.988,1,0,0.023,4,27,96670
+Jali Podi Deli,Subhash Das,/artist/subhash-das,06:00,Odia,01-04-2022,0,0.24,0.78,0.976,-5.296,0.1,173.998,0,10,0.069,4,37,5657201
+Pahili Ushara,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,04:39,Odia,11-04-2002,0.7,0.607,0.64,0.758,-2.582,0.0179,174.013,0,5,0.02,4,90,8313336
+Sei Neea Parideshe,Nirmal Mishra|Sikandar Alam,/artist/nirmal-mishra|/artist/sikandar-alam,03:14,Odia,04-12-2005,0.35,0.54,0.682,0.585,-13.706,0.031,173.092,1,5,0.0226,4,51,6925570
+Jala Aani Jai Kali,Bhubaneshwari Mishra,/artist/bhubaneshwari-mishra-28,03:48,Odia,05-10-2010,0.71,0.005,0.403,0.483,-10.611,0,173.992,0,11,0.045,4,32,3129005
+Udijae Pakhi,Ghanashyam Panda,/artist/ghanashyam-panda,03:05,Odia,01-06-2004,0.91,0.66,0.983,0.324,-7.326,0.052,174.084,0,5,0.03,4,55,6175971
+Kemiti Kahibi Tate,Sushree Sangeeta Mahapatra,/artist/sushree-sangeeta-mahapatra-4,03:21,Odia,01-04-2000,0.4,0.275,0.538,0.059,-10.767,0.0878,171.994,1,1,0.05,4,45,7219817
+Kride Karide Mote,Dibakar Mohanty,/artist/dibakar-mohanty,04:43,Odia,07-05-2001,0.24,0.96,0.042,0.629,-13.144,0.07,174.007,0,10,0.004,4,31,2937562
+Odissa Ta Kouthi,Leela Ghosh,/artist/leela-ghosh,04:37,Odia,01-12-2022,0.53,0.134,0.802,0.54,-3.96,0.05,173.992,0,6,0.04,4,36,9679447
+Age Bada Sina,Mitali Chinara,/artist/mitali-chinara,02:35,Odia,08-09-2001,0.87,0.87,0.186,0.187,-6.651,0.075,174.071,0,11,0.04,4,60,8064676
+Kanhi Se Ramya Nagari,Akshaya Mohanty,/artist/akshaya-mohanty,02:42,Odia,05-11-2006,0.66,0.833,0.054,0.57,-3.812,0.0013,173.9,0,0,0.093,4,92,7689570
+Jhenata Kukundari,Akshaya Mohanty,/artist/akshaya-mohanty,05:24,Odia,03-06-2001,0.81,0.98,0.444,0.558,-10.657,0.0245,175.015,1,6,0.01,4,85,2775852
+Ago Mata Basumati,Archana Das|Others|Binapani Nayak|Sadhana Das,/artist/archana-das|/artist/others|/artist/binapani-nayak-2|/artist/sadhana-das-1,03:16,Odia,05-12-2016,0.75,0.08,0.776,0.426,-13.368,0.07,172.034,1,0,0.07,4,44,1939620
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:16,Odia,12-01-2012,0.19,0.95,0.563,0.207,-2.326,0.0001,174.988,1,11,0.09,4,97,2156511
+Kaicho Mali,Arundhuti,/artist/arundhuti,05:25,Odia,05-01-2019,0.36,0.639,0.457,0.271,-13.962,0.05,173.998,0,5,0.0614,4,70,10458108
+Banya Sahajya Geet,Various Artist,/artist/various-artist,01:25,Odia,11-04-2004,0.4,0.82,0.572,0.765,-2.015,0.016,172.087,0,0,0.09,4,66,7459739
+Hai Hony,Prafulla Kar|Vani Jairam,/artist/prafulla-kar|/artist/vani-jayaram,03:18,Odia,10-09-2004,0.34,0.126,0.573,0.894,-4.478,0.051,175.036,1,1,0.1,4,36,1558286
+Mote Jana Aou Tumaku Jana (Duet),Akshaya Mohanty|Mitali Chinera,/artist/akshaya-mohanty|/artist/mitali-chinera,05:09,Odia,11-10-2022,0.37,0.27,0.991,0.324,-12.909,0.04,172.056,1,2,0.0235,4,63,7070201
+Alo Kala Sari,Trupti|JAYASHREE|Geetha|Meerabai,/artist/trupti|/artist/jayashree|/artist/geetha|/artist/meerabai,03:29,Odia,05-10-2003,0.09,0.452,0.842,0.938,-7.201,0.0329,173.035,0,6,0.092,4,50,9038561
+Mar Mar Goli Mar,Akshaya Mohanty|Bibhu Das,/artist/akshaya-mohanty|/artist/bibhu-das,04:00,Odia,09-10-2004,0.56,0.13,0.067,0.38,-7.33,0.064,174.976,1,1,0.0355,4,86,2780844
+Nirmala Bhaba Murati,Akshaya Mohanty,/artist/akshaya-mohanty,04:43,Odia,01-02-2007,0.13,0.614,0.971,0.924,-9.119,0.037,173.874,1,1,0.06,4,61,402484
+Dheere Dheere Ooth,Naba Mahattam,/artist/naba-mahattam,06:00,Odia,11-02-2017,0.17,0.45,0.735,0.559,-7.162,0.099,174.056,0,3,0.0534,4,78,9026548
+Duniare Sabu Dine,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:55,Odia,03-03-2004,0.04,0.865,0.39,0.966,-3.654,0.09,174.002,1,1,0.042,4,77,2347726
+Kahin Gala Jibanara,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:26,Odia,03-01-2002,0.86,0.25,0.662,0.791,-3.525,0.0412,174.931,0,9,0.0974,4,83,1153053
+Jaga Kaliya,Naba Mahattam,/artist/naba-mahattam,04:00,Odia,02-01-2012,0.57,0.451,0.128,0.961,-8.372,0.0332,173.914,0,6,0.061,4,95,9952951
+Aaj Mo Mano,S. Janaki,/artist/s-janaki,04:36,Odia,07-05-2018,0.22,0.06,0.897,0.517,-7.337,0.07,174.002,0,3,0.07,4,43,10436704
+Rai Go,Minati Bhanja,/artist/minati-bhanja-1,01:03,Odia,02-03-2008,0.64,0.849,0.813,0.621,-7.815,0.05,173.966,1,1,0.0213,4,27,1749726
+Ekla Ekla,Sasmita,/artist/sasmita,05:00,Odia,10-11-2018,0.36,0.43,0.711,0.313,-12.095,0.06,175.016,0,11,0.031,4,33,9719916
+Aasa Jeeba Aago Sulochana,Geeta Rani Das|Debashish Mohapatra,/artist/geeta-rani-das|/artist/debashish-mohapatra,05:05,Odia,10-07-2007,0.07,0.751,0.747,0.998,-9.204,0.037,171.968,0,4,0.0542,4,85,6420962
+Yea Jebana Alum Aa Re Title,Sourav Nayak,/artist/sourav-nayak,04:52,Odia,10-12-2019,0.94,0.85,0.863,0.343,-6.588,0.05,174.03,0,10,0.0351,4,97,3298519
+To Maha Bahuku,Bandita Roy,/artist/bandita-roy,03:54,Odia,12-04-2023,0.59,0.704,0.573,0.734,-4.192,0.0626,172.007,0,10,0.03,4,33,9274067
+Shyamaku Juhara,Bhubaneshwari Mishra,/artist/bhubaneshwari-mishra-27,03:56,Odia,07-09-2017,0.16,0.25,0.168,0.67,-7.337,0.007,174.013,1,8,0.0114,4,46,757401
+Dinabandhu Ehi Ali,Balakrishna Das,/artist/balakrishna-das,03:54,Odia,02-09-2019,0.41,0.65,0.451,0.144,-12.325,0.08,174.005,0,10,0.0387,4,83,7341014
+Barijakhi Manaru,Vani Jairam|Sudha Rama,/artist/vani-jayaram|/artist/sudha-rama,02:56,Odia,01-09-2001,0.06,0.22,0.07,0.994,-2.267,0.06,171.052,1,1,0.029,4,55,6205381
+Mo Naan Ti Lily,Kavita Krishnamurthy,/artist/kavita-subramaniam,05:26,Odia,01-01-2009,0.84,0.227,0.971,0.663,-8.205,0.01,175.052,1,8,0.04,4,41,2138838
+Manare Bhulijaye Bandhana,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:12,Odia,02-07-2022,0.76,0.95,0.317,0.233,-2.481,0.02,173.975,1,4,0.077,4,88,8165631
+Kshyamanu Kampa Dhara He,Bhikari Bal,/artist/bhikari-bal-1,03:41,Odia,05-11-2016,0.98,0.011,0.525,0.716,-2.116,0.05,174.03,0,10,0.069,4,37,8876686
+Sumara Chadli Rakhi Baku Rupara,Badal Kumar|Tripti Das,/artist/badal-kumar|/artist/tripti-das,03:28,Odia,01-02-2017,0.94,0.97,0.334,0.927,-7.341,0.0496,174.043,1,1,0.048,4,62,1861800
+Nani Nani Tu Tamora,Srikanta Das,/artist/srikanta-das,05:02,Odia,02-05-2020,0.3,0.965,0.765,0.636,-10.643,0.05,174.019,1,9,0.03,4,42,10985610
+Kala Srimukha Disiba,Subash Das,/artist/subash-das-1,03:02,Odia,12-08-2003,0.36,0.62,0.127,0.525,-6.28,0.073,174.99,1,7,0.0145,4,52,9146128
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:12,Odia,08-05-2011,0.88,0.873,0.365,0.556,-4.856,0.024,174.02,0,2,0.0309,4,55,10928964
+Chahat Champe Gori,Subash Das|Subhalaxmi Dash,/artist/subash-das-1|/artist/subhalaxmi-dash-2,03:29,Odia,10-12-2007,0.76,0.03,0.244,0.297,-12.215,0.02,173.986,1,1,0.0136,4,51,7488137
+Sathi Tume,Sourav Nayak|Lopita Mishra,/artist/sourav-nayak|/artist/lopita-mishra,04:40,Odia,11-04-2002,0.27,0.484,0.092,0.445,-6.659,0.0802,173.993,0,5,0.0527,4,46,5941110
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:55,Odia,02-06-2000,0.29,0.2,0.241,0.454,-5.795,0.051,174.046,1,0,0.03,4,88,2197863
+Asa Pura Kamini,P. Susheela,/artist/p-suseela-2,03:05,Odia,10-06-2000,0.76,0.726,0.705,0.335,-2.278,0.014,173.898,1,1,0.0137,4,90,11258061
+Janam Dine Sabaothu Basi,Udit Narayan|Chorus,/artist/udit-narayan|/artist/chorus,05:54,Odia,09-03-2010,0.32,0.61,0.916,0.333,-11.332,0.07,174.031,0,10,0.0406,4,65,9023182
+Kandarpar Mandra,Trupti Das,/artist/trupti-das,04:04,Odia,11-10-2019,0.4,0.162,0.065,0.919,-2.117,0.002,175.008,0,1,0.008,4,69,9108008
+Akhila Bramhnda Pati,Vani Jairam|Ramona,/artist/vani-jayaram|/artist/ramona,02:02,Odia,12-07-2014,0.28,0.64,0.376,0.342,-10.215,0.029,174.002,1,0,0.039,4,80,6433043
+Bata Chhada Bata Chhadi Diya,Prafulla Kar,/artist/prafulla-kar,04:36,Odia,05-03-2014,0.81,0.257,0.534,0.895,-8.332,0.02,173.986,0,7,0.089,4,37,2308264
+Banaste Dakila Gaja,Pushpa Panda,/artist/pushpa-panda,03:09,Odia,03-11-2021,0.61,0.96,0.869,0.048,-10.063,0.0058,174.04,0,4,0.0715,4,76,6512304
+Olli Olli,Bani Joyram,/artist/bani-joyram,03:13,Odia,07-07-2017,0.32,0.082,0.859,0.197,-8.286,0.03,174.031,1,1,0.084,4,65,9750344
+Hayre Kanhu Paye Bandhu,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:26,Odia,07-09-2005,0.7,0.98,0.163,0.463,-11.693,0.0387,174.987,1,7,0.0634,4,58,8523188
+Kahuthibi Sahuthibi,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,03:09,Odia,10-04-2020,0.29,0.752,0.187,0.273,-10.045,0.007,172.002,0,9,0.014,4,32,816068
+Bhati Bala Bhati Bala,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,03:00,Odia,10-02-2022,0.69,0.82,0.289,0.969,-11.118,0.023,172.001,0,4,0.0305,4,33,10659207
+Prabhata Sikhare,Prafulla Kar,/artist/prafulla-kar,06:02,Odia,08-01-2010,0.13,0.877,0.899,0.167,-2.096,0.053,175.09,1,7,0.01,4,89,922415
+Dhara Dhara Hoi,P. Susheela,/artist/p-suseela-2,03:06,Odia,12-04-2013,0.74,0.32,0.072,0.341,-2.142,0.01,174.018,0,1,0.1,4,93,3543754
+Ki Geeta Gaita Gaibi,Suman Kalyanpur,/artist/suman-kalyanpur,03:11,Odia,01-03-2023,0.86,0.931,0.448,0.357,-5.94,0.06,174.073,0,4,0.014,4,54,2069503
+Phula Rasiyare Mon Mor,Sandhya Mukherjee,/artist/sandhya-mukherjee,03:29,Odia,03-08-2015,0.94,0.56,0.402,0.633,-11.543,0.02,175.001,0,3,0.029,4,43,4811727
+Jibana Gale,Vani Jairam,/artist/vani-jayaram,03:16,Odia,08-04-2015,0.44,0.966,0.093,0.046,-4.889,0.0343,172.038,0,4,0.053,4,79,6073412
+Fata Kapalaku Bharija Mora,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,04:00,Odia,09-07-2020,0.05,0.58,0.525,0.623,-8.579,0.0229,174.034,1,1,0.0987,4,84,9672376
+Tume Ago Pahanti,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:26,Odia,02-01-2005,0.14,0.838,0.025,0.543,-8.013,0.07,173.035,0,0,0.03,4,66,5077005
+Akha Banda Chaka Banda,Leela Ghosh,/artist/leela-ghosh,03:32,Odia,03-07-2018,0.98,0.59,0.124,0.911,-8.674,0.09,175.004,1,5,0.01,4,92,2210894
+Jiba Mathura Mohana,Naba Mahattam,/artist/naba-mahattam,05:00,Odia,07-10-2017,0.17,0.572,0.863,0.494,-2.313,0.0102,172.029,1,1,0.1,4,63,479922
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:44,Odia,03-09-2006,0.77,0.11,0.591,0.345,-4.773,0.001,172.018,1,1,0.01,4,33,3044494
+Chhai Chai O,Vani Jairam,/artist/vani-jayaram,04:33,Odia,10-12-2014,0.72,0.255,0.272,0.624,-5.782,0.08,175.005,1,6,0.001,4,69,2091239
+E Je Bichheda,Subhash Das,/artist/subhash-das,04:53,Odia,11-01-2009,0.63,0.95,0.725,0.624,-4.345,0.1,173.982,0,6,0.01,4,66,1062604
+Muhan Muhin Kishora,Indira Pratihari,/artist/indira-pratihari-1,03:58,Odia,02-11-2011,0.72,0.73,0.798,0.23,-8.531,0.088,174.078,1,1,0.09,4,43,9286692
+Sriramanka Charita Suna,S. Janaki|Swagatika Rath,/artist/s-janaki|/artist/swagatika-rath,05:34,Odia,10-07-2004,0.8,0.96,0.11,0.195,-12.968,0.05,172.047,0,5,0.0824,4,64,5633189
+Mahu Machi Mahu Chahini,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:01,Odia,04-04-2004,0.15,0.89,0.903,0.923,-2.521,0.0821,175.046,1,5,0.0616,4,90,4466187
+Tume Jete Dure,Laxmikant Palit|Vani Jairam,/artist/laxmikant-palit|/artist/vani-jayaram,02:37,Odia,11-03-2015,0.82,0.33,0.771,0.378,-7.331,0.019,175.043,0,10,0.086,4,76,4096706
+Kaicho Mali Aha,Arundhuti,/artist/arundhuti,06:40,Odia,06-11-2013,0.77,0.396,0.864,0.451,-13.905,0.071,174.968,1,7,0.033,4,52,8491858
+Dharichi Jebe,Manna Dey,/artist/manna-dey,03:12,Odia,10-09-2010,0.33,0.81,0.21,0.044,-6.358,0.0518,173.994,0,5,0.0993,4,91,10673972
+Rama Jai Rama,Naba Mahattam,/artist/naba-mahattam,04:00,Odia,10-06-2020,0.91,0.573,0.181,0.1,-12.218,0.032,173.918,0,5,0.0866,4,45,10397166
+Om Hring And Khring And Khring,Prafulla Kar,/artist/prafulla-kar,03:44,Odia,03-10-2015,0.71,0.87,0.542,0.314,-12.953,0.0908,172.019,0,10,0.04,4,83,7749256
+Maninee Kane Mana,Subhash Das,/artist/subhash-das,01:44,Odia,06-01-2007,0.09,0.739,0.563,0.24,-7.337,0.0482,174.072,0,10,0.052,4,65,7619806
+Ae Ae Ae Kuade,Geeta Rani Das|Prafulla Kar,/artist/geeta-rani-das|/artist/prafulla-kar,03:52,Odia,04-03-2006,0.42,0.62,0.129,0.667,-13.781,0.055,174.976,0,1,0.07,4,48,9483579
+Tora Bada Danda Dhuli,Sekhar Ghosh,/artist/sekhar-ghosh,03:12,Odia,01-01-2014,0.54,0.005,0.327,0.363,-4.82,0.02,174.03,0,5,0.058,4,38,6277836
+Ase Usha Bhari,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:19,Odia,05-07-2018,0.79,0.45,0.523,0.696,-11.508,0.057,175,0,10,0.0919,4,64,1955153
+Jagata Karaja Natha,Naba Mahattam,/artist/naba-mahattam,04:00,Odia,12-09-2017,0.59,0.372,0.811,0.49,-3.242,0.06,173.999,0,5,0.0496,4,93,9442910
+Mo Bhale Thilaki Lihi,Prafulla Kar,/artist/prafulla-kar,04:01,Odia,05-09-2010,0.73,0.52,0.768,0.876,-3.475,0.06,174.034,0,8,0.0496,4,60,2418689
+Sukha Bitila,Akshya,/artist/akshya,05:50,Odia,10-02-2008,0.1,0.714,0.481,0.692,-3.844,0.005,171.92,0,10,0.0284,4,81,7848665
+Dhana Mora,Akshaya Mohanty,/artist/akshaya-mohanty,02:50,Odia,01-09-2012,0.36,0.85,0.527,0.338,-10.083,0,174.005,1,5,0.059,4,68,4790569
+Pangu Hue Aba,Vani Jairam,/artist/vani-jayaram,03:24,Odia,03-05-2021,0.64,0.43,0.689,0.929,-9.785,0.01,172.002,0,10,0.082,4,91,4247214
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,03:07,Odia,10-08-2005,0.25,0.72,0.15,0.983,-12.78,0.093,174.009,0,1,0.07,4,97,10170700
+Nilachale Asi,Sekhar Ghosh,/artist/sekhar-ghosh,03:17,Odia,04-09-2009,0.49,0.528,0.273,0.111,-4.58,0.035,173.962,0,5,0.012,4,91,9192928
+Ei Rimjhim Phula Jhara Barasare,Sekhar Ghosh,/artist/sekhar-ghosh,03:37,Odia,07-01-2009,0.62,0.74,0.899,0.54,-8.394,0.055,174.022,0,5,0.0763,4,95,1144059
+Nanda Suta - Prafulla Kar,Prafulla Kar,/artist/prafulla-kar,05:08,Odia,04-01-2023,0.46,0.316,0.353,0.374,-7.934,0.091,175.025,1,8,0.07,4,91,11010238
+Chaka Akhiaku,Bandita Roy,/artist/bandita-roy,05:52,Odia,04-01-2005,0.15,0.99,0.075,0.162,-9.88,0.0859,172.07,0,9,0.068,4,93,662260
+Kede Sati Lo Kede Sati,Sankar Ghosh,/artist/sankar-ghosh,02:59,Odia,07-07-2006,0.01,0.296,0.207,0.949,-9.302,0.04,174.979,0,10,0.05,4,55,8063417
+Tume Ta Dayalu Date,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:38,Odia,07-01-2011,0.45,0.79,0.332,0.022,-7.126,0.0801,172.96,1,1,0,4,57,5144670
+E Jhilmil Jhilmil,Nirmal Mishra,/artist/nirmal-mishra,02:52,Odia,07-02-2005,0.19,0.435,0.755,0.646,-4.375,0.0177,173.991,0,5,0.0875,4,85,404098
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:47,Odia,10-02-2009,0.48,0.92,0.792,0.079,-11.176,0.05,174.094,1,8,0.0442,4,76,3893785
+Ho Khilaji Janha,Vani Jairam|Chittaranjan Jena,/artist/vani-jayaram|/artist/chittaranjan-jena-17,03:46,Odia,04-12-2012,0.91,0.105,0.016,0.195,-8.676,0.03,174.032,0,10,0.058,4,84,4334595
+Akhi Nain Kana Nain,Km. Adyasa Roy,/artist/km-adyasa-roy,03:23,Odia,06-11-2017,0.55,0.11,0.499,0.585,-5.63,0.091,172.017,0,7,0.052,4,37,8570764
+Shree Jagannathanku,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,05:19,Odia,03-07-2013,0.27,0.443,0.187,0.93,-12.031,0.086,174.04,0,1,0.013,4,82,10068198
+Gobinda Bicharanti - Prafulla Kar,Prafulla Kar,/artist/prafulla-kar,06:27,Odia,11-03-2010,0,0.68,0.913,0.255,-11.024,0.022,173.09,0,10,0.06,4,44,8926198
+Konaraka Gatha - Akhshay Mohanty,Akshaya Mohanty,/artist/akshaya-mohanty,09:04,Odia,12-07-2016,0.28,0.964,0.419,0.87,-8.185,0.017,174.013,0,7,0.1,4,70,875087
+Age Age Bada Nana Jautiba,Swagtika Mohapatra,/artist/swagtika-mohapatra,05:00,Odia,04-08-2015,0.18,0.06,0.73,0.649,-13.146,0.037,174.033,1,1,0.0324,4,98,4190359
+Kataki Jhia,Leela Ghosh,/artist/leela-ghosh,06:03,Odia,05-01-2020,0.12,0.712,0.541,0.348,-3.339,0.0694,174.021,0,10,0.049,4,98,335746
+Paisa Tia Dia He Babu,Laxmikant Palit|Vani Jairam,/artist/laxmikant-palit|/artist/vani-jayaram,03:44,Odia,03-04-2012,0.07,0.41,0.763,0.56,-3.066,0.075,175.024,0,5,0.0583,4,46,3971645
+Maha Maha Basa Mahula,Chandrani Mukherjee,/artist/chandrani-mukherjee,05:22,Odia,12-02-2007,0.06,0.946,0.271,0.315,-4.345,0.02,174.054,1,1,0.064,4,37,3586799
+Ki Mantra Kala,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,03:56,Odia,11-12-2023,0,0.49,0.082,0.269,-5.125,0.0284,174.007,0,5,0.0242,4,34,5936527
+Bhamara Nachi Ja Re,Subash Das,/artist/subash-das-1,04:27,Odia,01-07-2001,0.61,0.15,0.54,0.878,-13.409,0.03,173.964,1,6,0.04,4,47,4266686
+Dholare Pasichi Musha,Subhash Das|Raghu Pradhan|P . Sarangi,/artist/subhash-das|/artist/raghu-pradhan|/artist/p-sarangi,05:46,Odia,01-07-2011,0.1,0.51,0.811,0.341,-12.979,0.09,173.99,0,6,0.092,4,82,4332002
+Tor Bina,Babu|Sasmita,/artist/babu|/artist/sasmita,04:00,Odia,11-05-2004,0.96,0.118,0.431,0.353,-5.898,0.032,171.928,1,0,0.1,4,60,9397782
+Nama Bighnaraja,Radhakrushna Bhanja,/artist/radhakrushna-bhanja-1,01:01,Odia,06-09-2001,0.01,0.42,0.578,0.146,-5.551,0.038,173.973,1,7,0.0808,4,97,6142619
+Kali Rati Re,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:04,Odia,08-01-2013,0.1,0.937,0.546,0.258,-12.25,0.0195,173.003,1,2,0.07,4,95,6794682
+Kali Kali,Sankar Ghosh,/artist/sankar-ghosh,02:55,Odia,02-03-2006,1,0.47,0.821,0.896,-9.682,0.0591,173.99,0,10,0.077,4,79,3423554
+89 I Love You,Sheikh Aazad|Chorus,/artist/sheikh-aazad|/artist/chorus,04:17,Odia,09-02-2022,0.01,0.968,0.024,0.573,-11.433,0.0623,172.074,0,6,0.016,4,94,6782764
+Nainlo Nain,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,05:09,Odia,08-05-2010,0.5,0.57,0.919,0.318,-10.127,0.06,174.004,0,2,0.06,4,38,5235674
+Majhunu Re Majunu,Lopita Mishra,/artist/lopita-mishra,05:01,Odia,02-01-2012,0.41,0.9,0.924,0.875,-4.816,0.091,173.98,0,5,0.059,4,96,2341730
+Tume Jaliachha,Dibakar Mohanty,/artist/dibakar-mohanty,05:17,Odia,11-01-2013,0.92,0.43,0.491,0.976,-11.735,0.0245,174.014,0,10,0.04,4,70,10699702
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:54,Odia,10-09-2007,0.2,0.092,0.062,0.146,-3.235,0.0784,176.002,1,2,0.0817,4,38,1808402
+E Ki Bichar,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,04:27,Odia,04-07-2008,0.11,0.44,0.931,0.088,-5.019,0.018,174.05,1,7,0.02,4,48,2298005
+Mathare Mo Deli Boli,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,03:57,Odia,05-11-2014,0.03,0.91,0.282,0.433,-10.557,0.0497,174.068,1,0,0.059,4,26,944616
+Suni Thaa Mohini,Debashish Mohapatra,/artist/debashish-mohapatra,03:25,Odia,09-03-2016,0.25,0.47,0.512,0.448,-12.598,0.07,173.972,0,6,0.087,4,72,6104393
+Sei Jhiaku Mun Baha Hebi,Arun Bose,/artist/arun-bose,04:00,Odia,03-12-2001,0.4,0.505,0.279,0.004,-2.652,0.082,173.918,1,5,0.0088,4,35,9370124
+Thare Hari Namo - Prafulla Kar,Prafulla Kar,/artist/prafulla-kar,05:51,Odia,04-09-2010,0.72,0.14,0.804,0.838,-2.966,0.002,172.097,0,5,0.069,4,72,9089244
+Aaja Eki Gumanare,Balakrishna Das,/artist/balakrishna-das,03:36,Odia,11-01-2013,0.56,0.958,0.464,0.028,-3.39,0.074,175.081,0,11,0.024,4,45,7571388
+E Mana Khoje Jaha,S. Janaki|Vani Jairam,/artist/s-janaki|/artist/vani-jayaram,06:04,Odia,03-02-2014,0.31,0.41,0.395,0.084,-6.205,0.022,175.013,0,5,0.01,4,71,5317235
+To Paadey Mu Chakradola,Aarati Goswami,/artist/aarati-goswami,02:51,Odia,11-02-2006,0.99,0.719,0.917,0.433,-4.669,0.044,173.975,0,7,0.04,4,98,8881252
+Ei Preeti Phoola Jhapa,Devashish Mahapatra|Swarupa Chakravarty,/artist/devashish-mahapatra|/artist/swarupa-chakravarty,04:01,Odia,08-01-2008,0.98,0.99,0.268,0.622,-7.874,0.05,174.058,1,6,0.099,4,46,10426508
+Duba Deyi Sukha Tora Manashibu Jain (Sad),Anuradha Paudwal,/artist/anuradha-paudwal-2,02:15,Odia,02-05-2016,0.14,0.107,0.948,0.595,-10.314,0.044,173.962,1,7,0.051,4,99,8978399
+Rubi Rubi Rubi,H. P. Geeta|Sikandar Alam,/artist/h-p-geeta-1|/artist/sikandar-alam,03:09,Odia,11-08-2008,0.94,0.49,0.101,0.596,-3.95,0.032,173.953,1,1,0.099,4,67,7711457
+Thaka Mana Chala Jiba,Balakrishna Das,/artist/balakrishna-das,04:02,Odia,09-06-2009,0.12,0.203,0.825,0.144,-12.7,0.0766,174.992,1,2,0.097,4,42,8396386
+Hata Dei Kaliare,Bikahs,/artist/bikahs,05:21,Odia,07-11-2010,0.48,0.98,0.41,0.35,-2.932,0.036,174.01,0,5,0.056,4,59,4035633
+Jogire Khoju Kahin,Vani Jairam,/artist/vani-jayaram,03:02,Odia,01-09-2014,0.68,0.577,0.419,0.87,-9.329,0.006,173.984,1,0,0.07,4,38,4886092
+Ki Rupe Pujibi Mago,Arati Misra,/artist/arati-misra,02:52,Odia,07-07-2021,0.56,0.16,0.435,0.172,-13.856,0.003,170.04,0,5,0.037,4,39,10643436
+Aare Kalakar Kalia,Prafulla Kar,/artist/prafulla-kar,03:55,Odia,04-03-2017,0.79,0.267,0.134,0.644,-11.559,0.0709,173.969,0,11,0.07,4,42,8593092
+Garibaku Babu Daya,Anuradha Paudwal|Swagatika Rath,/artist/anuradha-paudwal-2|/artist/swagatika-rath,05:00,Odia,09-05-2005,0.05,0.24,0.887,0.288,-6.068,0.078,173.018,1,6,0.01,4,89,6417769
+Gotie Rajara,Baby Kum Kum|Pranab Kishore Patnaik,/artist/baby-kum-kum|/artist/pranab-kishore-patnaik,02:51,Odia,09-12-2005,0.56,0.21,0.455,0.302,-4.998,0.04,175.012,0,9,0.01,4,64,1731126
+Jaya Jaya Jagannath,Prafulla Kar,/artist/prafulla-kar,04:39,Odia,09-10-2011,0.11,0.13,0.829,0.971,-13.314,0.09,174.025,0,10,0.06,4,76,4491505
+Tora Saja Phuta Dehaku,Sekhar Ghosh,/artist/sekhar-ghosh,03:04,Odia,06-04-2018,0.81,0.686,0.724,0.084,-2.521,0.0003,175.029,0,5,0.084,4,45,7621412
+O Bhaina,Vani Jairam,/artist/vani-jayaram,04:02,Odia,07-08-2005,0.93,0.46,0.857,0.364,-3.767,0.08,175.017,1,0,0.042,4,28,6542171
+Bhana Jabi,Prafulla Kar,/artist/prafulla-kar,03:05,Odia,10-04-2023,0.82,0.484,0.121,0.583,-8.486,0.08,174.024,1,8,0.07,4,47,7500002
+Kaudi Khaira Khela,Unknown,/artist/unknown,07:06,Odia,01-11-2002,0.69,0.7,0.723,0.185,-10.702,0.0825,174.058,0,9,0.0938,4,64,9986290
+Jana Asadhu Eta,Lipika Nanda,/artist/lipika-nanda,02:03,Odia,02-04-2020,0.49,0.529,0.552,0.041,-11.982,0.09,174.005,0,5,0.042,4,84,8141133
+Phool Jhari Lo Mo Phool Jhari,Suresh Wadkar|Swagatika Rath,/artist/suresh-wadkar|/artist/swagatika-rath,04:00,Odia,04-04-2003,0.62,0.93,0.72,0.254,-9.536,0.058,174.054,1,7,0.01,4,86,9921532
+Yuge Yuge Bhagabana,balakrushna das,/artist/balakrushna-das,04:33,Odia,11-01-2024,0.53,0.877,0.497,0.814,-4.987,0.0121,173.961,1,1,0.0903,4,48,3684562
+Sakhi Go,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,04:13,Odia,08-03-2004,0.26,0.78,0.428,0.833,-11.025,0.0238,174.002,0,9,0.0384,4,68,2139777
+Jibali Aamha Babu Jodi Nahche Gaare,Anuradha Paudwal|Leela|Chorus,/artist/anuradha-paudwal-2|/artist/leela|/artist/chorus,04:00,Odia,05-11-2015,0.28,0.442,0.986,0.635,-9.135,0.01,173.952,1,2,0.0533,4,99,6419227
+Jagannatha Mahaprabhu,Prafulla Kar,/artist/prafulla-kar,05:42,Odia,03-03-2009,0.07,0.31,0.673,0.189,-6.907,0.0647,171.998,1,5,0.0748,4,98,11219530
+Garv Anthem - An Anthem Created By Espn For The League,Unknown,/artist/unknown,02:16,Odia,10-09-2017,0.33,0.617,0.208,0.796,-9.578,0.0337,174.034,1,2,0.016,4,100,9373900
+Oh Aaji Kahako Jadima Diyachhi,Geeta Dash,/artist/geeta-dash,03:19,Odia,09-07-2010,0.05,0.36,0.009,0.898,-13.162,0.019,174.984,1,1,0.04,4,52,10006106
+Rati Rati Rati,Swagatika Rath,/artist/swagatika-rath,04:00,Odia,01-10-2022,0.86,0.258,0.132,0.752,-7.273,0.078,174.006,0,5,0.0087,4,86,6421926
+Bhajutha Mala,Atish Majumder,/artist/atish-majumder,03:25,Odia,09-06-2009,0.17,0.65,0.151,0.974,-12.42,0.0498,173.995,1,2,0.078,4,66,478869
+Kala Janha Kala Janha,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,Odia,11-12-2022,0.77,0.415,0.223,0.677,-3.817,0.06,174.998,0,1,0.08,4,70,5522617
+Ima Imma,Babu|Sasmita,/artist/babu|/artist/sasmita,04:00,Odia,03-03-2009,0.66,0.85,0.616,0.033,-3.881,0.0337,174.016,1,1,0.0342,4,53,9652954
+Alo Suna,Prafulla Kar|Swagatika Rath,/artist/prafulla-kar|/artist/swagatika-rath,02:17,Odia,12-02-2007,0.14,0.642,0.854,0.916,-10.517,0.09,174.99,0,6,0.0837,4,47,8814154
+Asara Kalash Phurna Kari Sakala Ase,Mitali Chinera,/artist/mitali-chinera,07:47,Odia,06-01-2013,0.88,0.37,0.886,0.273,-12.609,0.009,173.985,0,8,0.0407,4,90,6096486
+Kama Andhakara,Subhash Das,/artist/subhash-das,02:59,Odia,10-04-2022,0.72,0.055,0.89,0.821,-11.382,0.0147,170.014,0,6,0.0348,4,95,6076757
+Mote Guli Maro,Usha Uthup,/artist/usha-uthup,03:56,Odia,04-12-2010,0.88,0.92,0.939,0.446,-3.7,0.05,173.99,0,0,0.0224,4,61,7687273
+Rasika Aneka Thibe,Subhash Das,/artist/subhash-das,05:17,Odia,09-03-2014,0.13,0.573,0.461,0.506,-7.04,0.0425,174.02,0,5,0.07,4,35,9980245
+Tame Deithila Katha,Sourav Nayak,/artist/sourav-nayak,04:31,Odia,03-03-2018,0.12,0.08,0.72,0.353,-12.503,0.05,173.96,0,8,0.065,4,94,3629169
+Ye Rang Nua Nua,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,05:00,Odia,09-11-2011,0.74,0.941,0.41,0.52,-11.779,0.0869,173.981,1,1,0.0776,4,36,3528137
+Neta Ude Pharphar,Swagatika,/artist/swagatika,05:00,Odia,12-02-2006,0.91,0.44,0.224,0.331,-3.571,0.07,174.012,1,7,0.0091,4,30,5431976
+Kahide Kahide Sajani Lo,Nirmal Mishra,/artist/nirmal-mishra,03:14,Odia,07-03-2021,0.13,0.618,0.288,0.77,-12.714,0.009,175.023,0,11,0.009,4,84,7873561
+Basanta Bahi Gala,Arati Misra,/artist/arati-misra,03:32,Odia,09-05-2013,0.82,0.68,0.305,0.628,-4.306,0.02,174.002,1,2,0.1,4,50,6723625
+Chhaila Rama Ratana,Subash Das,/artist/subash-das-1,03:42,Odia,11-10-2003,0.05,0.8,0.511,0.49,-11.685,0.05,175.225,0,5,0.08,4,72,1830034
+Niladrau Sankha Madhye,Prafulla Kar,/artist/prafulla-kar,02:12,Odia,03-09-2019,0.11,0.94,0.639,0.089,-3.921,0.0155,170.026,0,11,0.01,4,80,5496545
+E Mone Naa,Aarti Mukherji,/artist/aarti-mukherji,02:55,Odia,07-07-2011,0.07,0.873,0.921,0.634,-10.289,0.0805,174.9,0,8,0.0468,4,77,1467829
+Naba Janbani Ya,Balakrishna Das,/artist/balakrishna-das,01:37,Odia,02-03-2011,0.27,0.88,0.652,0.651,-8.532,0.01,172.019,1,7,0.0557,4,67,3154530
+A Patha Sariba,Sekhar Ghosh,/artist/sekhar-ghosh,05:58,Odia,10-12-2012,0.45,0.439,0.407,0.278,-5.326,0.067,173.989,0,7,0.0824,4,94,7478775
+Rajani Pahila,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,05:00,Odia,03-02-2002,0.03,0.88,0.588,0.484,-10.792,0.057,173.999,0,4,0.03,4,63,8879834
+Mo Phata Phatia Babu,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,04:00,Odia,09-10-2001,0.94,0.224,0.172,0.403,-3.513,0,175.999,0,0,0.0744,4,52,4265240
+Kalia Re,Gopal Samantaray,/artist/gopal-samantaray-1,03:04,Odia,07-10-2005,0.34,0.77,0.128,0.837,-7.236,0.046,174.059,1,8,0.09,4,41,6088480
+Ratha Gadi Gala,Sekhar Ghosh,/artist/sekhar-ghosh,05:13,Odia,11-03-2019,0.78,0.737,0.716,0.472,-12.242,0.0022,174.841,0,7,0.09,4,57,1858553
+Jagata Mohana,S. Janaki|Swagatika Rath,/artist/s-janaki|/artist/swagatika-rath,03:03,Odia,02-11-2002,0.81,0.7,0.426,0.987,-3.969,0.0864,174.002,1,6,0.06,4,60,277529
+Papare Bharichhi,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,06:33,Odia,05-09-2015,0.53,0.904,0.303,0.322,-12.947,0.0925,175.006,0,2,0.0491,4,49,4401206
+Bhim Bhai Prema Kali,Subhash Das|Chorus,/artist/subhash-das|/artist/chorus,04:54,Odia,05-10-2009,0.97,0.26,0.315,0.085,-4.458,0.002,173.984,0,10,0.02,4,97,5781804
+Kathatie Kahoon,Raghunath Pradhan,/artist/raghunath-pradhan,06:48,Odia,09-01-2015,0.06,0.391,0.264,0.628,-11.522,0.071,172.104,0,8,0.007,4,40,11061193
+Jagannath,Sujan,/artist/sujan,05:58,Odia,01-10-2004,0.35,0.77,0.305,0.396,-8.656,0.02,174.026,1,1,0.066,4,98,6493797
+Mina To Chehara Bhala,Sekhar Ghosh,/artist/sekhar-ghosh,02:42,Odia,06-03-2013,0.83,0.863,0.604,0.818,-3.291,0.0877,177.002,0,8,0.0573,4,70,4768725
+Mote Jana Aou Tumaku Jana (Solo),Mitali Chinera,/artist/mitali-chinera,04:39,Odia,09-02-2010,0.2,0.79,0.27,0.749,-2.521,0.071,174.057,0,11,0.022,4,71,5922518
+Jharaona Maa Luha,S. Janaki|Swagatika Rath,/artist/s-janaki|/artist/swagatika-rath,03:39,Odia,04-10-2015,0.33,0.535,0.301,0.302,-13.222,0.0286,175.035,1,11,0.0572,4,84,2032625
+Bata Bhooli Asila Ki,S. Janaki,/artist/s-janaki,04:27,Odia,05-07-2018,0.52,0.99,0.284,0.48,-3.599,0.0926,173.885,1,2,0.0156,4,51,4944676
+Eyi Je Pahad Separe,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,06:00,Odia,12-03-2013,0.7,0.292,0.935,0.902,-13.487,0.087,174.124,0,3,0.0911,4,28,6116152
+Tu Mo Pani Jahaja,Pushpa Panda,/artist/pushpa-panda,03:11,Odia,09-06-2004,0.76,0.45,0.114,0.995,-13.695,0.01,173.974,0,10,0.0954,4,52,9908362
+Udi Udi Gala Saradhabali,Swagtika Mohapatra,/artist/swagtika-mohapatra,04:00,Odia,05-05-2002,0.24,0.158,0.384,0.647,-3.916,0.0946,174.097,1,0,0.0348,4,66,1661582
+Haladi Mukhi Sumukhi,Subash Das,/artist/subash-das-1,02:57,Odia,09-01-2022,0.88,0.46,0.437,0.151,-8.091,0.01,173.999,1,1,0.054,4,92,11139940
+Bhujatale Mote,Bhubaneshwari Mishra,/artist/bhubaneshwari-mishra-21,03:43,Odia,06-08-2013,0.35,0.15,0.196,0.428,-3.734,0.0639,171.999,0,8,0.0879,4,100,3059378
+Bhasija Bhasija,Tripti Das,/artist/tripti-das,03:15,Odia,07-11-2016,0.46,0.43,0.157,0.927,-4.96,0.0757,171.98,0,4,0.0239,4,34,4100667
+Kia Kahe Tote,Bandita Roy,/artist/bandita-roy,04:32,Odia,04-03-2018,0.35,0.461,0.86,0.977,-6.334,0.076,174.002,0,11,0.04,4,96,6972375
+Prema Mitha Mitha Cricket,Akshaya Mohanty|Hemanti Shukla,/artist/akshaya-mohanty|/artist/hemanti-shukla,03:00,Odia,01-01-2022,0.53,0.04,0.602,0.579,-4.359,0.05,172.048,0,5,0.076,4,60,6967319
+Dekh Dekh Dekh,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,Odia,12-10-2001,0.57,0.825,0.277,0.378,-10.979,0.05,176.994,1,11,0.0611,4,42,9268305
+Utha Utha Maha,Prafulla Kar,/artist/prafulla-kar,04:00,Odia,05-11-2005,0.98,0.16,0.09,0.844,-9.89,0.0007,174,0,10,0.085,4,83,2039889
+Na Chui Bone,Arundhuti,/artist/arundhuti,04:53,Odia,12-12-2022,0.75,0.704,0.224,0.605,-9.847,0.001,174.007,0,8,0.072,4,93,8048275
+Bohu Aanu Pahi Pahi Ki,Kavita Krishnamurthy,/artist/kavita-subramaniam,02:43,Odia,08-06-2021,0.09,0.63,0.698,0.785,-10.61,0.07,173.982,0,1,0.014,4,31,2058693
+Kichi Shadhi Kichi Beni,Smita Dass|Srikanta Das,/artist/smita-dass|/artist/srikanta-das,03:09,Odia,06-01-2008,0.23,0.701,0.83,0.045,-3.378,0.0798,174.016,0,1,0.0231,4,74,5219087
+Kebhe Aela,Babu|Sasmita,/artist/babu|/artist/sasmita,06:00,Odia,01-11-2008,0.42,0.21,0.057,0.821,-3.408,0.04,174.023,1,7,0.08,4,99,8048201
+Madhure Manda Manda,Balakrishna Das,/artist/balakrishna-das,04:04,Odia,12-10-2016,0.94,0.514,0.095,0.127,-3.643,0,174.012,0,10,0.061,4,54,5140610
+Jibanarey Hasa Name,K J Yesudas,/artist/k-j-yesudas,03:49,Odia,11-11-2010,0.42,0.72,0.259,0.207,-4.456,0.04,171.995,0,5,0.082,4,35,11142232
+Andhara Khanjani,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:26,Odia,05-03-2000,0.99,0.861,0.162,0.86,-3.077,0.0195,172.021,0,1,0.0443,4,86,1522126
+Jebe Nabaghana,Bhubaneshwari Mishra,/artist/bhubaneshwari-mishra-25,03:56,Odia,06-02-2006,0.2,0.93,0.589,0.716,-5.08,0.09,174.999,1,1,0.066,4,47,7369615
+Dekhili Aja,Subhalaxmi Dash,/artist/subhalaxmi-dash,03:25,Odia,06-07-2012,0.71,0.952,0.682,0.443,-8.476,0.076,173.971,0,5,0.02,4,39,4354675
+To Lagi Bada Danda,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,Odia,12-05-2016,0.82,0.56,0.952,0.546,-7.804,0.038,173.988,0,0,0.0845,4,75,8149769
+A Janha Tara,Raghunath Panigrahi,/artist/raghunath-panigrahi,04:21,Odia,03-08-2012,0.84,0.685,0.477,0.139,-12.372,0.052,171.979,0,1,0.01,4,79,4258927
+Kalia To Lagi Nupura Gadhili,Swagatika,/artist/swagatika,04:00,Odia,09-01-2005,0.26,0.36,0.308,0.527,-5.277,0.0317,175.985,0,11,0.05,4,80,6604646
+Chhanda Charana,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:34,Odia,02-09-2009,0.22,0.787,0.887,0.225,-10.253,0.042,173.985,1,0,0.0414,4,84,9170287
+Chikana Chikana,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,06:00,Odia,03-02-2014,0.97,0.73,0.805,0.335,-9.496,0.03,174.028,1,1,0.09,4,51,3869987
+Bhauja Nakarey Suna Phasia,Meenakshi Nanda|Aarti Mukherji,/artist/meenakshi-nanda|/artist/aarti-mukherji,04:11,Odia,07-06-2022,0.52,0.569,0.537,0.04,-9.588,0.0018,174.029,0,8,0,4,37,6559337
+Aalo Aalo Moro Aleicha,Geeta Rani Das,/artist/geeta-rani-das,03:19,Odia,06-12-2017,0.4,0.5,0.23,0.777,-13.988,0.0333,174.976,0,8,0.078,4,69,614840
+He Bhagate,Anuradha Paudwal,/artist/anuradha-paudwal-2,06:00,Odia,02-11-2006,0.11,0.616,0.806,0.167,-2.22,0.0652,172.028,0,0,0.04,4,43,1741331
+Chandramallika,Vani Jairam|Pranab Kishore Patnaik,/artist/vani-jayaram|/artist/pranab-kishore-patnaik,03:09,Odia,07-09-2006,0.42,0.36,0.334,0.26,-10.281,0.03,173.888,1,2,0.06,4,31,2289938
+Taru Khoje Khara (Sad),Anuradha Paudwal,/artist/anuradha-paudwal-2,05:42,Odia,06-04-2009,0.74,0.155,0.673,0.957,-11.014,0.001,174.036,0,11,0.0507,4,83,2411445
+Dhali Dhali Ama Holi Holi,Swagatika,/artist/swagatika,04:00,Odia,06-11-2018,0.57,0.45,0.812,0.661,-4.676,0.016,174.09,0,2,0.0679,4,89,7863580
+Galuni Sari Sama He,Vani Jairam,/artist/vani-jayaram,04:54,Odia,12-10-2018,0.83,0.71,0.768,0.519,-10.401,0.1,175.084,1,2,0.0283,4,95,7727217
+Bhakta Jane Pacharuchhi Kahare Kalia,Swagtika Mohapatra,/artist/swagtika-mohapatra,03:00,Odia,08-04-2011,0.03,0.41,0.028,0.186,-12.38,0.0389,173.975,1,1,0.0308,4,46,3013950
+Mote Gote Bottle De,Mohammed Aabid,/artist/mohammed-aabid,05:00,Odia,01-10-2002,0.8,0.05,0.041,0.33,-4.585,0.044,174.003,0,7,0.081,4,51,585516
+Naba Nirada Sundara,Prafulla Kar,/artist/prafulla-kar,04:00,Odia,07-12-2015,0.7,0.59,0.425,0.403,-7.846,0.01,174.067,1,1,0.03,4,29,672852
+Chakadola Tuem,Sekhar Ghosh,/artist/sekhar-ghosh,04:27,Odia,10-08-2004,0.61,0.892,0.657,0.273,-2.24,0.01,174.026,0,10,0.02,4,94,4067252
+Sri Suka Ubacha,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:28,Odia,08-06-2000,0.4,0.4,0.24,0.309,-3.491,0.058,175.128,1,0,0.026,4,34,811594
+Babu Ta Babu Danei Babu,Sekhar Ghosh,/artist/sekhar-ghosh,03:14,Odia,05-09-2012,0.73,0.912,0.836,0.166,-3.177,0.05,173.914,1,11,0.0602,4,42,1145473
+To Pain Bandhili,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,05:42,Odia,02-03-2022,0.47,0.52,0.805,0.005,-11.15,0.05,173.017,0,11,0.0086,4,64,3332565
+Shyama Pirati,Vani Jairam,/artist/vani-jayaram,03:53,Odia,03-07-2014,0.66,0.326,0.143,0.148,-9.768,0.06,174.015,1,1,0.08,4,75,4853254
+Mandire Tote,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,04:11,Odia,12-01-2018,0.64,0.31,0.916,0.559,-8.367,0.055,175.013,0,10,0.09,4,65,4126559
+Nagari Janaku Sina,S. Janaki,/artist/s-janaki,04:34,Odia,05-04-2013,0.89,0.887,0.682,0.42,-8.216,0.04,174.032,0,0,0.03,4,87,7689988
+Rumjhum Tora Chaliki,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,03:00,Odia,01-07-2017,0.37,0.27,0.163,0.094,-11.872,0.0428,174.026,0,8,0.0394,4,89,9118756
+Jhure Sathi Bina Mana,Lopita Mishra,/artist/lopita-mishra,05:29,Odia,09-09-2011,0.74,0.902,0.351,0.513,-4.874,0,171.981,1,4,0.01,4,65,8519588
+Kiese Muhin Janunaki,Prafulla Kar,/artist/prafulla-kar,02:25,Odia,08-08-2006,0.17,0.07,0.245,0.902,-8.126,0.04,173.968,1,7,0.0489,4,41,6725359
+Suna Nei Ja,Leela Ghosh,/artist/leela-ghosh,03:42,Odia,01-01-2020,0.33,0.766,0.079,0.967,-6.79,0.0224,172.019,1,8,0.1,4,75,5617252
+Bhidedere Kalia,Bikahs,/artist/bikahs,05:13,Odia,11-02-2003,0.07,0.4,0.343,0.646,-4.641,0.08,173.969,1,7,0.0837,4,57,9400332
+Mori Jidoku Ma Lchha,Swagatika,/artist/swagatika,04:00,Odia,03-07-2006,0.34,0.872,0.456,0.436,-7.804,0.02,172.035,1,0,0.02,4,35,795475
+Sanchare Mana,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,Odia,07-11-2021,0.89,0.09,0.605,0.232,-4.758,0.05,174.986,0,6,0.07,4,35,7365665
+Olei Bharija,Sekhar Ghosh,/artist/sekhar-ghosh,03:07,Odia,11-02-2009,0.07,0.059,0.21,0.292,-7.852,0.037,172.057,1,1,0.046,4,34,3913870
+Jete Jahin Achha,Prafulla Kar,/artist/prafulla-kar,03:01,Odia,10-02-2009,0.94,0.05,0.311,0.074,-5.104,0,173.894,0,8,0.09,4,95,2902248
+Goda Jod Ka,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:23,Odia,03-03-2004,0.93,0.255,0.376,0.312,-8.18,0.0727,174.006,0,7,0.0011,4,69,2190645
+Siri Siri Sita,Pushpa Panda,/artist/pushpa-panda,03:18,Odia,04-03-2008,0.03,0.78,0.719,0.456,-13.703,0.025,173.997,1,1,0.07,4,34,8528990
+Chhadanahe Chhadana,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:30,Odia,07-04-2013,0.58,0.561,0.423,0.104,-12.214,0.1,174.988,0,10,0.07,4,66,10636456
+Nadi Nadi Alo Nadi,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,04:00,Odia,07-08-2017,0.9,0.66,0.037,0.598,-7.799,0.0289,171.824,1,8,0.0074,4,90,10686031
+Pacharibu Jadi,Bandita Roy,/artist/bandita-roy,04:58,Odia,09-11-2001,0.11,0.489,0.421,0.574,-2.871,0.019,175.003,0,5,0.0112,4,85,8059663
+Sakhire Goparu Gopinatha,Sekhar Ghosh,/artist/sekhar-ghosh,04:31,Odia,10-03-2022,0.11,0.2,0.616,0.201,-3.795,0.01,173.979,0,5,0.0779,4,56,7221222
+Priya Priya Nera Priya,Badal Kumar,/artist/badal-kumar,05:39,Odia,02-05-2012,0.3,0.183,0.998,0.056,-9.853,0.075,171.905,0,10,0.02,4,58,11043355
+Sinduka Bhitare,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,05:36,Odia,03-02-2007,0.05,0.97,0.582,0.664,-12.542,0.0624,173.97,0,9,0.069,4,66,9588347
+Asami Mushir,mushir,/artist/mushir,04:25,Odia,10-11-2009,0.46,0.817,0.269,0.502,-8.346,0.099,175.025,0,8,0.02,4,27,11296670
+Bhauja Go,Subhalaxmi Dash,/artist/subhalaxmi-dash-1,02:05,Odia,05-09-2002,0.56,0.35,0.518,0.872,-3.281,0.0578,172.021,1,11,0.0678,4,95,6176002
+Howle Howle Kariba Prema,Santanu Mohapatra,/artist/santanu-mohapatra,04:56,Odia,12-08-2003,0.28,0.798,0.549,0.275,-8.458,0.042,174.033,1,8,0.0822,4,41,11077612
+Darsana Delu,Sekhar Ghosh,/artist/sekhar-ghosh,03:33,Odia,07-08-2005,0.78,0.66,0.251,0.861,-13.401,0.082,172.013,1,11,0.01,4,87,3319828
+Nacha Nacha Sajani,Raghunath Panigrahi,/artist/raghunath-panigrahi,02:51,Odia,09-01-2011,0.51,0.153,0.266,0.079,-8.631,0.0477,174.953,0,1,0.052,4,49,6412940
+Keti Dina Dekhibu Tu,Siddhartha Mishra,/artist/siddhartha-mishra,06:06,Odia,10-01-2012,0.61,0.14,0.484,0.044,-12.651,0.0173,174.043,1,0,0.07,4,64,11331341
+Muha Kholi Thare,Sekhar Ghosh,/artist/sekhar-ghosh,03:25,Odia,03-02-2014,0.12,0.013,0.652,0.971,-5.175,0.0626,175.02,0,8,0.0295,4,50,7289551
+Mu Chalichhi,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,05:00,Odia,02-05-2012,0.76,0.69,0.519,0.26,-10.997,0.01,173.982,0,4,0.07,4,56,6182759
+Kete Banka Dei Bahi Jae Nai,Hemanti Shukla,/artist/hemanti-shukla,03:00,Odia,07-06-2007,0.65,0.08,0.042,0.553,-3.143,0.0765,174.091,0,10,0.0516,4,51,2455574
+Gadiala Bhai Dharichhi Sura,Arati Misra,/artist/arati-misra,03:28,Odia,11-04-2018,0.59,0.87,0.449,0.115,-12.664,0.06,172.082,0,4,0.0364,4,62,10156320
+Ki Kahibi Tara,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,04:18,Odia,04-02-2022,0.62,0.678,0.364,0.284,-11.506,0.014,174.031,0,1,0.024,4,63,8163960
+Kotha Upare Dekhili,Mohammed Aabid,/artist/mohammed-aabid,04:00,Odia,12-11-2015,0.9,0.18,0.151,0.66,-9.947,0.07,172.95,1,7,0.059,4,71,6936159
+Pit Dengura Pit,mushir,/artist/mushir,03:29,Odia,05-03-2005,0.91,0.449,0.35,0.019,-4.092,0.0527,170.027,0,9,0.03,4,96,5668512
+Jagannatha Keun Ade,Anuradha Paudwal,/artist/anuradha-paudwal-2,03:00,Odia,01-11-2020,0.43,0.83,0.505,0.336,-11.879,0.0783,169.857,0,9,0.0886,4,51,11367321
+Gaya Gaya Nanda,Prafulla Kar,/artist/prafulla-kar,03:16,Odia,09-01-2019,0.4,0.282,0.737,0.403,-3.906,0.04,174.088,0,6,0.0532,4,60,1274682
+He Govinda,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,Odia,09-04-2001,0.31,0.58,0.494,0.627,-13.48,0.081,174.008,1,1,0.082,4,50,6375766
+Dei Achha Sina,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,06:12,Odia,10-08-2023,0.67,0.869,0.041,0.764,-12.685,0.0701,173.007,1,6,0.08,4,38,5011288
+Ahe Moha Bahu,Swagatika,/artist/swagatika,04:00,Odia,05-02-2001,0.22,0.34,0.095,0.056,-3.888,0.0547,175.128,0,9,0.065,4,41,755910
+Juge Juge,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,04:45,Odia,08-02-2006,0.51,0.158,0.407,0.208,-6.432,0.05,172.024,0,11,0.03,4,32,4761303
+Dum Dum Dum Bajere,Arun Ingle,/artist/arun-ingle,04:53,Odia,12-05-2000,0.36,0.47,0.707,0.526,-4.665,0.0856,174.045,0,9,0.02,4,72,11077400
+Jibane Luha Bina,Mahendra Kapoor,/artist/mahendra-kapoor,06:00,Odia,11-12-2006,0.73,0.945,0.66,0.771,-12.215,0.085,175.004,1,1,0.05,4,93,7586751
+Mote Dekhile,Swagatika Mahapatra,/artist/swagatika-mahapatra,04:04,Odia,05-03-2016,0.2,0.31,0.508,0.271,-5.352,0.041,172.038,1,6,0.015,4,65,3496320
+Dhana Kheta Dhane Ho,Badal Kumar,/artist/badal-kumar,06:38,Odia,11-10-2007,0.8,0.281,0.44,0.893,-6.642,0.0664,174.097,1,1,0.055,4,67,939622
+Bah Bah Baha Majedar,Geeta Rani Das,/artist/geeta-rani-das,03:47,Odia,08-01-2010,0.9,0.53,0.789,0.781,-4.626,0.05,173.952,1,2,0.048,4,36,2982723
+Tumeita Jagannatha Sunibamo Guhari,Swagtika Mohapatra,/artist/swagtika-mohapatra,04:00,Odia,01-02-2013,0.76,0.095,0.863,0.439,-6.687,0.04,172.015,0,10,0.07,4,57,10249444
+Bada Dande Galu,Anuradha Paudwal,/artist/anuradha-paudwal-2,06:00,Odia,01-01-2014,0.58,0.99,0.402,0.75,-8.495,0.0169,174.006,0,5,0.0728,4,41,6937794
+Dekha Bhida Hu Dekha,Swagatika,/artist/swagatika,05:00,Odia,11-07-2016,0.89,0.632,0.068,0.351,-10.044,0.06,174.943,1,1,0.0246,4,64,3044270
+Kalapabata Mule,Raghu Sahoo,/artist/raghu-sahoo,05:47,Odia,11-12-2017,0.02,0.97,0.637,0.078,-11.847,0.09,174.037,1,11,0.074,4,60,7447090
+To Jeebana Lnhoi,Pranab Kishore Pattnayak,/artist/pranab-kishore-pattnayak,06:44,Odia,04-03-2017,0.71,0.13,1,0.942,-3.843,0.0045,173.998,1,1,0.027,4,57,9611927
+Aa Baula,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,04:09,Odia,10-02-2024,0.29,0.69,0.979,0.786,-10.202,0.0878,174.781,0,10,0.081,4,69,2554837
+Mora Joga Puri Khe,Swagatika,/artist/swagatika,04:00,Odia,05-12-2000,0.46,0.341,0.162,0.104,-10.354,0.088,175.835,0,11,0.0513,4,83,3224741
+Manar Katha,Babu|Sasmita,/artist/babu|/artist/sasmita,04:00,Odia,03-03-2019,0.36,0.11,0.323,0.266,-2.93,0.092,174.031,0,0,0.003,4,26,6826679
+Mana Lova Aakhi,Sujan,/artist/sujan,05:38,Odia,03-08-2010,0.58,0.403,0.77,0.678,-10.656,0.095,174.027,1,0,0.0779,4,46,4379212
+Niladrau Sankha Madhye,Prafulla Kar,/artist/prafulla-kar,02:12,Odia,07-11-2019,0.87,0.11,0.965,0.347,-6.63,0.02,171.994,0,4,0.03,4,44,3144785
+Majhi Re,Debashish Dasgupta,/artist/debashish-dasgupta-1,06:00,Odia,11-02-2009,0.04,0.792,0.124,0.665,-13.572,0.01,173.978,0,2,0.0909,4,97,1104570
+Kie Ethi Peta Poshe,Santanu Mohapatra,/artist/santanu-mohapatra,03:46,Odia,08-06-2019,0.83,0.52,0.383,0.751,-2.937,0.07,174.077,1,7,0.017,4,89,5803940
+Sathi Saji,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,04:00,Odia,03-02-2010,0.09,0.726,0.827,0.398,-12.076,0.06,175.018,0,4,0.048,4,81,5376701
+Ei Rum Jhum Jhum Barasha,Geeta Patnaik,/artist/geeta-patnaik,03:09,Odia,01-09-2017,0.2,0.54,0.678,0.762,-3.214,0.051,174.036,0,10,0.051,4,43,1553568
+Manaku Mo Delakiye,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,04:00,Odia,07-03-2011,0.31,0.267,0.57,0.314,-2.833,0.081,173.954,1,2,0.061,4,86,5576233
+Ma Lo Ma,Leela Ghosh,/artist/leela-ghosh,04:43,Odia,07-04-2008,0.01,0.89,0.566,0.114,-8.339,0.0897,172.974,0,6,0.03,4,70,9229156
+Are Are Guri,Babloo|Sangeeta,/artist/babloo|/artist/sangeeta,05:00,Odia,02-02-2013,0.55,0.364,0.556,0.984,-3.447,0.03,174.008,1,10,0.072,4,90,2633051
+Ma Ma Bali,Swagatika,/artist/swagatika,05:00,Odia,07-03-2018,0.32,0.85,0.404,0.857,-10.748,0.01,174.092,0,10,0.09,4,59,1269741
+Ie Go Mita Kie,Prafulla Kar,/artist/prafulla-kar,03:17,Odia,05-04-2022,0.68,0.441,0.882,0.215,-3.329,0.0397,176.009,1,7,0.046,4,70,9930666
+Saje Mu,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,04:00,Odia,03-01-2018,0.9,0.6,0.561,0.004,-12.116,0.092,175.052,0,10,0.03,4,61,7923546
+Tu Kiyan Karuchhu Dukha,Anindita Das,/artist/anindita-das,06:46,Odia,03-02-2013,0.41,0.605,0.932,0.725,-13.078,0.0189,174.045,1,10,0.0372,4,94,10143989
+Enta Duipaharia,Naba|Sangeeta,/artist/naba|/artist/sangeeta,05:00,Odia,04-01-2019,0.29,0.46,0.017,0.439,-12.394,0.048,174.99,1,1,0.05,4,99,6330556
+Kahile Ta Kula,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,06:16,Odia,10-01-2019,0.64,0.067,0.067,0.522,-9.49,0.0128,174.984,1,7,0.0434,4,73,7506605
+Chalare Chala Jiba,Laxmikant,/artist/laxmikant-1,05:07,Odia,01-01-2014,0.96,0.12,0.275,0.47,-10.786,0.0006,173.984,1,7,0.03,4,98,9259558
+Pataka Udri Nandi Ghosha Rathai,Swagatika,/artist/swagatika,05:00,Odia,06-05-2008,0.02,0.198,0.803,0.289,-4.988,0.0884,173.964,1,5,0.0662,4,35,7206129
+Nahire Nahire Kalia,Laxmikant,/artist/laxmikant-1,04:37,Odia,03-08-2001,0.02,0.7,0.771,0.621,-9.937,0.072,174.012,1,0,0.07,4,98,1399905
+Bahuthara Pacharile Jie,Mina Mohanty|Snigdha Nayaik,/artist/mina-mohanty-1|/artist/snigdha-nayaik-1,05:18,Odia,10-02-2004,0.73,0.001,0.871,0.018,-3.94,0.043,174.982,1,1,0.07,4,59,9878783
+Dukha Dei Haschhure,Sekhar Ghosh,/artist/sekhar-ghosh,03:12,Odia,10-04-2002,0.85,0.13,0.056,0.691,-7.125,0.0598,173.961,1,1,0.0173,4,31,7118329
+Kali Rati Rey,Mohapatro Minati Bha,/artist/mohapatro-minati-bha,04:43,Odia,02-08-2018,0.11,0.818,0.967,0.101,-10.426,0.01,174.969,1,2,0.01,4,89,8189240
+Badhila Jani Khyama,Prafulla Kar,/artist/prafulla-kar,03:02,Odia,03-11-2011,0.88,0.53,0.556,0.903,-13.972,0.002,174.018,1,0,0.0915,4,70,11018779
+Bapa Mote Kahile,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,06:00,Odia,06-12-2022,0.29,0.984,0.217,0.691,-8.327,0.06,171.979,0,3,0.0802,4,79,5015232
+Sapana Nayeeka,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,05:00,Odia,04-07-2009,0.13,0.77,0.398,0.366,-4.675,0.01,174.022,0,10,0.06,4,44,1885955
+A Jibana Nuhe Mora,Sujan,/artist/sujan,05:26,Odia,06-06-2004,0.83,0.003,0.534,0.393,-11.34,0.065,173.999,1,0,0.0341,4,60,1518975
+Jaare Toka Jaa,Mohammed Aabid|Nandita Bhanja,/artist/mohammed-aabid|/artist/nandita-bhanja,04:00,Odia,11-07-2017,0.11,0.2,0.73,0.726,-3.952,0.066,174.037,1,8,0.057,4,62,4631982
+Jete Rati,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,04:39,Odia,02-08-2015,0.18,0.189,0.234,0.17,-7.472,0.044,173.461,0,5,0.02,4,84,9778764
+Suna Bainshi,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,06:35,Odia,09-12-2000,0.67,0.37,0.006,0.533,-13.31,0.0894,174.019,0,8,0.01,4,63,4999185
+Aalo Bengi Kahinki,Mamta Sahu|Mohammad Sazid,/artist/mamta-sahu|/artist/mohammad-sazid,05:47,Odia,10-05-2021,0.98,0.753,0.113,0.743,-3.064,0.0653,174.034,0,5,0.0333,4,44,7234394
+Haiho Dhoti Kana Emiti,Akshaya Mohanty|Bibhu Das,/artist/akshaya-mohanty|/artist/bibhu-das,04:00,Odia,02-10-2014,0.84,0.46,0.777,0.251,-8.723,0.03,175.017,0,4,0.074,4,76,8987067
+Tate Ki,Sushree Sangeeta Mahapatra,/artist/sushree-sangeeta-mahapatra-4,02:54,Odia,04-08-2012,0.43,0.331,0.981,0.153,-5.084,0.02,175.018,0,1,0.04,4,97,11281812
+Chham Chham Noopura Baje,Nandita Bhanja,/artist/nandita-bhanja,04:00,Odia,08-04-2010,0.04,0.75,0.814,0.185,-13.539,0.031,175.019,1,1,0.0653,4,42,351211
+Jibanare Jebe,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,05:00,Odia,08-09-2014,0.82,0.898,0.985,0.271,-9.553,0.065,173.957,1,0,0.02,4,83,3241531
+Bahare Baha Paana,Sushree Sangeeta Mahapatra,/artist/sushree-sangeeta-mahapatra-4,02:56,Odia,01-02-2003,0.93,0.24,0.322,0.931,-8.51,0.0505,173.999,0,7,0.0244,4,88,8364947
+Sandhanani Sun,Sekhar Ghosh,/artist/sekhar-ghosh,02:52,Odia,10-05-2012,0.22,0.473,0.22,0.947,-9.386,0.071,173.988,0,9,0.1,4,55,4959707
+Asadha Asila,Leela Ghosh,/artist/leela-ghosh,06:24,Odia,11-07-2013,0.34,0.09,0.659,0.798,-13.033,0.0318,174.025,1,2,0.04,4,73,4143585
+Aeba Bali,Babloo|Sasmita,/artist/babloo|/artist/sasmita,04:00,Odia,04-08-2000,0.07,0.725,0.197,0.239,-11.43,0.08,174.011,1,8,0.048,4,76,7582315
+Kemiti Prema,Amjad|Swagatika Mahapatra,/artist/amjad|/artist/swagatika-mahapatra,04:15,Odia,06-01-2018,0.82,0.01,0.281,0.905,-13.3,0.0988,172.021,0,5,0.087,4,29,3996022
+Prema Ta Jebe,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,04:00,Odia,04-03-2022,0.26,0.025,0.861,0.721,-11.02,0.1,175.203,0,2,0.04,4,97,7801439
+Jaa Jaa Tumbhe,Prafulla Kar,/artist/prafulla-kar,03:15,Odia,02-02-2016,0.12,0.16,0.568,0.892,-5.737,0.0819,173.023,0,9,0.058,4,27,10402141
+Mo Kaliara Chotia,Sekhar Ghosh,/artist/sekhar-ghosh,04:02,Odia,08-04-2021,0.17,0.809,0.115,0.518,-4.733,0.02,174.553,0,1,0.0871,4,67,147630
+Giridhari giridhari,Bani Joyram,/artist/bani-joyram,02:32,Odia,12-09-2007,0.07,0.71,0.192,0.405,-3.136,0.0213,173.976,0,1,0.07,4,91,1520048
+Bhola Re Bhola,Arati Misra,/artist/arati-misra,03:14,Odia,08-01-2012,0.84,0.063,0.55,0.883,-11.951,0.005,177.071,1,8,0,4,84,8193605
+Prabhu Jagannath,Sujan,/artist/sujan,05:05,Odia,08-08-2003,0.97,0.66,0.456,0.905,-11.921,0.088,173.978,0,10,0.042,4,36,11389582
+Ma Makundi Ki Too Ba Makunda,Mamta Sahu|Mohammad Sazid,/artist/mamta-sahu|/artist/mohammad-sazid,05:43,Odia,07-11-2018,0.33,1,0.608,0.677,-10.79,0.088,173.99,0,9,0.064,4,53,1156282
+Champa Lo Champa,Gopal Samantaray,/artist/gopal-samantaray,02:56,Odia,05-12-2020,0.26,0.63,0.154,0.724,-3.972,0.0452,173.014,0,6,0.079,4,71,6718255
+Tame Mo Jivana,Sheikh Aazad,/artist/sheikh-aazad,03:35,Odia,09-11-2009,0.12,0.01,0.132,0.242,-8.03,0.0941,173.979,1,11,0.0552,4,70,7303503
+Bhalapae Kete,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,04:00,Odia,07-09-2020,0.53,0.9,0.525,0.289,-5.421,0.03,173.977,0,10,0.0425,4,66,1119243
+Janichhi Mu,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,Odia,11-10-2017,0.47,0.305,0.639,0.054,-11.786,0.0404,174.059,1,11,0.01,4,44,4501170
+Chaka Ghuruachhi,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,05:33,Odia,01-04-2014,0.81,0.71,0.92,0.518,-11.939,0.013,173.004,0,5,0.062,4,73,2091499
+Kiti Kiti Kitika,Mamta Sahu|Kumar Dilu|Baby Arpita,/artist/mamta-sahu|/artist/kumar-dilu|/artist/baby-arpita,05:15,Odia,08-07-2017,0.24,0.112,0.051,0.43,-2.384,0,173.996,0,0,0.063,4,78,8047445
+Dine Basei Nele Nagara,Hemanti Shukla,/artist/hemanti-shukla,04:00,Odia,10-04-2005,0.06,0.09,0.855,0.88,-13.382,0.027,174.011,0,10,0.0668,4,40,4992980
+Ashila Ratha Jatara,Swagtika Mohapatra,/artist/swagtika-mohapatra,04:00,Odia,10-10-2017,0.99,0.865,0.726,0.018,-9.886,0.034,175.001,1,0,0.04,4,70,6047287
+Mutura Muturi,Mamta Sahu|Mohammad Sazid,/artist/mamta-sahu|/artist/mohammad-sazid,05:44,Odia,08-07-2021,0.84,0.2,0.308,0.863,-7.642,0.06,174.023,1,0,0.04,4,28,7855846
+Piya Bina Raina,Miss Lipi,/artist/miss-lipi,03:06,Odia,03-05-2009,0.58,0.374,0.675,0.379,-12.234,0.0986,173.035,0,11,0.013,4,90,9687874
+Chhati Dhak Khak,Leela Ghosh,/artist/leela-ghosh,04:53,Odia,09-11-2013,0.6,0.69,0.961,0.89,-7.457,0.02,170.023,1,1,0.0944,4,37,7246039
+Mo Chaka Nayan Na,Swagtika Mohapatra,/artist/swagtika-mohapatra,04:00,Odia,03-01-2012,0.74,0.064,0.019,0.949,-4.793,0.03,175.933,1,0,0.0428,4,35,7181859
+Sahi Nana Ama Sahi Nana,Mamta Sahu|Manas Kumar,/artist/mamta-sahu|/artist/manas-kumar,04:52,Odia,06-04-2016,0.71,0.83,0.923,0.349,-7.511,0.0311,172.987,0,5,0.02,4,57,10172798
+Lo Champi,Sekhar Ghosh,/artist/sekhar-ghosh,03:23,Odia,10-08-2009,0.8,0.106,0.647,0.364,-8.007,0.06,172.873,0,0,0.0525,4,57,5919890
+Kahi Dere Jagannath Pade,Swagtika Mohapatra,/artist/swagtika-mohapatra,04:00,Odia,09-10-2023,0.01,0.61,0.039,0.939,-9.451,0.036,175.036,0,8,0.033,4,64,9050063
+Golapa Bane Bula,Hemanti Shukla|Bibhu Das,/artist/hemanti-shukla|/artist/bibhu-das,04:00,Odia,11-02-2014,0.16,0.416,0.903,0.586,-8.618,0.06,173.928,0,11,0.068,4,99,9840539
+Dekha Jhuli Jhuli,Srikanta Das,/artist/srikanta-das,05:00,Odia,10-09-2006,0.17,0.43,0.925,0.324,-10.13,0.0212,173.952,1,7,0.07,4,31,5109551
+Piyichi Mun Piyichi,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,05:00,Odia,10-12-2009,0.79,0.965,0.347,0.399,-3.991,0.02,173.916,1,6,0,4,35,140786
+Kemiti Rahibi,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,04:00,Odia,09-02-2004,0.9,0.84,0.016,0.83,-9.157,0.0836,172.083,0,9,0.034,4,82,5257401
+Chal Mani,Srikanta|Lopita Mishra,/artist/srikanta|/artist/lopita-mishra,03:00,Odia,05-02-2004,0.98,0.563,0.166,0.072,-2.895,0.058,174.031,1,5,0.1,4,85,11008151
+To Atharanala Dein,Sekhar Ghosh,/artist/sekhar-ghosh,04:03,Odia,04-06-2009,0.63,0.55,0.221,0.489,-5.611,0.09,175.977,0,8,0.076,4,44,10981969
+Jaya Jaya Mooga,Santanu Mohapatra,/artist/santanu-mohapatra,05:51,Odia,01-12-2022,0.51,0.137,0.772,0.091,-2.929,0.05,174.004,0,8,0.095,4,91,9613135
+Satta kuho sathi moro,Radharani Mishra,/artist/radharani-mishra,06:24,Odia,06-10-2014,0.02,0.12,0.47,0.407,-3.246,0.031,175.103,0,6,0.046,4,40,2866910
+Tu Mo Padisha,Arun Bose,/artist/arun-bose,03:00,Odia,06-10-2002,0.83,0.35,0.018,0.662,-4.372,0.0261,173.985,1,0,0.03,4,96,10319925
+Pithabali Pithabali,Sekhar Ghosh,/artist/sekhar-ghosh,03:25,Odia,03-10-2003,0.34,0.39,0.229,0.774,-12.606,0.001,173.979,0,8,0.0212,4,46,9071728
+Shakati Tikie,Pranab Kishore Pattnayak,/artist/pranab-kishore-pattnayak,08:35,Odia,09-05-2019,0.44,0.848,0.25,0.703,-7.319,0.005,173.993,1,7,0.036,4,91,904999
+Kalia Dhana Re,Anindita Das,/artist/anindita-das,06:18,Odia,02-03-2019,0.51,0.32,0.54,0.714,-2.208,0.0184,174.053,1,6,0.06,4,29,176621
+Jogire Khoju Kahin,Vani Jairam,/artist/vani-jayaram,03:02,Odia,03-08-2009,0.4,0.752,0.626,0.568,-12.431,0.08,175.074,1,11,0.09,4,36,9433375
+Mun Kahinki Budi Jibi,Geeta Patnaik,/artist/geeta-patnaik,03:25,Odia,06-03-2022,0.88,0.88,0.28,0.314,-5.061,0.0635,175.029,0,5,0.081,4,86,10562093
+Lagai Deichha,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,03:54,Odia,11-09-2011,0.34,0.339,0.536,0.838,-11.389,0.02,174.08,1,1,0.07,4,55,1253719
+Mun Jauthili Rastare Eka,Mamta Sahu|Manas Kumar,/artist/mamta-sahu|/artist/manas-kumar,05:28,Odia,12-05-2014,0.48,0.62,0.985,0.127,-10.558,0.06,174.057,1,1,0.08,4,81,6167587
+To Bada Deule,Laxmikant,/artist/laxmikant-1,04:44,Odia,11-04-2012,1,0.697,0.606,0.923,-12.513,0.049,173.971,0,11,0.0596,4,48,9791350
+Dharmara Punyara,Sekhar Ghosh,/artist/sekhar-ghosh,05:33,Odia,02-08-2006,0.04,0.46,0.774,0.197,-9.355,0.058,174.007,1,2,0.0016,4,60,7154485
+To Bedhare Abhada,Sekhar Ghosh,/artist/sekhar-ghosh,04:09,Odia,12-07-2020,0.43,0.918,0.546,0.883,-4.047,0.05,173.998,1,0,0.02,4,88,5351616
+Kethi Jadi Mo Bapa,Swagtika Mohapatra,/artist/swagtika-mohapatra,03:00,Odia,02-01-2004,0.48,0.44,0.774,0.254,-5.536,0.084,173.881,0,10,0.062,4,42,7088723
+Hrudayara Sun Saan Ghare,Mohammed Aabid|Nandita Bhanja,/artist/mohammed-aabid|/artist/nandita-bhanja,05:00,Odia,03-01-2005,0.65,0.112,0.805,0.856,-7.889,0.07,174.086,1,11,0.058,4,61,3462588
+Naali Naali,Amjad|Swagatika Mahapatra,/artist/amjad|/artist/swagatika-mahapatra,04:08,Odia,11-01-2022,0.95,0.19,0.776,0.812,-11.303,0.0095,175.97,0,9,0.072,4,50,9294350
+Puri Dhama Shreekhetra,Arun Ingle,/artist/arun-ingle,05:37,Odia,02-01-2004,0.58,0.487,0.48,0.333,-4.66,0.0964,176.016,0,10,0.0338,4,39,6754494
+Saa Gaa Paa,Santanu Mohapatra,/artist/santanu-mohapatra,04:04,Odia,06-04-2018,0.14,0.47,0.123,0.187,-12.446,0.064,172.014,1,6,0.063,4,52,6120091
+Chhot Eka,Swagatika Mahapatra,/artist/swagatika-mahapatra,04:16,Odia,09-03-2021,0.95,0.965,0.79,0.682,-4.713,0.0969,172.074,1,8,0.055,4,81,6825734
+Swapna Aneka,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,04:00,Odia,12-02-2005,0.96,0.03,0.296,0.219,-11.591,0.075,173.01,0,2,0.0325,4,35,7462481
+Kalia Re Kalia,Sajid,/artist/sajid,04:00,Odia,01-03-2008,0.63,0.591,0.955,0.327,-9.304,0.0098,173.977,1,11,0.0688,4,98,7662032
+Durei Gale,Leela Ghosh,/artist/leela-ghosh,05:55,Odia,07-04-2001,0.2,0.5,0.026,0.96,-13.768,0.055,174.985,0,11,0.01,4,36,7347843
+Mu je jhara fagunara,Radharani Mishra,/artist/radharani-mishra,03:33,Odia,09-06-2021,0.47,0.811,0.01,0.77,-10.434,0.0874,174.003,1,3,0.02,4,31,11029812
+Chup Kari Sina,Hemanti Shukla,/artist/hemanti-shukla,04:00,Odia,09-08-2006,0.07,0.46,0.514,0.882,-3.074,0.02,171.934,1,1,0.05,4,37,6868172
+Mo Akhire Luha Mahin,Swagtika Mohapatra,/artist/swagtika-mohapatra,06:00,Odia,11-01-2016,0.61,0.515,0.631,0.683,-11.923,0.07,173.931,1,5,0.01,4,93,6446513
+Rakha Rakhidia Gadita,Debashish Mahapatra,/artist/debashish-mahapatra,03:06,Odia,07-12-2017,0.34,0.35,0.046,0.399,-5.154,0.005,174.004,1,1,0.08,4,72,4131870
+Badala Sina Kalaa,Sushree Sangeeta Mahapatra,/artist/sushree-sangeeta-mahapatra-4,03:08,Odia,05-08-2012,0.99,0.427,0.635,0.894,-9.446,0.07,175.009,1,7,0.04,4,91,8327844
+Kemiti Heba Aamara Baahaa,Debashish Mahapatra,/artist/debashish-mahapatra,03:16,Odia,01-06-2015,0.3,0.52,0.617,0.657,-3.109,0.032,174.002,1,1,0.02,4,99,9338517
+Jauchhi Aji,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,03:00,Odia,01-01-2016,0.25,0.109,0.835,0.299,-2.584,0.1,173.933,0,4,0.04,4,59,9449103
+Damora Kaure,Arati Basu,/artist/arati-basu-5,02:59,Odia,01-04-2018,0.08,0.94,0.806,0.027,-7.104,0.053,175.011,0,3,0.0818,4,74,849273
+Dekhila Maane Hasucha,Sheikh Aazad,/artist/sheikh-aazad,03:45,Odia,10-04-2006,0.85,0.935,0.835,0.769,-4.733,0.092,173.969,1,1,0.047,4,31,5015933
+Gopapura Chhadi Kanhu,Srikanta Das,/artist/srikanta-das,06:00,Odia,07-03-2000,0.35,0.34,0.067,0.433,-10.202,0.069,174.021,0,5,0.02,4,88,8897469
+Sara Dunia Re,Manas Kumar,/artist/manas-kumar,04:00,Odia,05-01-2008,0.76,0.467,0.747,0.325,-7.06,0.091,173.998,1,9,0.05,4,49,11194286
+Chakadola Chakanayana,Sujan,/artist/sujan,05:17,Odia,10-12-2015,0.24,0.3,0.281,0.514,-3.288,0.026,173.97,0,10,0.09,4,51,5346080
+Chhadila Puriru Gadi,Mamta Sahu|Mohammad Sazid,/artist/mamta-sahu|/artist/mohammad-sazid,05:40,Odia,08-07-2013,0.43,0.668,0.182,0.396,-2.682,0.021,174.043,1,5,0.0616,4,89,9752691
+Ei champa kali,Jugal Kishore Mishra,/artist/jugal-kishore-mishra,03:08,Odia,02-03-2002,0.19,0.07,0.89,0.872,-3.371,0.08,174.057,0,11,0.04,4,64,11211284
+Ajhato Nohoi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,02:57,Odia,01-02-2002,0.05,0.579,0.644,0.503,-12.501,0.0303,172.071,1,1,0.0886,4,89,3993585
+Bali Re Bali,Raghu Sahoo,/artist/raghu-sahoo,05:29,Odia,05-09-2010,0.65,0.15,0.461,0.846,-13.61,0.1,172.017,0,10,0.04,4,91,5831394
+Baala Boli Gote Nahin,Sheikh Aazad,/artist/sheikh-aazad,03:27,Odia,08-01-2007,0.12,0.06,0.656,0.091,-12.276,0.0735,173.941,1,3,0.02,4,62,4112548
+Mandira Bada Puri,Arun Ingle,/artist/arun-ingle,06:39,Odia,07-09-2006,0.52,0.41,0.523,0.24,-3.931,0.034,172.149,0,1,0,4,26,10311130
+Dara Nahi Bhaya Nahi,Arun Ingle,/artist/arun-ingle,04:56,Odia,11-08-2014,0.86,0.121,0.939,0.853,-9.459,0.06,173.962,1,8,0.029,4,29,2732180
+Ei mono tu jare,Bani Joyram,/artist/bani-joyram,04:15,Odia,08-10-2023,0.37,0.83,0.296,0.711,-5.703,0.0458,175.272,0,10,0.02,4,83,2734745
+Mafasali Boli Mote,Sushree Sangeeta Mahapatra,/artist/sushree-sangeeta-mahapatra-4,03:05,Odia,12-04-2016,0.06,0.611,0.43,0.106,-9.686,0.08,171.987,1,9,0.09,4,48,3956220
+Mana Mandire,S. Janaki,/artist/s-janaki,02:38,Odia,08-09-2018,0.81,0.55,0.824,0.809,-13.043,0.09,176.157,0,10,0.0556,4,51,2087674
+Kala Phula,Geeta Das,/artist/geeta-das,04:00,Odia,09-12-2012,0.19,0.973,0.792,0.943,-6.891,0.06,173.019,0,3,0.053,4,94,7393808
+Mo Ghara Aage Thila,Mamta Sahu|Manas Kumar,/artist/mamta-sahu|/artist/manas-kumar,07:22,Odia,02-05-2015,0.89,0.63,0.279,0.344,-9.718,0.0432,174.031,0,10,0.005,4,81,3215277
+Bedanara Hemantare,H. P. Geeta,/artist/h-p-geeta-1,03:14,Odia,03-03-2009,0.3,0.044,0.051,0.219,-2.151,0.07,172.977,0,5,0.005,4,44,9670661
+Suvadra Sundari,Geeta Das,/artist/geeta-das,05:00,Odia,06-12-2012,0.38,0.74,0.354,0.199,-9.732,0.051,174.076,0,9,0.078,4,79,1460785
+Rahila Jai,Swagatika Mahapatra,/artist/swagatika-mahapatra,03:24,Odia,05-02-2018,0.51,0.511,0.053,0.729,-11.682,0.0285,173.944,0,1,0.05,4,26,10247256
+Tak Dhina Dhin,BANALAXMI KANUNGO,/artist/banalaxmi-kanungo,05:00,Odia,07-05-2018,0.92,0.66,0.921,0.378,-12.368,0.0276,176.096,0,5,0.004,4,57,1884078
+Hakim Jadi Chamcha Haba,Mohammed Aabid,/artist/mohammed-aabid,03:00,Odia,10-09-2009,0.95,0.461,0.098,0.046,-9.079,0.015,174.962,1,6,0.017,4,82,7184519
+Dekha Dekha Uduchi,Arun Ingle,/artist/arun-ingle,04:14,Odia,11-12-2015,0.21,0.78,0.884,0.266,-13.639,0.06,174.023,1,1,0.02,4,92,1534293
+Ma Tuma Panatare Muharu,Swagtika Mohapatra,/artist/swagtika-mohapatra,05:00,Odia,07-03-2019,0.15,0.918,0.227,0.87,-2.864,0.072,174.035,0,11,0.041,4,77,1932126
+Chup Chap Andharare,Swagtika Mohapatra,/artist/swagtika-mohapatra,04:00,Odia,05-03-2023,0.94,0.11,0.768,0.569,-8.099,0.0256,171.989,0,6,0.04,4,38,7315190
+Kahiki Bhabu Basi,S. Janaki,/artist/s-janaki,02:51,Odia,07-11-2008,0.2,0.436,0.698,0.342,-3.495,0.04,170.009,1,8,0.0421,4,85,5644084
+Asuchhi Kalia,Jhula Tripathy,/artist/jhula-tripathy,05:46,Odia,10-01-2008,0.65,0.51,0.294,0.38,-2.35,0.027,173.964,1,8,0.0667,4,43,5652624
+Kalaa Kanhure,Swagatika Mahapatra,/artist/swagatika-mahapatra,03:46,Odia,09-03-2018,0.88,0.496,0.131,0.687,-2.231,0.04,173.988,0,2,0.074,4,32,5890839
+Agaru Kahuthile,mushir,/artist/mushir,02:05,Odia,11-06-2014,0.48,0.57,0.225,0.177,-4.547,0.06,173.998,0,4,0.0253,4,56,9295094
+Jamuna Kulia,BANALAXMI KANUNGO,/artist/banalaxmi-kanungo,04:00,Odia,07-01-2009,0.51,0.973,0.929,0.23,-5.478,0.0397,174.064,0,8,0.05,4,64,7671692
+Pathara Deule,Luli Sarangi,/artist/luli-sarangi,05:02,Odia,12-03-2002,0.12,0.57,0.285,0.917,-4.014,0.06,173.991,0,11,0.04,4,95,725874
+He He Miss,Mohammed Aabid,/artist/mohammed-aabid,04:00,Odia,01-07-2006,0.99,0.975,0.29,0.199,-4.805,0.081,174.024,1,1,0.067,4,84,2693554
+Sansara Sagare,Subash Das,/artist/subash-das-1,06:00,Odia,06-09-2012,0.31,0.91,0.159,0.585,-7.247,0.0618,175.018,1,9,0.01,4,76,3122376
+Chaka Nayan,Raghu Sahoo,/artist/raghu-sahoo,05:19,Odia,11-11-2014,0.76,0.968,0.522,0.35,-7.561,0.04,173.998,1,1,0.09,4,57,6394780
+He Tike Sambhali,Mohd. Amjad|Rupa,/artist/mohd-amjad|/artist/rupa,02:00,Odia,10-07-2021,0.82,0.36,0.47,0.797,-10.53,0.013,174.001,0,8,0.054,4,48,2573949
+Sunata Para Mo,Arati Basu,/artist/arati-basu-5,03:20,Odia,12-09-2002,0.43,0.117,0.925,0.1,-11.769,0.092,175.135,1,8,0.01,4,26,935706
+Nachi uthey re,S. Janaki,/artist/s-janaki,02:11,Odia,07-09-2010,0.13,0.2,0.147,0.193,-11.7,0,174.013,1,1,0.07,4,71,9994272
+Keteje Deula Dekhichi,Swagtika Mohapatra,/artist/swagtika-mohapatra,04:00,Odia,07-08-2004,0.63,0.071,0.354,0.201,-4.208,0.0503,174.057,1,7,0.0987,4,44,8261052
+Chahata Malli Lo,Srikanta Das,/artist/srikanta-das,05:00,Odia,02-05-2001,0.29,0.5,0.41,0.567,-3.309,0.068,173.972,0,10,0.0414,4,71,5269946
+Kahichhanti,mushir,/artist/mushir,03:54,Odia,06-03-2016,0.29,0.987,0.084,0.923,-10.857,0.0189,173.95,1,1,0.03,4,55,11192161
+Mun Dekhuchi Neeti,Mohammed Aabid,/artist/mohammed-aabid,04:00,Odia,02-04-2002,0.74,0.38,0.491,0.656,-6.574,0.02,174.046,0,10,0.042,4,64,4167763
+Malli Phula Chahatila,Srikanta Das,/artist/srikanta-das,05:00,Odia,06-03-2022,0.7,0.414,0.149,0.348,-9.099,0.0111,174.029,0,5,0.04,4,50,782714
+Amiti Mo Bhagya,BANALAXMI KANUNGO,/artist/banalaxmi-kanungo,04:00,Odia,03-06-2011,0.09,0.26,0.198,0.356,-11.791,0.0991,174.007,0,9,0,4,98,5809182
+Dura Parabata,Sangeeta,/artist/sangeeta,03:00,Odia,01-05-2018,0.9,0.129,0.959,0.033,-9.858,0.02,171.952,0,7,0.04,4,63,358748
+Aau Tote Chinhibaki,Subash Das,/artist/subash-das-1,06:00,Odia,07-11-2008,0.44,0.03,0.047,0.38,-10.048,0.03,173.996,1,0,0.086,4,37,5561534
+Sree Mandira Bedha Ku,Badal Kumar,/artist/badal-kumar,04:00,Odia,12-10-2021,0.19,0.925,0.796,0.914,-2.578,0.019,170.002,0,10,0.089,4,47,7156701
+Mote Fashire Jhulei,Jalli Mishra,/artist/jalli-mishra,04:00,Odia,08-05-2016,0.48,0.41,0.925,0.119,-3.877,0.09,175.008,0,11,0.04,4,95,2445133
+False Re Dunia,mushir,/artist/mushir,04:04,Odia,02-12-2019,0.67,0.065,0.314,0.814,-12.273,0.03,172.017,1,5,0.01,4,80,4963552
+Kain Mana Mote,Badal Kumar,/artist/badal-kumar,04:00,Odia,08-12-2007,0.26,0.47,0.652,0.722,-7.079,0.0281,173.998,0,2,0.015,4,43,11025393
+Aasadhe Gundicha,Debashish Dasgupta|Lopita Mishra,/artist/debashish-dasgupta-1|/artist/lopita-mishra,05:00,Odia,11-11-2007,0.01,0.364,0.609,0.754,-13.823,0.02,171.994,0,9,0.089,4,92,7444509
+Nilachakre Kaha,Raghu Sahoo,/artist/raghu-sahoo,05:50,Odia,07-03-2024,0.72,0.46,0.121,0.948,-6.256,0.01,173.994,0,10,0.08,4,88,9055392
+Mahapuru Ho,Raghu Sahoo,/artist/raghu-sahoo,05:07,Odia,08-04-2004,0.73,0.085,0.408,0.741,-6.003,0.03,175.015,0,9,0.04,4,77,8731855
+Joi Bhaina Mo Nebo Olikhi,Mohd. Amjad,/artist/mohd-amjad,03:00,Odia,10-11-2010,0.6,0.44,0.8,0.069,-12.699,0.013,173.955,0,11,0.01,4,28,8892822
+Akhi Pau Nahin,B. Souri,/artist/b-souri,07:00,Odia,10-06-2007,0.7,0.742,0.87,0.52,-8.629,0.0901,174.068,0,11,0.09,4,49,1770661
+Mo Akhi Luhare,Manas Kumar,/artist/manas-kumar,05:00,Odia,08-04-2021,0.13,0.79,0.956,0.997,-6.083,0.0773,174.002,0,7,0.1,4,71,6055166
+Maa Nahin,Raghu Sahoo,/artist/raghu-sahoo,05:24,Odia,12-01-2004,0.67,0.133,0.517,0.859,-10.948,0.046,172.973,0,5,0.034,4,54,10813720
+Bhauja Basi Dekhuthile,Mohd. Amjad,/artist/mohd-amjad,03:00,Odia,08-03-2021,0.72,0.84,0.373,0.913,-8.262,0.04,175.002,1,5,0.068,4,44,5016271
+Andha Mote,Raghu Sahoo,/artist/raghu-sahoo,04:34,Odia,05-10-2003,0.35,0.562,0.098,0.648,-5.879,0.0063,172.106,0,5,0.07,4,48,7104115
+Kalia Goswain,Subash Das,/artist/subash-das-1,05:00,Odia,05-04-2001,0.89,0.22,0.923,0.697,-11.939,0.03,174.985,1,8,0.0683,4,79,3115611
+Aemitika Dihn,Raghu Sahoo,/artist/raghu-sahoo,03:52,Odia,06-08-2017,0.03,0.47,0.945,0.688,-2.857,0.018,173.984,1,6,0.07,4,99,7885575
+Gharatie Vadha Neba,Mohd. Amjad|Jostna Das,/artist/mohd-amjad|/artist/jostna-das,05:00,Odia,09-08-2000,0.03,0.8,0.09,0.813,-12.653,0.0393,174.022,0,6,0.045,4,72,4623057
+To Mali Kadhi Ashe,Mohd. Amjad,/artist/mohd-amjad,04:00,Odia,07-04-2009,0.51,0.99,0.095,0.356,-12.189,0.056,173.97,0,10,0.084,4,54,6238964
+Torathila Dipatle,Mohd. Amjad,/artist/mohd-amjad,03:00,Odia,05-07-2008,0.97,0.01,0.367,0.74,-9.305,0.03,172.89,0,10,0.04,4,98,10424559
+Roshni Neli Jameikari,Mohd. Amjad,/artist/mohd-amjad,04:00,Odia,10-08-2004,0.39,0.747,0.565,0.647,-12.474,0.097,174.931,0,6,0.066,4,79,9288416
+Are Gagadia,Subash Das|Nanditha,/artist/subash-das-1|/artist/nanditha,05:00,Odia,11-01-2019,0.9,0.98,0.764,0.204,-5.291,0.03,175.052,1,6,0.066,4,49,11171139
+Jahn Loda Nahi,Jostna Das,/artist/jostna-das,04:00,Odia,02-01-2021,0.31,0.768,0.341,0.341,-3.518,0.034,173.988,0,11,0.07,4,80,7489809
+Kalia Re Kalia,Anita Goswami,/artist/anita-goswami,04:00,Odia,02-08-2020,0.55,0.68,0.823,0.143,-12.455,0.0399,173.966,0,5,0.0912,4,40,1435965
+Kala Kanhu,Anita Goswami,/artist/anita-goswami,03:00,Odia,01-03-2012,0.84,0.325,0.179,0.8,-4.968,0.0682,171.976,0,5,0.0165,4,27,9437354

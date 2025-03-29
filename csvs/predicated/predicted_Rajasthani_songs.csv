@@ -1,0 +1,542 @@
+song_name,singer,singer_id,duration,language,released_date,danceability,acousticness,energy,liveness,loudness,speechiness,tempo,mode,key,Valence,time_signature,popularity,Stream,instrumentalness,liveliness,valence,predicted_mood
+Ghumar Ghumar Ghar Aave,Mehdi Hassan,/artist/mehdi-hassan,0.0,Rajasthani,2000-04-02,0.56,0.456,0.258,0.33,-4.869,0.05,122.214,0,11,0.021,4,96,1120012,0,0,0,Sad
+Kulakhna Ki Raand,Rehana Mirza|Shamim|Om Pawar|Shiv Ram|Master Alauddin|Shobha Purohitanand Kuar,/artist/rehana-mirza|/artist/shamim|/artist/om-pawar|/artist/shiv-ram|/artist/master-alauddin-8|/artist/shobha-purohitanand-kuar-4,0.0,Rajasthani,2000-04-03,0.18,0.788,0.661,0.801,-5.751,0.01,178.934,0,2,0.0343,4,53,9219020,0,0,0,Sad
+Kagaliya Gero Gero Boleni Re,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2000-04-07,0.22,0.897,0.015,0.145,-8.152,0.075,193.155,1,10,0.066,4,36,8178262,0,0,0,Sad
+Bol Panchhira Re,Baby Farida|Dalpat Dangi|Gori Munni|Nasim Khan|Pramod Mathur|Rehana Mirza,/artist/baby-farida|/artist/dalpat-dangi|/artist/gori-munni|/artist/nasim-khan|/artist/pramod-mathur|/artist/rehana-mirza,0.0,Rajasthani,2000-04-09,0.47,0.58,0.389,0.99,-7.263,0.04,175.088,1,4,0.0251,4,61,3975643,0,0,0,Sad
+Aaijo Bind Raja,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2000-07-05,0.52,0.99,0.394,0.81,-5.282,0.03,114.662,1,2,0.038,4,38,1111327,0,0,0,Sad
+Kanooda Thari Re Mhane Yaad Satave,Moolchand Maroo,/artist/moolchand-maroo-13,0.0,Rajasthani,2000-07-08,0.99,0.61,0.876,0.23,-8.764,0.087,187.887,1,7,0.09,4,46,10278308,0,0,0,Happy
+Thari Puja Kara Maa,Chandrani Mukherjee,/artist/chandrani-mukherjee,0.0,Rajasthani,2000-09-08,0.91,0.21,0.702,0.43,-2.641,0.0376,200.074,1,1,0.0573,4,32,5154028,0,0,0,Energetic
+Moria,Shamim Khan|Gopal Lal Vohra,/artist/shamim-khan|/artist/gopal-lal-vohra,0.0,Rajasthani,2000-12-08,0.52,0.38,0.344,0.745,-6.9,0.022,166.051,1,1,0.03,4,63,466010,0,0,0,Sad
+He Tange Wala Bhaya,Sayeeda Begum,/artist/sayeeda-begum,0.0,Rajasthani,2001-01-07,0.44,0.26,0.362,0.59,-3.333,0.02,162.065,1,6,0.086,4,55,5253345,0,0,0,Sad
+Chhamak Chhallo Naam,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2001-01-08,0.56,0.082,0.358,0.023,-2.273,0.097,132.025,1,9,0.01,4,89,1329453,0,0,0,Sad
+Haajar Ooba Resa Sirdar Banna,Kushal Barath|Sathi,/artist/kushal-barath|/artist/sathi,0.0,Rajasthani,2001-01-12,0.42,0.77,0.161,0.41,-7.631,0.013,139.481,0,11,0.001,4,91,6110600,0,0,0,Sad
+Main To Pyar Karyo,Alka Yagnik|Sameer Date,/artist/alka-yagnik|/artist/sameer-date,0.0,Rajasthani,2001-03-03,0.58,0.85,0.582,0.19,-4.287,0.04,153.988,1,5,0.043,4,66,14489,0,0,0,Sad
+Jogiya Kab Re Miloge Aay,Bhawna Lonkar,/artist/bhawna-lonkar,0.0,Rajasthani,2001-04-02,0.66,0.32,0.04,0.36,-6.574,0.061,180.096,1,11,0.0076,4,52,469084,0,0,0,Sad
+Lareeyo Sa,Suresh Wadkar|Anuradha Paudwal,/artist/suresh-wadkar|/artist/anuradha-paudwal-2,0.0,Rajasthani,2001-04-04,0.84,0.842,0.493,0.279,-6.797,0.08,160.034,1,4,0.021,4,75,3053269,0,0,0,Happy
+Murgo Bolgayo Patelan,Master Kesarilal Gandharv,/artist/master-kesarilal-gandharv,0.0,Rajasthani,2001-04-11,0.04,0.746,0.523,0.363,-10.542,0.006,159.864,1,1,0.009,4,46,6564129,0,0,0,Sad
+Julam Chhoriya Faishon Men,Babulal Rai,/artist/babulal-rai,0.0,Rajasthani,2001-06-05,0.96,0.08,0.818,0.71,-7.735,0.019,180.016,0,11,0.0937,4,93,7703517,0,0,0,Happy
+Roomal,Rehana Mirza,/artist/rehana-mirza,0.0,Rajasthani,2001-07-01,0.64,0.03,0.877,0.313,-12.284,0.056,161.017,1,0,0.03,4,32,6983467,0,0,0,Energetic
+Byahan Mhari Ghano Nakhrali,Tejkaran Rao|Badruddin|Chunni Jaipuri|Urmila Khanna,/artist/tejkaran-rao|/artist/badruddin|/artist/chunni-jaipuri-3|/artist/urmila-khanna,0.0,Rajasthani,2001-10-08,0.31,0.69,0.668,0.98,-10.954,0.0464,184.008,1,6,0.08,4,90,53268,0,0,0,Happy
+Vivah Geet,dayal pawar|Anand Kaur Bohra,/artist/dayal-pawar|/artist/anand-kaur-bohra-1,0.0,Rajasthani,2001-11-04,0.78,0.88,0.676,0.0,-6.877,0.04,132.059,1,4,0.041,4,38,6284817,0,0,0,Happy
+Dhola Dhol Majira Baje,Shamim Khan,/artist/shamim-khan,0.0,Rajasthani,2001-12-10,0.97,0.6,0.426,0.09,-8.786,0.0398,134.515,1,0,0.006,4,29,8884111,0,0,0,Sad
+Meh Bina Dharti Tarse,Udit Narayan|Pushpa Tirke,/artist/udit-narayan|/artist/pushpa-tirke,0.0,Rajasthani,2002-02-02,0.44,0.57,0.226,0.24,-5.482,0.0706,109.985,1,1,0.01,4,47,7723275,0,0,0,Sad
+Thoro So Hat Ja Lal Ji,Sayeeda Begum,/artist/sayeeda-begum,0.0,Rajasthani,2002-02-04,0.34,0.912,0.09,0.549,-7.312,0.09,140.07,1,1,0.0625,4,92,8440569,0,0,0,Sad
+Jeero Torh Lai Re,Tejkaran Rao,/artist/tejkaran-rao,0.0,Rajasthani,2002-03-02,0.95,0.968,0.569,0.638,-13.982,0.1,143.007,0,8,0.0161,4,78,4954496,0,0,0,Sad
+Lehariye Ra Nav Sau Rupiya,Alka Yagnik|A. K. Vyas,/artist/alka-yagnik|/artist/a-k-vyas,0.0,Rajasthani,2002-03-04,0.68,0.11,0.174,0.22,-12.271,0.098,105.743,0,6,0.08,4,84,5617736,0,0,0,Sad
+Mahavir Hanuman Ji,Urmila Khanna|Chunni Jaipuri|Mehrunissa|Mohan Singh Itawa|Tej Karan Rao|Hunuman Sahai|Kalyan Sahai Sharma,/artist/urmila-khanna|/artist/chunni-jaipuri-3|/artist/mehrunissa-1|/artist/mohan-singh-itawa|/artist/tej-karan-rao|/artist/hunuman-sahai|/artist/kalyan-sahai-sharma,0.0,Rajasthani,2002-03-09,0.46,0.4,0.524,0.96,-7.315,0.0974,109.891,0,5,0.0418,4,27,6026191,0,0,0,Sad
+Ae Khuda Tu Kanha Ne,Mohammad Aziz|Tilak Raaj|Mukesh Shivram,/artist/mohammad-aziz|/artist/tilak-raaj|/artist/mukesh-shivram-1,0.0,Rajasthani,2002-06-04,0.76,0.71,0.38,0.91,-6.622,0.06,149.001,1,5,0.0472,4,73,10494842,0,0,0,Sad
+Gadi Chaale Hai Aari Aari,Shakuntala Joshi,/artist/shakuntala-joshi,0.0,Rajasthani,2002-07-01,0.8,0.08,0.585,0.33,-11.773,0.074,136.036,0,5,0.039,4,56,5801333,0,0,0,Happy
+Mhara Baba Saro Khet,Babulal Rai|Dhira Ghosh,/artist/babulal-rai|/artist/dhira-ghosh,0.0,Rajasthani,2002-07-08,0.71,0.635,0.812,0.326,-3.556,0.038,106.987,1,1,0.09,4,56,9203813,0,0,0,Energetic
+Ek Hans Aur Ek Hansani,Suresh Wadkar|Sadhana Sargam,/artist/suresh-wadkar|/artist/sadhana-sargam-1,0.0,Rajasthani,2002-07-09,0.92,0.41,0.841,0.4,-6.601,0.0053,189.93,0,6,0.093,4,28,9841395,0,0,0,Happy
+Tharo Joba Ro Rukhar,Suresh Wadkar|Alka Yagnik,/artist/suresh-wadkar|/artist/alka-yagnik,0.0,Rajasthani,2002-07-09,0.62,0.335,0.73,0.415,-3.324,0.08,158.081,1,3,0.025,4,31,9109726,0,0,0,Energetic
+Dal Badli Ro Pani,MADHULIKA,/artist/madhulika,0.0,Rajasthani,2002-08-05,0.72,0.83,0.885,0.41,-13.396,0.08,172.048,0,4,0.057,4,68,704174,0,0,0,Happy
+Talerya Magarya,Banarsi Lal Jhori|Saira Bano,/artist/banarsi-lal-jhori|/artist/saira-bano,0.0,Rajasthani,2002-09-01,0.95,0.713,0.651,0.092,-9.662,0.04,104.997,1,6,0.051,4,91,2735773,0,0,0,Happy
+Tharon Mehlan Men Jhagro,Rajkanya Harsh|Pramod Mathur,/artist/rajkanya-harsh|/artist/pramod-mathur,0.0,Rajasthani,2002-09-06,0.43,0.517,0.083,0.271,-13.436,0.05,178.114,1,8,0.06,4,98,9246802,0,0,0,Sad
+Raja Bali Ke Machi Holi,Ramila Gahlot|Pushpa Gahlot,/artist/ramila-gahlot|/artist/pushpa-gahlot,0.0,Rajasthani,2002-09-09,0.49,0.59,0.196,0.08,-9.622,0.0418,176.081,0,2,0.0778,4,28,8179578,0,0,0,Sad
+Sahib Ji Lardini Chundri,Dalpat Dangi|Rehana Mirza,/artist/dalpat-dangi|/artist/rehana-mirza,0.0,Rajasthani,2002-10-01,0.67,0.704,0.565,0.581,-13.319,0.0118,155.198,0,11,0.08,4,84,8014844,0,0,0,Sad
+Gorbandh,Shobha Purohit,/artist/shobha-purohit,0.0,Rajasthani,2002-10-01,0.28,0.09,0.67,0.86,-8.324,0.0376,143.027,1,4,0.09,4,57,8028116,0,0,0,Sad
+Khetaan Re Bich Mein Kesar Ri Kyari,Ranusingh Rajpurohit,/artist/ranusingh-rajpurohit,0.0,Rajasthani,2002-10-04,0.11,0.175,0.596,0.148,-5.927,0.053,199.856,1,2,0.04,4,42,9291912,0,0,0,Energetic
+Aayo Mausam Dosti Ro,Alka Yagnik|Sameer Date,/artist/alka-yagnik|/artist/sameer-date,0.0,Rajasthani,2002-10-07,0.21,0.692,0.754,0.94,-9.628,0.046,135.076,0,0,0.02,4,73,8756717,0,0,0,Happy
+Bad Gayo Tharo Khatmal Ghagra Mein,Tejkaran Rao,/artist/tejkaran-rao,0.0,Rajasthani,2002-11-03,0.99,0.972,0.278,0.128,-4.765,0.018,155.672,1,3,0.03,4,93,3574810,0,0,0,Sad
+He Marwar Ko Chhailo,Chunni Jaipuri,/artist/chunni-jaipuri-3,0.0,Rajasthani,2003-01-01,0.45,0.695,0.085,0.607,-2.673,0.05,184.986,1,11,0.087,4,53,10644036,0,0,0,Sad
+Tawada Dhimo Padjya Re,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2003-01-03,0.34,0.98,0.996,0.48,-2.781,0.06,106.969,1,2,0.05,4,42,4640142,0,0,0,Energetic
+Jeejo Beimani Kar Gyo Re,Babulal Rai|Dhira Ghosh,/artist/babulal-rai|/artist/dhira-ghosh,0.0,Rajasthani,2003-01-09,0.46,0.72,0.852,0.41,-4.466,0.041,162.027,0,10,0.0503,4,26,4040291,0,0,0,Energetic
+Dekhe Mahara Balma,Saraswati Devi Dhandra,/artist/saraswati-devi-dhandra-4,0.0,Rajasthani,2003-02-04,0.49,0.388,0.649,0.419,-6.869,0.02,181.398,1,6,0.1,4,57,1192091,0,0,0,Sad
+Kagaliya Gero Gero Bole Ni Re,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2003-02-07,0.99,0.151,0.825,0.778,-12.072,0.0392,175.025,0,11,0.04,4,36,1786102,0,0,0,Happy
+Saanchaai Mhara Rasiya,Suresh Wadkar|Saraswati Devi,/artist/suresh-wadkar|/artist/saraswati-devi,0.0,Rajasthani,2003-02-09,0.9,0.98,0.827,0.03,-3.361,0.096,108.021,0,6,0.082,4,72,1710171,0,0,0,Happy
+Mat Masu Kar Takraar,Suresh Wadkar|Anupama Deshpande,/artist/suresh-wadkar|/artist/anupama-deshpande,0.0,Rajasthani,2003-02-09,0.04,0.44,0.416,0.54,-9.239,0.08,119.955,1,6,0.0424,4,26,1659913,0,0,0,Sad
+Paniro Barsaade Mhari Mat Rai,Saraswati Devi|Gopal Bohra,/artist/saraswati-devi|/artist/gopal-bohra,0.0,Rajasthani,2003-03-04,0.26,0.974,0.215,0.722,-10.493,0.06,180.026,1,4,0.009,4,30,4494358,0,0,0,Sad
+Bichorio,Shakuntala Joshi,/artist/shakuntala-joshi,0.0,Rajasthani,2003-03-11,0.01,0.54,0.873,0.49,-8.227,0.02,107.005,0,0,0.088,4,33,1355636,0,0,0,Sad
+Ghudlo Ghumela Ji Ghumela,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2003-04-01,0.13,0.56,0.654,0.11,-11.9,0.029,105.003,0,2,0.06,4,89,3321613,0,0,0,Sad
+Veer Tejaji Part 02,Mohan Maharaj Nimbarak|Sadhana Bhaduri,/artist/mohan-maharaj-nimbarak|/artist/sadhana-bhaduri,0.0,Rajasthani,2003-04-04,0.03,0.877,0.858,0.23,-5.776,0.0695,134.348,1,7,0.09,4,82,8445331,0,0,0,Energetic
+Helo Suno Rama Peerji,Badruddin|Ikram Rajasthani|Mohan Singh|Parveen Mirza|Rehana Mirza|Moti Lal Bohra|Chunni Jaipuri,/artist/badruddin|/artist/ikram-rajasthani|/artist/mohan-singh|/artist/parveen-mirza|/artist/rehana-mirza|/artist/moti-lal-bohra|/artist/chunni-jaipuri-8,0.0,Rajasthani,2003-04-09,0.03,0.307,0.985,0.491,-11.352,0.023,141.284,1,4,0.0922,4,97,10763945,0,0,0,Happy
+Hindo Mhane De O Sa,Ila Arun,/artist/ila-arun,0.0,Rajasthani,2003-04-12,0.69,0.18,0.007,0.23,-10.489,0.0424,154.955,1,5,0.06,4,35,2849574,0,0,0,Sad
+Mero Man Ram He Ram Rate Re,Archana Saksena,/artist/archana-saksena,0.0,Rajasthani,2003-05-02,0.72,0.53,0.431,0.03,-6.289,0.093,184.994,0,1,0.0214,4,85,7919711,0,0,0,Sad
+Koi Jake Runecha Bas Itna Mera Yeh Sandesa Kah Dena,Moolchand Maroo,/artist/moolchand-maroo-10,0.0,Rajasthani,2003-05-04,0.02,0.062,0.74,0.168,-3.651,0.024,163.803,1,5,0.0309,4,90,7418894,0,0,0,Energetic
+Amba Paaka Ne Aamli,Kushal Barath|Sathi,/artist/kushal-barath|/artist/sathi,0.0,Rajasthani,2003-05-10,0.08,0.38,0.698,0.33,-7.766,0.04,158.0,0,1,0.0784,4,28,6082406,0,0,0,Sad
+Umrao Thari Majlis Pyari Lage,Ila Arun,/artist/ila-arun,0.0,Rajasthani,2003-06-01,0.87,0.625,0.23,0.747,-7.006,0.0224,161.905,0,6,0.007,4,76,5365424,0,0,0,Sad
+Mata Trishala Jhulave Putra Parne,Shri Bhawar Chaudhari|Chorus,/artist/shri-bhawar-chaudhari|/artist/chorus,0.0,Rajasthani,2003-06-08,0.65,0.97,0.604,0.32,-8.624,0.04,114.948,0,11,0.018,4,32,1996262,0,0,0,Sad
+Boi Tambura,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2003-08-04,0.78,0.41,0.391,0.04,-10.827,0.0349,162.103,1,9,0.09,4,84,4228244,0,0,0,Sad
+Jhalo Masoo Diyo Na Jaye,Allah Jilai Bai,/artist/allah-jilai-bai,0.0,Rajasthani,2003-09-09,0.61,0.698,0.79,0.098,-4.642,0.09,128.103,1,2,0.07,4,31,6223109,0,0,0,Energetic
+Mane Tharo He Aasro,Various Artist,/artist/various-artist,0.0,Rajasthani,2003-09-11,0.32,0.95,0.041,0.96,-3.193,0.0633,162.968,0,9,0.0238,4,35,5156995,0,0,0,Sad
+Oondra Oondry,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2003-10-01,0.97,0.772,0.055,0.815,-6.646,0.0298,191.936,1,3,0.047,4,56,8388906,0,0,0,Sad
+Baalam Chhoto So,Suresh Wadkar|Sadhana Sargam,/artist/suresh-wadkar|/artist/sadhana-sargam-1,0.0,Rajasthani,2003-10-07,0.62,0.34,0.713,0.55,-4.666,0.05,178.295,1,1,0.046,4,27,5478780,0,0,0,Energetic
+Ghodi Kare Ji Aaka Ji Jaaka,Kushal Barath|Sathi,/artist/kushal-barath|/artist/sathi,0.0,Rajasthani,2003-10-08,0.0,0.75,0.663,0.5,-2.019,0.093,163.71,1,8,0.04,4,35,524612,0,0,0,Energetic
+Mati Bolo Sasuji,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2003-11-04,0.62,0.65,0.808,0.27,-6.618,0.0,179.79,0,4,0.08,4,26,2806483,0,0,0,Sad
+Tum Dholakri Baja De Re,Mahendra Kapoor|Sarita Goswami|Gyanesh Wari Sharma,/artist/mahendra-kapoor|/artist/sarita-goswami|/artist/gyanesh-wari-sharma-3,0.0,Rajasthani,2003-12-06,0.79,0.09,0.2,0.533,-2.738,0.0972,145.082,1,2,0.0443,4,55,4975591,0,0,0,Sad
+Aaja Ri Chhori Aaja,Suresh Wadkar|Anuradha Paudwal,/artist/suresh-wadkar|/artist/anuradha-paudwal-2,0.0,Rajasthani,2003-12-11,0.51,0.67,0.841,0.73,-5.428,0.068,188.215,1,8,0.0891,4,55,7864811,0,0,0,Energetic
+Thare Tevto Gharhai Doon,Kaluram Prajapati|Shamim Khan,/artist/kaluram-prajapati|/artist/shamim-khan,0.0,Rajasthani,2004-01-04,0.93,0.54,0.247,0.15,-12.892,0.07,124.099,1,11,0.0095,4,64,1295655,0,0,0,Sad
+Chang Dheero Re Bajawan Wala,Rajprabha Pangadiya|Raj Bala|Radha Maheshwari,/artist/rajprabha-pangadiya|/artist/raj-bala|/artist/radha-maheshwari,0.0,Rajasthani,2004-01-06,0.68,0.384,0.401,0.264,-5.152,0.06,107.944,1,7,0.08,4,80,2489041,0,0,0,Sad
+Chhora Chhod Pallu,Mandhir|Savita Sathi,/artist/mandhir|/artist/savita-sathi-1,0.0,Rajasthani,2004-01-07,0.15,0.84,0.21,0.74,-6.362,0.079,175.02,1,2,0.027,4,34,3013505,0,0,0,Sad
+Main To Nakhrali Naar Bikaner Ki,Dilraj Kaur,/artist/dilraj-kaur,0.0,Rajasthani,2004-01-10,0.74,0.23,0.882,0.28,-9.41,0.0125,116.047,0,0,0.0215,4,59,8187420,0,0,0,Happy
+Mharo Rang Rangilo,Shobha Gurtu,/artist/shobha-gurtu,0.0,Rajasthani,2004-02-03,0.4,0.705,0.559,0.377,-12.318,0.06,181.13,0,9,0.056,4,86,8267181,0,0,0,Sad
+Chand Jero Mukhro,Kaluram Prajapati|Shamim Khan,/artist/kaluram-prajapati|/artist/shamim-khan,0.0,Rajasthani,2004-02-12,0.73,0.18,0.483,0.3,-7.917,0.03,174.02,1,11,0.02,4,100,8857769,0,0,0,Sad
+Jai Ambe Jai Gange,Bhavana Lonkar|Hemant,/artist/bhavana-lonkar|/artist/hemant-1,0.0,Rajasthani,2004-02-12,0.35,0.521,0.745,0.539,-10.587,0.017,175.15,1,8,0.09,4,35,11046597,0,0,0,Sad
+Maiya Kar De Mero Byah,Ruchi Tailang,/artist/ruchi-tailang,0.0,Rajasthani,2004-03-03,0.09,0.14,0.938,0.65,-6.106,0.036,127.968,1,1,0.053,4,54,4650123,0,0,0,Energetic
+Gori Jhoomko Tharo,Chunni Jaipuri|Bhairav Prasad Kathak,/artist/chunni-jaipuri-3|/artist/bhairav-prasad-kathak,0.0,Rajasthani,2004-03-07,0.34,0.4,0.271,0.09,-2.899,0.09,163.415,1,1,0.05,4,47,11128132,0,0,0,Sad
+Kuladi Kori Hai,Shakuntala Joshi,/artist/shakuntala-joshi,0.0,Rajasthani,2004-03-10,0.77,0.17,0.943,0.99,-8.205,0.07,124.037,0,4,0.091,4,43,1507303,0,0,0,Happy
+Parshwa Prabhuji Mare Bele,Shri Bhawar Chaudhari|Chorus,/artist/shri-bhawar-chaudhari|/artist/chorus,0.0,Rajasthani,2004-04-02,0.37,0.73,0.066,0.36,-9.042,0.0064,137.028,0,10,0.005,4,97,4017136,0,0,0,Sad
+Hivade Jagi Hai Agan,Various Artist,/artist/various-artist,0.0,Rajasthani,2004-04-03,0.76,0.939,0.688,0.495,-8.161,0.07,185.06,1,7,0.0315,4,40,7704881,0,0,0,Happy
+Bhanwar Mhare Phaganiyo Rangade,Ramila Gahlot,/artist/ramila-gahlot,0.0,Rajasthani,2004-04-06,0.53,0.157,0.669,0.322,-11.424,0.0291,110.104,1,5,0.09,4,47,7034600,0,0,0,Sad
+Main To Bangi Jogan Thari,Asha Bhosle,/artist/asha-bhosle-1,0.0,Rajasthani,2004-04-08,0.26,0.19,0.953,0.44,-3.869,0.0449,157.981,1,11,0.05,4,51,3031802,0,0,0,Energetic
+Hello Sun Jo,Suresh Wadkar|Suraj Dadhich,/artist/suresh-wadkar|/artist/suraj-dadhich,0.0,Rajasthani,2004-04-08,0.27,0.58,0.569,0.492,-3.639,0.029,137.941,0,0,0.002,4,63,5294564,0,0,0,Sad
+Kathe  Se Aayee Soonth,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2004-04-12,0.65,0.483,0.637,0.535,-5.976,0.03,151.288,1,7,0.0053,4,66,10002948,0,0,0,Sad
+Toraniye Aay Ne Ooba Rijo,Kushal Barath|Sathi,/artist/kushal-barath|/artist/sathi,0.0,Rajasthani,2004-05-09,0.97,0.35,0.301,0.87,-2.878,0.08,141.87,0,3,0.0069,4,78,8943667,0,0,0,Sad
+Mahari Gori Badi Nirali,Chandra Prakash Parihar,/artist/chandra-prakash-parihar,0.0,Rajasthani,2004-05-11,0.04,0.556,0.691,0.862,-7.38,0.04,160.114,1,5,0.049,4,56,9737451,0,0,0,Energetic
+Kad Janulee Sasre,Rehana Mirza,/artist/rehana-mirza,0.0,Rajasthani,2004-06-06,0.82,0.818,0.273,0.06,-2.683,0.0,146.005,0,8,0.016,4,42,7960307,0,0,0,Sad
+Jai Jai Ganga Maiya,Bhavana Lonkar|Hemant,/artist/bhavana-lonkar|/artist/hemant-1,0.0,Rajasthani,2004-06-08,0.75,0.5,0.046,0.157,-9.151,0.043,135.095,1,7,0.0986,4,57,814052,0,0,0,Sad
+Halkaraji Jatan Karo,A.K. Vyas|Pushpa Tirke,/artist/ak-vyas|/artist/pushpa-tirke,0.0,Rajasthani,2004-06-12,0.67,0.517,0.142,0.207,-6.333,0.07,157.942,1,3,0.1,4,49,7909355,0,0,0,Sad
+Laayo Re Laayo,Mohammad Aziz,/artist/mohammad-aziz,0.0,Rajasthani,2004-07-02,0.12,0.94,0.902,0.26,-9.106,0.09,149.964,1,8,0.0,4,29,10792449,0,0,0,Energetic
+Mandir Mein Maujaan Uden,Raj Bhora,/artist/raj-bhora,0.0,Rajasthani,2004-08-02,0.94,0.609,0.354,0.494,-11.521,0.0667,107.879,0,4,0.0556,4,37,4539672,0,0,0,Sad
+Mhare Hivde Ro Har,Mahendra Kapoor|Sarita Goswami|Gyanesh Wari Sharma,/artist/mahendra-kapoor|/artist/sarita-goswami|/artist/gyanesh-wari-sharma-5,0.0,Rajasthani,2004-10-04,0.11,0.8,0.438,0.08,-5.916,0.03,107.969,1,8,0.081,4,83,8557541,0,0,0,Sad
+Feshan Hela Deti Aawe Re,Master Alauddin|Rehana Mirza,/artist/master-alauddin-5|/artist/rehana-mirza,0.0,Rajasthani,2004-10-08,0.58,0.82,0.691,0.67,-11.052,0.05,144.956,0,11,0.0186,4,89,8964571,0,0,0,Happy
+Chanda Tharei Chandei,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Rajasthani,2004-10-10,0.8,0.367,0.918,0.007,-4.387,0.05,164.028,1,0,0.0713,4,92,3034288,0,0,0,Energetic
+Udiapur Ki Tamolan Banri Paan Chabaye,Chandrani Mukherjee,/artist/chandrani-mukherjee,0.0,Rajasthani,2004-10-10,0.34,0.036,0.166,0.07,-6.516,0.02,165.964,1,9,0.011,4,77,5354874,0,0,0,Sad
+Helo Suno Rama Peerji,Moti Lal Bohra|Anand Kaur Bohra|Shobha Purohit|Gopal Lal Vohra|Shamim Khan,/artist/moti-lal-bohra|/artist/anand-kaur-bohra-1|/artist/shobha-purohit|/artist/gopal-lal-vohra|/artist/shamim-khan,0.0,Rajasthani,2004-12-01,0.77,0.58,0.129,0.34,-9.342,0.0921,116.409,1,5,0.053,4,100,7928510,0,0,0,Sad
+Rail Gaadi Aayi,Om Pawar|Pt. Shivram Krishna,/artist/om-pawar|/artist/pt-shivram-krishna,0.0,Rajasthani,2004-12-10,0.9,0.118,0.763,0.155,-4.792,0.0865,160.013,1,5,0.0264,4,63,9830218,0,0,0,Energetic
+Pardesi Babu Ek Baar,Chunni Jaipuri,/artist/chunni-jaipuri-3,0.0,Rajasthani,2005-01-01,0.27,0.207,0.794,0.37,-6.583,0.044,124.032,1,4,0.05,4,64,6028300,0,0,0,Energetic
+Dagalh Phorh Bhartar,Rehana Mirza,/artist/rehana-mirza,0.0,Rajasthani,2005-01-06,0.36,0.604,0.193,0.997,-7.56,0.0921,161.084,1,8,0.07,4,97,11342450,0,0,0,Sad
+Kaaj Liye Angrakhi,Ramila Gahlot|Pushpa Gahlot,/artist/ramila-gahlot|/artist/pushpa-gahlot,0.0,Rajasthani,2005-01-06,0.76,0.07,0.844,0.61,-11.559,0.058,159.081,0,1,0.0196,4,55,1770970,0,0,0,Energetic
+Moomal,Allah Jilai Bai,/artist/allah-jilai-bai,0.0,Rajasthani,2005-01-08,0.8,0.24,0.044,0.68,-7.415,0.1,204.03,1,2,0.0164,4,72,10801422,0,0,0,Sad
+Baba Banjeyo Mati Re,Shakuntala Joshi,/artist/shakuntala-joshi,0.0,Rajasthani,2005-02-02,0.94,0.168,0.402,0.642,-2.27,0.011,192.052,1,8,0.0767,4,75,960029,0,0,0,Sad
+Gangoriya Re Mele Paili,Rajprabha Pangadiya,/artist/rajprabha-pangadiya,0.0,Rajasthani,2005-02-06,0.5,0.52,0.507,0.16,-13.174,0.0514,188.0,1,2,0.03,4,48,4203229,0,0,0,Sad
+Lawaar Jivada Rai,Aarti Mukherji,/artist/aarti-mukherji,0.0,Rajasthani,2005-03-03,0.02,0.11,0.986,0.737,-2.423,0.05,121.993,0,11,0.012,4,86,9397158,0,0,0,Happy
+Runiche Wala Darshan Dijyo Mhane,Moolchand Maroo,/artist/moolchand-maroo-15,0.0,Rajasthani,2005-03-08,0.84,0.088,0.954,0.979,-3.827,0.0844,121.968,0,9,0.0869,4,62,336283,0,0,0,Happy
+Sajna Chhin Chhin Balu,Jaishree,/artist/jaishree,0.0,Rajasthani,2005-04-06,0.73,0.663,0.486,0.745,-13.739,0.025,163.966,0,5,0.02,4,80,2215218,0,0,0,Sad
+Umraav Thari Soorat,Shilpi Mathur,/artist/shilpi-mathur,0.0,Rajasthani,2005-04-08,0.96,0.96,0.713,0.31,-7.899,0.01,189.76,1,0,0.02,4,31,6900137,0,0,0,Happy
+Pomcho Leta Ayijyo Ji,Shilpi Mathur,/artist/shilpi-mathur,0.0,Rajasthani,2005-05-01,0.59,0.444,0.106,0.276,-12.373,0.09,149.992,1,7,0.05,4,45,3519978,0,0,0,Sad
+Mhari Hathelya Re Beech,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2005-05-07,0.54,0.395,0.413,0.861,-6.284,0.0786,186.162,1,8,0.071,4,65,6152695,0,0,0,Sad
+Pair Le Pilo Ghagro,Gopal Lal Vohra|Kamla Thakur,/artist/gopal-lal-vohra|/artist/kamla-thakur,0.0,Rajasthani,2005-05-12,0.03,0.856,0.572,0.876,-10.769,0.035,172.913,0,5,0.057,4,53,9772151,0,0,0,Sad
+Music,Vishwanath,/artist/vishwanath,0.0,Rajasthani,2005-06-04,0.53,0.75,0.731,0.39,-3.609,0.05,155.096,1,2,0.029,4,38,8835576,0,0,0,Energetic
+Sahar Mein Dango Ho Gayo,Anupama Deshpande,/artist/anupama-deshpande,0.0,Rajasthani,2005-06-06,0.09,0.35,0.431,0.06,-13.315,0.08,146.593,1,0,0.01,4,65,223890,0,0,0,Sad
+Khamma Khamma,Mahendra Kapoor,/artist/mahendra-kapoor,0.0,Rajasthani,2005-06-09,0.47,0.656,0.499,0.533,-8.094,0.08,152.974,1,6,0.0922,4,36,10613591,0,0,0,Sad
+Uncha Rana Ji Ra Gokhda,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2005-08-02,0.48,0.22,0.31,0.91,-8.59,0.0613,147.116,1,1,0.039,4,59,3238648,0,0,0,Sad
+Mhari Preet Nibhajyo Ji,Bhawna Lonkar,/artist/bhawna-lonkar,0.0,Rajasthani,2005-08-04,0.47,0.84,0.303,0.59,-6.204,0.009,110.986,1,2,0.055,4,62,5614881,0,0,0,Sad
+Kesriya Balma,Chhoti Bano Sikarwali,/artist/chhoti-bano-sikarwali,0.0,Rajasthani,2005-08-05,0.58,0.381,0.97,0.403,-9.28,0.02,135.98,1,4,0.01,4,98,2272894,0,0,0,Happy
+Bai Sara Beera Pihariye,Anuradha Prakash,/artist/anuradha-prakash,0.0,Rajasthani,2005-08-08,0.53,0.983,0.538,0.928,-4.692,0.013,196.926,1,6,0.0858,4,67,1810394,0,0,0,Sad
+Sundar Gori Yun Mat Maar,A.K. Vyas,/artist/ak-vyas,0.0,Rajasthani,2005-09-02,0.92,0.958,0.83,0.572,-2.49,0.0266,105.05,1,1,0.004,4,61,729034,0,0,0,Happy
+Koi Ne Piyariyo Pyaro Lage,Asha Bhosle,/artist/asha-bhosle-1,0.0,Rajasthani,2005-10-01,0.36,0.839,0.751,0.948,-9.446,0.058,145.176,1,8,0.0753,4,84,4321192,0,0,0,Happy
+Mata Thare Dyar Aayenai,Saraswati Devi,/artist/saraswati-devi,0.0,Rajasthani,2005-11-07,0.63,0.19,0.278,0.668,-13.351,0.078,160.036,0,7,0.078,4,78,4318261,0,0,0,Sad
+Hello,Rajkamal,/artist/rajkamal,0.0,Rajasthani,2005-11-12,0.63,0.81,0.995,0.114,-6.714,0.093,174.044,1,4,0.048,4,38,9435582,0,0,0,Energetic
+Payal Bajani,Artists of Churu|Ratannagar,/artist/artists-of-churu|/artist/ratannagar,0.0,Rajasthani,2005-12-03,0.62,0.45,0.89,0.064,-4.376,0.005,149.958,1,11,0.0623,4,52,10002285,0,0,0,Energetic
+Ud Re Suwa To Pachrangiya,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2005-12-06,0.6,0.91,0.976,0.19,-8.02,0.0702,207.808,0,11,0.1,4,72,1554198,0,0,0,Happy
+Rut Aai Re Papaiya Thare Bolan Ki,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2005-12-08,0.17,0.541,0.4,0.731,-4.379,0.09,119.965,1,0,0.049,4,97,4641391,0,0,0,Sad
+Rudi Ne Rangili Re Mahaveer Thari,Shri Bhawar Chaudhari|Chorus,/artist/shri-bhawar-chaudhari|/artist/chorus,0.0,Rajasthani,2006-01-01,0.04,0.84,0.599,0.04,-9.789,0.037,140.116,1,11,0.0389,4,93,4936647,0,0,0,Sad
+Mhari Chunadi Mein Jadwaay Dayo,Anupama Deshpande,/artist/anupama-deshpande,0.0,Rajasthani,2006-01-02,0.4,0.6,0.741,0.44,-10.573,0.05,152.099,1,5,0.0,4,78,6023284,0,0,0,Happy
+Gori Ne Rangay Dyo Ni,Bhawna Lonkar,/artist/bhawna-lonkar,0.0,Rajasthani,2006-01-03,0.95,0.49,0.285,0.1,-7.353,0.075,139.979,0,7,0.0804,4,94,8659796,0,0,0,Sad
+Phagan Ayo Phaganiyo Rangade,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2006-01-03,0.75,0.388,0.828,0.99,-7.009,0.01,169.871,0,8,0.082,4,100,4656072,0,0,0,Happy
+Aayo He Heli Mharo Ladalro,Chandrani Mukherjee,/artist/chandrani-mukherjee,0.0,Rajasthani,2006-02-10,0.13,0.46,0.649,0.76,-4.458,0.082,180.092,0,6,0.0073,4,32,2469323,0,0,0,Energetic
+Ud Ud Re Mhara Kala Kagla,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2006-04-04,0.13,0.826,0.064,0.663,-13.807,0.0366,200.05,1,2,0.025,4,28,8042557,0,0,0,Sad
+Poonam Raate,Suryakamal|Derik|Dipmala|Badripawar,/artist/suryakamal|/artist/derik|/artist/dipmala|/artist/badripawar,0.0,Rajasthani,2006-04-08,0.2,0.792,0.131,0.009,-13.636,0.088,202.974,1,9,0.08,4,82,8308434,0,0,0,Sad
+Chang Ro Ghameed Goonjai,Suresh Wadkar|Sadhana Sargam,/artist/suresh-wadkar|/artist/sadhana-sargam-1,0.0,Rajasthani,2006-04-11,0.21,0.033,0.01,0.874,-12.916,0.04,135.011,0,11,0.05,4,57,484214,0,0,0,Sad
+O Re Dhola,Ila Arun|Chorus,/artist/ila-arun|/artist/chorus,0.0,Rajasthani,2006-04-12,0.18,0.32,0.919,0.54,-2.611,0.0,151.994,1,5,0.07,4,91,10058733,0,0,0,Energetic
+Mhainmhara Jaithji,Ramila Gahlot|Pushpa Gahlot,/artist/ramila-gahlot|/artist/pushpa-gahlot,0.0,Rajasthani,2006-05-07,0.11,0.177,0.628,0.001,-9.596,0.085,147.066,1,0,0.029,4,43,6238301,0,0,0,Sad
+Holi Ko Mujro Chhe,Ila Arun,/artist/ila-arun,0.0,Rajasthani,2006-05-08,0.16,0.398,0.448,0.463,-13.072,0.0905,126.029,0,5,0.08,4,74,4500898,0,0,0,Sad
+Ram Nam Ras Pije Re Manva,Madhvi Pendharkar,/artist/madhvi-pendharkar,0.0,Rajasthani,2006-05-11,0.33,0.521,0.928,0.786,-3.88,0.07,128.973,1,2,0.08,4,82,1030516,0,0,0,Energetic
+Saram Kar Mat Ban,Mohan Singh Itawa,/artist/mohan-singh-itawa,0.0,Rajasthani,2006-08-02,0.22,0.385,0.477,0.444,-11.975,0.0108,145.079,1,2,0.048,4,53,5730420,0,0,0,Sad
+Varsa Mhara Gudla Baadal,Kushal Barath|Sathi,/artist/kushal-barath|/artist/sathi,0.0,Rajasthani,2006-08-08,0.13,0.7,0.534,0.636,-11.807,0.037,140.495,1,4,0.05,4,74,1046059,0,0,0,Sad
+Aabho Tape Re Tape Chand Tara,Asha Bhosle,/artist/asha-bhosle-1,0.0,Rajasthani,2006-09-02,0.95,1.0,0.019,0.37,-13.427,0.07,190.012,1,7,0.065,4,93,8005864,0,0,0,Sad
+Bajra Ko Choon,Babulal Roy|Dhira Ghosh,/artist/babulal-roy|/artist/dhira-ghosh,0.0,Rajasthani,2006-09-02,0.92,0.17,0.913,0.02,-11.652,0.03,143.519,0,6,0.0466,4,81,6110093,0,0,0,Happy
+Jadoo Darayo Re Suva Pe,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2006-09-02,0.11,0.696,0.504,0.869,-13.639,0.036,116.761,1,5,0.042,4,90,4944383,0,0,0,Sad
+Rayo Kanwara Tabriyo,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2006-09-06,0.62,0.81,0.203,0.96,-6.839,0.084,149.002,1,0,0.0095,4,40,5861774,0,0,0,Sad
+Mai Ghumar Nachoo,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2006-09-07,0.15,0.44,0.303,0.98,-13.578,0.01,135.15,1,9,0.0668,4,94,11138269,0,0,0,Sad
+Mat Piyo Mhara Chhail Tambakudi,Om Pawar|Pt. Shivram Krishna,/artist/om-pawar|/artist/pt-shivram-krishna,0.0,Rajasthani,2006-10-05,0.04,0.383,0.83,0.906,-12.012,0.063,147.045,0,5,0.052,4,49,9856416,0,0,0,Energetic
+Thumko,Ikram Rajasthani|Aruna Sharma,/artist/ikram-rajasthani|/artist/aruna-sharma,0.0,Rajasthani,2006-11-01,0.31,0.642,0.432,0.751,-3.394,0.042,156.12,1,1,0.004,4,29,3886282,0,0,0,Sad
+Tane Nanek Karoon Ke Moti,Aarti Mukherji|Jatin Pandit,/artist/aarti-mukherji|/artist/jatin-pandit,0.0,Rajasthani,2006-11-02,0.17,0.6,0.253,0.53,-13.424,0.0829,133.428,0,1,0.022,4,85,3474712,0,0,0,Sad
+Pinghat Pani,Seema Mishra,/artist/seema-mishra,0.0,Rajasthani,2006-11-07,0.09,0.551,0.002,0.085,-8.908,0.08,155.051,1,6,0.0167,4,75,1554113,0,0,0,Sad
+Baba Ramdev,Moti Lal Bohra|Anand Kaur Bohra|Shobha Purohit|Gopal Lal Vohra|Shamim Khan,/artist/moti-lal-bohra|/artist/anand-kaur-bohra-1|/artist/shobha-purohit|/artist/gopal-lal-vohra|/artist/shamim-khan,0.0,Rajasthani,2006-11-07,0.81,0.109,0.468,0.599,-8.053,0.0767,191.942,1,10,0.07,4,41,4100213,0,0,0,Sad
+Beera Thari,Saraswati Devi|Anupama Deshpande,/artist/saraswati-devi|/artist/anupama-deshpande,0.0,Rajasthani,2006-12-03,0.34,0.237,0.247,0.989,-13.135,0.0483,157.915,0,2,0.047,4,41,11145455,0,0,0,Sad
+Main Thaare Het Re Hinde,Hariharan|Dilraj Kaur,/artist/hariharan|/artist/dilraj-kaur,0.0,Rajasthani,2006-12-07,0.59,0.79,0.696,0.15,-13.108,0.017,194.014,1,2,0.032,4,51,2530399,0,0,0,Happy
+Anjan Ki Siti Men,Rehana Mirza,/artist/rehana-mirza,0.0,Rajasthani,2007-01-01,0.8,0.71,0.859,0.46,-5.424,0.0401,181.331,1,11,0.01,4,98,6894773,0,0,0,Happy
+Chhaachh Biloun,Ila Arun,/artist/ila-arun,0.0,Rajasthani,2007-01-10,0.76,0.8,0.617,0.561,-7.142,0.0509,165.054,0,11,0.06,4,47,1570259,0,0,0,Happy
+Baba Ramdeo Ji Ri Mahima,Mahendra Kapoor,/artist/mahendra-kapoor,0.0,Rajasthani,2007-02-02,0.52,0.57,0.813,0.634,-6.839,0.071,184.998,0,4,0.007,4,34,3079978,0,0,0,Energetic
+Man Me To Ganga Maat Manau,Shilpi Mathur,/artist/shilpi-mathur,0.0,Rajasthani,2007-03-07,0.27,0.158,0.211,0.065,-11.557,0.09,109.86,1,3,0.084,4,61,8017891,0,0,0,Sad
+Thari Mahari Kaiyaan,Mahendra Kapoor,/artist/mahendra-kapoor,0.0,Rajasthani,2007-03-11,0.56,0.35,0.54,0.76,-9.195,0.04,163.998,1,2,0.09,4,75,1078819,0,0,0,Sad
+Bai Sara Beera,Allah Jilai Bai,/artist/allah-jilai-bai,0.0,Rajasthani,2007-04-02,0.18,0.61,0.17,0.83,-3.827,0.06,130.813,1,0,0.0616,4,56,2057295,0,0,0,Sad
+Kanahiya Pyara Daras Dikha,Suresh Wadkar,/artist/suresh-wadkar,0.0,Rajasthani,2007-04-07,0.82,0.013,0.163,0.581,-7.902,0.0687,141.971,1,4,0.0218,4,66,11320476,0,0,0,Sad
+Gauri Tharai Peev Row,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Rajasthani,2007-05-07,0.68,0.002,0.486,0.968,-5.729,0.07,197.929,1,1,0.04,4,52,6101361,0,0,0,Sad
+Balam Chhoto So,Kaluram Prajapati|Shamim Khan,/artist/kaluram-prajapati|/artist/shamim-khan,0.0,Rajasthani,2007-05-11,0.71,0.96,0.093,0.802,-9.132,0.0466,176.047,0,4,0.0474,4,36,6659819,0,0,0,Sad
+Kesariya Balam,Allah Jilai Bai,/artist/allah-jilai-bai,0.0,Rajasthani,2007-06-01,0.88,0.22,0.918,0.61,-7.426,0.0599,147.873,1,3,0.0151,4,88,8422375,0,0,0,Happy
+Mele Khele Jao Dhola,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2007-06-07,0.71,0.559,0.655,0.273,-13.474,0.0767,153.066,1,7,0.07,4,61,5608811,0,0,0,Happy
+Mhane Ghano Suvave Saasro,Aarti Mukherji,/artist/aarti-mukherji,0.0,Rajasthani,2007-06-08,0.22,0.804,0.081,0.743,-13.259,0.0118,177.81,1,1,0.0935,4,75,4786573,0,0,0,Sad
+Sun Radha,Suresh Wadkar|Hemlata,/artist/suresh-wadkar|/artist/hemlata,0.0,Rajasthani,2007-07-05,0.05,0.91,0.766,0.987,-2.478,0.09,138.858,1,8,0.094,4,42,8408147,0,0,0,Energetic
+Rudo Batvo Re,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2007-07-08,0.79,0.042,0.513,0.035,-5.444,0.0213,160.057,0,0,0.01,4,76,6284352,0,0,0,Sad
+Runjhuniyo Le,Alka Yagnik|Pukhraj Purohit,/artist/alka-yagnik|/artist/pukhraj-purohit,0.0,Rajasthani,2007-07-10,0.49,0.65,0.482,0.28,-5.954,0.0692,106.023,1,11,0.0376,4,40,10000295,0,0,0,Sad
+Diggi Puri Ka Raja,Subhash Todwal|R.P. Nag,/artist/subhash-todwal|/artist/rp-nag,0.0,Rajasthani,2007-08-01,0.16,0.316,0.13,0.148,-8.635,0.083,137.952,0,3,0.07,4,65,3917395,0,0,0,Sad
+Main To Leke Aaya Thare Baaraat,Dilraj Kaur|Mahendra Kapoor,/artist/dilraj-kaur|/artist/mahendra-kapoor,0.0,Rajasthani,2007-08-08,0.84,0.54,0.598,0.56,-13.598,0.07,184.006,1,8,0.038,4,42,7161823,0,0,0,Happy
+Luk Luk Dekhe Munh Se Na Bole Chhaliyo,Asha Bhosle,/artist/asha-bhosle-1,0.0,Rajasthani,2007-08-11,0.26,0.978,0.158,0.93,-6.021,0.032,192.247,0,2,0.009,4,31,6208599,0,0,0,Sad
+Gokul Main Bajat Badhai,Reeta Pant,/artist/reeta-pant,0.0,Rajasthani,2007-08-11,0.02,0.388,0.502,0.382,-7.653,0.032,159.909,1,4,0.0945,4,67,6509427,0,0,0,Sad
+Maa Mhane Kyun Parnaai,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Rajasthani,2007-09-07,0.82,0.4,0.678,0.9,-5.58,0.0604,177.913,1,0,0.079,4,57,4229943,0,0,0,Energetic
+Mhane Chadiyo Re Choguno Chaav,Aarti Mukherji,/artist/aarti-mukherji,0.0,Rajasthani,2007-10-01,0.63,0.98,0.064,0.22,-3.529,0.0811,119.992,1,11,0.097,4,67,105308,0,0,0,Sad
+Nimbuda,Bundu Khan Langa|Party,/artist/bundu-khan-langa|/artist/party,0.0,Rajasthani,2007-10-11,0.01,0.798,0.57,0.746,-11.427,0.083,127.941,1,4,0.081,4,89,10011602,0,0,0,Happy
+Redli Padi Padi Gururavegi,Jahoor Master,/artist/jahoor-master,0.0,Rajasthani,2007-11-01,0.64,0.68,0.613,0.83,-3.227,0.03,135.336,1,11,0.0146,4,63,5511594,0,0,0,Happy
+Moriyo Bolyo,Shakuntala Joshi,/artist/shakuntala-joshi,0.0,Rajasthani,2007-11-03,0.4,0.997,0.268,0.033,-11.883,0.0222,106.973,0,4,0.098,4,91,6316011,0,0,0,Sad
+Lage Vrindawan Niko,Bhawna Lonkar,/artist/bhawna-lonkar,0.0,Rajasthani,2007-11-05,0.51,0.58,0.323,0.37,-4.449,0.08,140.127,1,0,0.036,4,69,6495262,0,0,0,Sad
+Lebane Aago Re,Rehana Mirza|Ikram Rajasthani,/artist/rehana-mirza|/artist/ikram-rajasthani,0.0,Rajasthani,2007-11-08,0.13,0.336,0.019,0.221,-6.451,0.033,104.957,0,2,0.0056,4,88,9752092,0,0,0,Sad
+Kaanch Re Kiwari,Jaspal Singh|Anupama Deshapande|Saathi,/artist/jaspal-singh|/artist/anupama|/artist/saathi,0.0,Rajasthani,2007-12-01,0.91,0.08,0.615,0.15,-9.11,0.0941,200.066,1,1,0.041,4,26,2151879,0,0,0,Happy
+Piyoji Mausam Ayo Re,Papiha,/artist/papiha,0.0,Rajasthani,2007-12-06,0.4,0.94,0.745,0.86,-13.415,0.068,132.945,0,10,0.0862,4,91,8960399,0,0,0,Happy
+Barsi Re Barsi Birkha,Suresh Wadkar|Anuradha Paudwal,/artist/suresh-wadkar|/artist/anuradha-paudwal-2,0.0,Rajasthani,2007-12-07,0.13,0.784,0.258,0.214,-3.073,0.06,186.938,0,4,0.0309,4,71,1753969,0,0,0,Sad
+Rumaal Mharo Leta Jaijo,Usha Mangeshkar|Shubhangi Joshi,/artist/usha-mangeshkar-2|/artist/shubha-joshi,0.0,Rajasthani,2007-12-11,0.23,0.79,0.794,0.19,-7.479,0.02,186.044,1,11,0.0351,4,68,10936698,0,0,0,Sad
+Mahari Saamli Haveli,A. K. Vyas|Madhu Tiwari,/artist/a-k-vyas|/artist/madhu-tiwari,0.0,Rajasthani,2007-12-11,0.42,1.0,0.23,0.41,-5.557,0.0371,142.776,0,5,0.0613,4,83,5649365,0,0,0,Sad
+Satrah Baras Ki Ho Gai Aaj,Anupama Deshpande,/artist/anupama-deshpande,0.0,Rajasthani,2008-01-04,0.59,0.78,0.31,0.98,-9.064,0.04,164.082,1,0,0.0905,4,94,1493319,0,0,0,Sad
+Koi Naa Sune Myhari,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Rajasthani,2008-02-10,0.17,0.33,0.393,0.37,-4.852,0.07,158.377,1,2,0.026,4,72,668744,0,0,0,Sad
+Bhajo Re Bhai Ram Govind Hari,Bhavna Lonkar,/artist/bhavna-lonkar,0.0,Rajasthani,2008-03-05,0.72,0.579,0.153,0.957,-4.222,0.0553,145.919,1,6,0.02,4,83,2879516,0,0,0,Sad
+Bhakhar Mein Dhamida Uthe,Ramila Gahlot|Pushpa Gahlot,/artist/ramila-gahlot|/artist/pushpa-gahlot,0.0,Rajasthani,2008-04-02,0.48,0.24,0.337,0.56,-13.485,0.0249,165.961,1,2,0.0394,4,61,1047205,0,0,0,Sad
+Papiho Boliyo Re,Badruddin Malawat|Kamla Goel,/artist/badruddin-malawat|/artist/kamla-goel,0.0,Rajasthani,2008-04-02,0.75,0.755,0.212,0.24,-13.111,0.0461,109.911,0,1,0.0641,4,96,638214,0,0,0,Sad
+Ganga Patitan Ko Aadhar,Bhavana Lonkar,/artist/bhavana-lonkar,0.0,Rajasthani,2008-04-07,0.65,0.7,0.281,0.45,-9.226,0.047,134.973,1,4,0.0601,4,26,2106300,0,0,0,Sad
+Chhaliya Nand Ko Ri,Rita Pandey,/artist/rita-pandey,0.0,Rajasthani,2008-04-08,0.46,0.525,0.251,0.346,-10.809,0.01,174.07,1,11,0.0798,4,52,9967840,0,0,0,Sad
+Gangor,Shobha Purohit,/artist/shobha-purohit,0.0,Rajasthani,2008-05-02,0.91,0.124,0.529,0.975,-13.883,0.04,129.941,0,0,0.073,4,87,3120581,0,0,0,Happy
+Malan Thare Bag Men Narangi Latke,Baby Farida,/artist/baby-farida,0.0,Rajasthani,2008-05-03,0.3,0.974,0.68,0.215,-13.944,0.08,125.009,1,1,0.011,4,55,10506453,0,0,0,Energetic
+Koi Kachhu Kahe Man Laga,Bhawna Lonkar,/artist/bhawna-lonkar,0.0,Rajasthani,2008-05-05,0.53,0.692,0.477,0.659,-10.489,0.0127,193.904,1,10,0.08,4,52,11339386,0,0,0,Sad
+Moti Doongri Baje,Master Kesarilal Gandharv,/artist/master-kesarilal-gandharv,0.0,Rajasthani,2008-05-05,0.58,0.5,0.119,0.66,-4.445,0.01,142.006,0,6,0.09,4,62,9312463,0,0,0,Sad
+Chhappar Purana,Aruna Rathore|Kamla Goel|Sheela Vyas|Fateh Kumar Vyas,/artist/aruna-rathore|/artist/kamla-goel|/artist/sheela-vyas|/artist/fateh-kumar-vyas,0.0,Rajasthani,2008-05-12,0.55,0.64,0.765,0.74,-3.418,0.08,169.948,0,2,0.09,4,83,2759132,0,0,0,Energetic
+Gora Gora Gaal,Suresh Wadkar|Hemlata,/artist/suresh-wadkar|/artist/hemlata,0.0,Rajasthani,2008-07-03,0.07,0.03,0.471,0.89,-5.924,0.068,144.988,0,4,0.081,4,75,9658521,0,0,0,Sad
+Dadhi Dungi Re Sanwaria,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2008-07-05,0.83,0.084,0.662,0.27,-10.2,0.0647,186.081,0,5,0.09,4,53,9334334,0,0,0,Happy
+Toot Mat Jaio Dulladi,Jahoor Master,/artist/jahoor-master,0.0,Rajasthani,2008-07-07,0.25,0.2,0.034,0.71,-12.193,0.004,183.959,1,11,0.0249,4,29,841700,0,0,0,Sad
+Devi Sureshvari Bhagvati Gange,Shilpi Mathur,/artist/shilpi-mathur,0.0,Rajasthani,2008-08-03,0.43,0.717,0.343,0.219,-4.948,0.0353,124.046,1,0,0.0028,4,25,6667902,0,0,0,Sad
+Gujar Ki,Rehana Mirza,/artist/rehana-mirza,0.0,Rajasthani,2008-08-04,0.23,0.211,0.548,0.344,-6.288,0.04,199.045,0,3,0.1,4,36,9245377,0,0,0,Sad
+Bhabhi Thaari Mamta Upar,Suresh Wadkar|Jayshree,/artist/suresh-wadkar|/artist/jayshree,0.0,Rajasthani,2008-09-07,0.88,0.38,0.624,0.14,-12.612,0.021,163.929,0,4,0.071,4,91,300830,0,0,0,Happy
+Dhora Dharati Ra Tirthon Ne,Shri Bhawar Chaudhari|Chorus,/artist/shri-bhawar-chaudhari|/artist/chorus,0.0,Rajasthani,2008-11-03,0.68,0.49,0.186,0.207,-4.576,0.064,105.104,1,6,0.009,4,100,415909,0,0,0,Sad
+Piya Ki Najar Mhare Kajal Men,Rajni Pandey,/artist/rajni-pandey,0.0,Rajasthani,2008-11-03,0.54,0.969,0.188,0.04,-3.657,0.0,177.806,1,10,0.0475,4,81,698299,0,0,0,Sad
+Aao Ji Aao,Chandrani Mukherjee,/artist/chandrani-mukherjee,0.0,Rajasthani,2008-11-03,0.12,0.546,0.475,0.042,-11.536,0.026,151.076,1,11,0.077,4,71,8915946,0,0,0,Sad
+Aatan Jaatan Hanstan Gaatan,Alka Yagnik|Sameer Date,/artist/alka-yagnik|/artist/sameer-date,0.0,Rajasthani,2008-11-12,0.62,0.63,0.633,0.41,-2.564,0.01,149.082,1,2,0.1,4,58,10288273,0,0,0,Sad
+Teeki Paatragi(Loor),Vijay Lakshmi Jain,/artist/vijay-lakshmi-jain,0.0,Rajasthani,2008-12-06,0.23,0.88,0.675,0.82,-7.102,0.039,170.878,1,2,0.09,4,34,1149244,0,0,0,Energetic
+Aisi Kayin Bindni Ayee Re,Rehana Mirza|Shamim|Om Pawar|Shiv Ram|Master Alauddin|Shobha Purohitanand Kuar,/artist/rehana-mirza|/artist/shamim|/artist/om-pawar|/artist/shiv-ram|/artist/master-alauddin-10|/artist/shobha-purohitanand-kuar-6,0.0,Rajasthani,2008-12-10,0.24,0.289,0.804,0.683,-7.317,0.0219,111.881,0,4,0.019,4,95,1135911,0,0,0,Happy
+Baisaa Ra Jatan Karo Part - Iii,Mukesh,/artist/mukesh,0.0,Rajasthani,2008-12-11,0.93,0.785,0.441,0.41,-8.253,0.02,172.638,1,2,0.08,4,35,7070751,0,0,0,Sad
+Aarti Pichham Dhara Su,Rajkamal,/artist/rajkamal,0.0,Rajasthani,2009-01-05,0.34,0.09,0.223,0.07,-4.294,0.07,124.984,0,2,0.0173,4,62,8533253,0,0,0,Sad
+Terikot Ko Lahengo,Rehana Mirza|Mohan Singh Itawa,/artist/rehana-mirza|/artist/mohan-singh-itawa,0.0,Rajasthani,2009-01-09,0.94,0.9,0.792,0.75,-5.11,0.071,170.023,1,7,0.095,4,72,2934077,0,0,0,Happy
+Aapan Chalan Bada Mein,Mohan Singh Itawa|Urmila Khanna,/artist/mohan-singh-itawa|/artist/urmila-khanna,0.0,Rajasthani,2009-03-02,0.0,0.5,0.328,0.55,-4.672,0.03,143.04,1,4,0.0173,4,27,5869365,0,0,0,Sad
+Upar Kaanch Ko Banglow,Alka Yagnik|Jaspal Singh,/artist/alka-yagnik|/artist/jaspal-singh,0.0,Rajasthani,2009-03-05,0.6,0.406,0.534,0.454,-11.29,0.06,192.028,0,11,0.008,4,92,5044424,0,0,0,Sad
+Helo Maaro Sunle,Jai Shree Shiv Ram,/artist/jai-shree-shiv-ram,0.0,Rajasthani,2009-03-09,0.6,0.437,0.993,0.91,-7.857,0.014,198.39,1,5,0.0284,4,78,2675612,0,0,0,Happy
+Gale Mein Hone Ro Doro,Ramila Gahlot|Pushpa Gahlot,/artist/ramila-gahlot|/artist/pushpa-gahlot,0.0,Rajasthani,2009-03-11,0.55,0.06,0.501,0.69,-7.575,0.082,130.017,0,2,0.008,4,53,640875,0,0,0,Sad
+Mai To Marg Bhri,Mohammad Aziz|Saathi,/artist/mohammad-aziz|/artist/saathi,0.0,Rajasthani,2009-04-12,0.75,0.97,0.037,0.0,-8.542,0.08,198.662,1,3,0.07,4,81,10585518,0,0,0,Sad
+Naven Zamane Ri Chhori Mhare Paale Padgi,A.K. Vyas|Sumitra Lehri,/artist/ak-vyas|/artist/sumitra-lehri-1,0.0,Rajasthani,2009-04-12,0.71,0.739,0.476,0.794,-2.713,0.058,142.21,1,0,0.021,4,99,4608037,0,0,0,Sad
+Thari Oonhu Oonhu Men Raat,Banarsi Lal Jhori|Saira Bano,/artist/banarsi-lal-jhori|/artist/saira-bano,0.0,Rajasthani,2009-05-05,0.82,0.877,0.105,0.577,-3.196,0.0499,138.072,1,0,0.03,4,58,1085644,0,0,0,Sad
+Panihari,Allah Jilai Bai,/artist/allah-jilai-bai,0.0,Rajasthani,2009-06-02,0.48,0.99,0.646,0.53,-9.42,0.02,163.128,0,9,0.024,4,30,10965156,0,0,0,Sad
+Balam Thari Olrhu,Shamim Khan,/artist/shamim-khan,0.0,Rajasthani,2009-07-07,0.99,0.605,0.684,0.522,-6.116,0.074,169.17,0,11,0.0317,4,94,9864368,0,0,0,Happy
+Aaja Mhara Balma,Shakuntala Joshi,/artist/shakuntala-joshi,0.0,Rajasthani,2009-08-01,0.06,0.253,0.497,0.557,-10.394,0.09,155.977,0,9,0.0857,4,90,10419956,0,0,0,Sad
+Mati Bolo Aada Teda Bol,Kushal Barath|Sathi,/artist/kushal-barath|/artist/sathi,0.0,Rajasthani,2009-08-05,0.32,0.73,0.833,0.06,-13.255,0.025,124.859,1,10,0.095,4,68,6563729,0,0,0,Sad
+Udati Kurjaliyan,Artists of Churu|Ratannagar,/artist/artists-of-churu|/artist/ratannagar,0.0,Rajasthani,2009-08-10,0.97,0.47,0.53,0.56,-4.268,0.071,105.076,1,4,0.0057,4,90,6393215,0,0,0,Happy
+Harishchandra Raja Amar Ravaigo Tharo Naam Re,Suresh Wadkar,/artist/suresh-wadkar,0.0,Rajasthani,2009-09-02,0.64,0.03,0.753,0.34,-10.279,0.0,181.014,1,9,0.0362,4,97,8128619,0,0,0,Happy
+Awat Mori Galiyan Me Girdhari,Bhawna Lonkar,/artist/bhawna-lonkar,0.0,Rajasthani,2009-09-05,0.8,0.899,0.906,0.763,-13.073,0.015,187.938,0,4,0.006,4,28,9383618,0,0,0,Happy
+Hatvaro,Master Alauddin|Rehana Mirza,/artist/master-alauddin-5|/artist/rehana-mirza,0.0,Rajasthani,2009-09-09,0.68,0.051,0.158,0.362,-12.974,0.1,125.01,1,9,0.087,4,52,817768,0,0,0,Sad
+Dandi Dandi Chalti Re,Shamim Khan,/artist/shamim-khan,0.0,Rajasthani,2009-09-11,0.45,0.327,0.715,0.428,-11.485,0.0053,112.41,0,10,0.024,4,62,7150390,0,0,0,Sad
+Mela Mein Le Chal Sajna,Ila Arun|Chorus,/artist/ila-arun|/artist/chorus,0.0,Rajasthani,2009-09-11,0.4,0.122,0.451,0.753,-10.157,0.0665,110.027,1,4,0.008,4,82,10513973,0,0,0,Sad
+Kesriya Balam,Anuradha Prakash|Supriya,/artist/anuradha-prakash|/artist/supriya,0.0,Rajasthani,2009-09-12,0.03,0.38,0.81,0.72,-7.271,0.01,106.958,1,3,0.0592,4,44,74282,0,0,0,Sad
+Govinda Bolo,Anand Kumar,/artist/anand-kumar,0.0,Rajasthani,2009-10-02,0.1,0.127,0.292,0.731,-2.503,0.01,110.122,1,0,0.044,4,97,7906989,0,0,0,Sad
+Vande Gopalam,Chandrani Mukherjee|Jaspal Singh,/artist/chandrani-mukherjee|/artist/jaspal-singh,0.0,Rajasthani,2009-10-06,0.8,0.88,0.742,0.97,-3.864,0.072,195.083,0,1,0.0114,4,91,4154773,0,0,0,Energetic
+Bhaat Nyutan Aai,Chandrani Mukherjee|Sudha Malhotra,/artist/chandrani-mukherjee|/artist/sudha-malhotra,0.0,Rajasthani,2009-11-09,0.66,0.52,0.351,0.15,-3.335,0.076,112.275,0,7,0.0847,4,72,5232767,0,0,0,Sad
+Holi Aayi Re,Chandrani Mukherjee|Suresh Wadkar,/artist/chandrani-mukherjee|/artist/suresh-wadkar,0.0,Rajasthani,2009-11-12,0.8,0.433,0.493,0.189,-12.342,0.06,165.071,1,7,0.099,4,32,7522997,0,0,0,Sad
+Ek Chanchal Gujri Re Dadhi Bechan,Aarchana Rajimwale,/artist/aarchana-rajimwale,0.0,Rajasthani,2009-12-06,0.6,0.066,0.482,0.308,-7.649,0.0859,109.096,1,0,0.09,4,41,7033686,0,0,0,Sad
+Dhak Dhak Hove Chhe,Aruna Sharma|Ikram Rajasthani,/artist/aruna-sharma|/artist/ikram-rajasthani,0.0,Rajasthani,2010-01-02,0.73,0.5,0.3,0.32,-2.842,0.08,166.065,1,1,0.05,4,75,5816699,0,0,0,Sad
+Chhail Baga Me Ayijyo Ji,Bhawna Lonkar|Hemant Verma,/artist/bhawna-lonkar|/artist/hemant-verma,0.0,Rajasthani,2010-01-07,0.07,0.316,0.67,0.334,-11.114,0.04,138.178,1,1,0.043,4,100,7494680,0,0,0,Happy
+Mhari Hatheleon Ri Beech,Shakuntala Joshi|Anand Kaur Bohra,/artist/shakuntala-joshi|/artist/anand-kaur-bohra-2,0.0,Rajasthani,2010-01-07,0.33,0.35,0.979,0.54,-4.21,0.02,139.954,1,2,0.091,4,89,4282868,0,0,0,Energetic
+Mhane Le Deyo Na Badeela Bana Taaran Bhart Choonari,Dilraj Kaur,/artist/dilraj-kaur,0.0,Rajasthani,2010-01-08,0.65,0.495,0.297,0.857,-12.368,0.0824,116.952,1,2,0.084,4,53,4588309,0,0,0,Sad
+Ram Dhaniyo,Kamla Thakur,/artist/kamla-thakur,0.0,Rajasthani,2010-02-06,0.55,0.92,0.758,0.65,-11.828,0.0879,168.202,1,3,0.01,4,97,7892945,0,0,0,Happy
+Talriya Magria Re,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2010-03-11,0.66,0.13,0.379,0.99,-2.348,0.1,175.074,0,5,0.08,4,72,1733065,0,0,0,Sad
+Karmo Bai Ro Khichadlo,chandra shekhar kalla,/artist/chandra-shekhar-kalla,0.0,Rajasthani,2010-03-11,0.38,0.611,0.683,0.275,-2.533,0.05,116.011,1,1,0.0842,4,72,46725,0,0,0,Sad
+Nanad Bhabhi Ri Chheda Chhedi,Dilraj Kaur|Jyoti,/artist/dilraj-kaur|/artist/jyoti,0.0,Rajasthani,2010-04-01,0.97,0.33,0.142,0.48,-7.715,0.009,131.971,0,11,0.045,4,38,5277829,0,0,0,Sad
+Main Biraha Ri Mari,Jayshri Shivram,/artist/jayshri-shivram,0.0,Rajasthani,2010-04-02,0.74,0.69,0.602,0.41,-7.056,0.0,167.958,0,8,0.05,4,46,8394368,0,0,0,Happy
+Dhak Kagliya,Rehana Mirza,/artist/rehana-mirza,0.0,Rajasthani,2010-04-04,0.17,0.36,0.81,0.056,-7.089,0.065,168.207,1,10,0.05,4,87,4455562,0,0,0,Happy
+Jhula Pada Kadam Ki Daar,Aarchanarajim Wale,/artist/aarchanarajim-wale,0.0,Rajasthani,2010-05-04,0.04,0.11,0.141,0.46,-4.544,0.0946,176.686,0,1,0.0549,4,65,11250453,0,0,0,Sad
+Banna Re Bagan Main,Suresh Wadkar|Saraswati Devi,/artist/suresh-wadkar|/artist/saraswati-devi,0.0,Rajasthani,2010-06-08,0.5,0.19,0.175,0.62,-4.621,0.075,203.986,1,5,0.028,4,95,369618,0,0,0,Sad
+Jad Ray Bar Bando Kaakad Aayo,Kushal Barath|Sathi,/artist/kushal-barath|/artist/sathi,0.0,Rajasthani,2010-06-12,0.38,0.67,0.838,0.74,-9.554,0.0641,127.036,1,9,0.039,4,85,1210202,0,0,0,Happy
+Mathe Ne Memad Pero,Madhulika Mathur,/artist/madhulika-mathur,0.0,Rajasthani,2010-07-01,0.11,0.82,0.582,0.41,-9.249,0.08,112.248,1,0,0.0536,4,48,7241475,0,0,0,Sad
+Mahari Gori,Chandra Prakash Parihar,/artist/chandra-prakash-parihar,0.0,Rajasthani,2010-09-01,0.99,0.376,0.242,0.378,-2.394,0.038,187.13,0,5,0.055,4,36,4735418,0,0,0,Sad
+Baaga Mein Baaje Jangi Dhol,Kushal Barath|Sathi,/artist/kushal-barath|/artist/sathi,0.0,Rajasthani,2010-10-11,0.12,0.997,0.616,0.385,-12.555,0.02,155.996,1,10,0.1,4,52,2512377,0,0,0,Sad
+O Phagan Aayo,Ramila Gahlot,/artist/ramila-gahlot,0.0,Rajasthani,2010-11-01,0.99,0.069,0.228,0.002,-9.666,0.097,207.96,1,8,0.045,4,43,10922106,0,0,0,Sad
+Gordi Kar Solah Singar,Poornima|Jyoti Ray,/artist/poornima|/artist/jyoti-ray,0.0,Rajasthani,2010-11-10,0.29,0.1,0.22,0.72,-2.909,0.03,166.009,0,11,0.06,4,85,8441929,0,0,0,Sad
+Jeeja Saali,Rehana Mirza|Shamim|Om Pawar|Shiv Ram|Master Alauddin|Shobha Purohitanand Kuar,/artist/rehana-mirza|/artist/shamim|/artist/om-pawar|/artist/shiv-ram|/artist/master-alauddin-9|/artist/shobha-purohitanand-kuar-5,0.0,Rajasthani,2010-11-12,0.99,0.15,0.001,0.53,-6.927,0.053,181.676,0,8,0.087,4,88,7612451,0,0,0,Sad
+Baisaa Ra Jatan Karo Part - Ii,Mukesh,/artist/mukesh,0.0,Rajasthani,2010-11-12,0.96,0.98,0.133,0.89,-9.286,0.0895,162.151,1,0,0.05,4,29,458284,0,0,0,Sad
+Bana Re Baga Main,Shilpi Mathur|Sanjay Raizada|Sarsthi Mathur,/artist/shilpi-mathur|/artist/sanjay-raizada|/artist/sarsthi-mathur,0.0,Rajasthani,2010-12-04,1.0,0.98,0.673,0.22,-8.286,0.08,165.917,0,2,0.0652,4,41,8787760,0,0,0,Happy
+Natwar Naagar,Anand Kumar,/artist/anand-kumar,0.0,Rajasthani,2010-12-05,0.54,0.853,0.709,0.737,-4.826,0.0708,130.877,1,9,0.0928,4,51,7128148,0,0,0,Energetic
+Samu Dekho Aadishwar,Shri Bhawar Chaudhari|Chorus,/artist/shri-bhawar-chaudhari|/artist/chorus,0.0,Rajasthani,2010-12-06,0.12,0.742,0.935,0.678,-2.744,0.0,121.61,1,8,0.0207,4,95,679038,0,0,0,Energetic
+Mangi Lal Darzi,Shakuntala Joshi|Master Alauddin,/artist/shakuntala-joshi|/artist/master-alauddin-12,0.0,Rajasthani,2010-12-07,0.69,0.62,0.397,0.29,-2.553,0.0109,122.018,0,8,0.09,4,53,4257058,0,0,0,Sad
+Maharaja Bharat Hari,Chunni Jaipuri|dayal pawar,/artist/chunni-jaipuri-3|/artist/dayal-pawar,0.0,Rajasthani,2010-12-07,0.05,0.07,0.06,0.06,-2.801,0.083,140.012,1,2,0.037,4,61,3709499,0,0,0,Sad
+Rupeeda,Khiya Ram|Prabhati,/artist/khiya-ram|/artist/prabhati,0.0,Rajasthani,2010-12-08,0.63,0.37,0.201,0.6,-10.021,0.0527,203.234,1,11,0.08,4,59,1956925,0,0,0,Sad
+Chakar Rakhoji,Bhawna Lonkar,/artist/bhawna-lonkar,0.0,Rajasthani,2011-01-05,0.86,0.1,0.156,0.65,-10.628,0.0134,149.062,1,6,0.02,4,79,4248653,0,0,0,Sad
+Shri Ram Runicha Wale Meri Arji Sun Lena,Moolchand Maroo,/artist/moolchand-maroo-11,0.0,Rajasthani,2011-02-02,0.92,0.49,0.731,0.42,-6.507,0.037,162.002,1,2,0.06,4,53,110328,0,0,0,Happy
+Tu To A Ghar A Var Maange,Kushal Barath|Sathi,/artist/kushal-barath|/artist/sathi,0.0,Rajasthani,2011-02-05,0.89,0.513,0.894,0.659,-10.44,0.059,208.206,0,5,0.013,4,29,5929948,0,0,0,Happy
+Meri Nanhi Umar Hajari,Jahoor Master,/artist/jahoor-master,0.0,Rajasthani,2011-03-01,0.4,0.73,0.527,0.88,-11.289,0.0418,145.89,1,11,0.0967,4,35,1022374,0,0,0,Sad
+Mataji Ri Laadli,Hamid Khan,/artist/hamid-khan,0.0,Rajasthani,2011-03-12,0.92,0.29,0.926,0.78,-7.779,0.069,139.767,1,5,0.0412,4,27,11058298,0,0,0,Happy
+Gujar Ki Deve Chhe Data,Rehana Mirza,/artist/rehana-mirza,0.0,Rajasthani,2011-04-01,0.59,0.29,0.915,0.97,-6.192,0.0639,115.027,1,1,0.009,4,53,10520213,0,0,0,Energetic
+Baba Ramdeo Ji Ri Mahima,Asha Bhosle|Mahendra Kapoor,/artist/asha-bhosle-1|/artist/mahendra-kapoor,0.0,Rajasthani,2011-04-03,0.22,0.107,0.946,0.21,-11.059,0.02,156.014,1,3,0.05,4,55,3195496,0,0,0,Sad
+Chhail Bhanwar Ghar Aayo,Shakuntala Joshi,/artist/shakuntala-joshi,0.0,Rajasthani,2011-04-03,0.2,0.392,0.828,0.537,-13.176,0.052,157.178,1,9,0.05,4,43,5793707,0,0,0,Energetic
+Mandir Chho Mukti Tana  Ratnakar Pachchisi,Shri Bhawar Chaudhari|Chorus,/artist/shri-bhawar-chaudhari|/artist/chorus,0.0,Rajasthani,2011-04-07,0.52,0.886,0.162,0.702,-5.01,0.0661,170.019,1,1,0.0621,4,80,6592609,0,0,0,Sad
+Ek Myaan Mein Do Talwara,Jaishri Shivram|Sonali Vajpayee,/artist/jaishri-shivram|/artist/sonali-vajpayee,0.0,Rajasthani,2011-05-02,0.39,0.23,0.063,0.16,-12.222,0.026,154.022,1,2,0.051,4,54,11163713,0,0,0,Sad
+Bankhand Ki Koyal,Sudha Malhotra,/artist/sudha-malhotra,0.0,Rajasthani,2011-05-03,0.2,0.93,0.799,0.99,-2.436,0.042,119.908,0,7,0.087,4,68,331853,0,0,0,Sad
+Mohabbat Ki Bhooki Re,Chunni Jaipuri|Bhairav Prasad Kathak,/artist/chunni-jaipuri-3|/artist/bhairav-prasad-kathak,0.0,Rajasthani,2011-05-08,0.54,0.475,0.598,0.63,-12.197,0.0179,166.713,0,5,0.0403,4,89,737722,0,0,0,Happy
+Aaja Shaam Hone Aaee - Duet,Alka Yagnik|Sameer Date,/artist/alka-yagnik|/artist/sameer-date,0.0,Rajasthani,2011-05-09,0.94,0.51,0.27,0.64,-13.243,0.09,204.256,1,2,0.0,4,99,877190,0,0,0,Sad
+Ro Ro Pukare Thari Radha,Asha Bhosle,/artist/asha-bhosle-1,0.0,Rajasthani,2011-05-10,0.77,0.885,0.912,0.961,-5.246,0.0804,150.033,1,10,0.0132,4,74,3192792,0,0,0,Energetic
+Mara Juna Josi,chandra shekhar kalla,/artist/chandra-shekhar-kalla,0.0,Rajasthani,2011-06-01,0.85,0.756,0.266,0.355,-10.396,0.024,145.012,1,10,0.0944,4,86,5984660,0,0,0,Sad
+Mhari Deorani Jethani,Changani Krishna Vyas,/artist/changani-krishna-vyas,0.0,Rajasthani,2011-08-01,0.32,0.54,0.229,0.282,-8.452,0.0727,196.334,0,1,0.097,4,77,4679103,0,0,0,Sad
+Aai Rang Rangili Holi,Hariharan|Savita Saathi,/artist/hariharan|/artist/savita-saathi,0.0,Rajasthani,2011-09-01,0.66,0.284,0.339,0.901,-8.682,0.073,107.96,1,0,0.0184,4,76,1062023,0,0,0,Sad
+Kori Kori Kanchan Kaaya,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Rajasthani,2011-09-03,0.76,0.234,0.001,0.302,-9.551,0.021,164.971,1,8,0.0579,4,49,1067254,0,0,0,Sad
+Moriya Dije Re Sandeso,Asha Bhosle,/artist/asha-bhosle-1,0.0,Rajasthani,2011-09-04,0.22,0.71,0.221,0.68,-2.57,0.042,148.026,0,11,0.096,4,62,312268,0,0,0,Sad
+Na Main Radha Na Main Meera,Asha Bhosle|Mahendra Kapoor,/artist/asha-bhosle-1|/artist/mahendra-kapoor,0.0,Rajasthani,2011-09-07,0.44,0.46,0.263,0.17,-2.797,0.0446,156.958,1,8,0.0942,4,30,7877701,0,0,0,Sad
+Om Namo Arihantan,Shri Bhawar Chaudhari|Chorus,/artist/shri-bhawar-chaudhari|/artist/chorus,0.0,Rajasthani,2011-09-09,0.5,0.502,0.174,0.68,-6.732,0.0109,173.566,1,7,0.08,4,54,1381066,0,0,0,Sad
+Doha Kesariyo,Rajkamal,/artist/rajkamal,0.0,Rajasthani,2011-11-04,0.74,0.303,0.386,0.295,-8.82,0.08,151.186,1,8,0.001,4,41,9811818,0,0,0,Sad
+Chhori Nakhrali,Rehana Mirza|Ikram Rajasthani,/artist/rehana-mirza|/artist/ikram-rajasthani,0.0,Rajasthani,2011-11-06,0.81,0.895,0.771,0.209,-12.859,0.062,111.202,1,0,0.07,4,43,4805096,0,0,0,Happy
+Halo Vinayak Aapa,Kushal Barath|Sathi,/artist/kushal-barath|/artist/sathi,0.0,Rajasthani,2011-12-04,0.36,0.117,0.149,0.378,-9.463,0.029,195.809,1,0,0.0377,4,42,5302870,0,0,0,Sad
+Mhare Rang Mein Rangane Wali,Sameer Date,/artist/sameer-date,0.0,Rajasthani,2011-12-05,0.3,0.32,0.201,0.12,-9.951,0.05,151.602,1,0,0.0,4,94,3148991,0,0,0,Sad
+Matvali Gujri,Tejkaran Rao,/artist/tejkaran-rao,0.0,Rajasthani,2012-01-04,0.73,0.946,0.764,0.519,-2.291,0.03,149.864,0,4,0.0508,4,65,6045189,0,0,0,Happy
+Talriya Maagriya Re,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Rajasthani,2012-01-10,0.79,0.62,0.652,0.34,-8.096,0.098,119.812,0,1,0.0142,4,42,10494831,0,0,0,Happy
+Chhori Jhunjhuna Wali,Ikram Rajasthani,/artist/ikram-rajasthani,0.0,Rajasthani,2012-02-01,0.59,0.634,0.461,0.844,-12.711,0.0882,159.718,0,5,0.063,4,92,1135587,0,0,0,Sad
+Ud Ud Re Mahara Kala Re Kagla,Rehana Mirza,/artist/rehana-mirza,0.0,Rajasthani,2012-02-05,0.5,0.411,0.651,0.038,-3.611,0.09,156.928,1,9,0.0947,4,98,6815800,0,0,0,Sad
+Mhara Pivji Base Pardes,Pushpa Tirke,/artist/pushpa-tirke,0.0,Rajasthani,2012-03-03,0.52,0.04,0.686,0.56,-3.698,0.04,161.957,0,10,0.03,4,39,8364671,0,0,0,Energetic
+Pardesio Le Gayo Nindrali,Naseem Mirza,/artist/naseem-mirza,0.0,Rajasthani,2012-03-04,0.54,0.601,0.291,0.727,-6.958,0.04,144.028,0,0,0.07,4,42,3503707,0,0,0,Sad
+Udiyo Re Udiyo,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2012-03-05,0.75,0.454,0.898,0.069,-4.23,0.0934,156.488,1,7,0.009,4,47,5126960,0,0,0,Energetic
+Ji Toda Ra Dhol Ghuray,Kushal Barath|Sathi,/artist/kushal-barath|/artist/sathi,0.0,Rajasthani,2012-03-11,0.46,0.64,0.885,0.36,-2.807,0.069,148.028,0,1,0.05,4,29,9717650,0,0,0,Energetic
+Chand Chadhyo Gignar,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2012-04-08,0.31,0.09,0.004,0.37,-10.145,0.1,170.092,1,2,0.008,4,69,4301606,0,0,0,Sad
+Banno Hamari Anmol,Salamat Hussain,/artist/salamat-hussain,0.0,Rajasthani,2012-05-01,0.32,0.74,0.375,0.25,-12.15,0.08,179.47,0,7,0.0256,4,66,2927497,0,0,0,Sad
+Chaali Chaali Sonal Bai Saasriye,Asha Bhosle|Saathi,/artist/asha-bhosle-1|/artist/saathi,0.0,Rajasthani,2012-05-04,0.67,0.9,0.756,0.64,-4.04,0.055,110.047,1,9,0.051,4,98,4981406,0,0,0,Happy
+The To Le Chalo Jijaji,Rehana Mirza,/artist/rehana-mirza,0.0,Rajasthani,2012-06-10,0.06,0.825,0.568,0.89,-4.5,0.04,129.991,1,5,0.093,4,90,7270279,0,0,0,Energetic
+Thari Bole Jai Jaikar Gogapeer Ji,Mahendra Kapoor|Saathi,/artist/mahendra-kapoor|/artist/saathi,0.0,Rajasthani,2012-07-06,0.42,0.874,0.169,0.075,-10.961,0.09,188.018,0,7,0.0625,4,35,5510039,0,0,0,Sad
+Kaanha Re Girdhari-Part - 1,Suresh Wadkar|Anand Kumar,/artist/suresh-wadkar|/artist/anand-kumar,0.0,Rajasthani,2012-07-12,0.94,0.18,0.689,0.53,-4.313,0.0985,130.823,1,8,0.092,4,40,9176001,0,0,0,Energetic
+Maati Helo Paare Re,Satish,/artist/satish,0.0,Rajasthani,2012-10-01,0.58,0.342,0.218,0.322,-12.643,0.0585,133.99,1,6,0.045,4,46,10968483,0,0,0,Sad
+Thari Motar Men Baitha Le,Rehana Mirza|Gul Hassan Khan,/artist/rehana-mirza|/artist/gul-hassan-khan,0.0,Rajasthani,2012-10-01,0.8,0.91,0.697,0.08,-10.661,0.0,111.647,1,0,0.07,4,39,10051307,0,0,0,Happy
+Thumko,Aruna Sharma|Ikram Rajasthani,/artist/aruna-sharma|/artist/ikram-rajasthani,0.0,Rajasthani,2012-11-03,0.23,0.04,0.453,0.64,-12.211,0.0261,135.013,1,10,0.0904,4,87,10012041,0,0,0,Sad
+Aavo Re Jinvarji Aavo,Shri Bhawar Chaudhari|Chorus,/artist/shri-bhawar-chaudhari|/artist/chorus,0.0,Rajasthani,2012-11-08,0.29,0.16,0.546,0.11,-8.102,0.09,145.099,1,7,0.0781,4,81,9464680,0,0,0,Sad
+Nimoli Manga De Re,Kavita Krishnamurthy|Shubhangi Joshi,/artist/kavita-subramaniam|/artist/shubha-joshi,0.0,Rajasthani,2012-12-09,0.47,0.72,0.865,0.41,-12.917,0.0479,175.776,0,9,0.085,4,68,1943097,0,0,0,Happy
+Tharo Bharoso Bhari Re,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Rajasthani,2013-03-01,0.38,0.74,0.341,0.096,-11.328,0.09,169.132,0,0,0.049,4,87,7117199,0,0,0,Sad
+Shri Ram Dev Dayal,Moolchand Maroo|Shashi Gautam,/artist/moolchand-maroo-12|/artist/shashi-gautam-3,0.0,Rajasthani,2013-03-04,0.18,0.124,0.582,0.27,-9.506,0.0353,144.111,1,5,0.011,4,88,8868056,0,0,0,Sad
+Mujron Kabool Karliyon,Suresh Wadkar|Deepmala,/artist/suresh-wadkar|/artist/deepmala,0.0,Rajasthani,2013-03-07,0.09,0.16,0.468,0.16,-2.227,0.028,110.01,0,10,0.0118,4,43,9233306,0,0,0,Sad
+Moriya Aachho,Udit Narayan|Pushpa Tirke,/artist/udit-narayan|/artist/pushpa-tirke,0.0,Rajasthani,2013-04-07,0.54,0.55,0.654,0.72,-13.21,0.063,132.0,1,5,0.0953,4,41,2018527,0,0,0,Sad
+Paheliyan,Chunni Jaipuri|Urmila Khanna|Mehrunissa|Mohan Singh Itawa|Hanuman Sahay|Kalyan Sahai Sharma|Badruddin,/artist/chunni-jaipuri-3|/artist/urmila-khanna|/artist/mehrunissa-1|/artist/mohan-singh-itawa|/artist/hanuman-sahay|/artist/kalyan-sahai-sharma|/artist/badruddin,0.0,Rajasthani,2013-04-08,0.23,0.99,0.988,0.18,-8.561,0.0786,126.008,1,0,0.0359,4,60,4160351,0,0,0,Energetic
+Jobaniye Ra Satrah Nakhra,Alka Yagnik|Pukhraj Purohit,/artist/alka-yagnik|/artist/pukhraj-purohit,0.0,Rajasthani,2013-04-10,0.99,0.832,0.667,0.306,-9.807,0.0803,151.985,1,8,0.0374,4,31,6483971,0,0,0,Happy
+Moria Achhi Boliyan Re,Shamim Khan|Gopal Lal Vohra,/artist/shamim-khan|/artist/gopal-lal-vohra,0.0,Rajasthani,2013-05-12,0.51,0.548,0.991,0.768,-4.317,0.05,135.01,1,1,0.08,4,29,7492412,0,0,0,Energetic
+Kaanha Re Girdhari Part 2,Suresh Wadkar,/artist/suresh-wadkar,0.0,Rajasthani,2013-06-10,0.52,0.442,0.708,0.161,-7.26,0.02,188.146,1,5,0.0955,4,64,1282021,0,0,0,Happy
+Mukut Par Wari Jau,Madhwar Pendharkar,/artist/madhwar-pendharkar,0.0,Rajasthani,2013-07-01,0.12,0.742,0.304,0.28,-12.791,0.0638,186.252,1,4,0.016,4,80,4647468,0,0,0,Sad
+Ooncho To Baniyo Tharo Devro,Moolchand Maroo,/artist/moolchand-maroo-9,0.0,Rajasthani,2013-08-12,0.34,0.42,0.111,0.0,-6.127,0.0604,172.01,1,0,0.08,4,94,3020039,0,0,0,Sad
+Chaje Chajee,Mahendra Kapoor,/artist/mahendra-kapoor,0.0,Rajasthani,2013-08-12,0.16,0.212,0.568,0.233,-2.041,0.0248,135.027,1,2,0.09,4,82,986003,0,0,0,Sad
+Maro Roop Se Jalvo,Suresh Wadkar|Jayshree,/artist/suresh-wadkar|/artist/jayshree,0.0,Rajasthani,2013-09-01,0.91,0.813,0.662,0.92,-7.296,0.0467,179.988,1,2,0.09,4,55,4593977,0,0,0,Happy
+Paryo Hai Hindola,Mamta Sing,/artist/mamta-sing,0.0,Rajasthani,2013-09-04,0.2,0.934,0.949,0.786,-7.314,0.08,106.099,1,9,0.0,4,96,1212483,0,0,0,Happy
+Mor Bole Re,Shilpi Mathur|Sanjay Raizada,/artist/shilpi-mathur|/artist/sanjay-raizada,0.0,Rajasthani,2013-10-01,0.19,0.924,0.074,0.57,-12.676,0.0514,159.915,1,0,0.036,4,90,10308957,0,0,0,Sad
+Rate To Sasuji Thora,Ramila Gahlot|Pushpa Gahlot,/artist/ramila-gahlot|/artist/pushpa-gahlot,0.0,Rajasthani,2013-12-01,0.31,0.47,0.943,0.39,-2.017,0.0087,198.387,1,1,0.0301,4,68,2980975,0,0,0,Energetic
+Le Bethja Danda Male,Rehana Mirza|Ikram Rajasthani,/artist/rehana-mirza|/artist/ikram-rajasthani,0.0,Rajasthani,2013-12-02,0.22,0.64,0.055,0.38,-11.5,0.052,155.005,1,10,0.042,4,43,6659556,0,0,0,Sad
+Ambey Maa,Alka Yagnik,/artist/alka-yagnik,0.0,Rajasthani,2013-12-06,0.61,0.59,0.999,0.57,-10.25,0.04,109.966,1,5,0.036,4,28,7581869,0,0,0,Happy
+Dhaniya Bina Re Helo Kun Saanbhsi,Moolchand Maroo,/artist/moolchand-maroo-14,0.0,Rajasthani,2014-02-12,0.51,0.0,0.591,0.55,-7.683,0.0224,148.298,1,2,0.079,4,48,4215881,0,0,0,Sad
+Lyade Re Lyade,Mahendra Kapoor|Jaspal Singh,/artist/mahendra-kapoor|/artist/jaspal-singh,0.0,Rajasthani,2014-04-09,0.85,0.036,0.823,0.248,-10.358,0.0778,202.076,0,6,0.069,4,28,6252847,0,0,0,Happy
+Jalare,Shobha Purohit,/artist/shobha-purohit,0.0,Rajasthani,2014-04-09,0.4,0.51,0.873,0.583,-12.425,0.05,182.868,0,0,0.05,4,67,4876037,0,0,0,Energetic
+Bajoorhe Ri Loom,Shamim Khan,/artist/shamim-khan,0.0,Rajasthani,2014-05-04,0.63,0.991,0.563,0.894,-11.658,0.098,166.668,1,5,0.0614,4,69,4947302,0,0,0,Happy
+Oonchi Medi Ujali,Ramila Gahlot|Ganpat Joshi|Devendra Dev,/artist/ramila-gahlot|/artist/ganpat-joshi|/artist/devendra-dev,0.0,Rajasthani,2014-05-04,0.26,0.052,0.034,0.179,-6.158,0.09,145.133,1,8,0.0663,4,78,5227532,0,0,0,Sad
+Meri Aa Gayo Raat Atariya Mein,Jahoor Master,/artist/jahoor-master,0.0,Rajasthani,2014-06-01,0.71,0.9,0.718,0.15,-10.915,0.042,110.038,1,2,0.096,4,79,934072,0,0,0,Happy
+Malan Mogaro De,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2014-06-02,0.65,0.44,0.316,0.96,-3.116,0.02,166.004,1,2,0.0306,4,32,4579306,0,0,0,Sad
+Bajrio Tharo Khichro,Rajkanya Harsh|chandra shekhar kalla|Pramod Mathur,/artist/rajkanya-harsh|/artist/chandra-shekhar-kalla|/artist/pramod-mathur,0.0,Rajasthani,2014-06-04,0.33,0.14,0.701,0.6,-2.02,0.0,128.092,1,7,0.0598,4,57,1114864,0,0,0,Energetic
+Manush Ho To Wahi Raskhan,Madhvi Pendharkar,/artist/madhvi-pendharkar,0.0,Rajasthani,2014-07-05,0.02,0.4,0.088,0.99,-5.615,0.051,137.868,0,11,0.026,4,87,1238578,0,0,0,Sad
+Shri Ramdev Peer Ra Shay Pasta,Mahendra Kapoor,/artist/mahendra-kapoor,0.0,Rajasthani,2014-07-09,0.3,0.6,0.606,0.659,-13.462,0.01,145.319,0,2,0.0177,4,39,2754944,0,0,0,Sad
+Yo Sansaar Ajab Hai Re Bhai,Chandru Atma,/artist/chandru-atma,0.0,Rajasthani,2014-08-12,0.58,0.89,0.076,0.75,-7.388,0.0121,173.143,1,4,0.066,4,95,21498,0,0,0,Sad
+Dilli Darwaje Kaaman,Chandrani Mukherjee|Dilraj Kaur|Sudha Malhotra,/artist/chandrani-mukherjee|/artist/dilraj-kaur|/artist/sudha-malhotra,0.0,Rajasthani,2014-09-01,0.58,0.769,0.445,0.346,-13.493,0.0457,170.033,0,11,0.011,4,75,8192059,0,0,0,Sad
+Darbadriro Pani Sayyian,Parvin|Rehana|Naseem Banu,/artist/parvin|/artist/rehana|/artist/naseem-banu-6,0.0,Rajasthani,2014-09-02,0.34,0.27,0.068,0.6,-6.523,0.092,146.46,1,9,0.053,4,31,6425128,0,0,0,Sad
+Mope Jabaran Rang Diyo Daar,Vandna Tailang,/artist/vandna-tailang,0.0,Rajasthani,2014-09-03,0.38,0.933,0.131,0.032,-4.335,0.005,143.006,1,7,0.0044,4,63,5212084,0,0,0,Sad
+Payal Ki Jhankar,Kamla Goel,/artist/kamla-goel,0.0,Rajasthani,2014-10-02,0.13,0.903,0.268,0.22,-2.345,0.05,158.784,0,5,0.0971,4,79,8906978,0,0,0,Sad
+Roomal,Bachu Khan|Idu Khan|Kohinoor,/artist/bachu-khan|/artist/idu-khan|/artist/kohinoor,0.0,Rajasthani,2014-10-03,0.75,0.602,0.717,0.522,-12.413,0.069,109.852,0,6,0.03,4,76,8774059,0,0,0,Happy
+Gam Gai Idani,Om Pawar|Pt. Shivram Krishna,/artist/om-pawar|/artist/pt-shivram-krishna,0.0,Rajasthani,2014-10-06,0.9,0.143,0.006,0.025,-10.751,0.067,146.066,1,9,0.008,4,32,5804320,0,0,0,Sad
+Na Hoti Preet Aa,Savita Saathi,/artist/savita-saathi,0.0,Rajasthani,2014-10-11,0.53,0.55,0.585,0.48,-3.78,0.07,121.154,0,4,0.089,4,96,5661579,0,0,0,Sad
+Chudi Pairaayede Ratai Rangri,Anupama Deshpande,/artist/anupama-deshpande,0.0,Rajasthani,2014-10-11,0.36,0.704,0.084,0.004,-4.403,0.09,153.108,1,2,0.0184,4,42,11152198,0,0,0,Sad
+Thathera Chhota Lal,Tejkaran Rao,/artist/tejkaran-rao,0.0,Rajasthani,2014-11-06,0.16,0.74,0.243,0.03,-8.013,0.0524,147.922,0,1,0.006,4,86,4707892,0,0,0,Sad
+Manihara,Sayeeda Begum,/artist/sayeeda-begum,0.0,Rajasthani,2014-11-12,0.92,0.4,0.624,0.87,-5.65,0.0671,143.984,1,2,0.08,4,93,6714326,0,0,0,Happy
+Umrao Thari Surat Pyari,Vijay Lakshmi Jain,/artist/vijay-lakshmi-jain,0.0,Rajasthani,2014-12-10,0.77,0.602,0.794,0.792,-11.166,0.05,138.118,1,3,0.0635,4,33,9502452,0,0,0,Happy
+Oji Mahra Ran Baanka Sirdar,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Rajasthani,2015-01-01,0.08,0.5,0.425,0.69,-10.794,0.0449,156.16,1,1,0.017,4,25,8063266,0,0,0,Sad
+Dil Deewano - Part,Alka Yagnik|Sameer Date,/artist/alka-yagnik|/artist/sameer-date,0.0,Rajasthani,2015-01-10,0.2,0.13,0.928,0.85,-6.857,0.0176,207.984,0,11,0.0079,4,48,564794,0,0,0,Energetic
+Banna O Bann O,Kushal Barath|Sathi,/artist/kushal-barath|/artist/sathi,0.0,Rajasthani,2015-03-01,0.87,0.678,0.66,0.648,-13.755,0.07,159.93,0,4,0.08,4,53,9506475,0,0,0,Happy
+Thele Wala Rukja,Urmila Khanna|Hanuman Sahay,/artist/urmila-khanna|/artist/hanuman-sahay,0.0,Rajasthani,2015-04-04,0.2,0.29,0.806,0.02,-10.871,0.002,116.677,1,7,0.02,4,95,5326810,0,0,0,Sad
+Houji Dhola Re,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Rajasthani,2015-04-11,0.22,0.486,0.896,0.645,-9.497,0.059,149.937,0,0,0.04,4,80,1938967,0,0,0,Energetic
+Rangeelo Chang Bajno,Rajprabha Pangadiya|Raj Bala|Radha Maheshwari,/artist/rajprabha-pangadiya|/artist/raj-bala|/artist/radha-maheshwari,0.0,Rajasthani,2015-05-11,0.4,0.943,0.576,0.214,-11.438,0.05,114.929,1,8,0.01,4,69,386489,0,0,0,Sad
+Le Dekh Nangi Melo,Rehana Mirza|Ikram Rajasthani,/artist/rehana-mirza|/artist/ikram-rajasthani,0.0,Rajasthani,2015-06-06,0.44,0.53,0.805,0.88,-3.16,0.0194,114.981,1,11,0.06,4,87,7724903,0,0,0,Sad
+Bhar Lyaoon Re Dhola,Rajkanya Harsh,/artist/rajkanya-harsh,0.0,Rajasthani,2015-06-08,0.78,0.77,0.841,0.048,-8.708,0.074,199.982,0,5,0.04,4,72,2240132,0,0,0,Happy
+Mhane Lyado Ni Badila Dhola,Shilpi Mathur,/artist/shilpi-mathur,0.0,Rajasthani,2015-07-02,0.19,0.54,0.555,0.26,-3.268,0.02,111.023,1,0,0.045,4,95,1376168,0,0,0,Sad
+Mhara The Dhani Ho Gopal,Asha Bhosle|Mahendra Kapoor,/artist/asha-bhosle-1|/artist/mahendra-kapoor,0.0,Rajasthani,2015-07-09,0.95,0.05,0.819,0.83,-4.747,0.0134,120.656,0,5,0.05,4,55,4885003,0,0,0,Happy
+Paapri Navdi Doobe Re,Badripawar|Jaspinder Narula,/artist/badripawar|/artist/jaspinder-narula,0.0,Rajasthani,2015-07-12,0.91,0.4,0.596,0.45,-12.569,0.039,112.549,0,6,0.05,4,31,7845310,0,0,0,Sad
+Jimo Jimo Mhara Madan Gopal,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Rajasthani,2015-08-06,0.62,0.043,0.135,0.604,-9.194,0.088,154.95,0,11,0.0885,4,57,5055362,0,0,0,Sad
+Chhappar Purana,Allah Jilai Bai,/artist/allah-jilai-bai,0.0,Rajasthani,2015-08-06,0.1,0.96,0.096,0.975,-13.989,0.008,199.001,1,10,0.0045,4,52,5503952,0,0,0,Sad
+Mhari Jaagi Hai Nas Nas Aaj,Anupama Deshpande,/artist/anupama-deshpande,0.0,Rajasthani,2015-09-05,0.26,0.336,0.263,0.467,-5.468,0.07,179.79,0,3,0.0148,4,87,4210405,0,0,0,Sad
+Umrao Thari Boli Pyari Lage,Mahendra Kapoor|Sarita Goswami|Gyanesh Wari Sharma,/artist/mahendra-kapoor|/artist/sarita-goswami|/artist/gyanesh-wari-sharma-2,0.0,Rajasthani,2015-09-09,0.57,0.17,0.914,0.38,-2.357,0.099,104.978,1,1,0.08,4,30,5378929,0,0,0,Energetic
+Panihari,Shilpi Mathur|Sarsthi Mathur,/artist/shilpi-mathur|/artist/sarsthi-mathur,0.0,Rajasthani,2015-09-09,0.85,0.36,0.937,0.02,-8.955,0.0469,120.006,1,0,0.08,4,100,3320490,0,0,0,Happy
+Braj Mandal Desh Dikha De Rasiya,Artists of Churu|Ratannagar,/artist/artists-of-churu|/artist/ratannagar,0.0,Rajasthani,2015-09-11,0.74,0.5,0.961,0.36,-12.464,0.08,175.053,0,11,0.0647,4,36,637236,0,0,0,Happy
+Jai Ganga Jai Jai Jag Janani,Bhavana Lonkar|Hemant,/artist/bhavana-lonkar|/artist/hemant-1,0.0,Rajasthani,2015-09-11,0.51,0.147,0.011,0.954,-7.919,0.1,137.03,1,0,0.07,4,52,9130551,0,0,0,Sad
+Dhola Mat Pio Daru,Chunni Jaipuri,/artist/chunni-jaipuri-3,0.0,Rajasthani,2015-09-12,0.84,0.732,0.129,0.916,-7.788,0.0,170.0,0,4,0.04,4,60,6239448,0,0,0,Sad
+Moriyo Bolyo,Shakuntala Joshi,/artist/shakuntala-joshi,0.0,Rajasthani,2015-10-12,0.69,0.368,0.637,0.449,-10.093,0.0126,199.206,1,7,0.0731,4,92,1544265,0,0,0,Happy
+Ho Maharo,Rehana Mirza,/artist/rehana-mirza,0.0,Rajasthani,2015-11-06,0.71,0.546,0.401,0.269,-11.028,0.075,116.084,0,4,0.05,4,34,5504850,0,0,0,Sad
+Manro Lago Mero Yar Fakiri Mai,chandra shekhar kalla,/artist/chandra-shekhar-kalla,0.0,Rajasthani,2015-11-09,0.76,0.63,0.383,0.14,-9.181,0.05,140.964,1,11,0.0009,4,57,5545662,0,0,0,Sad
+Mhari Ae Mangetar,Anupama Deshpande,/artist/anupama-deshpande,0.0,Rajasthani,2015-12-02,0.46,0.86,0.265,0.17,-2.334,0.0454,171.978,1,6,0.073,4,37,11365463,0,0,0,Sad
+Roomal,Rehana Mirza,/artist/rehana-mirza,0.0,Rajasthani,2016-01-04,0.46,0.79,0.073,0.83,-8.612,0.017,187.762,1,0,0.078,4,84,3895615,0,0,0,Sad
+Shake Maskan Hare Tani,Jahoor Master,/artist/jahoor-master,0.0,Rajasthani,2016-01-09,0.58,0.723,0.572,0.921,-6.806,0.03,142.028,1,2,0.048,4,39,431347,0,0,0,Sad
+Beera Re,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Rajasthani,2016-01-09,0.69,0.006,0.871,0.391,-3.758,0.0,148.658,0,2,0.07,4,65,7487921,0,0,0,Energetic
+Tharo Mharo Heth,Jaishri Shivram|Sonali Vajpayee,/artist/jaishri-shivram|/artist/sonali-vajpayee,0.0,Rajasthani,2016-01-11,0.8,0.91,0.361,0.28,-5.822,0.08,180.434,1,1,0.091,4,52,1156945,0,0,0,Sad
+Pancchi Ki Tarah Udd Jaaon,Chandrani Mukherjee,/artist/chandrani-mukherjee,0.0,Rajasthani,2016-02-01,0.29,0.364,0.923,0.77,-6.947,0.04,148.91,0,0,0.0623,4,34,1863935,0,0,0,Energetic
+Suno Chandaji Simandhar Parmatam Pase Javjo,Shri Bhawar Chaudhari|Chorus,/artist/shri-bhawar-chaudhari|/artist/chorus,0.0,Rajasthani,2016-02-07,0.44,0.92,0.549,0.41,-9.996,0.073,134.879,1,9,0.01,4,55,9181758,0,0,0,Sad
+Mane Naidi Ro Bulaye,Suresh Wadkar|Jayshree,/artist/suresh-wadkar|/artist/jayshree,0.0,Rajasthani,2016-02-10,0.54,0.88,0.972,0.43,-13.183,0.0286,139.894,0,11,0.0487,4,95,5649710,0,0,0,Happy
+Thane Dekh Dekh Hivare Mein,Chandrani Mukherjee|Utra Kelkar,/artist/chandrani-mukherjee|/artist/utra-kelkar,0.0,Rajasthani,2016-03-08,0.88,0.118,0.283,0.123,-11.891,0.07,193.9,1,4,0.099,4,61,8052293,0,0,0,Sad
+Kanha Re Bego Aa,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Rajasthani,2016-04-04,0.12,0.46,0.586,0.58,-2.25,0.08,159.963,0,10,0.093,4,88,528373,0,0,0,Sad
+Rupaiya Ke Lobhi Ne Budhe Ko Byahi,Jahoor Master,/artist/jahoor-master,0.0,Rajasthani,2016-04-11,0.3,0.27,0.977,0.08,-6.126,0.0934,110.007,0,2,0.0415,4,72,7485811,0,0,0,Energetic
+Kallali,Allah Jilai Bai,/artist/allah-jilai-bai,0.0,Rajasthani,2016-05-06,0.74,0.3,0.608,0.96,-4.715,0.0366,185.278,0,11,0.039,4,78,5751523,0,0,0,Happy
+Gori Ne Rangay Dayoni,Bhawana Lonkar,/artist/bhawana-lonkar,0.0,Rajasthani,2016-05-08,0.58,0.79,0.002,0.95,-12.413,0.096,187.986,0,0,0.066,4,28,5539492,0,0,0,Sad
+Are Maigusaro Savere Savere,Malika Pukhraj,/artist/malika-pukhraj,0.0,Rajasthani,2016-07-04,0.51,0.616,0.98,0.94,-8.539,0.04,198.232,0,10,0.002,4,92,9739459,0,0,0,Happy
+Pelo Nom Leejo,Mali Chhawarlal Gahlot|Ganpat Joshi,/artist/mali-chhawarlal-gahlot|/artist/ganpat-joshi,0.0,Rajasthani,2016-08-06,0.78,0.25,0.626,0.15,-2.547,0.005,187.96,1,0,0.0964,4,48,8189578,0,0,0,Sad
+Mumal,Bhawana Lonkar,/artist/bhawana-lonkar,0.0,Rajasthani,2016-08-08,0.58,0.73,0.469,0.44,-4.566,0.0637,181.812,1,7,0.0,4,73,8066000,0,0,0,Sad
+Ae Mare Gaon Ri Chhori,Chandra Prakash Parihar,/artist/chandra-prakash-parihar,0.0,Rajasthani,2016-09-04,0.06,0.876,0.303,0.762,-6.49,0.0332,194.1,1,4,0.1,4,78,7942676,0,0,0,Sad
+Jalalo Bilalo,Suraiya Bano|Saira Bano,/artist/suraiya-bano|/artist/saira-bano,0.0,Rajasthani,2016-09-06,0.46,0.798,0.858,0.037,-7.892,0.0253,139.069,1,2,0.0511,4,32,178312,0,0,0,Sad
+Bansi Vare Ne Gher Lai,Rita Pandey,/artist/rita-pandey,0.0,Rajasthani,2016-09-09,0.95,0.364,0.952,0.364,-12.421,0.06,131.0,1,0,0.018,4,35,5934377,0,0,0,Energetic
+Aayo Myhara Natwar,Suresh Wadkar,/artist/suresh-wadkar,0.0,Rajasthani,2016-09-12,0.46,0.313,0.433,0.682,-4.399,0.04,195.726,1,1,0.0486,4,89,10893170,0,0,0,Sad
+He Jag Trata Vishv Vidhata,Madhvi Podharkar|Archana Saksena|Archana Rajimwale,/artist/madhvi-podharkar|/artist/archana-saksena|/artist/archana-rajimwale,0.0,Rajasthani,2016-10-03,0.99,0.03,0.024,0.8,-8.934,0.085,111.023,1,4,0.0723,4,65,1115025,0,0,0,Sad
+Algoza,Seema Mishra,/artist/seema-mishra,0.0,Rajasthani,2016-11-07,0.64,0.6,0.148,0.892,-4.705,0.08,176.044,1,4,0.0378,4,55,8655015,0,0,0,Sad
+Tum Meri Rakho Laj Hari,Bhavna Lonkar,/artist/bhavna-lonkar,0.0,Rajasthani,2016-11-08,0.15,0.321,0.029,0.973,-8.317,0.04,105.991,0,5,0.019,4,85,3283104,0,0,0,Sad
+Bheeje Ghagro Mharo,Banarsi Lal Jhori|Saira Bano,/artist/banarsi-lal-jhori|/artist/saira-bano,0.0,Rajasthani,2016-12-04,0.75,0.625,0.494,0.306,-7.482,0.06,153.938,1,8,0.085,4,34,4349081,0,0,0,Sad
+Thari Leela Aparampar,Urmila Khanna|Chunni Jaipuri|Mehrunissa|Mohan Singh Itawa|Tej Karan Rao|Hunuman Sahai|Kalyan Sahai Sharma,/artist/urmila-khanna|/artist/chunni-jaipuri-3|/artist/mehrunissa-1|/artist/mohan-singh-itawa|/artist/tej-karan-rao|/artist/hunuman-sahai|/artist/kalyan-sahai-sharma,0.0,Rajasthani,2017-01-12,0.22,0.43,0.576,0.86,-8.384,0.0374,144.51,0,7,0.066,4,97,8252553,0,0,0,Sad
+Rupidi Pachho De,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2017-02-03,0.9,0.259,0.84,0.621,-2.164,0.0422,199.994,1,6,0.09,4,33,7511785,0,0,0,Energetic
+Baba Ram Devji,Badruddin|Ikram Rajasthani|Mohan Singh|Parveen Mirza|Rehana Mirza|Moti Lal Bohra|Chunni Jaipuri,/artist/badruddin|/artist/ikram-rajasthani|/artist/mohan-singh|/artist/parveen-mirza|/artist/rehana-mirza|/artist/moti-lal-bohra|/artist/chunni-jaipuri-7,0.0,Rajasthani,2017-03-01,0.81,0.96,0.872,0.72,-4.364,0.02,108.536,1,2,0.04,4,93,5881011,0,0,0,Happy
+Hanske Batlale Pyaree,Ikram Rajasthani,/artist/ikram-rajasthani,0.0,Rajasthani,2017-03-03,0.05,0.81,0.712,0.97,-5.829,0.067,194.073,0,1,0.007,4,85,11311267,0,0,0,Energetic
+Jodhame Ki Naar,Sanwar Lal Ranga,/artist/sanwar-lal-ranga,0.0,Rajasthani,2017-03-11,0.73,0.28,0.889,0.72,-3.174,0.006,150.006,1,2,0.0344,4,71,2600931,0,0,0,Energetic
+Savaniya Rer Teej,Aarti Mukherji,/artist/aarti-mukherji,0.0,Rajasthani,2017-04-03,0.55,0.84,0.853,0.16,-3.192,0.06,129.984,1,2,0.078,4,45,6574318,0,0,0,Energetic
+Maan Ja Re Chhaila Maan Ja,Suresh Wadkar|Sadhana Sargam,/artist/suresh-wadkar|/artist/sadhana-sargam-1,0.0,Rajasthani,2017-04-10,0.66,0.687,0.771,0.433,-11.87,0.096,139.028,1,8,0.0598,4,99,88934,0,0,0,Happy
+Bhajman Raadhe Govinda,Anand Kumar,/artist/anand-kumar,0.0,Rajasthani,2017-04-12,0.8,0.485,0.676,0.114,-12.982,0.0395,169.256,1,6,0.009,4,38,10660341,0,0,0,Happy
+Baja Baja Re Sapera Been Hole Hole,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,0.0,Rajasthani,2017-05-05,0.75,0.06,0.993,0.27,-12.548,0.0382,111.973,1,8,0.033,4,80,3457075,0,0,0,Happy
+Gori Gaon Ri Jawe,Badruddin|Shamim Khan,/artist/badruddin|/artist/shamim-khan,0.0,Rajasthani,2017-06-04,0.46,0.5,0.245,0.138,-9.976,0.0652,168.975,0,6,0.0433,4,83,8694552,0,0,0,Sad
+Jiro To Gero Bajyo,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2017-08-01,0.77,0.84,0.287,0.3,-11.78,0.03,181.208,1,1,0.026,4,76,2849497,0,0,0,Sad
+Thare Ke Dukhe Re,Kaluram Prajapati|Shamim Khan,/artist/kaluram-prajapati|/artist/shamim-khan,0.0,Rajasthani,2017-08-06,0.68,0.959,0.337,0.326,-12.095,0.08,130.105,0,1,0.098,4,35,637692,0,0,0,Sad
+Jiro Jiv Ro Bairy Re,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2017-08-12,0.91,0.39,0.132,0.84,-12.872,0.07,110.033,0,11,0.02,4,91,3563014,0,0,0,Sad
+"Mahi Ve Sanu Bhul (From ""Malangi"")",Noor Jehan,/artist/noor-jehan,0.0,Rajasthani,2017-09-01,0.3,0.289,0.107,0.975,-2.068,0.0205,179.962,0,1,0.0033,4,30,2895949,0,0,0,Sad
+Bajriya Tharo Khichado,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2017-09-04,0.65,0.81,0.865,0.28,-5.69,0.03,125.013,1,9,0.049,4,45,6554835,0,0,0,Energetic
+Beero Bhaat Bharan,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Rajasthani,2017-10-02,0.35,0.22,0.627,0.46,-6.34,0.09,145.074,1,10,0.0072,4,64,2780901,0,0,0,Sad
+O Bhabi Nach Le Bekhatke,Master Alauddin|Rehana Mirza,/artist/master-alauddin-5|/artist/rehana-mirza,0.0,Rajasthani,2017-10-05,0.77,0.78,0.249,0.02,-2.823,0.018,128.003,0,9,0.0471,4,27,1191226,0,0,0,Sad
+Dekhe Mahara,Saraswati Devi Dhandra,/artist/saraswati-devi-dhandra-2,0.0,Rajasthani,2017-11-06,0.99,0.633,0.304,0.348,-13.896,0.093,183.958,1,9,0.0155,4,40,5474559,0,0,0,Sad
+Liyo Ri Govindo Mole,Bhawna Lonkar,/artist/bhawna-lonkar,0.0,Rajasthani,2017-11-07,0.13,0.357,0.742,0.419,-5.873,0.0635,144.984,0,7,0.1,4,55,2333455,0,0,0,Energetic
+Sune Ri Maine Nirbal Ke Bal Ram,Archana Saksena,/artist/archana-saksena,0.0,Rajasthani,2017-11-11,0.51,0.09,0.537,0.36,-8.842,0.079,137.917,0,0,0.04,4,79,718114,0,0,0,Sad
+Rattan Rana,Allah Jilai Bai,/artist/allah-jilai-bai,0.0,Rajasthani,2017-12-02,0.49,0.05,0.334,0.74,-7.301,0.023,142.314,1,7,0.084,4,74,1536972,0,0,0,Sad
+Mela Sagla Rajasthan Ra,Anuradha Paudwal|Ranusingh Rajpurohit,/artist/anuradha-paudwal-2|/artist/ranusingh-rajpurohit,0.0,Rajasthani,2017-12-12,0.44,0.234,0.215,0.238,-3.997,0.02,172.151,1,1,0.09,4,83,5441566,0,0,0,Sad
+Aarti - Om Jai Ganga Maiya,Bhavana Lonkar|Hemant,/artist/bhavana-lonkar|/artist/hemant-1,0.0,Rajasthani,2018-01-05,0.78,0.39,0.653,0.32,-9.9,0.03,154.022,1,4,0.0774,4,95,2531285,0,0,0,Happy
+Ram Rasiya,Shobha Purohit,/artist/shobha-purohit,0.0,Rajasthani,2018-01-09,0.43,0.827,0.154,0.691,-2.426,0.018,168.03,1,8,0.0433,4,46,2138657,0,0,0,Sad
+Maathe Ooper Matki Gori Re Kamar Lachka Khave,A.K. Vyas,/artist/ak-vyas,0.0,Rajasthani,2018-01-09,0.86,0.06,0.14,0.01,-12.439,0.0047,169.103,0,6,0.0699,4,98,8810491,0,0,0,Sad
+Loohar Ramba Mhe Jasya,Rajprabha Pangadiya|Raj Bala|Radha Maheshwari,/artist/rajprabha-pangadiya|/artist/raj-bala|/artist/radha-maheshwari,0.0,Rajasthani,2018-02-01,0.59,0.29,0.436,0.9,-12.266,0.0657,201.926,1,4,0.03,4,96,8779879,0,0,0,Sad
+Laambi Si Loogai,Master Alauddin,/artist/master-alauddin-5,0.0,Rajasthani,2018-02-10,0.93,0.073,0.84,0.833,-13.258,0.093,130.003,1,1,0.0117,4,39,88479,0,0,0,Energetic
+Sajan Sau Kausa Re Doori,Vijay Lakshmi Jain|A. K. Vyas,/artist/vijay-lakshmi-jain|/artist/a-k-vyas,0.0,Rajasthani,2018-03-01,0.71,0.66,0.03,0.23,-13.217,0.03,162.913,1,2,0.096,4,30,1114633,0,0,0,Sad
+Vaishnav Jan To,Suresh Wadkar,/artist/suresh-wadkar,0.0,Rajasthani,2018-03-01,0.77,0.89,0.346,0.28,-12.714,0.0852,129.98,1,5,0.0903,4,95,10369897,0,0,0,Sad
+Thanai Halriyo Sunaau (Sad),Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Rajasthani,2018-03-07,0.91,0.96,0.614,0.45,-2.959,0.0849,130.198,1,2,0.0656,4,90,2256999,0,0,0,Energetic
+Badla Looni Kachehri Men,Shamim Khan,/artist/shamim-khan,0.0,Rajasthani,2018-04-02,0.03,0.985,0.153,0.176,-4.318,0.01,119.716,0,5,0.042,4,59,5884161,0,0,0,Sad
+Jaaye Mahari,Asha Bhosle,/artist/asha-bhosle-1,0.0,Rajasthani,2018-04-05,0.58,0.542,0.13,0.338,-7.463,0.01,129.995,1,0,0.0375,4,96,1607196,0,0,0,Sad
+Jawai Ji Paona,dayal pawar,/artist/dayal-pawar,0.0,Rajasthani,2018-05-01,0.17,0.657,0.617,0.481,-7.302,0.09,134.028,0,1,0.0597,4,27,7290994,0,0,0,Sad
+Gauri Of The Bhils,Various Artist,/artist/various-artist,0.0,Rajasthani,2018-05-03,0.32,1.0,0.718,0.3,-5.658,0.0135,143.983,1,10,0.039,4,73,10045806,0,0,0,Energetic
+Umrao Thari Boli Pyari Lage,Ahendra Kaur|Sarita Goswami|Gyanesh Wari Sharma,/artist/ahendra-kaur|/artist/sarita-goswami|/artist/gyanesh-wari-sharma-4,0.0,Rajasthani,2018-06-02,0.04,0.47,0.725,0.01,-3.862,0.046,138.063,1,7,0.0541,4,83,2188799,0,0,0,Energetic
+Piya Mharo Nyaro Hoja,Chunni Jaipuri,/artist/chunni-jaipuri-3,0.0,Rajasthani,2018-06-03,0.09,0.01,0.926,0.65,-5.341,0.0,116.068,0,5,0.02,4,89,9590158,0,0,0,Happy
+Devar Ji Aai Holi Aai,Mahendra Kapoor|Sulakshana Pandit,/artist/mahendra-kapoor|/artist/sulakshana-pandit,0.0,Rajasthani,2018-06-03,0.41,0.6,0.369,0.32,-7.749,0.0163,155.843,1,9,0.1,4,86,2477904,0,0,0,Sad
+Aarti,Rehana Mirza|Chunni Jaipuri|Parveen Mirza|Mohan Singh|Ikram Rajasthani|Badruddin|Moti Lal Bohra,/artist/rehana-mirza|/artist/chunni-jaipuri-3|/artist/parveen-mirza|/artist/mohan-singh|/artist/ikram-rajasthani|/artist/badruddin|/artist/moti-lal-bohra,0.0,Rajasthani,2018-06-07,0.94,0.109,0.861,0.816,-12.773,0.066,142.018,1,6,0.0134,4,70,10356028,0,0,0,Happy
+Mere Haath Mein Chudla Khanke,Ila Arun,/artist/ila-arun,0.0,Rajasthani,2018-06-08,0.19,0.512,0.531,0.497,-5.048,0.01,180.026,1,2,0.091,4,43,8340389,0,0,0,Sad
+Bhomiaji,Kavi Bhagwan Sahai Sen|Party,/artist/kavi-bhagwan-sahai-sen|/artist/party,0.0,Rajasthani,2018-07-04,0.42,0.098,0.018,0.059,-10.434,0.0194,165.394,1,6,0.09,4,76,5032462,0,0,0,Sad
+Main Thare Nahin Reoonli,Babulal Rai|Dhira Ghosh,/artist/babulal-rai|/artist/dhira-ghosh,0.0,Rajasthani,2018-07-09,0.78,0.406,0.754,0.772,-2.609,0.0611,146.068,1,0,0.01,4,95,8552580,0,0,0,Energetic
+Chhail Bhanwar Ghar Aayo,Shakuntala Joshi,/artist/shakuntala-joshi,0.0,Rajasthani,2018-07-10,0.33,0.01,0.521,0.25,-13.66,0.0528,145.076,1,8,0.05,4,46,7560757,0,0,0,Sad
+Piya Ki Najar Mhare Kajal Men,Rajni Pandey,/artist/rajni-pandey,0.0,Rajasthani,2018-09-01,0.5,0.233,0.144,0.402,-11.09,0.062,169.929,1,0,0.03,4,86,7242834,0,0,0,Sad
+Kan Kan Su Goonje Rajasthan,Alka Yagnik,/artist/alka-yagnik,0.0,Rajasthani,2018-09-09,0.34,0.88,0.26,0.34,-9.845,0.072,117.905,1,2,0.0438,4,56,6124771,0,0,0,Sad
+Balam Chhoto So,Kamla Goel,/artist/kamla-goel,0.0,Rajasthani,2018-10-03,0.26,0.324,0.033,0.552,-10.465,0.09,161.634,0,8,0.0238,4,29,3050359,0,0,0,Sad
+Pati Parameshwar,Hemlata,/artist/hemlata,0.0,Rajasthani,2018-11-04,0.94,0.905,0.202,0.264,-3.875,0.08,148.119,0,1,0.083,4,34,2922692,0,0,0,Sad
+Roopiyo To Le Main,Anupama Deshpande|Jaspal Singh,/artist/anupama-deshpande|/artist/jaspal-singh,0.0,Rajasthani,2018-11-06,0.01,0.537,0.818,0.132,-6.75,0.0875,110.011,0,6,0.013,4,73,363236,0,0,0,Energetic
+Mehndi Maarwadi Ranchi Re,Chandrani Mukherjee|Uttara Kelkar,/artist/chandrani-mukherjee|/artist/uttara-kelkar,0.0,Rajasthani,2018-11-07,0.92,0.85,0.893,0.18,-5.689,0.1,133.044,0,7,0.02,4,35,9940687,0,0,0,Energetic
+Tero Jobun Aise Lut Gayo,Jahoor Master,/artist/jahoor-master,0.0,Rajasthani,2018-12-07,0.75,0.36,0.703,0.778,-13.31,0.0705,147.979,1,3,0.097,4,56,853356,0,0,0,Happy
+Soowatia,Shmim Khan,/artist/shmim-khan-1,0.0,Rajasthani,2019-02-02,0.33,0.317,0.777,0.945,-11.403,0.049,160.042,1,6,0.032,4,71,5824180,0,0,0,Happy
+Dekh Jawani Thari Gordi,A.K. Vyas|Aarti Mukherji,/artist/ak-vyas|/artist/aarti-mukherji,0.0,Rajasthani,2019-03-02,0.2,0.76,0.564,0.65,-2.99,0.04,152.827,1,7,0.087,4,65,7851520,0,0,0,Sad
+Thanai Halriyo Sunaau,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Rajasthani,2019-03-07,0.35,0.32,0.827,0.06,-6.33,0.06,124.996,0,0,0.065,4,97,7158389,0,0,0,Energetic
+Baldevo Rajkumar,Sayeeda Begum,/artist/sayeeda-begum,0.0,Rajasthani,2019-04-04,0.52,0.541,0.329,0.757,-6.244,0.07,172.011,0,11,0.03,4,59,4140955,0,0,0,Sad
+Jhoothanian Jhoothanian Gori,Rajkanya Harsh|chandra shekhar kalla,/artist/rajkanya-harsh|/artist/chandra-shekhar-kalla,0.0,Rajasthani,2019-04-06,0.74,0.728,0.808,0.362,-11.247,0.0425,139.941,0,5,0.097,4,60,213746,0,0,0,Happy
+Mhane Borlo Garhadyoji,Asha Bhosle,/artist/asha-bhosle-1,0.0,Rajasthani,2019-04-11,0.97,0.2,0.252,0.26,-4.311,0.0049,119.026,1,7,0.0,4,84,6950376,0,0,0,Sad
+Chhori Pyaro Balam Chooto,Master Kesarilal Gandharv,/artist/master-kesarilal-gandharv,0.0,Rajasthani,2019-05-04,0.53,0.42,0.926,0.19,-3.737,0.036,170.016,1,4,0.017,4,38,1008494,0,0,0,Energetic
+Sun E Ambe,Raj Bhora|Saathi|Aarti Mukherji,/artist/raj-bhora|/artist/saathi|/artist/aarti-mukherji,0.0,Rajasthani,2019-07-04,0.31,0.222,0.98,0.939,-2.236,0.01,147.982,1,4,0.0417,4,31,5788592,0,0,0,Energetic
+Kat Khayo Bichhoorho,Maidass|Nima Devi|Rajkanya,/artist/maidass|/artist/nima-devi|/artist/rajkanya,0.0,Rajasthani,2019-07-05,0.57,0.492,0.764,0.364,-3.944,0.0378,173.924,0,11,0.043,4,48,7913450,0,0,0,Energetic
+Na Main Radha Na Main Meera,Asha Bhosle,/artist/asha-bhosle-1,0.0,Rajasthani,2019-07-11,0.28,0.597,0.451,0.456,-6.865,0.0192,189.796,0,0,0.0144,4,57,10717886,0,0,0,Sad
+Josi Ji Ri Ali-Gali,Parmar|Parman,/artist/parmar|/artist/parman-2,0.0,Rajasthani,2019-07-12,0.3,0.33,0.884,0.43,-13.182,0.048,192.986,1,5,0.0797,4,39,5319647,0,0,0,Energetic
+Too To Chaal Patelan,Jatin Pandit|Savita Sathi,/artist/jatin-pandit|/artist/savita-sathi-1,0.0,Rajasthani,2019-08-07,0.02,0.108,0.612,0.056,-11.568,0.0036,148.185,0,2,0.0346,4,66,1414038,0,0,0,Sad
+Om Jai Ajmal Lala,Moolchand Maroo|Shashi Gautam,/artist/moolchand-maroo-8|/artist/shashi-gautam-2,0.0,Rajasthani,2019-08-08,0.69,0.077,0.512,0.555,-13.666,0.0287,152.033,1,8,0.006,4,61,7434790,0,0,0,Sad
+Mor Bole Re,Moti Lal Bohra,/artist/moti-lal-bohra,0.0,Rajasthani,2019-08-09,0.71,0.05,0.127,0.269,-2.211,0.06,168.182,1,2,0.059,4,81,11281104,0,0,0,Sad
+Anguli Pakad Mera,Alka Yagnik|Jaspal Singh,/artist/alka-yagnik|/artist/jaspal-singh,0.0,Rajasthani,2019-08-12,0.45,0.52,0.876,0.97,-13.892,0.083,154.941,1,1,0.06,4,85,6434301,0,0,0,Energetic
+Hain To Aai Aai Re,Aarti Mukherji,/artist/aarti-mukherji,0.0,Rajasthani,2019-10-03,0.59,0.99,0.33,0.46,-2.671,0.03,130.012,0,10,0.083,4,78,2678134,0,0,0,Sad
+Marodya Laje Re Baju Dal Bangri,Saraswati Devi Dhandra,/artist/saraswati-devi-dhandra-3,0.0,Rajasthani,2019-11-06,0.0,0.113,0.842,0.392,-4.992,0.0076,115.124,1,9,0.0802,4,40,5075865,0,0,0,Sad
+Bhari Jawani Gauri Rang,Raj Bhora|Anupama Deshpande,/artist/raj-bhora|/artist/anupama-deshpande,0.0,Rajasthani,2019-12-02,0.75,0.45,0.272,0.59,-5.188,0.03,163.987,1,6,0.0232,4,96,9829434,0,0,0,Sad
+Kaali Chhint Ko,Usha Mangeshkar|A.K. Vyas,/artist/usha-mangeshkar-2|/artist/ak-vyas,0.0,Rajasthani,2019-12-02,0.84,0.653,0.825,0.001,-2.41,0.0,177.958,1,5,0.05,4,38,4876532,0,0,0,Energetic
+Jatudo Batao,Kankana Banerjee,/artist/kankana-banerjee,0.0,Rajasthani,2020-01-02,0.89,0.7,0.102,0.24,-7.765,0.059,164.289,1,2,0.06,4,86,3949165,0,0,0,Sad
+Lehariyo,Seema Mishra,/artist/seema-mishra,0.0,Rajasthani,2020-01-11,0.21,0.46,0.519,0.16,-6.414,0.0781,152.881,0,4,0.02,4,32,9691379,0,0,0,Sad
+Hath Men Choorhi,Badruddin,/artist/badruddin,0.0,Rajasthani,2020-02-06,0.01,0.469,0.482,0.864,-6.024,0.0393,110.022,0,10,0.058,4,77,783348,0,0,0,Sad
+Maharo Gorband Lcomarho,Allah Jilai Bai,/artist/allah-jilai-bai,0.0,Rajasthani,2020-03-02,0.69,0.792,0.01,0.518,-2.47,0.0887,108.979,1,2,0.067,4,63,7945486,0,0,0,Sad
+Oji O Badila,Suresh Wadkar|Sadhana Sargam,/artist/suresh-wadkar|/artist/sadhana-sargam-1,0.0,Rajasthani,2020-03-03,0.75,0.67,0.414,0.12,-13.402,0.015,133.491,1,0,0.045,4,58,8116588,0,0,0,Sad
+Dhola Ji Dhola Kaeen Karo Sahelyo,Chandrani Mukherjee|Dilraj Kaur|Sudha Malhotra,/artist/chandrani-mukherjee|/artist/dilraj-kaur|/artist/sudha-malhotra,0.0,Rajasthani,2020-04-05,0.38,0.424,0.695,0.505,-8.417,0.0079,164.061,1,0,0.03,4,92,2122363,0,0,0,Sad
+Fesan Helo Deti Ghusagi,Hanuman Sahay,/artist/hanuman-sahay,0.0,Rajasthani,2020-05-03,0.3,0.99,0.138,0.53,-9.508,0.0625,208.038,1,5,0.08,4,93,5683226,0,0,0,Sad
+Bichhad Gayo Hansaro Jodo - Sad,Jaishri Shivram|Sonali Vajpayee,/artist/jaishri-shivram|/artist/sonali-vajpayee,0.0,Rajasthani,2020-05-04,0.28,0.736,0.753,0.582,-5.763,0.03,150.238,1,7,0.0865,4,91,1907292,0,0,0,Energetic
+Me Girdhar Rang Raati,Bhawna Lonkar,/artist/bhawna-lonkar,0.0,Rajasthani,2020-06-02,0.11,0.446,0.261,0.054,-11.752,0.0829,192.038,0,0,0.04,4,67,1815797,0,0,0,Sad
+Halo Halo Runeche Haalan,Asha Bhosle|Mahendra Kapoor,/artist/asha-bhosle-1|/artist/mahendra-kapoor,0.0,Rajasthani,2020-06-04,0.51,0.92,0.502,0.4,-9.874,0.01,185.912,1,9,0.05,4,83,8808361,0,0,0,Sad
+Prabhuji Tum Chandan Hum Pani,Bhavna Lonkar,/artist/bhavna-lonkar,0.0,Rajasthani,2020-07-02,0.33,0.646,0.132,0.995,-6.831,0.09,190.106,0,4,0.031,4,31,8097596,0,0,0,Sad
+Jorji Chopawal,Mali Chhawarlal Gahlot|Devendra Dev|Bhanwar Lal Nimaaj,/artist/mali-chhawarlal-gahlot|/artist/devendra-dev|/artist/bhanwar-lal-nimaaj,0.0,Rajasthani,2020-07-06,0.15,0.17,0.676,0.98,-7.362,0.091,126.083,0,11,0.1,4,83,9703572,0,0,0,Happy
+Roorho Bathuo Re,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2020-08-07,0.28,0.45,0.857,0.45,-4.317,0.0115,124.168,0,0,0.0652,4,71,10593614,0,0,0,Energetic
+Chhoro Satrah Baras Parnadi Pachchisa Ki,Mahendra Kapoor,/artist/mahendra-kapoor,0.0,Rajasthani,2020-09-06,0.42,0.326,0.335,0.148,-12.239,0.0811,135.938,0,1,0.033,4,99,3663852,0,0,0,Sad
+Ho Maharo Naam Chhutki,Rehana Mirza,/artist/rehana-mirza,0.0,Rajasthani,2020-09-07,0.04,0.28,0.124,0.72,-6.778,0.0,124.992,1,8,0.099,4,60,10624213,0,0,0,Sad
+Choti See Umar,Anuradha Paudwal|Shabbir Kumar|Saathi,/artist/anuradha-paudwal-2|/artist/shabbir-kumar|/artist/saathi,0.0,Rajasthani,2020-09-09,0.75,0.66,0.095,0.2,-6.997,0.0652,160.139,1,4,0.01,4,87,8827194,0,0,0,Sad
+Na Hoti Preet Aa,Hariharan|Savita Saathi,/artist/hariharan|/artist/savita-saathi,0.0,Rajasthani,2020-09-09,0.18,0.997,0.404,0.827,-13.299,0.071,204.178,1,1,0.056,4,49,2632244,0,0,0,Sad
+Manakha Thoon Kyon Bhulyo Re,Shri Bhawar Chaudhari|Chorus,/artist/shri-bhawar-chaudhari|/artist/chorus,0.0,Rajasthani,2020-09-12,0.19,0.25,0.986,0.84,-9.897,0.0914,110.007,1,1,0.06,4,86,10574175,0,0,0,Energetic
+Biro Jee Aaya Bharan,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Rajasthani,2020-10-01,0.69,0.23,0.877,0.96,-4.625,0.06,118.917,0,4,0.01,4,61,304290,0,0,0,Happy
+Rang Rasiya Re,Suresh Wadkar|Alka Yagnik,/artist/suresh-wadkar|/artist/alka-yagnik,0.0,Rajasthani,2020-10-08,0.09,0.34,0.621,0.37,-9.724,0.06,119.972,0,6,0.01,4,63,6750750,0,0,0,Sad
+Lado Bhaut Batko,Om Pawar|Pt. Shivram Krishna,/artist/om-pawar|/artist/pt-shivram-krishna,0.0,Rajasthani,2020-10-12,0.86,0.68,0.095,0.84,-11.584,0.03,125.017,1,6,0.01,4,31,1243754,0,0,0,Sad
+Rang Rangeeli Holi,Raj Bhora|Gopal Bohra|Anupama Deshpande|Chorus,/artist/raj-bhora|/artist/gopal-bohra|/artist/anupama-deshpande|/artist/chorus,0.0,Rajasthani,2020-11-03,0.86,0.05,0.004,0.147,-12.482,0.077,200.022,1,3,0.036,4,98,10839360,0,0,0,Sad
+Gujari Dene Lagi Tana,Anup Jalota|Shakuntala Joshi,/artist/anup-jalota|/artist/shakuntala-joshi,0.0,Rajasthani,2020-11-04,0.35,0.98,0.501,0.46,-4.122,0.07,119.949,1,6,0.005,4,49,5967052,0,0,0,Sad
+Badali Barse Kyuniee,Mamta Singh,/artist/mamta-singh,0.0,Rajasthani,2020-12-01,0.98,0.51,0.711,0.78,-5.62,0.003,129.989,1,2,0.028,4,30,5106530,0,0,0,Happy
+Chhail Chhabili Naar,Tilak Raaj|Jayashri Shivram,/artist/tilak-raaj|/artist/jayashri-shivram,0.0,Rajasthani,2021-01-01,0.25,0.641,0.014,0.526,-11.792,0.013,122.011,0,6,0.067,4,46,180445,0,0,0,Sad
+Mharo Joban Nakhralo Julmi,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Rajasthani,2021-01-11,0.64,0.17,0.902,0.37,-4.41,0.009,208.951,1,1,0.0231,4,58,6524882,0,0,0,Energetic
+Sammellan,Master Kesarilal Gandharv,/artist/master-kesarilal-gandharv,0.0,Rajasthani,2021-02-05,0.09,0.981,0.453,0.326,-3.588,0.0287,175.428,1,9,0.001,4,28,78291,0,0,0,Sad
+Bhaj Man Nand Nandan Girdhari,Bhavna Lonkar,/artist/bhavna-lonkar,0.0,Rajasthani,2021-04-01,0.05,0.475,0.252,0.977,-4.206,0.093,164.975,1,1,0.009,4,44,7706333,0,0,0,Sad
+Bhaya Chil Gadi Aagi Re,Master Alauddin,/artist/master-alauddin-13,0.0,Rajasthani,2021-04-11,0.31,0.247,0.105,0.16,-4.91,0.0368,135.034,0,6,0.0002,4,40,2227892,0,0,0,Sad
+Ooncho Ooncho Ghaghro,Alka Yagnik,/artist/alka-yagnik,0.0,Rajasthani,2021-05-01,0.83,0.5,0.386,0.09,-9.951,0.02,134.979,1,11,0.077,4,93,1410273,0,0,0,Sad
+Roopido,Chunni Jaipuri,/artist/chunni-jaipuri-3,0.0,Rajasthani,2021-06-01,0.94,0.655,0.306,0.578,-7.474,0.0088,179.912,1,2,0.0799,4,97,8463385,0,0,0,Sad
+O Ji O Bhartar Ji,Hemlata|O. Vyas,/artist/hemlata|/artist/o-vyas-1,0.0,Rajasthani,2021-06-01,0.15,0.4,0.891,0.79,-4.047,0.06,183.825,0,11,0.0283,4,82,5052809,0,0,0,Energetic
+Satoliya,Ila Arun,/artist/ila-arun,0.0,Rajasthani,2021-06-01,0.04,0.51,0.798,0.62,-8.744,0.025,152.625,1,3,0.016,4,45,7560111,0,0,0,Sad
+Jagi Re Sab Rain Bihani,Anuradha Parkash,/artist/anuradha-parkash,0.0,Rajasthani,2021-06-04,0.56,0.821,0.293,0.639,-12.158,0.043,158.459,1,6,0.029,4,53,4908001,0,0,0,Sad
+Paniro Barsade De,Shilpi Mathur,/artist/shilpi-mathur,0.0,Rajasthani,2021-06-09,0.48,0.227,0.356,0.814,-11.057,0.0503,134.003,0,2,0.05,4,36,5770725,0,0,0,Sad
+Thummak Thummak Nach Nache,Sulakshana Pandit|Vijayta Pandit,/artist/sulakshana-pandit|/artist/vijayta-pandit,0.0,Rajasthani,2021-07-04,0.4,0.344,0.81,0.641,-7.601,0.039,177.958,0,10,0.0115,4,97,4029430,0,0,0,Happy
+Algoza,Kohinoor Langa|Party,/artist/kohinoor-langa|/artist/party,0.0,Rajasthani,2021-07-10,0.34,0.75,0.775,0.45,-2.724,0.021,134.993,1,11,0.02,4,78,9699687,0,0,0,Energetic
+Nijaria Lag Jaweli,Tejkaran Rao,/artist/tejkaran-rao,0.0,Rajasthani,2021-07-10,0.19,0.13,0.849,0.28,-4.525,0.006,160.05,1,0,0.0972,4,85,7440955,0,0,0,Energetic
+Joban Dato Date Nahin,Ikram Rajasthani|Afroze Bano,/artist/ikram-rajasthani|/artist/afroze-bano-1,0.0,Rajasthani,2021-07-11,0.75,0.98,0.43,0.389,-6.084,0.0757,120.077,1,7,0.034,4,53,23261,0,0,0,Sad
+Hindo Tu Hindo,Chandrani Mukherjee|Jaspal Singh,/artist/chandrani-mukherjee|/artist/jaspal-singh,0.0,Rajasthani,2021-09-05,0.3,0.12,0.219,0.081,-10.785,0.058,153.106,1,3,0.0349,4,81,1172052,0,0,0,Sad
+Mata Gorja Ae,JAISRI SHIVRAM,/artist/jaisri-shivram,0.0,Rajasthani,2021-10-04,0.98,0.55,0.52,0.84,-5.867,0.04,175.103,1,2,0.06,4,92,7467466,0,0,0,Happy
+Narsi Ki Naiya,Suresh Wadkar,/artist/suresh-wadkar,0.0,Rajasthani,2021-11-03,0.58,0.112,0.984,0.739,-4.058,0.02,150.726,0,11,0.084,4,65,5358412,0,0,0,Energetic
+Kaat Gayo Bichhdo,Sulakshana Pandit,/artist/sulakshana-pandit,0.0,Rajasthani,2021-11-04,0.37,0.32,0.871,0.29,-6.251,0.009,104.984,1,4,0.0956,4,60,10662677,0,0,0,Energetic
+Bharlou Re Dhola,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2021-12-02,0.81,0.73,0.319,0.72,-11.986,0.082,199.896,0,6,0.0865,4,100,5518409,0,0,0,Sad
+Ari Behana Sawan Ki Aai H Bahar,Reeta Pant,/artist/reeta-pant,0.0,Rajasthani,2021-12-11,0.86,0.094,0.679,0.835,-8.033,0.098,119.995,0,5,0.0604,4,70,10929354,0,0,0,Happy
+Halo Saheliya Aapa Bheranjire,Kushal Barath|Sathi,/artist/kushal-barath|/artist/sathi,0.0,Rajasthani,2022-02-04,0.85,0.073,0.473,0.989,-11.215,0.038,124.074,1,11,0.08,4,47,214016,0,0,0,Sad
+Sabri Ra Ber Bhi Meetha,Uttara Kelkar|Dilraj Kaur,/artist/uttara-kelkar|/artist/dilraj-kaur,0.0,Rajasthani,2022-02-10,0.26,0.91,0.424,0.8,-5.114,0.02,117.96,1,3,0.08,4,64,3521623,0,0,0,Sad
+Dheere Chal Re Panihari,Heman Verma,/artist/heman-verma,0.0,Rajasthani,2022-02-11,0.97,0.04,0.702,0.61,-3.925,0.054,135.093,0,0,0.01,4,97,9447023,0,0,0,Energetic
+Padgi Padgi Padgi Mhare Pale,A.K. Vyas|Sumitra Lahiri,/artist/ak-vyas|/artist/sumitra-lahiri,0.0,Rajasthani,2022-03-02,0.3,0.26,0.919,0.34,-5.918,0.0096,151.768,1,2,0.04,4,98,10435706,0,0,0,Energetic
+The To Piyo Sadarudi,Rehana Mirza,/artist/rehana-mirza,0.0,Rajasthani,2022-03-03,0.55,0.67,0.733,0.67,-4.178,0.0052,160.055,1,2,0.027,4,55,4386603,0,0,0,Energetic
+Chhaje Re Chhaje Naubat Baaje,Chandrani Mukherjee|Dilraj Kaur|Sudha Malhotra,/artist/chandrani-mukherjee|/artist/dilraj-kaur|/artist/sudha-malhotra,0.0,Rajasthani,2022-03-07,0.17,0.879,0.369,0.454,-5.495,0.022,130.876,1,4,0.09,4,26,4449457,0,0,0,Sad
+Chaje Baitho Devario,Madna Devi Banawat|Tejkaran,/artist/madna-devi-banawat|/artist/tejkaran,0.0,Rajasthani,2022-03-09,0.82,0.623,0.335,0.87,-12.792,0.029,195.998,1,3,0.0692,4,66,8962028,0,0,0,Sad
+Chirmi,Anand Kaur Bohra,/artist/anand-kaur-bohra-3,0.0,Rajasthani,2022-03-09,0.54,0.68,0.345,0.74,-12.654,0.0809,199.981,0,5,0.075,4,46,1644777,0,0,0,Sad
+Pallo Latka,Rehana Mirza|Shamim|Om Pawar|Shiv Ram|Master Alauddin|Shobha Purohitanand Kuar,/artist/rehana-mirza|/artist/shamim|/artist/om-pawar|/artist/shiv-ram|/artist/master-alauddin-11|/artist/shobha-purohitanand-kuar-7,0.0,Rajasthani,2022-03-10,0.1,0.748,0.168,0.236,-7.894,0.0441,150.073,1,1,0.01,4,51,10736325,0,0,0,Sad
+Mane Godiyan,Chhoti Bano Sikarwali,/artist/chhoti-bano-sikarwali,0.0,Rajasthani,2022-04-07,0.02,0.68,0.942,0.49,-2.778,0.05,190.048,1,1,0.0434,4,48,3026086,0,0,0,Energetic
+Ghadala Dub Jyare,Artists of Churu|Ratannagar,/artist/artists-of-churu|/artist/ratannagar,0.0,Rajasthani,2022-05-02,0.45,0.37,0.401,0.01,-12.451,0.05,185.97,1,8,0.02,4,80,6811075,0,0,0,Sad
+Lahnge Mein Keri,Suresh Wadkar|Alka Yagnik,/artist/suresh-wadkar|/artist/alka-yagnik,0.0,Rajasthani,2022-05-02,0.91,0.41,0.355,0.55,-7.433,0.08,168.89,0,6,0.098,4,60,4673383,0,0,0,Sad
+Dole Dole Manro Dole,Shakuntala Joshi,/artist/shakuntala-joshi,0.0,Rajasthani,2022-05-02,0.34,0.25,0.322,0.02,-3.125,0.094,109.118,1,2,0.085,4,60,5450479,0,0,0,Sad
+Puradi Chaal Gayi,Jahoor Master,/artist/jahoor-master,0.0,Rajasthani,2022-06-01,0.2,0.75,0.619,0.99,-10.188,0.0356,160.024,1,9,0.075,4,31,7516661,0,0,0,Sad
+Dil Deewano,Alka Yagnik,/artist/alka-yagnik,0.0,Rajasthani,2022-06-06,0.51,0.15,0.228,0.35,-3.133,0.0038,164.006,1,1,0.042,4,30,4133251,0,0,0,Sad
+Baajre Ke Khetaan,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Rajasthani,2022-06-10,0.28,0.43,0.808,0.29,-13.205,0.02,163.983,0,10,0.005,4,35,9040484,0,0,0,Sad
+Balakadi Panihaari,Shilpi Mathur,/artist/shilpi-mathur,0.0,Rajasthani,2022-07-01,0.52,0.5,0.158,0.527,-9.828,0.09,127.949,1,1,0.0513,4,44,5504697,0,0,0,Sad
+Neni Nandal Buje,Ramila Gahlot|Ganpat Joshi|Devendra Dev,/artist/ramila-gahlot|/artist/ganpat-joshi|/artist/devendra-dev,0.0,Rajasthani,2022-07-06,0.93,0.801,0.124,0.739,-3.326,0.054,134.065,0,1,0.0397,4,94,4164105,0,0,0,Sad
+Pachhe Mhen Kyun Jawa Pardes,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2022-07-11,0.68,0.645,0.343,0.818,-6.869,0.06,124.987,1,7,0.058,4,65,10303915,0,0,0,Sad
+Sanjh Paryan Dhola Ghar Aajyo,Papiha,/artist/papiha,0.0,Rajasthani,2022-09-01,0.9,0.377,0.259,0.412,-7.005,0.0732,130.039,1,10,0.082,4,73,8192013,0,0,0,Sad
+Kawaron Tabario,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2022-09-03,0.89,0.61,0.813,0.65,-4.867,0.0531,146.508,1,8,0.088,4,69,10572493,0,0,0,Happy
+Jeero,Kaluram Prajapati,/artist/kaluram-prajapati,0.0,Rajasthani,2022-09-08,0.92,0.26,0.615,0.31,-11.409,0.0959,169.985,0,5,0.0438,4,63,8145977,0,0,0,Happy
+Jane Kunki Najriyan Lagi,Rehana Mirza,/artist/rehana-mirza,0.0,Rajasthani,2022-09-10,0.36,0.917,0.587,0.109,-7.704,0.0496,192.152,1,4,0.05,4,44,10870586,0,0,0,Sad
+Veer Tejaji Part 01,Mohan Maharaj Nimbarak|Sadhana Bhaduri,/artist/mohan-maharaj-nimbarak|/artist/sadhana-bhaduri,0.0,Rajasthani,2022-10-03,0.87,0.22,0.646,0.55,-10.225,0.05,123.942,1,11,0.06,4,65,4885667,0,0,0,Happy
+Kanhaiya Mose Karo Na,Aarchanarajim Wale|Madhvi Pendharkar|Archana Saxena,/artist/aarchanarajim-wale|/artist/madhvi-pendharkar|/artist/archana-saxena,0.0,Rajasthani,2022-10-10,0.74,0.172,0.542,0.644,-12.499,0.011,184.056,0,10,0.0728,4,30,2046569,0,0,0,Sad
+Gyarsi Gulab Chali Joda Soon,Master Kesarilal Gandharv,/artist/master-kesarilal-gandharv,0.0,Rajasthani,2022-10-12,0.81,0.8,0.495,0.79,-5.376,0.056,159.968,1,4,0.0516,4,65,9204149,0,0,0,Happy
+Kavai Thasun Saajana,Alka Yagnik,/artist/alka-yagnik,0.0,Rajasthani,2022-11-04,0.52,0.17,0.451,0.84,-10.476,0.05,147.126,1,9,0.0698,4,80,10881552,0,0,0,Sad
+Main Beti Tehsildar Ri Tu Chhoro Thanedar Ro,Pushpa Tirke|A.K. Vyas,/artist/pushpa-tirke|/artist/ak-vyas,0.0,Rajasthani,2022-11-05,0.92,0.134,0.037,0.541,-10.601,0.09,120.095,1,9,0.1,4,81,259311,0,0,0,Sad
+Baabul Thari Ladal Beti,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Rajasthani,2022-11-06,0.13,0.59,0.143,0.25,-9.109,0.0369,158.692,1,3,0.03,4,36,8266778,0,0,0,Sad
+Mhare Kanch Ko Banglo,Alka Yagnik,/artist/alka-yagnik,0.0,Rajasthani,2022-12-04,0.39,0.433,0.908,0.38,-4.674,0.05,206.256,0,5,0.053,4,33,8175091,0,0,0,Energetic
+Ganga Tumhari Saanch Badai,Shilpi Mathur,/artist/shilpi-mathur,0.0,Rajasthani,2022-12-06,0.15,0.021,0.653,0.93,-11.053,0.0121,160.016,0,4,0.0697,4,46,6640120,0,0,0,Sad
+Doro Sanohe Het Ro,Archana Rajimwale,/artist/archana-rajimwale,0.0,Rajasthani,2023-01-01,0.8,0.56,0.517,0.53,-9.454,0.09,134.724,0,6,0.0622,4,86,3691329,0,0,0,Happy
+Chaal Gordi Jepariye,A.K. Vyas|Shanti Purohit,/artist/ak-vyas|/artist/shanti-purohit,0.0,Rajasthani,2023-01-08,0.07,0.845,0.449,0.541,-13.444,0.0858,195.012,0,5,0.04,4,64,10885567,0,0,0,Sad
+Udiyapur Si Beej,Aarti Mukherji,/artist/aarti-mukherji,0.0,Rajasthani,2023-02-04,0.04,0.3,0.288,0.25,-13.461,0.1,118.981,1,8,0.09,4,37,2307467,0,0,0,Sad
+Kun Mari Pichkari,MADHULIKA,/artist/madhulika,0.0,Rajasthani,2023-03-05,0.38,0.5,0.174,0.89,-4.609,0.09,106.966,1,9,0.01,4,52,10957773,0,0,0,Sad
+Engine Chalio Chhak Pak,Madna Devi Banawat,/artist/madna-devi-banawat,0.0,Rajasthani,2023-03-11,0.11,0.73,0.596,0.8,-6.798,0.07,175.047,0,1,0.04,4,53,11174410,0,0,0,Energetic
+Tel Beetgo,Ikram Rajasthani|Rehana,/artist/ikram-rajasthani|/artist/rehana,0.0,Rajasthani,2023-04-01,0.13,0.9,0.453,0.15,-8.175,0.006,164.042,1,6,0.0834,4,35,8384387,0,0,0,Sad
+Sagar Pani Ne Jadon Sa,Chunni Jaipuri,/artist/chunni-jaipuri-3,0.0,Rajasthani,2023-04-10,0.61,0.421,0.817,0.557,-12.516,0.0098,154.309,1,2,0.09,4,85,1572823,0,0,0,Happy
+Mana Godiyan Le Lo Chhail,Chhoti Bano Sikarwali,/artist/chhoti-bano-sikarwali,0.0,Rajasthani,2023-04-12,0.26,0.673,0.735,0.858,-5.786,0.025,199.935,1,9,0.08,4,32,5400786,0,0,0,Sad
+Mhari Haldi Ro Rang Surang,Kushal Barath|Sathi,/artist/kushal-barath|/artist/sathi,0.0,Rajasthani,2023-07-02,0.07,0.02,0.368,0.72,-13.911,0.0004,165.904,1,2,0.022,4,70,3758978,0,0,0,Sad
+Ude Re Mahari Chirakli,Parmar|Parman,/artist/parmar|/artist/parman-1,0.0,Rajasthani,2023-08-03,0.3,0.05,0.074,0.17,-4.312,0.022,120.012,1,7,0.074,4,84,11287126,0,0,0,Sad
+Panihari,Aruna Rathore|Fateh Kumar Vyas|Kamla Goel|Sheela Vyas,/artist/aruna-rathore|/artist/fateh-kumar-vyas|/artist/kamla-goel|/artist/sheela-vyas,0.0,Rajasthani,2023-12-04,0.08,0.384,0.138,0.172,-12.787,0.09,109.992,1,4,0.0174,4,62,8652437,0,0,0,Sad
+Baisaa Ra Jatan Karo Part - I,Mukesh,/artist/mukesh,0.0,Rajasthani,2023-12-04,0.79,0.49,0.761,0.75,-3.68,0.0679,153.962,0,10,0.0957,4,35,10686861,0,0,0,Energetic
+Peehar Tharo Barvada,Tejkaran Rao,/artist/tejkaran-rao,0.0,Rajasthani,2024-11-02,0.35,0.71,0.605,0.69,-2.107,0.062,200.036,0,7,0.07,4,89,2107221,0,0,0,Energetic

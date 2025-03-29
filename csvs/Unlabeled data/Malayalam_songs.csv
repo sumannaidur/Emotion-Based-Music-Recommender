@@ -1,0 +1,480 @@
+song_name,singer,singer_id,duration,language,released_date,danceability,acousticness,energy,liveness,loudness,speechiness,tempo,mode,key,Valence,time_signature,popularity,Stream
+Koottil Ninnum,K J Yesudas,/artist/k-j-yesudas,04:35,Malayalam,02-07-2011,0.34,0.23,0.587,0.343,-7.885,0.01,138.007,0,6,0.02,4,25,1610047
+Pon Veene,M G Sreekumar,/artist/m-g-sreekumar,04:50,Malayalam,01-04-2016,0.19,0.271,0.247,0.617,-7.966,0.0621,140.007,1,6,0.08,4,47,69220
+Etho Janma,Vani Jairam,/artist/vani-jayaram,04:02,Malayalam,01-06-2017,0.14,0.9,0.387,0.735,-11.018,0.06,138.006,0,6,0.0931,4,100,10926539
+Thumbi Vaa Thumbakudathin,S. Janaki,/artist/s-janaki,04:27,Malayalam,04-08-2001,0.62,0.387,0.395,0.235,-11.815,0.02,136.976,1,7,0.03,4,88,3242820
+Earnmegam,Kannur Rajan,/artist/kannur-rajan,04:31,Malayalam,02-03-2007,0.52,0.61,0.127,0.747,-8.339,0.008,131.996,1,2,0.04,4,66,7294974
+Ab Ke Baras,Mahendra Kapoor,/artist/mahendra-kapoor,06:29,Malayalam,04-12-2015,0.23,0.457,0.146,0.079,-11.695,0.0252,127.986,0,5,0.0058,4,29,6434342
+Paadam Pootha,Kannur Rajan,/artist/kannur-rajan,03:55,Malayalam,04-12-2006,0.93,0.89,0.307,0.931,-11.513,0.06,136.996,1,2,0.073,4,47,9796139
+Oru Pushpam Mathramen,K J Yesudas,/artist/k-j-yesudas,03:31,Malayalam,06-01-2015,0.05,0.395,0.67,0.023,-2.558,0.0857,131.985,0,7,0.1,4,98,4169367
+Mizhiyoram,S. Janaki,/artist/s-janaki,04:23,Malayalam,05-10-2004,0.28,0.66,0.366,0.209,-10.743,0.0429,129.489,1,1,0.03,4,26,540613
+Valittezhuthiya,K J Yesudas|S. Janaki,/artist/k-j-yesudas|/artist/s-janaki,04:14,Malayalam,10-10-2010,0.75,0.087,0.335,0.591,-12.986,0.0613,128.075,0,5,0.037,4,41,9614345
+Adiva Katte,S. Janaki,/artist/s-janaki,05:26,Malayalam,03-01-2004,0.33,0.9,0.69,0.025,-12.607,0.06,132.018,0,1,0.02,4,90,5636059
+Anuragini,K J Yesudas,/artist/k-j-yesudas,04:45,Malayalam,01-11-2007,0.44,0.998,0.732,0.334,-6.54,0.05,137.89,0,4,0.038,4,30,9171534
+Sagarangale,K J Yesudas,/artist/k-j-yesudas,04:21,Malayalam,11-08-2014,0.97,0.43,0.397,0.428,-7.433,0.0435,130.963,0,11,0.07,4,75,9380301
+Doore Kizhakudhikkum,Kannur Rajan,/artist/kannur-rajan,03:47,Malayalam,09-04-2011,0.95,0.794,0.931,0.317,-8.135,0.0348,131.969,1,2,0.03,4,33,1789058
+Theeram Thedum,Ouseppachan,/artist/ousephachan,04:15,Malayalam,06-11-2020,0.64,0.68,0.573,0.878,-8.674,0.03,136.742,0,10,0.0305,4,85,8118709
+Tharum Thalirum,K J Yesudas,/artist/k-j-yesudas,04:45,Malayalam,04-04-2008,0.89,0.519,0.321,0.297,-5.306,0.0897,135.048,0,0,0.086,4,28,8453612
+Ponnurukum,S. Janaki,/artist/s-janaki,04:07,Malayalam,11-05-2002,0.9,0.23,0.397,0.238,-5.074,0.001,126.658,1,1,0.0202,4,90,11280939
+Maane Madhura Karimbe,K J Yesudas,/artist/k-j-yesudas,04:09,Malayalam,08-04-2007,0.88,0.815,0.501,0.67,-3.521,0.06,138.019,0,0,0.0549,4,49,206263
+Thoomanjin Thulli,K J Yesudas,/artist/k-j-yesudas,04:54,Malayalam,04-09-2009,0.76,0.43,0.166,0.807,-12.288,0.0485,137.953,0,1,0.0337,4,44,3469221
+Nee En Sarga-Bit,Chorus,/artist/chorus,04:27,Malayalam,04-11-2011,0.95,0.664,0.638,0.31,-9.62,0.01,128,1,7,0.01,4,72,17037
+Chiriyude - Psusheela,P. Susheela,/artist/p-suseela-2,04:03,Malayalam,04-01-2018,0.37,0.76,0.958,0.672,-10.413,0.0933,139.95,0,2,0.026,4,36,10082108
+Main Hi Main Hoon,Suresh Wadkar,/artist/suresh-wadkar,04:54,Malayalam,11-01-2003,0.32,0.15,0.91,0.24,-11.58,0.03,139.973,0,6,0.0649,4,42,4842791
+Kathodu Kathoram,K J Yesudas,/artist/k-j-yesudas,04:37,Malayalam,10-08-2022,0.86,0.06,0.918,0.065,-11.421,0.0317,132.006,0,7,0.021,4,59,6198983
+Devadoothar,K J Yesudas,/artist/k-j-yesudas,05:05,Malayalam,09-08-2004,0.5,0.252,0.407,0.198,-6.846,0.018,135.976,0,6,0.06,4,57,7729068
+Sanyasini Nin,K J Yesudas,/artist/k-j-yesudas,04:27,Malayalam,07-12-2005,0.7,0.39,0.481,0.951,-12.318,0.0925,135.971,1,7,0.1,4,100,5085506
+Nagumo,Kannur Rajan,/artist/kannur-rajan,06:35,Malayalam,11-05-2002,0.87,0.531,0.318,0.544,-6.061,0.093,137.978,1,5,0.0395,4,45,6047822
+Praanasakhi Njan,K J Yesudas,/artist/k-j-yesudas,03:33,Malayalam,07-03-2014,0.59,0.26,0.212,0.437,-6.761,0.02,129.85,1,7,0.073,4,41,1615113
+Anthiponvettam,Ouseppachan,/artist/ousephachan,04:49,Malayalam,10-03-2021,0.55,0.379,0.772,0.06,-5.771,0.033,132,1,8,0.074,4,64,8867558
+Vezhaambal Kezhum Venalkkudeeram,S. Janaki|K J Yesudas,/artist/s-janaki|/artist/k-j-yesudas,04:02,Malayalam,09-09-2014,0.06,0.69,0.805,0.755,-3.419,0.019,137.962,1,1,0.0823,4,87,2563140
+Ormakale,K J Yesudas,/artist/k-j-yesudas,04:36,Malayalam,12-04-2011,0.15,0.984,0.017,0.566,-3.516,0.07,138.01,1,1,0.061,4,28,8917956
+Ente Mohangalellam,Vidhu Prathap|Cicily,/artist/vidhu-prathap|/artist/cicily,04:22,Malayalam,02-01-2008,0.57,0.82,0.121,0.738,-6.843,0.04,139.998,0,7,0.036,4,26,4544049
+Chandrikayilaliyunnu,K J Yesudas|P Leela,/artist/k-j-yesudas|/artist/p-leela,03:17,Malayalam,02-09-2014,0.98,0.063,0.65,0.263,-13.934,0.02,135.012,0,2,0.0915,4,69,691157
+Himakanam,Ganesh Sundaram|Gayathri Ashokan,/artist/ganesh-sundaram|/artist/gayathri-ashokan,04:39,Malayalam,05-02-2020,0.65,0.89,0.875,0.88,-11.616,0.0909,129.978,0,0,0.011,4,74,3937597
+Ponnurukum,S. Janaki,/artist/s-janaki,04:07,Malayalam,04-08-2016,0.19,0.963,0.969,0.44,-3.9,0.03,138.017,0,2,0.0788,4,76,1346523
+Mohan Kondunjan - Full Version,S. Janaki,/artist/s-janaki,04:56,Malayalam,08-06-2017,0.34,0.29,0.443,0.993,-9.273,0.04,139.175,1,7,0.023,4,97,7325160
+Onnanam Kunninmel,K J Yesudas|Vani Jairam,/artist/k-j-yesudas|/artist/vani-jayaram,04:05,Malayalam,05-03-2022,0.2,0.487,0.305,0.052,-5.238,0.01,138.01,1,10,0.06,4,45,3576789
+Swapnangal Swapnangale,K J Yesudas|P Leela,/artist/k-j-yesudas|/artist/p-leela,03:19,Malayalam,05-11-2015,0.38,0.49,0.021,0.275,-2.801,0.01,135.055,0,9,0.061,4,100,2453271
+Surumayezhuthiya,K J Yesudas,/artist/k-j-yesudas,03:29,Malayalam,05-09-2012,0.36,0.415,0.396,0.51,-11.783,0.095,137.997,0,4,0.04,4,66,3730053
+Swaminadhapari,Kannur Rajan,/artist/kannur-rajan,04:26,Malayalam,09-02-2016,0.67,0.45,0.858,0.078,-2.779,0.07,134.975,0,6,0.0396,4,42,1118265
+Vaathil Pazhuthil,K. S. Chithra,/artist/chitra,04:26,Malayalam,12-08-2012,0.11,0.331,0.376,0.973,-7.027,0.051,135.064,1,2,0.07,4,53,7323484
+Ullasa Poothiri,K J Yesudas,/artist/k-j-yesudas,04:21,Malayalam,03-01-2008,0.71,0,0.048,0.658,-7.472,0.071,137.999,0,6,0.087,4,87,10438642
+Nadha Nee Varum,S. Janaki,/artist/s-janaki,04:03,Malayalam,08-11-2014,0.14,0.102,0.751,0.622,-4.377,0.07,137.955,1,2,0.0363,4,40,3615238
+Kiliye Kiliye,S. Janaki,/artist/s-janaki,05:03,Malayalam,06-09-2001,0.01,0.63,0.481,0.792,-3.75,0.0057,130.027,0,9,0.08,4,81,558101
+Alliyaambal,K J Yesudas,/artist/k-j-yesudas,03:28,Malayalam,04-01-2021,0.58,0.52,0.989,0.62,-12.445,0.0776,137.987,1,8,0.054,4,85,7388839
+Ente Swapnathin,K J Yesudas,/artist/k-j-yesudas,03:03,Malayalam,02-06-2021,0.77,0.47,0.944,0.895,-4.301,0.07,127.985,0,4,0.06,4,40,7493183
+Kayambookannil,K J Yesudas,/artist/k-j-yesudas,03:26,Malayalam,02-04-2008,0.38,0.223,0.117,0.746,-2.453,0.03,133.558,0,9,0.03,4,80,11168935
+Nee Madhupakaroo,K J Yesudas,/artist/k-j-yesudas,03:27,Malayalam,05-09-2005,0.41,0.58,0.08,0.967,-3.059,0.08,127.979,0,5,0.01,4,94,10732496
+Urvasi Urvasi,P. Madhuri,/artist/p-madhuri-1,03:31,Malayalam,10-11-2006,0.87,0.729,0.13,0.393,-6.348,0.0465,135.011,1,6,0.08,4,78,8388827
+Kalabham,M G Sreekumar,/artist/m-g-sreekumar,04:15,Malayalam,08-04-2021,0.73,0.3,0.359,0.366,-6.14,0.042,128.917,0,11,0.04,4,61,8983414
+Kavilinayil,Ouseppachan,/artist/ousephachan,04:30,Malayalam,12-04-2015,0.73,0.22,0.139,0.174,-12.686,0.0446,139.984,0,1,0.08,4,87,2428754
+Innale Mayangumbol,K J Yesudas,/artist/k-j-yesudas,05:46,Malayalam,07-01-2012,0.27,0.17,0.092,0.954,-6.852,0.0136,138,0,6,0.0803,4,74,10883785
+Anthiponvettam (Male Vocals),Ouseppachan,/artist/ousephachan,04:35,Malayalam,08-03-2003,0.39,0.725,0.635,0.864,-11.843,0.04,135.718,1,7,0.0169,4,80,1423026
+Kaattu Taarattum,S. Janaki|K J Yesudas,/artist/s-janaki|/artist/k-j-yesudas,05:07,Malayalam,01-02-2010,0.18,0.71,0.155,0.424,-9.797,0.0636,138.008,1,0,0.071,4,94,2905853
+Ottakambi Nadham,K J Yesudas,/artist/k-j-yesudas,04:03,Malayalam,04-08-2018,0.6,0.727,0.948,0.79,-3.233,0.01,131.988,1,6,0.002,4,95,6079683
+Thenum Vayambum,K J Yesudas,/artist/k-j-yesudas,04:36,Malayalam,04-11-2021,0.48,0.18,0.902,0.434,-3.344,0.0457,137.983,1,6,0.0292,4,87,1703983
+Nee En Sarga,Lathika,/artist/lathika,04:28,Malayalam,10-02-2017,0.86,0.358,0.335,0.719,-6.603,0.0485,138.031,0,6,0.073,4,76,919651
+Aayiram Padasarangal,K J Yesudas,/artist/k-j-yesudas,03:31,Malayalam,11-08-2011,0.21,0.94,0.312,0.356,-2.879,0.006,127.996,0,11,0.05,4,32,11034467
+Kasthoori Manakkunnallo,K J Yesudas,/artist/k-j-yesudas,03:59,Malayalam,10-12-2013,0.71,0.454,0.859,0.011,-5.192,0.07,127.989,0,7,0.08,4,87,6307150
+Pon Veene F,K. S. Chithra,/artist/chitra,04:33,Malayalam,04-01-2002,0.56,0.32,0.532,0.705,-12.329,0.08,134.971,1,1,0.07,4,35,8375087
+Maanikya Veenayumayen,K J Yesudas,/artist/k-j-yesudas,03:32,Malayalam,05-03-2017,0.19,0.715,0.217,0.035,-13.744,0.002,136.012,0,5,0.03,4,42,7356667
+Chandanathil,P. Jayachandran,/artist/p-jayachandran-1,03:31,Malayalam,11-01-2002,0.32,0.99,0.787,0.602,-10.778,0.04,140.006,0,0,0.09,4,68,8639213
+Oh Mridule (Sad),K J Yesudas,/artist/k-j-yesudas,04:34,Malayalam,06-10-2019,0.31,0.95,0.727,0.45,-7.778,0.02,137.954,0,4,0.04,4,28,7487353
+Thamasamende Varuvan,K J Yesudas,/artist/k-j-yesudas,03:39,Malayalam,08-12-2021,0.92,0.64,0.567,0.365,-4.256,0.05,137.986,1,1,0.0199,4,53,6772869
+Nadha Nee Varum,S. Janaki,/artist/s-janaki,04:03,Malayalam,10-07-2006,0.48,0.598,0.095,0.741,-10.446,0.0527,131.985,1,3,0.0132,4,100,6036847
+Manjani Kombil,S. Janaki,/artist/s-janaki,04:06,Malayalam,06-05-2017,0.97,0.93,0.292,0.28,-3.657,0.026,127.986,0,8,0.003,4,89,7288394
+Veene Veene,S. Janaki,/artist/s-janaki,04:03,Malayalam,12-12-2012,0.65,0.604,0.952,0.37,-3.825,0.0012,139.984,0,6,0.0255,4,95,3575832
+Anuragagaanam,P. Jayachandran,/artist/p-jayachandran-1,03:33,Malayalam,12-02-2012,0.28,0.57,0.566,0.601,-12.198,0.0694,140.009,0,8,0.01,4,100,1237967
+Ee Neelimathan,S. Janaki|K J Yesudas,/artist/s-janaki|/artist/k-j-yesudas,04:27,Malayalam,07-07-2008,0.44,0.316,0.413,0.11,-9.845,0.1,136.007,1,6,0.0951,4,31,2408453
+Thalippo Peelippo,K J Yesudas,/artist/k-j-yesudas,04:43,Malayalam,06-03-2019,0.44,0.95,0.576,0.297,-7.621,0.0036,137.961,0,7,0.08,4,86,1389102
+Ormakal Oadi Duet,M G Sreekumar,/artist/m-g-sreekumar,04:23,Malayalam,11-05-2018,0.88,0.634,0.112,0.608,-2.06,0.067,142.972,1,1,0.054,4,76,7821722
+Kannodu Kannaaya Swapnangal,K J Yesudas|K. S. Chithra,/artist/k-j-yesudas|/artist/chitra,04:34,Malayalam,08-07-2004,0.56,0.69,0.159,0.7,-10.102,0.0487,140.01,0,2,0.047,4,49,8843254
+Kalpantha,K J Yesudas,/artist/k-j-yesudas,04:46,Malayalam,05-07-2007,0.89,0.751,0.223,0.43,-9.13,0.022,137.954,1,6,0.029,4,93,6151201
+Alliyilam Poovo,Krishnachandran,/artist/krishnachandran,04:42,Malayalam,09-09-2006,0.16,0.28,0.312,0.907,-9.734,0.02,134.998,1,1,0.0459,4,97,6267297
+Ee Tharunya,K J Yesudas|P. Jayachandran,/artist/k-j-yesudas|/artist/p-jayachandran-1,04:45,Malayalam,09-05-2021,0.13,0.649,0.392,0.644,-12.136,0.06,137.983,0,8,0.063,4,57,7082736
+Sandhye,S. Janaki,/artist/s-janaki,04:38,Malayalam,12-03-2006,0.53,0.43,0.394,0.715,-11.531,0.04,137.99,0,7,0.0283,4,100,4261630
+Unni Arariro,S. Janaki,/artist/s-janaki,03:17,Malayalam,08-04-2020,0.98,0.939,0.773,0.263,-12.053,0.034,132.005,1,6,0.031,4,83,8352961
+Kumkuma Sandhyakalo,K J Yesudas,/artist/k-j-yesudas,05:05,Malayalam,01-04-2016,0.45,0.13,0.804,0.393,-6.849,0.0507,135.018,1,5,0.015,4,60,5688005
+Anuragalola,K J Yesudas,/artist/k-j-yesudas,04:00,Malayalam,06-05-2008,0.95,0.936,0.431,0.793,-7.699,0.085,125.013,0,6,0.0949,4,37,658985
+Manjum Kulirum,Krishnachandran|S. Janaki,/artist/krishnachandran|/artist/s-janaki,04:23,Malayalam,08-08-2017,0.26,0.8,0.277,0.004,-6.325,0.084,137.989,0,9,0.033,4,65,11157402
+Manjadi Kunnil Duet,Vani Jairam|K J Yesudas,/artist/vani-jayaram|/artist/k-j-yesudas,04:01,Malayalam,10-12-2013,0.23,0.248,0.379,0.658,-7.494,0.0248,137.997,1,0,0.08,4,61,5616845
+Mallikabanan Thante,P. Jayachandran|P. Madhuri,/artist/p-jayachandran-1|/artist/p-madhuri-1,03:35,Malayalam,02-08-2023,0.6,0.12,0.052,0.695,-12.34,0.1,126.45,0,2,0.084,4,39,910899
+Devathaaru Poothu,K J Yesudas|P. Susheela,/artist/k-j-yesudas|/artist/p-suseela-2,04:09,Malayalam,07-10-2022,0.07,0.087,0.429,0.548,-12.817,0.074,129.004,0,9,0.068,4,37,5574997
+Innle Neyoru,K J Yesudas,/artist/k-j-yesudas,03:26,Malayalam,09-09-2013,0.86,0.74,0.3,0.09,-13.153,0.02,132.972,0,9,0.1,4,65,5448916
+Poomaaname (Female Vocals),Shyam,/artist/shyam,04:35,Malayalam,06-05-2018,0.17,0.319,0.934,0.973,-4.35,0.0506,128.024,0,6,0.0921,4,56,2962850
+Vaikkathashtami Nalil,K J Yesudas|S. Janaki,/artist/k-j-yesudas|/artist/s-janaki,03:03,Malayalam,11-02-2005,0.64,0.41,0.225,0.402,-5.095,0.0807,136.019,1,7,0.05,4,49,2072778
+Manjalayil Mungi Thorthi,P. Jayachandran,/artist/p-jayachandran-1,03:26,Malayalam,09-06-2017,0.99,0.246,0.244,0.116,-13.888,0.1,137.983,1,1,0.04,4,27,557110
+Keralam Keralam,K J Yesudas,/artist/k-j-yesudas,03:22,Malayalam,11-04-2011,0.51,0.44,0.949,0.741,-2.709,0.06,139.986,0,7,0.09,4,52,9124762
+Thaazhampoo Manamulla,A. M. Rajah,/artist/a-m-rajah-1,03:27,Malayalam,04-04-2021,0.76,0.345,0.133,0.997,-5.162,0.036,126.027,1,6,0.0543,4,32,1445436
+Maanasanilayil,K J Yesudas,/artist/k-j-yesudas,05:09,Malayalam,12-11-2023,0.32,0.59,0.931,0.465,-9.747,0.073,132.033,0,2,0.0119,4,85,245429
+Nallathm Varuthaka,Jaya Vijaya,/artist/jaya-vijaya,04:45,Malayalam,09-11-2010,0.36,0.767,0.552,0.967,-9.754,0.03,138.023,0,10,0.09,4,94,6487498
+Unarumee Ganam,Venugopal,/artist/venu-gopal,04:34,Malayalam,01-03-2006,0.12,0.36,0.353,0.649,-10.265,0.0429,131.991,0,11,0.04,4,72,10899775
+Neela Ponmane,K J Yesudas|P. Madhuri,/artist/k-j-yesudas|/artist/p-madhuri-1,04:58,Malayalam,07-02-2004,0.71,0.652,0.929,0.886,-7.619,0.0617,139.953,1,0,0.09,4,83,2463921
+Ottakambi Nadham,K J Yesudas,/artist/k-j-yesudas,04:03,Malayalam,07-07-2007,0.87,0.25,0.166,0.243,-9.469,0.033,137.984,0,9,0.072,4,76,5083561
+Ragangale Mohangale,S. Janaki|K J Yesudas,/artist/s-janaki|/artist/k-j-yesudas,04:11,Malayalam,11-08-2022,0.88,0.317,0.3,0.779,-10.713,0.017,140.004,0,10,0.0887,4,89,7286454
+Ella Dhukkavum,K J Yesudas,/artist/k-j-yesudas,04:55,Malayalam,09-06-2003,0.23,0.61,0.072,0.031,-6.266,0.1,129.989,0,11,0.0725,4,84,9806441
+Adiva Katte,S. Janaki,/artist/s-janaki,05:26,Malayalam,04-08-2011,0.7,0.504,0.826,0.867,-8.727,0.09,137.984,0,1,0.005,4,60,5452693
+Shararaanthal Thirithaanu,K J Yesudas,/artist/k-j-yesudas,03:23,Malayalam,07-04-2006,0.57,0.01,0.764,0.684,-6.785,0.004,138.026,1,7,0.08,4,65,5579854
+Konjum En,K J Yesudas,/artist/k-j-yesudas,04:44,Malayalam,03-01-2005,0.1,0.587,0.841,0.787,-13.057,0.09,140.01,1,1,0.0082,4,63,5129006
+Sagarame Santhamaka Nee,K J Yesudas,/artist/k-j-yesudas,03:03,Malayalam,04-03-2003,0.96,0.39,0.3,0.865,-2.908,0.047,138.038,0,2,0.0154,4,88,10678179
+Neelajalasayathil (Male),K J Yesudas,/artist/k-j-yesudas,03:03,Malayalam,11-10-2005,0.51,0.617,0.319,0.011,-3.023,0.0826,133.952,0,1,0.088,4,73,4595964
+Pinnayum Enakkuyil,P. Jayachandran|S. Janaki,/artist/p-jayachandran-1|/artist/s-janaki,03:21,Malayalam,04-09-2009,0.49,0.85,0.462,0.451,-10.186,0.089,140.002,0,4,0.012,4,36,2596559
+Pattupadi Urakkam Njan,P. Susheela,/artist/p-suseela-2,03:26,Malayalam,01-11-2018,0,0.718,0.837,0.047,-2.776,0.0613,138.021,0,10,0.0302,4,56,6357324
+Mele Poomala,K J Yesudas|Sabitha Chaudhary,/artist/k-j-yesudas|/artist/sabitha-chaudhary,04:09,Malayalam,11-02-2006,0.27,0.87,0.33,0.104,-2.06,0.05,134.07,1,11,0.076,4,30,3392216
+Rithumathiyaay Thelimaanam,K J Yesudas|Latha Raju,/artist/k-j-yesudas|/artist/latha-raju,04:06,Malayalam,12-03-2016,0.38,0.51,0.53,0.127,-8.459,0.02,132.051,0,9,0.032,4,33,3513787
+Manathe Mazhamukil,P. Susheela,/artist/p-suseela-2,03:17,Malayalam,11-07-2021,0.14,0.06,0.724,0.458,-12.702,0.07,137.941,1,7,0.0191,4,44,10352293
+Maada Praave Vaa,K J Yesudas,/artist/k-j-yesudas,04:38,Malayalam,12-01-2007,0.86,0.019,0.851,0.668,-8.089,0.055,137.954,1,6,0.07,4,33,11395718
+Disco Disco,Raveendran|K. S. Chithra,/artist/raveendran|/artist/chitra,04:04,Malayalam,02-04-2011,0.97,0.8,0.648,0.62,-6.858,0.05,128.935,0,5,0.04,4,100,5787549
+Avidunnen Gaanam,S. Janaki,/artist/s-janaki,03:02,Malayalam,03-03-2017,0.76,0.722,0.313,0.345,-3.833,0.0467,132.013,1,2,0.08,4,27,4136460
+Neela Nilavoru,K J Yesudas,/artist/k-j-yesudas,05:09,Malayalam,02-05-2019,0.5,0.09,0.05,0.995,-12.891,0.074,133.218,1,9,0.0265,4,38,11026461
+Kuliradunnu Manathu,K J Yesudas,/artist/k-j-yesudas,05:02,Malayalam,09-09-2014,0.28,0.48,0.072,0.87,-2.502,0.02,134.987,0,10,0.0016,4,57,1897758
+Chitrasilapalikal,K J Yesudas,/artist/k-j-yesudas,03:24,Malayalam,04-02-2009,0.39,0.29,0.16,0.667,-11.159,0.1,129.944,0,1,0.018,4,48,309490
+Poovinullil Poo Viriyum,K J Yesudas,/artist/k-j-yesudas,03:51,Malayalam,03-09-2004,0.67,0.451,0.143,0.86,-9.288,0.0177,138.017,0,7,0.0265,4,59,10333637
+Pathinaalam Raavudichathu,K J Yesudas,/artist/k-j-yesudas,03:02,Malayalam,05-04-2006,0.2,0.99,0.841,0.272,-7.213,0.0115,130.006,0,4,0.08,4,47,9624981
+Anuraagame Anuraagame,K J Yesudas,/artist/k-j-yesudas,03:02,Malayalam,09-12-2006,0.76,0.329,0.216,0.586,-6.114,0.0631,137.929,0,5,0.0404,4,38,6840705
+Karimukil Kattele,P. Jayachandran,/artist/p-jayachandran-1,03:03,Malayalam,08-06-2001,0.69,0.38,0.506,0.69,-9.322,0.07,138.038,1,7,0.03,4,73,4844419
+Vrichka Krishnashtami,P. Jayachandran,/artist/p-jayachandran-1,04:08,Malayalam,10-02-2015,0.24,0.353,0.651,0.162,-13.995,0.05,138.051,0,2,0.0515,4,26,1042083
+Vaasaram Thudangi,K J Yesudas|P. Susheela,/artist/k-j-yesudas|/artist/p-suseela-2,04:19,Malayalam,10-09-2015,0.27,0.58,0.217,0.555,-11.271,0.0131,139.988,1,0,0.09,4,80,8818790
+Ethile Ekanaye,K J Yesudas,/artist/k-j-yesudas,04:37,Malayalam,12-08-2009,0.99,0.056,0.797,0.096,-7.724,0.026,135.015,0,9,0.028,4,43,1079498
+Ennittum Neeyene,Janaki,/artist/janaki,03:50,Malayalam,02-07-2009,0.93,0.49,0.772,0.585,-2.302,0.033,135.996,0,8,0.0528,4,80,7278819
+Pudamuri,K. S. Chithra,/artist/chitra,05:09,Malayalam,09-12-2011,0.27,0.268,0.047,0.355,-13.631,0.08,138.005,0,4,0.097,4,100,8900031
+Manohari Nee,K J Yesudas,/artist/k-j-yesudas,03:25,Malayalam,11-01-2006,0.1,0.39,0.021,0.932,-12.234,0.033,128.986,0,9,0.025,4,61,7232809
+Vaalkkanezhuthi,Vani Jairam|K J Yesudas,/artist/vani-jayaram|/artist/k-j-yesudas,03:13,Malayalam,02-04-2009,0.85,0.817,0.205,0.104,-5.898,0.0563,132.009,0,11,0.09,4,96,11372616
+Kanninte Karpooram (K.J.Yesudas),K J Yesudas,/artist/k-j-yesudas,04:05,Malayalam,08-07-2019,0.23,0.35,0.682,0.238,-6.149,0.0396,134.549,0,6,0.02,4,57,3581069
+Laksharchanakandu,K J Yesudas,/artist/k-j-yesudas,03:23,Malayalam,02-02-2006,0.27,0.757,0.551,0.063,-11.309,0.074,138.006,1,1,0.04,4,100,5600440
+Sumangali Nee Ormikkumo,K J Yesudas,/artist/k-j-yesudas,03:27,Malayalam,04-04-2021,0.61,0.68,0.996,0.102,-6.17,0,136.037,1,4,0.0713,4,28,7648802
+Chinnumvenntharathil,K J Yesudas|S. Janaki,/artist/k-j-yesudas|/artist/s-janaki,05:43,Malayalam,01-02-2003,0.05,0.022,0.483,0.82,-9.82,0.05,137.963,1,2,0.1,4,58,8544795
+Nee Nirayu,K J Yesudas,/artist/k-j-yesudas,04:19,Malayalam,01-11-2002,0.38,0.92,0.826,0.091,-9.138,0.066,127.983,1,2,0.0315,4,59,7991819
+Ponnum Thenum,K J Yesudas,/artist/k-j-yesudas,03:19,Malayalam,07-12-2016,0.6,0.558,0.216,0.493,-12.55,0.02,135.99,0,4,0.04,4,54,1249200
+Kaayaampoo Kannil,K J Yesudas,/artist/k-j-yesudas,03:23,Malayalam,10-02-2017,0.38,0.46,0.367,0.99,-7.755,0.045,130.377,0,8,0.09,4,73,1058939
+Harsha Bashpam,P. Jayachandran,/artist/p-jayachandran-1,03:33,Malayalam,04-11-2003,0.87,0.58,0.675,0.271,-11.898,0.037,128.014,0,11,0,4,51,9785807
+Mohan Kondunjan,P. Jayachandran,/artist/p-jayachandran-1,04:03,Malayalam,11-01-2011,0.44,0.15,0.63,0.239,-11.49,0.05,132.001,1,1,0.05,4,77,6354577
+Mangalam Nerunn,K J Yesudas,/artist/k-j-yesudas,03:24,Malayalam,03-10-2011,0.24,0.663,0.561,0.555,-11.335,0.08,139.993,0,8,0.0905,4,72,8806373
+Sindhoora Sandhyakku,K J Yesudas|S. Janaki,/artist/k-j-yesudas|/artist/s-janaki,04:38,Malayalam,03-10-2015,0.48,0.45,0.805,0.189,-13.961,0.026,135.997,0,5,0.016,4,34,10089748
+Pon Pularoli Poo Vithariya,Lathika|K J Yesudas,/artist/lathika|/artist/k-j-yesudas,04:33,Malayalam,02-11-2016,0.61,0.447,0.545,0.306,-2.56,0.024,137.99,0,9,0.068,4,100,1764299
+Swarnachamaran,K J Yesudas|P. Susheela,/artist/k-j-yesudas|/artist/p-suseela-2,03:29,Malayalam,05-08-2018,0.91,0.67,0.994,0.022,-9.148,0.09,137.997,0,11,0.0128,4,44,2898776
+Ezhu Sundara Rathrikal,P. Susheela,/artist/p-suseela-2,03:35,Malayalam,08-09-2004,0.21,0.964,0.351,0.77,-12.794,0,130.469,1,7,0.06,4,68,8606457
+Swarga Gayike,K J Yesudas,/artist/k-j-yesudas,03:26,Malayalam,02-01-2007,0.63,0.23,0.286,0.102,-12.564,0.0378,128.017,0,2,0.0816,4,31,7218365
+Sandhye,S. Janaki,/artist/s-janaki,04:38,Malayalam,07-04-2019,0.14,0.251,0.052,0.143,-11.715,0.08,137.821,0,2,0.0761,4,25,241060
+Ramsanile Chandrikayo,P. Jayachandran,/artist/p-jayachandran-1,03:26,Malayalam,12-04-2004,0.02,0.92,0.406,0.08,-4.385,0.09,130.018,1,6,0.04,4,76,4568089
+Kasthoori Maan Kurunne,S. Janaki,/artist/s-janaki,04:33,Malayalam,06-04-2007,0.13,0.752,0.007,0.789,-4.028,0.0052,132.994,1,9,0.008,4,69,7190903
+Karayunno Puzha,K J Yesudas,/artist/k-j-yesudas,03:36,Malayalam,08-08-2019,0.74,0.42,0.327,0.394,-12.659,0.0409,130.671,1,3,0.033,4,61,5568304
+Ishta Praaneshwari Ninte,P. Jayachandran,/artist/p-jayachandran-1,03:27,Malayalam,05-03-2003,0.67,0.027,0.779,0.747,-5.143,0.0714,126.837,0,11,0.05,4,29,10129599
+Kaattu Taarattum,S. Janaki|K J Yesudas,/artist/s-janaki|/artist/k-j-yesudas,05:07,Malayalam,04-12-2005,0.96,0.31,0.215,0.347,-13.066,0.026,138.003,1,8,0.062,4,37,9694322
+Murali Oothunna,S. Janaki,/artist/s-janaki,02:55,Malayalam,09-06-2009,0.34,0.456,0.516,0.794,-12.049,0.083,127.991,0,7,0.05,4,53,579748
+Nanmamelil Varuvathinay,Jaya Vijaya,/artist/jaya-vijaya,04:51,Malayalam,03-05-2020,0.68,0.03,0.567,0.464,-13.436,0.018,128.025,0,5,0.081,4,83,6183111
+Utharaa Swayamvaram Kadhakali Kaanuvan,K J Yesudas,/artist/k-j-yesudas,03:34,Malayalam,07-01-2003,0.95,0.282,0.116,0.787,-4.657,0,133.984,1,11,0.0144,4,54,8507525
+Amme Amme Amme Nammude,Renuka,/artist/renuka,03:19,Malayalam,01-10-2019,0.77,0.25,0.549,0.9,-9.528,0.0396,137.985,1,3,0.07,4,56,1816279
+Sararandhal,K J Yesudas,/artist/k-j-yesudas,03:07,Malayalam,05-01-2010,0.93,0.854,0.926,0.814,-2.616,0.074,139.998,1,5,0.07,4,77,6052518
+Ayalathe Janalil,K J Yesudas,/artist/k-j-yesudas,03:22,Malayalam,09-07-2004,0.23,0.11,0.145,0.448,-13.105,0.039,130.002,1,9,0.0102,4,80,9736516
+Kudamulla Poovinum,B Vasanta|K J Yesudas,/artist/b-vasanta|/artist/k-j-yesudas,03:34,Malayalam,10-06-2003,0.17,0.561,0.236,0.494,-11.22,0.0862,137.98,0,9,0.1,4,32,4854498
+Periyaare Periyaare,A. M. Rajah|P. Susheela,/artist/a-m-rajah-1|/artist/p-suseela-2,03:39,Malayalam,03-03-2002,0.87,0.88,0.351,0.593,-9.666,0.0834,129.994,0,9,0.08,4,53,11014867
+Vigneswara,P. Jayachandran,/artist/p-jayachandran-1,03:26,Malayalam,04-06-2017,0.23,0.7,0.12,0.987,-8.504,0.09,125.037,1,10,0.097,4,67,9884048
+Kaadu Me Naadum,Kannur Rajan,/artist/kannur-rajan,02:48,Malayalam,06-07-2003,0.72,0.34,0.585,0.16,-10.088,0.004,138.008,1,0,0.045,4,28,2310236
+Kunnimani Cheppu,K. S. Chithra,/artist/chitra,04:38,Malayalam,11-07-2002,0.91,0.53,0.395,0.794,-9.042,0.024,131.994,0,5,0.097,4,46,7158810
+Unaru Vegam Nee,S. Janaki,/artist/s-janaki,04:23,Malayalam,10-04-2011,0.14,0.42,0.32,0.875,-13.984,0.05,130.697,0,5,0.0207,4,92,9871451
+Chandrabimbham,K J Yesudas,/artist/k-j-yesudas,03:31,Malayalam,04-07-2013,0.74,0.884,0.113,0.859,-12.488,0.098,137.979,1,0,0.044,4,74,1636012
+Roopavathi Nin,P. Jayachandran|P. Madhuri,/artist/p-jayachandran-1|/artist/p-madhuri-1,03:41,Malayalam,05-04-2023,0.63,0.27,0.518,0.035,-3.705,0.069,128.003,1,1,0.06,4,82,3971808
+Kuttanadan Punjayile,K J Yesudas,/artist/k-j-yesudas,02:56,Malayalam,03-04-2001,0.18,0.745,0.365,0.519,-12.249,0.093,137.979,0,5,0.08,4,50,3622365
+Mizhikail Santhamaka,K J Yesudas,/artist/k-j-yesudas,03:01,Malayalam,03-01-2013,0.9,0.8,0.019,0.402,-4.973,0.096,126.05,1,7,0.007,4,63,5340954
+Neelajalasayathil (Male),K J Yesudas,/artist/k-j-yesudas,03:03,Malayalam,04-11-2007,0.93,0.499,0.737,0.763,-6.86,0.07,132.005,1,7,0.088,4,60,937951
+Paadam Pootha (Female Vocals),Kannur Rajan,/artist/kannur-rajan,00:52,Malayalam,02-02-2023,0.82,0.01,0.425,0.905,-9.824,0.0215,134.019,0,0,0.08,4,44,4393339
+Kiliye Kiliye,S. Janaki,/artist/s-janaki,05:03,Malayalam,12-12-2018,0.16,0.844,0.177,0.368,-13.429,0.06,130.013,1,4,0.014,4,85,738197
+Adiva Katte,S. Janaki,/artist/s-janaki,05:26,Malayalam,07-07-2017,0.2,0.99,0.55,0.467,-10.134,0.07,128.153,0,9,0.0819,4,58,7644415
+Oh Mridule (Happy),K J Yesudas,/artist/k-j-yesudas,04:34,Malayalam,08-07-2019,0.96,0.61,0.163,0.915,-4.904,0.071,138.003,0,1,0.077,4,91,2704115
+Yetho Smrithan,K J Yesudas,/artist/k-j-yesudas,04:41,Malayalam,01-01-2000,0.34,0.66,0.277,0.951,-10.217,0.0963,137.967,0,6,0.0696,4,84,548829
+Ashwathi Nakshathrame En Abhiraama Sankalppame,P. Jayachandran,/artist/p-jayachandran-1,02:45,Malayalam,01-03-2010,0.32,0.047,0.516,0.517,-6.683,0.06,127.998,1,5,0.03,4,40,9230053
+Manassoru,K J Yesudas,/artist/k-j-yesudas,03:57,Malayalam,02-12-2019,0.11,0.94,0.721,0.308,-12.411,0.023,139.989,0,2,0.0526,4,97,3278126
+Sankupushpam,K J Yesudas,/artist/k-j-yesudas,03:29,Malayalam,11-11-2008,0.35,0.513,0.694,0.068,-12,0.02,138.024,0,1,0.087,4,30,8000352
+Panchathanthram,P. Susheela,/artist/p-suseela-2,03:26,Malayalam,10-12-2012,0.07,0.65,0.043,0.431,-9.626,0.009,135.017,0,6,0.081,4,32,4254995
+Ambili Ammava - K.Sulochana,K. Sulochana,/artist/k-sulochana-1,03:15,Malayalam,05-01-2011,0.5,0.302,0.055,0.321,-13.077,0.0181,138.154,0,6,0.06,4,35,8578329
+Poonthenaruvi,P. Susheela,/artist/p-suseela-2,03:33,Malayalam,03-03-2014,0.47,0.42,0.11,0.325,-3.3,0.03,136,1,0,0.1,4,33,7639515
+Soorya Kanthi,S. Janaki,/artist/s-janaki,03:04,Malayalam,01-02-2009,0.19,0.642,0.92,0.884,-11.41,0.0294,136.004,1,6,0.0638,4,51,9653564
+Elam Manhin,K J Yesudas|Janaki,/artist/k-j-yesudas|/artist/janaki,04:50,Malayalam,08-12-2005,0.98,0.19,0.613,0.15,-7.413,0.029,125.017,1,1,0.015,4,50,6294071
+Manushyan Mathangale,K J Yesudas,/artist/k-j-yesudas,03:03,Malayalam,03-01-2009,0.41,0.923,0.011,0.274,-5.711,0.022,128.01,0,2,0.02,4,28,7843402
+Chembaka Pushpa,K J Yesudas,/artist/k-j-yesudas,03:31,Malayalam,05-03-2019,0.35,0.34,0.768,0.321,-8.06,0.04,125.979,1,5,0.0981,4,69,4333411
+Manjadikunnil,K J Yesudas,/artist/k-j-yesudas,04:01,Malayalam,06-04-2013,0.39,0.431,0.436,0.937,-4.654,0.0554,132.001,0,2,0.0134,4,53,4179423
+Chandrakalabham,K J Yesudas,/artist/k-j-yesudas,05:15,Malayalam,11-01-2013,0.75,0.36,0.461,0.918,-4.126,0.0725,134.007,0,6,0.038,4,87,1142621
+Kerala Folk,K.L. Sreeram,/artist/kl-sreeram-23,07:08,Malayalam,11-03-2014,0.58,0.81,0.779,0.681,-8.408,0.078,134.023,0,3,0.034,4,85,1623275
+Raasaleelaykku,B. Vasantha|K J Yesudas,/artist/b-vasantha-1|/artist/k-j-yesudas,03:13,Malayalam,08-05-2009,0.06,0.32,0.682,0.035,-3.47,0.0734,138.008,1,8,0.0899,4,92,2870582
+Malini Nadhiyil,K J Yesudas|P. Susheela,/artist/k-j-yesudas|/artist/p-suseela-2,03:29,Malayalam,11-08-2021,0.22,0.918,0.278,0.048,-12.448,0.0344,131.984,0,1,0.02,4,28,10200936
+Manjani Kombil,S. Janaki,/artist/s-janaki,04:01,Malayalam,04-08-2016,0.6,0.19,0.995,0.784,-7.88,0.0611,137.992,0,3,0.07,4,81,8299627
+Anupame Azhake,K J Yesudas,/artist/k-j-yesudas,04:27,Malayalam,05-11-2012,0.04,0.674,0.269,0.488,-6.151,0.05,137.99,0,10,0.02,4,77,711998
+Arabikadaloru,P. Susheela|K J Yesudas,/artist/p-suseela-2|/artist/k-j-yesudas,03:17,Malayalam,02-02-2018,0.7,0.39,0.274,0.922,-13.98,0.039,138.02,0,11,0.07,4,50,3233162
+Madhumasam Poyallo,K J Yesudas|Lathika,/artist/k-j-yesudas|/artist/lathika,04:48,Malayalam,08-12-2019,0.51,0.946,0.72,0.363,-2.02,0.024,139.981,0,10,0.024,4,94,9957805
+Dhak Dhak Chil Chilambu Maniye,Shankar Mahadevan,/artist/shankar-mahadevan,04:58,Malayalam,08-05-2001,0.42,0.23,0.832,0.058,-6.59,0.0864,125.977,0,10,0.0937,4,78,7123785
+Sandhyamayangum Neram,K J Yesudas,/artist/k-j-yesudas,03:39,Malayalam,11-04-2004,0.65,0.448,0.172,0.846,-10.065,0.03,131.769,0,6,0.098,4,76,8873007
+Nadha Nee Varum,S. Janaki,/artist/s-janaki,04:03,Malayalam,12-03-2017,0.97,0.65,0.886,0.069,-2.396,0.01,125.416,0,7,0.0605,4,73,5459122
+Pulayanar Maniyamma - K.J. Yesudas,K J Yesudas,/artist/k-j-yesudas,03:03,Malayalam,03-08-2020,0.53,0.079,0.368,0.979,-8.042,0.06,129.936,0,5,0.0997,4,99,8900112
+Aa Rathri,K. S. Chithra,/artist/chitra,04:28,Malayalam,12-02-2011,0.97,0.41,0.946,0.558,-12.132,0.058,138.021,1,0,0.05,4,47,3660556
+Puzhayorazhakulla Pennu,K J Yesudas,/artist/k-j-yesudas,04:19,Malayalam,08-06-2013,0.59,0.936,0.889,0.097,-11.383,0.01,140.006,0,2,0.05,4,31,42606
+Ee Neelimathan,S. Janaki|K J Yesudas,/artist/s-janaki|/artist/k-j-yesudas,04:27,Malayalam,09-04-2007,0.4,0.34,0.406,0.587,-4.101,0.059,126.982,0,1,0.04,4,77,11159661
+Panineer Mazha Poomazha,K J Yesudas,/artist/k-j-yesudas,03:24,Malayalam,06-09-2003,0.19,0.103,0.25,0.938,-13.168,0.01,128.001,1,6,0.0909,4,56,7806840
+Unnikai Valaru,P Leela,/artist/p-leela,03:11,Malayalam,02-02-2004,0.91,0.92,0.408,0.412,-5.762,0.0121,139.996,1,8,0.091,4,43,377166
+Nee Mayum Nilavo,K J Yesudas,/artist/k-j-yesudas,03:58,Malayalam,06-12-2020,0.22,0.238,0.591,0.42,-5.67,0.032,134.988,1,2,0.07,4,45,9450857
+Leela Thilakam,K J Yesudas|S. Janaki,/artist/k-j-yesudas|/artist/s-janaki,04:46,Malayalam,10-01-2007,0.29,0.3,0.795,0.36,-9.7,0.0026,137.975,0,9,0.069,4,89,6648607
+Mega Sandesam,K J Yesudas,/artist/k-j-yesudas,03:38,Malayalam,01-07-2018,0.16,0.463,0.024,0.493,-6.392,0.04,140.004,0,4,0.066,4,72,11256675
+Ottakambi Nadham,K J Yesudas,/artist/k-j-yesudas,04:03,Malayalam,09-01-2006,0.9,0.61,0.275,0.12,-6.368,0.0297,137.029,0,0,0.07,4,51,5132476
+Unnikale Oru Kadha Parayaam (Title),K J Yesudas,/artist/k-j-yesudas,04:47,Malayalam,02-01-2021,0.67,0.837,0.144,0.128,-3.263,0.04,129.398,1,8,0.02,4,77,1881618
+Rathisughasaramayi,K. S. Chithra,/artist/chitra,04:05,Malayalam,09-04-2018,0.74,0.67,0.599,0.245,-7.065,0.005,136.018,0,2,0.06,4,78,2203017
+Karayano Mizhineeril,K J Yesudas,/artist/k-j-yesudas,04:04,Malayalam,04-09-2014,0.73,0.838,0.438,0.507,-12.898,0.0848,127.206,1,7,0.0027,4,74,5613885
+Guruvaayoor,N.V. Haridas,/artist/nv-haridas,03:11,Malayalam,03-07-2022,0.12,0.56,0.924,0.822,-4.73,0.08,138,1,1,0.08,4,46,4416793
+Edavakayalin,K J Yesudas,/artist/k-j-yesudas,04:48,Malayalam,01-02-2023,0.18,0.481,0.637,0.412,-3.599,0.05,127.991,1,11,0.05,4,30,7652676
+Sindhoora Thilakavumay,K J Yesudas,/artist/k-j-yesudas,04:21,Malayalam,03-02-2004,0.22,0.32,0.924,0.272,-2.332,0.022,142.022,1,2,0.09,4,53,5859067
+Ravin Poonthen,Dhinesh,/artist/dhinesh,04:24,Malayalam,10-06-2017,0.27,0.202,0.486,0.571,-7.009,0.03,133.997,0,1,0.021,4,100,4904313
+Annuninte Nunakkuzhi,K J Yesudas,/artist/k-j-yesudas,03:26,Malayalam,11-01-2012,0.11,0.35,0.444,0.233,-3.473,0.07,139.991,0,10,0.059,4,84,4636611
+Mizhikalil Nirakathiray,K J Yesudas,/artist/k-j-yesudas,03:00,Malayalam,03-08-2001,0.52,0.778,0.832,0.57,-8.51,0.0384,138.01,1,1,0.042,4,91,5722427
+Moovanthi Parambiloode,K J Yesudas,/artist/k-j-yesudas,04:19,Malayalam,07-01-2008,0.89,0.27,0.51,0.038,-8.094,0.016,138.02,1,2,0,4,54,7992091
+Thankabhasma,K J Yesudas,/artist/k-j-yesudas,03:21,Malayalam,11-04-2012,0.63,0.377,0.705,0.894,-2.436,0,128,1,7,0.09,4,39,8453858
+Makaram Poyittum,P. Susheela|P. Jayachandran,/artist/p-suseela-2|/artist/p-jayachandran-1,03:31,Malayalam,02-12-2012,0.94,0.91,0.991,0.547,-7.449,0.09,137.897,1,9,0.07,4,79,9047108
+Maarimalar Choriyunna,P. Madhuri,/artist/p-madhuri-1,03:13,Malayalam,02-07-2018,0.73,0.557,0.191,0.74,-7.131,0.013,139.984,0,11,0.0836,4,99,10649132
+Kaakkathamburaatti,K J Yesudas,/artist/k-j-yesudas,02:04,Malayalam,01-05-2016,0.17,0.44,0.772,0.441,-4.918,0.0159,139.992,1,0,0.06,4,36,10780085
+Hemantham Thozhuthunaram,K J Yesudas|Chorus,/artist/k-j-yesudas|/artist/chorus,03:11,Malayalam,10-10-2007,0.09,0.513,0.94,0.232,-3.31,0.061,128.02,0,9,0.014,4,65,1828948
+Maan Maan Maan Nalla,S. Janaki,/artist/s-janaki,03:35,Malayalam,02-03-2017,0.01,0.46,0.888,0.856,-5.127,0.027,138.028,0,5,0.04,4,41,293703
+Neeyevide? Nin Nizhalevide?,K J Yesudas,/artist/k-j-yesudas,03:29,Malayalam,12-01-2021,0.76,0.444,0.352,0.091,-10.754,0.036,127.93,0,3,0.02,4,78,5915777
+Moonu Moolayile,Kannur Rajan,/artist/kannur-rajan,01:17,Malayalam,05-05-2017,0.97,0.43,0.233,0.889,-3.878,0.0859,138.039,1,9,0.074,4,27,1419480
+Mazhamukil Chitravela,K J Yesudas,/artist/k-j-yesudas,03:04,Malayalam,07-10-2019,0.27,0.919,0.463,0.859,-2.303,0.065,137.899,1,10,0.0719,4,56,2283647
+Manasaammatham,A. M. Rajah|P. Susheela,/artist/a-m-rajah-1|/artist/p-suseela-2,03:24,Malayalam,04-01-2014,0.75,0.43,0.694,0.385,-11.014,0.081,132.202,1,8,0.057,4,52,5063876
+Venchandralekhayorapsara Sthree,K J Yesudas,/artist/k-j-yesudas,03:21,Malayalam,07-07-2014,0.85,0.246,0.412,0.81,-12.75,0.022,136.026,1,0,0.01,4,58,8962531
+Thulaavarsha Melam Thudippattin Thaalam,S. Janaki|K J Yesudas,/artist/s-janaki|/artist/k-j-yesudas,03:18,Malayalam,09-08-2000,0.48,0.8,0.745,0.05,-5.958,0.0983,126.012,0,8,0.04,4,81,7169508
+Ellarum Pokunnu,K J Yesudas,/artist/k-j-yesudas,03:23,Malayalam,03-01-2013,0.3,0.523,0.487,0.031,-2.563,0.005,133.998,0,11,0.074,4,33,1504999
+Sankupushpam,K J Yesudas,/artist/k-j-yesudas,03:29,Malayalam,10-05-2017,0.32,0.08,0.173,0.029,-11.201,0.07,137.994,0,11,0.09,4,75,8051668
+Venna Tholkkumudalude,K J Yesudas,/artist/k-j-yesudas,03:24,Malayalam,09-02-2010,0.13,0.926,0.26,0.435,-7.98,0.0901,138.039,0,11,0.0481,4,84,4402641
+Raasaleelaykku,B. Vasantha|K J Yesudas,/artist/b-vasantha-1|/artist/k-j-yesudas,03:13,Malayalam,01-06-2012,0.43,0.03,0.633,0.117,-5.482,0.02,138.018,1,1,0.0958,4,28,2686389
+Vaalittezhuthiya,Krishnachandran,/artist/krishnachandran,06:25,Malayalam,11-09-2001,0.36,0.81,0.399,0.431,-5.613,0.07,129.936,1,7,0.04,4,99,3612445
+Julie I Love You,K J Yesudas|P. Madhuri,/artist/k-j-yesudas|/artist/p-madhuri-1,04:17,Malayalam,07-09-2014,0.81,0.48,0.556,0.399,-5.167,0,139.982,1,8,0.04,4,89,7515354
+"Nabi Nabi Ya Nabi Nabi, Pt. 2",Aziz Miyan Qawwal,/artist/aziz-miyan-qawwal,25:56:00,Malayalam,08-01-2006,0.95,0.209,0.847,0.386,-12.842,0.07,128.022,1,8,0.037,4,49,5208987
+Swarnna Gopura Narthaki Shilpam,P. Jayachandran,/artist/p-jayachandran-1,03:41,Malayalam,12-07-2005,0.43,0.83,0.687,0.808,-3.12,0.09,137.996,1,0,0.07,4,93,3386849
+Onnanam Kunninmel,K J Yesudas|Vani Jairam,/artist/k-j-yesudas|/artist/vani-jayaram,04:05,Malayalam,01-09-2020,0.65,0.016,0.25,0.287,-8.634,0.0115,128.034,0,11,0.06,4,32,6491522
+Manjil Chekkerum,K J Yesudas|Vani Jairam,/artist/k-j-yesudas|/artist/vani-jayaram,04:56,Malayalam,03-01-2019,0.12,0.2,0.92,0.146,-13.731,0.098,138.028,1,7,0.011,4,86,10805867
+Kadhali Chenkadhali,Lata Mangeshkar,/artist/lata-mangeshkar,03:24,Malayalam,05-02-2022,0.62,0.942,0.533,0.666,-2.669,0.056,128.607,0,6,0.055,4,33,7736010
+Evidayo,K J Yesudas,/artist/k-j-yesudas,05:11,Malayalam,03-03-2015,0.26,0.07,0.882,0.985,-11.85,0.0592,130.079,1,9,0.0998,4,66,11206233
+Kanikanum Neram,Renuka|P Leela,/artist/renuka|/artist/p-leela,03:22,Malayalam,09-02-2010,0.86,0.089,0.39,0.695,-5.375,0.0972,137.981,0,9,0.001,4,95,9871686
+Indhulekha Indhulekha,K J Yesudas|P. Susheela,/artist/k-j-yesudas|/artist/p-suseela-2,03:08,Malayalam,06-04-2013,0.72,0.62,0.104,0.395,-10.679,0.07,128.232,0,4,0.1,4,30,5446409
+Kannundenkilum,K J Yesudas,/artist/k-j-yesudas,04:45,Malayalam,10-01-2012,0.02,0.948,0.805,0.776,-13.037,0.07,128.031,0,6,0.0314,4,36,1053633
+Hredayeswari,P. Jayachandran,/artist/p-jayachandran-1,03:17,Malayalam,05-08-2016,0.47,0.85,0.732,0.865,-4.598,0.08,138.017,0,5,0.013,4,34,5586050
+Mukhile,S. Janaki,/artist/s-janaki,02:46,Malayalam,04-01-2013,0.66,0.863,0.564,0.784,-9.672,0.055,137.986,0,0,0.01,4,94,8498382
+Kasthoori Maan Mizhi,K J Yesudas,/artist/k-j-yesudas,04:17,Malayalam,05-05-2009,0.87,0.01,0.865,0.418,-5.371,0.0408,137.941,1,7,0.0895,4,63,2201098
+Mounam Polum Madhuram,P.Jayachandaran|S. Janaki,/artist/pjayachandaran|/artist/s-janaki,04:19,Malayalam,11-07-2005,0.65,0.128,0.992,0.327,-8.466,0.035,125.85,0,0,0.07,4,45,4685060
+Vaasantha Panchami Naalil,S. Janaki,/artist/s-janaki,03:26,Malayalam,02-04-2009,0.34,0.92,0.5,0.204,-4.991,0.0542,125.005,0,7,0.03,4,44,10175740
+Indupushpam,K. S. Chithra,/artist/chitra,06:47,Malayalam,05-04-2011,1,0.776,0.986,0.518,-13.432,0.0463,127.957,1,11,0.099,4,96,7224353
+Pudhu Mulla Poove Arimulla Poove,K J Yesudas,/artist/k-j-yesudas,03:47,Malayalam,08-03-2015,0.29,0.55,0.826,0.154,-9.86,0.0652,136.127,0,7,0.04,4,90,7657243
+Kallolini,P. Jayachandran,/artist/p-jayachandran-1,03:36,Malayalam,12-01-2008,0.71,0.782,0.146,0.784,-3.216,0.08,129.85,0,7,0.09,4,41,487049
+Nisha Surabhikal,P. Jayachandran,/artist/p-jayachandran-1,04:22,Malayalam,05-10-2004,0.07,0.72,0.912,0.787,-3.04,0.055,138.003,0,1,0.1,4,75,8744976
+Kaar Megha Varnante,P.Jayachandaran|P. Madhuri,/artist/pjayachandaran|/artist/p-madhuri-1,04:22,Malayalam,05-12-2004,0.41,0.797,0.278,0.905,-4.041,0.0784,137.965,1,2,0.018,4,89,6801516
+Hai Priya Sahodararae,Latha Malathy|A. V. Mohammed,/artist/latha-malathy|/artist/a-v-mohammed-1,03:23,Malayalam,11-10-2020,0.73,0.89,0.01,0.814,-7.165,0.04,137.964,0,10,0.0905,4,61,10106276
+Ashtapadhiyile,P. Jayachandran,/artist/p-jayachandran-1,02:01,Malayalam,11-09-2014,0.8,0.427,0.915,0.582,-3.593,0.0406,128.045,0,8,0.004,4,95,765981
+Omalalekandunjan,K J Yesudas,/artist/k-j-yesudas,03:26,Malayalam,02-12-2010,0,0.34,0.987,0.82,-10.578,0.0922,137.909,1,4,0.07,4,98,7464561
+Innaleyolam,K J Yesudas,/artist/k-j-yesudas,03:14,Malayalam,05-12-2021,0.12,0.071,0.251,0.581,-6.807,0.01,137.957,0,7,0.07,4,32,7281444
+Ilavannoor Madhathile,K J Yesudas,/artist/k-j-yesudas,05:02,Malayalam,05-01-2008,0.83,0.86,0.185,0.067,-11.764,0.06,127.926,1,7,0.077,4,74,4976189
+Chanchalaakshi,K J Yesudas,/artist/k-j-yesudas,03:11,Malayalam,08-10-2015,0.55,0.155,0.465,0.203,-9.083,0.064,137.988,0,9,0.0605,4,44,8946534
+Vellathaamara Mottu,K J Yesudas|P. Susheela,/artist/k-j-yesudas|/artist/p-suseela-2,03:13,Malayalam,11-07-2001,0.14,0.14,0.829,0.722,-4.012,0.038,138.002,1,4,0.004,4,36,11121291
+Ela Kozhiyum (Male),K J Yesudas,/artist/k-j-yesudas,04:33,Malayalam,03-10-2015,0.23,0.393,0.986,0.568,-11.141,0,138.025,1,7,0.052,4,95,11137512
+Neelajalasayathil (Female),S. Janaki,/artist/s-janaki,03:15,Malayalam,07-02-2008,0.4,0.24,0.22,0.187,-13.743,0.049,128.01,0,4,0.05,4,82,1809490
+Oruragamala,K J Yesudas,/artist/k-j-yesudas,02:45,Malayalam,04-10-2005,0,0.109,0.69,0.514,-6.956,0.0563,138.016,1,5,0.0164,4,67,213005
+Raagendu Kiranangal,S. Janaki,/artist/s-janaki,05:03,Malayalam,02-01-2012,0.39,0.63,0.927,0.14,-13.078,0.07,140.038,0,1,0,4,34,3883436
+Neelajalasayathil (Female),S. Janaki,/artist/s-janaki,03:15,Malayalam,09-11-2015,0.14,0.983,0.66,0.866,-4.217,0.0591,128.925,0,2,0.071,4,43,2084528
+Ragam Mulachunarnu,K J Yesudas|S. Janaki,/artist/k-j-yesudas|/artist/s-janaki,04:26,Malayalam,07-06-2011,0.07,0.67,0.325,0.824,-8.801,0.094,132.016,0,7,0.051,4,55,11200976
+Malini Nadhiyil,K J Yesudas|P. Susheela,/artist/k-j-yesudas|/artist/p-suseela-2,03:29,Malayalam,06-10-2008,0.4,0.162,0.296,0.526,-2.311,0.051,137.997,0,9,0.03,4,81,9105688
+Aasamasakal Nalkan,K J Yesudas,/artist/k-j-yesudas,04:18,Malayalam,07-03-2016,0.46,0.12,0.067,0.968,-5.265,0.0772,138.03,1,11,0.0743,4,97,10745826
+Janakijaane,Susheela,/artist/susheela,04:35,Malayalam,09-04-2014,0.05,0.977,0.987,0.161,-2.317,0.0539,133.979,1,2,0.063,4,46,3492030
+Kurumozhi,P. Susheela|K J Yesudas,/artist/p-suseela-2|/artist/k-j-yesudas,03:22,Malayalam,08-06-2002,0.98,0.12,0.62,0.616,-7.284,0.0582,138.01,0,5,0.078,4,29,3141969
+Swargaputhri Navarathri,K J Yesudas,/artist/k-j-yesudas,03:39,Malayalam,05-12-2003,0.36,0.616,0.031,0.078,-6.5,0.0089,135.997,1,2,0.09,4,90,6944335
+Njanappana - Revival - Part 1 And Part 2,P Leela,/artist/p-leela,22:09,Malayalam,12-04-2011,0.55,0.16,0.603,0.465,-10.763,0.04,136.003,1,0,0.074,4,79,6438803
+Kaadambareepushpa Sadassil,P. Susheela,/artist/p-suseela-2,03:26,Malayalam,01-04-2021,0.93,0.325,0.332,0.853,-10.881,0.0904,129.001,1,4,0.039,4,27,4077333
+Chandana Pallakkil,A. M. Rajah|P. Susheela,/artist/a-m-rajah-1|/artist/p-suseela-2,03:19,Malayalam,04-04-2015,0.25,0.6,0.817,0.463,-9.441,0.0773,135.951,1,9,0.0645,4,71,155090
+Mere Mehboob Qayamat Hogi (Part 1),Kishore Kumar,/artist/kishore-kumar,03:48,Malayalam,08-06-2009,0.09,0.448,0.016,0.945,-13.862,0.01,141.974,1,2,0.09,4,96,11333784
+Aval Chirichal,K J Yesudas,/artist/k-j-yesudas,03:16,Malayalam,05-04-2013,0.81,0.2,0.541,0.281,-2.354,0.055,137.898,1,0,0.0661,4,31,7592032
+Munkopakkaari,K J Yesudas,/artist/k-j-yesudas,03:39,Malayalam,10-05-2003,0.56,0.657,0.318,0.035,-10.34,0.014,137.997,1,0,0.0662,4,83,8008425
+Malarthoppithil,K J Yesudas|Chorus,/artist/k-j-yesudas|/artist/chorus,04:21,Malayalam,03-03-2002,0.59,0.35,0.035,0.266,-4.84,0.0282,134.027,0,7,0.092,4,37,6276642
+Thiruvona Pularikal,Vani Jairam,/artist/vani-jayaram,03:41,Malayalam,01-03-2006,0.9,0.781,0.349,0.903,-9.459,0.0516,128.002,0,6,0.027,4,26,11263599
+Nee En Sundari,K. S. Chithra,/artist/chitra,03:55,Malayalam,08-05-2005,0.95,0.19,0.309,0.625,-7.696,0.0711,140.004,1,0,0.0077,4,90,4893335
+Marghazhiyil,K J Yesudas,/artist/k-j-yesudas,03:27,Malayalam,08-02-2008,0.24,0.682,0.569,0.757,-13.12,0,138.071,0,3,0.08,4,100,5398282
+En Prana Nayakane,S. Janaki,/artist/s-janaki,03:07,Malayalam,08-03-2015,0.16,0.79,0.118,0.604,-12.31,0.037,132.001,0,8,0.09,4,34,1636389
+Sooryakanthi,S. Janaki,/artist/s-janaki,04:03,Malayalam,05-08-2015,0.93,0.43,0.368,0.128,-4.577,0.062,140.031,1,5,0.0383,4,38,8244270
+Sarabhindhu,P. Jayachandran|Salma,/artist/p-jayachandran-1|/artist/salma,04:28,Malayalam,01-12-2003,0.9,0.3,0.726,0.942,-10.188,0.051,137.999,1,0,0.0868,4,93,10854469
+Oraayiram Kinakkal,Balakrishnan,/artist/balakrishnan,06:06,Malayalam,04-04-2011,0.02,0.585,0.003,0.178,-8.134,0.06,135.926,1,1,0.0832,4,39,8682097
+Vasantham Ninnodu Pinagi,K J Yesudas,/artist/k-j-yesudas,03:17,Malayalam,05-05-2017,0.77,0.79,0.155,0.224,-6.402,0.0534,131.004,0,5,0.0567,4,94,8839008
+Upasana,P. Jayachandran,/artist/p-jayachandran-1,03:43,Malayalam,11-01-2003,0.09,0.556,0.695,0.529,-7.077,0.0624,127.996,0,6,0.09,4,65,6100438
+Ona Poove Omal Poove,K J Yesudas,/artist/k-j-yesudas,04:44,Malayalam,02-11-2019,0.75,0.01,0.788,0.514,-2.91,0.039,137.986,1,1,0.06,4,61,249374
+Arayilotta Munduduthu,K J Yesudas,/artist/k-j-yesudas,03:16,Malayalam,10-06-2002,0.86,0.97,0.363,0.841,-13.817,0.025,126.354,0,4,0.082,4,75,4121914
+Kanninte Karpooram (K.J.Yesudas),K J Yesudas,/artist/k-j-yesudas,04:00,Malayalam,04-03-2021,0.54,0.4,0.684,0.668,-5.242,0.001,139.995,1,11,0.0328,4,46,6418899
+Kaattile Paazhmulam,K J Yesudas,/artist/k-j-yesudas,05:09,Malayalam,09-07-2001,0.58,0.627,0.491,0.395,-12.977,0.038,133.881,0,5,0.03,4,68,11176354
+Thane Thirinjum (Repeat),S. Janaki,/artist/s-janaki,03:24,Malayalam,10-04-2001,0.05,0.23,0.178,0.746,-11.26,0.02,135.024,1,10,0.03,4,99,6868283
+Pulayanar Maniyamma - K.J. Yesudas,K J Yesudas,/artist/k-j-yesudas,03:03,Malayalam,04-05-2005,0.3,0.645,0.156,0.988,-7.598,0.0952,139.987,1,0,0.05,4,60,4185901
+Manathe Kayalil,K. P. Brahmanandan,/artist/k-p-brahmanandan-1,03:28,Malayalam,12-04-2001,0.99,0.92,0.916,0.706,-8.948,0.076,138.003,0,8,0.07,4,62,235216
+Kiliye Kiliye,S. Janaki,/artist/s-janaki,05:03,Malayalam,02-02-2003,0.04,0.847,0.542,0.636,-5.702,0.02,137.028,0,11,0.04,4,51,1509018
+Chuvanna Pattum,P. Susheela,/artist/p-suseela-2,06:14,Malayalam,03-11-2012,0.3,0.8,0.276,0.34,-13.287,0.0191,129.955,1,0,0.073,4,89,10503556
+Guruvayoorappande,Ambili,/artist/ambili,03:15,Malayalam,04-06-2021,0.99,0.464,0.442,0.588,-4.226,0.0331,127.124,1,2,0.0229,4,54,1283522
+Poomaanam Poothulanje,K J Yesudas,/artist/k-j-yesudas,04:57,Malayalam,06-04-2014,0.17,0.59,0.516,0.622,-2.313,0.058,129.004,0,0,0.0973,4,73,6621896
+Thanal Virikkan Kudanivarthum,S. Janaki,/artist/s-janaki,04:27,Malayalam,04-03-2003,1,0.3,0.796,0.138,-8.427,0.0057,127.462,1,2,0.043,4,63,1931102
+Kalyana Pattum Chutti,K J Yesudas,/artist/k-j-yesudas,04:43,Malayalam,10-01-2004,0.59,0.45,0.564,0.361,-8.043,0.0706,137.99,0,3,0.09,4,43,2046239
+Paalaruvi,S. Janaki,/artist/s-janaki,04:33,Malayalam,01-04-2003,0.94,0.392,0.857,0.567,-3.313,0.02,133.994,1,10,0.0476,4,94,4778144
+Pottikkaranju Kondomane,K J Yesudas,/artist/k-j-yesudas,03:13,Malayalam,08-04-2022,0.15,0.04,0.275,0.012,-2.07,0.0244,135.045,0,3,0.0906,4,95,562440
+Nanam Nin Kannil,Vani Jairam|P. Jayachandran,/artist/vani-jayaram|/artist/p-jayachandran-1,04:18,Malayalam,07-12-2007,0.16,0.09,0.139,0.601,-6.632,0.065,137.997,1,2,0.0601,4,48,4449886
+Nisheedhini Nisheedhini,S. Janaki,/artist/s-janaki,03:26,Malayalam,09-05-2016,0.89,0.18,0.33,0.293,-13.146,0.022,136.688,0,6,0.01,4,58,3736110
+Thamara Kumbilallo,S. Janaki,/artist/s-janaki,03:25,Malayalam,05-02-2009,0.98,0.681,0.23,0.215,-4.265,0.073,139.945,0,10,0.09,4,95,5848088
+Vaalkkanezhuthi,K J Yesudas|Vani Jairam,/artist/k-j-yesudas|/artist/vani-jayaram,03:13,Malayalam,08-08-2005,0.99,0.32,0.706,0.336,-3.571,0.08,138.003,1,7,0.081,4,75,9390714
+Ezhu Sundara Rathrikal,P. Susheela,/artist/p-suseela-2,03:35,Malayalam,11-03-2009,0.55,0.668,0.567,0.9,-4.15,0.08,129.884,0,9,0.045,4,100,2166474
+Madhuchandrikayude - Penninte Manasil,P. Jayachandran,/artist/p-jayachandran-1,03:38,Malayalam,12-11-2012,0.68,0.11,0.18,0.897,-5.94,0.0872,132.55,1,5,0.06,4,29,9663382
+Raajeevam Vidarum Nin Mizhikal,K J Yesudas,/artist/k-j-yesudas,04:45,Malayalam,11-03-2001,0.15,0.911,0.235,0.47,-2.288,0.0466,138.025,1,5,0.0841,4,72,793910
+Kalyana Prayathil,P. Susheela,/artist/p-suseela-2,04:01,Malayalam,07-07-2014,0.99,0.9,0.066,0.908,-6.783,0.06,128.001,1,7,0.06,4,50,41668
+Swapnalekhe Ninte,P. Jayachandran|P. Madhuri,/artist/p-jayachandran-1|/artist/p-madhuri-1,03:34,Malayalam,04-09-2021,0.28,0.759,0.975,0.679,-6.084,0.0741,137.973,1,10,0.0558,4,65,11389460
+Anupame Azhake,K J Yesudas,/artist/k-j-yesudas,04:27,Malayalam,03-02-2019,0.59,0.18,0.878,0.472,-3.545,0.0317,137.927,1,9,0.092,4,57,4244780
+Thirupalkadalil,K J Yesudas,/artist/k-j-yesudas,04:47,Malayalam,08-04-2007,0.88,0.946,0.396,0.79,-12.689,0.086,134.919,0,1,0.0702,4,29,438827
+Pallavi Padi,K J Yesudas|P. Madhuri,/artist/k-j-yesudas|/artist/p-madhuri-1,03:06,Malayalam,09-06-2016,0.99,0.35,0.587,0.027,-3.225,0.0794,130.059,0,7,0.0722,4,80,8597736
+Thathintha,K J Yesudas|Kalyani Menon,/artist/k-j-yesudas|/artist/kalyani-menon,03:32,Malayalam,02-12-2010,0.51,0.941,0.904,0.92,-11.636,0.085,128.009,1,0,0.0652,4,58,6743231
+Anganamar Moule,K J Yesudas,/artist/k-j-yesudas,03:27,Malayalam,07-06-2005,0.14,0.63,0.486,0.279,-13.823,0.053,137.977,1,1,0.09,4,47,9313182
+Gangayar - Instrumental,Kunnakudi Vaidyanathan,/artist/kunnakkudi-baidyanathan,04:04,Malayalam,08-04-2005,0.54,0.879,0.86,0.739,-7.635,0.09,136.963,0,5,0.04,4,81,7924034
+Thiruvabaranam,P. Jayachandran,/artist/p-jayachandran-1,03:45,Malayalam,04-04-2000,0.21,0.81,0.986,0.037,-9.9,0.096,129.987,0,4,0.0067,4,99,8483461
+Innale Nee Oru,K J Yesudas,/artist/k-j-yesudas,03:24,Malayalam,12-08-2020,0.73,0.915,0.144,0.792,-12.019,0.0688,137.898,0,6,0.0022,4,35,10842434
+"Maaya Mayooram (From ""Vadakkunokki Yanthram"")",Johnson,/artist/johnson,04:57,Malayalam,08-12-2012,0.26,0.41,0.55,0.22,-13.065,0.063,130.997,0,1,0.01,4,59,5448421
+Premabhikshuki,K J Yesudas,/artist/k-j-yesudas,04:28,Malayalam,05-02-2009,0.81,0.134,0.84,0.463,-13.636,0.098,138.009,0,7,0.043,4,84,3889715
+Indhulekha Than,K J Yesudas,/artist/k-j-yesudas,03:37,Malayalam,07-03-2020,0.7,0.12,0.654,0.467,-4.839,0.039,139.998,1,1,0.01,4,49,2360379
+Devi Sree Devi (Male),K J Yesudas,/artist/k-j-yesudas,03:15,Malayalam,04-10-2018,0.42,0.197,0.94,0.003,-11.054,0.0357,127.99,0,6,0.0304,4,77,11135480
+Aadhi Sankarante,N.V. Haridas,/artist/nv-haridas,02:45,Malayalam,11-09-2010,0.35,0.33,0.619,0.659,-4.83,0.06,137.978,1,1,0.023,4,62,1920442
+Vadakkanpattu,K.L. Sreeram,/artist/kl-sreeram-22,05:43,Malayalam,05-08-2013,0.39,0.573,0.812,0.334,-12.43,0.071,137.993,1,0,0.09,4,78,9682826
+Maveli,K.L. Sreeram,/artist/kl-sreeram-25,04:16,Malayalam,02-01-2020,0.1,0.06,0.784,0.946,-11.764,0.018,128.02,0,7,0.0446,4,71,7052490
+Kaattu Vannu,P. Jayachandran,/artist/p-jayachandran-1,03:29,Malayalam,05-11-2022,0.72,0.375,0.946,0.677,-9.045,0.097,134.994,0,9,0.09,4,55,3883596
+Ormayil Oru Sisiram,Unni Menon,/artist/unni-menon,04:02,Malayalam,06-04-2021,0.81,0.81,0.804,0.186,-8.299,0.092,128.01,1,6,0.01,4,49,1041681
+Sangeethame - Kj Yesudas,K J Yesudas,/artist/k-j-yesudas,05:13,Malayalam,05-10-2013,0.2,0.489,0.87,0.277,-2.359,0.056,133.018,0,6,0.0878,4,57,10523566
+Arike Arike,K J Yesudas,/artist/k-j-yesudas,04:25,Malayalam,11-09-2001,0.55,0.22,0.662,0.117,-3.511,0.017,139.999,0,4,0.03,4,52,2569728
+Harsha Bashpam,P. Jayachandran,/artist/p-jayachandran-1,03:33,Malayalam,09-07-2012,0.15,0.898,0.289,0.289,-8.645,0.091,130.975,0,1,0.0307,4,70,8158579
+Naaleekerathinte Naattilenikkoru,K J Yesudas,/artist/k-j-yesudas,03:27,Malayalam,09-01-2022,0.5,0.21,0.373,0.231,-7.172,0.043,140.009,1,9,0.079,4,52,1437843
+Noothana Gaanathin,B. Vasantha|K J Yesudas,/artist/b-vasantha-1|/artist/k-j-yesudas,03:33,Malayalam,04-05-2018,0.13,0.249,0.002,0.163,-2.074,0.046,127.941,1,1,0.061,4,77,8721255
+Mukhasree Kunkumam,K J Yesudas,/artist/k-j-yesudas,04:35,Malayalam,05-03-2004,0.33,0.19,0.038,0.889,-6.598,0.04,136.957,1,9,0.031,4,37,11082224
+Bali Kudeerangale,K. S. George|K. Sulochana,/artist/k-s-george-1|/artist/k-sulochana-1,03:03,Malayalam,02-04-2007,0.17,0.671,0.58,0.052,-10.686,0.0099,141.985,1,9,0.0471,4,58,6317040
+Krishnapakshakkili Chilachu,K J Yesudas|P. Madhuri,/artist/k-j-yesudas|/artist/p-madhuri-1,03:27,Malayalam,07-07-2016,0.81,0.27,0.14,0.069,-5.336,0.09,127.993,0,10,0.0003,4,51,1476756
+Arayilotta Munduduthu,K J Yesudas,/artist/k-j-yesudas,03:16,Malayalam,02-03-2011,0.04,0.035,0.367,0.493,-7.581,0.0119,134.012,0,11,0.0137,4,82,2241599
+Chithira Thoniyil,K J Yesudas,/artist/k-j-yesudas,03:51,Malayalam,02-03-2013,0.23,0.5,0.258,0.35,-7.526,0.064,140.021,1,0,0.03,4,39,5041804
+Thenum Vayambum,K J Yesudas,/artist/k-j-yesudas,04:36,Malayalam,06-06-2002,0.4,0.372,0.305,0.971,-12.522,0.0436,137.937,0,6,0.0709,4,71,5175406
+Aa Nimishathinte,S. Janaki,/artist/s-janaki,04:07,Malayalam,03-03-2018,0.98,0.96,0.99,0.153,-8.015,0.033,131.975,1,0,0.0022,4,34,276533
+Njan Urangan Pokum,S. Janaki,/artist/s-janaki,02:48,Malayalam,06-12-2010,0.14,0.593,0.34,0.926,-2.528,0.08,137.983,1,2,0.0273,4,63,11326859
+Maarivillin Thenmalare,K. S. George,/artist/k-s-george-1,03:03,Malayalam,02-06-2021,0.59,0.78,0.871,0.78,-3.034,0.098,137.909,0,6,0.073,4,70,1378123
+Seethe Devi,P. Susheela|P. Jayachandran,/artist/p-suseela-2|/artist/p-jayachandran-1,03:26,Malayalam,03-01-2017,0.5,0.807,0.801,0.359,-11.448,0.032,127.954,1,3,0.1,4,99,7169134
+Ee Malarkanyakal,S. Janaki,/artist/s-janaki,03:27,Malayalam,12-02-2010,0.61,0.27,0.007,0.57,-11.973,0.0431,132.994,1,1,0.0455,4,59,3183204
+Kananachayayil,K. P. Udayabhanu|P Leela,/artist/k-p-udayabhanu-1|/artist/p-leela,03:02,Malayalam,11-06-2012,0.57,0.701,0.256,0.873,-10.682,0.0956,139.963,1,1,0.0044,4,54,559999
+Penninte Chenchundil,K J Yesudas|K. S. Chithra,/artist/k-j-yesudas|/artist/chitra,04:03,Malayalam,05-01-2000,0.7,0.11,0.166,0.293,-9.8,0.03,134.754,0,6,0.09,4,55,10743769
+Pokaam Namukku,S. Janaki,/artist/s-janaki,03:26,Malayalam,01-11-2015,0.53,0.544,0.877,0.371,-4.182,0.0174,139.984,1,1,0.043,4,53,5332233
+Poovalla Poonthaliralla,K J Yesudas,/artist/k-j-yesudas,04:22,Malayalam,03-09-2011,0.3,0.63,0.995,0.4,-2.935,0.1,138.017,1,2,0.04,4,69,9326424
+Alli Malar,S. Janaki,/artist/s-janaki,04:01,Malayalam,03-03-2020,0.47,0.565,0.859,0.085,-7.309,0.05,137.751,1,1,0.0569,4,27,5617676
+Vrichika Raathrithan,P. Susheela|K J Yesudas,/artist/p-suseela-2|/artist/k-j-yesudas,03:37,Malayalam,07-07-2015,0.39,0.17,0.619,0.29,-3.312,0.04,133.974,1,5,0.0895,4,37,6052572
+Poo Veno,K. S. Chithra,/artist/chitra,04:24,Malayalam,05-01-2008,0.29,0.546,0.434,0.587,-3.988,0.033,137.983,1,11,0.066,4,74,9114761
+Olichirikyan,K. S. Chithra,/artist/chitra,04:12,Malayalam,10-01-2004,0.04,0.49,0.637,0.209,-4.724,0.07,127.957,0,7,0.023,4,25,8182038
+Aankuyile,K J Yesudas,/artist/k-j-yesudas,03:39,Malayalam,11-01-2012,0.57,0.455,0.394,0.697,-10.391,0.07,137.986,0,0,0.05,4,63,9613773
+Ambalamillathe,K J Yesudas,/artist/k-j-yesudas,04:56,Malayalam,06-01-2008,0.22,0.84,0.21,0.304,-9.251,0.04,129.736,1,1,0.01,4,54,2299283
+Ente Janmam Nee Eduthu Ninte Janmam Njaaneduthu,S. Janaki|K J Yesudas,/artist/s-janaki|/artist/k-j-yesudas,05:03,Malayalam,08-03-2009,0.08,0.748,0.075,0.559,-7.468,0.0304,138.003,1,8,0.0179,4,39,2822639
+Ambili Poopennium,Suresh Gopi,/artist/suresh-gopi,04:18,Malayalam,01-01-2016,0.51,0.66,0.678,0.696,-2.426,0.05,137.967,0,5,0.091,4,75,5875072
+Chirakuveesi (Soumya),Soumya T R,/artist/soumya-t-r,03:54,Malayalam,12-10-2014,0.65,0.573,0.331,0.221,-6.856,0.0836,135.966,0,11,0.0287,4,69,610420
+Thiruvona Pularikal,Vani Jairam,/artist/vani-jayaram,03:41,Malayalam,11-12-2001,0.48,0.36,0.631,0.824,-5.967,0.03,130.006,1,7,0.015,4,45,7786461
+Gokulashtami,P. Jayachandran,/artist/p-jayachandran-1,04:32,Malayalam,08-03-2011,0.76,0.179,0.201,0.318,-11.057,0.01,139.995,0,3,0.098,4,94,3658496
+Dhoom Dhoom Tana,Vani Jairam,/artist/vani-jayaram,04:06,Malayalam,09-04-2019,0.22,0.73,0.437,0.822,-2.703,0.038,138.006,0,8,0.0589,4,77,2337285
+Kanni Punnara Kiliye,K J Yesudas|S. Janaki,/artist/k-j-yesudas|/artist/s-janaki,04:38,Malayalam,05-10-2020,0.93,0.927,0.582,0.941,-12.492,0.091,138.004,0,11,0.036,4,83,4100218
+Manjadi Kunnil Duet,K J Yesudas|Vani Jairam,/artist/k-j-yesudas|/artist/vani-jayaram,04:01,Malayalam,12-01-2002,0.96,0.77,0.654,0.962,-8.989,0.0557,138.02,1,6,0.0619,4,39,4411115
+Divya Karunyame,Lissi Jose|M.J. Sebastian,/artist/lissi-jose|/artist/mj-sebastian,02:36,Malayalam,02-06-2004,0.39,0.941,0.536,0.495,-2.674,0.0291,137.969,1,8,0.04,4,53,10033265
+Anjali Pushpanjali,S. Janaki,/artist/s-janaki,04:00,Malayalam,08-05-2005,0.74,0.9,0.893,0.875,-5.571,0.012,138.149,0,8,0.037,4,30,8793478
+Samaya Radhangalil,K J Yesudas|P. Jayachandran,/artist/k-j-yesudas|/artist/p-jayachandran-1,04:36,Malayalam,03-06-2019,0.57,0.409,0.595,0.975,-9.416,0.0171,139.969,1,11,0.089,4,77,3090071
+Thamarakilli Padunnu,K. S. Chithra|M G Sreekumar,/artist/chitra|/artist/m-g-sreekumar,05:10,Malayalam,09-01-2001,0.18,0.64,0.515,0.935,-7.743,0.0114,136.005,1,7,0.0367,4,71,1601937
+Aaraaro Aariraaro,S. Janaki|K J Yesudas,/artist/s-janaki|/artist/k-j-yesudas,04:13,Malayalam,08-11-2020,0.54,0.585,0.192,0.544,-8.869,0.02,132.306,0,10,0.0448,4,97,114911
+Swararaagaroopini,K J Yesudas,/artist/k-j-yesudas,02:05,Malayalam,02-06-2022,0.91,0.08,0.114,0.477,-12.578,0.02,136.007,1,2,0.0338,4,90,963374
+Oru Kotta Ponnundallo,L.R. Eswari,/artist/lr-eswari-2,03:12,Malayalam,04-04-2024,0.52,0.75,0.489,0.84,-9.119,0.0958,130.979,0,9,0.0822,4,96,4496505
+Elanji Poomanam,K J Yesudas,/artist/k-j-yesudas,03:19,Malayalam,08-12-2019,0.8,0.66,0.529,0.999,-12.045,0.026,137.995,1,7,0.077,4,35,1049667
+Manassum Manassum,K J Yesudas,/artist/k-j-yesudas,04:25,Malayalam,10-01-2007,0.61,0.586,0.704,0.078,-8.176,0.05,135.017,0,1,0.01,4,47,4712103
+Agrapasyami,K J Yesudas,/artist/k-j-yesudas,03:31,Malayalam,04-03-2021,0.98,0.11,0.264,0.892,-3.494,0.1,140.042,1,0,0.0756,4,87,6369099
+Indeevara Dalanayana,K J Yesudas,/artist/k-j-yesudas,03:51,Malayalam,06-08-2008,0.55,0.127,0.714,0.606,-9.496,0.031,128.007,0,8,0.061,4,94,6860087
+Vrichika Raathrithan,P. Susheela|K J Yesudas,/artist/p-suseela-2|/artist/k-j-yesudas,03:37,Malayalam,11-04-2014,0.07,0.68,0.801,0.744,-4.775,0.083,140.016,1,6,0.0516,4,82,5134576
+Kandu Kandilla,Jency|B.Vasantha,/artist/jency|/artist/bvasantha,04:19,Malayalam,09-06-2013,0.17,0.98,0.681,0.34,-4.439,0.0976,139.969,0,10,0.0303,4,75,3596957
+Kattile Pazhmulam,K J Yesudas,/artist/k-j-yesudas,05:06,Malayalam,10-01-2004,0.35,0.48,0.777,0.539,-2.97,0.06,128.013,0,10,0.03,4,92,2312656
+Paalazhi,P. Madhuri,/artist/p-madhuri-1,04:31,Malayalam,05-09-2006,0.86,0.728,0.867,0.437,-2.308,0.0334,134.985,1,1,0.084,4,79,11249786
+Vrichika Raathrithan,P. Susheela|K J Yesudas,/artist/p-suseela-2|/artist/k-j-yesudas,03:37,Malayalam,11-08-2004,0.39,0.47,0.221,0.632,-12.917,0.09,137.979,0,10,0.03,4,72,5922699
+Saranam Ayyappa - Instrumental,Kunnakudi Vaidyanathan,/artist/kunnakkudi-baidyanathan,03:55,Malayalam,12-04-2020,0.56,0.892,0.88,0.973,-3.529,0.009,133.001,0,7,0.04,4,41,10380514
+Gangayarozhukunna Nattil,P. Susheela,/artist/p-suseela-2,03:23,Malayalam,06-05-2004,0.97,0.75,0.757,0.35,-13.912,0.01,129.99,0,0,0.0455,4,26,351833
+Omanathinkal Kidavo F,S. Janaki,/artist/s-janaki,03:16,Malayalam,07-08-2015,0.87,0.234,0.93,0.173,-8.44,0.1,129.274,1,7,0.048,4,85,11084103
+Evite Easwara Sannidhiyil,Jolly Abraham,/artist/jolly-abraham,02:56,Malayalam,10-04-2005,0.31,0.92,0.092,0.137,-3.709,0.074,128.029,0,9,0.0604,4,84,4067020
+Aararo Aararo,K J Yesudas,/artist/k-j-yesudas,03:07,Malayalam,02-01-2015,0.98,0.453,0.985,0.966,-3.497,0.041,137.983,1,7,0.05,4,64,5523497
+Oom Karanatha,N.V. Haridas,/artist/nv-haridas,02:51,Malayalam,09-10-2018,0.3,0.73,0.456,0.399,-9.846,0.08,128.012,1,4,0.04,4,40,3403941
+Mounam Raagam,S. Janaki|K J Yesudas,/artist/s-janaki|/artist/k-j-yesudas,05:15,Malayalam,03-03-2010,0.37,0.248,0.567,0.658,-5.655,0.011,125.033,1,5,0.1,4,92,2810923
+Poonthenaruvi,P. Susheela,/artist/p-suseela-2,03:26,Malayalam,08-05-2020,0.29,0.42,0.992,0.298,-9.71,0.0718,128.011,0,5,0.07,4,38,10229016
+Velukkumpol Kulikkuvaan Porunna Vazhivakkilu,A.P. Komala,/artist/ap-komala,03:19,Malayalam,11-06-2010,0.59,0.536,0.084,0.248,-12.763,0.02,137.984,0,10,0.05,4,70,9247318
+Mazhakala Megam,K J Yesudas|Vani Jairam,/artist/k-j-yesudas|/artist/vani-jayaram,03:51,Malayalam,06-01-2008,0.25,0.67,0.311,0.307,-10.879,0.056,125.849,0,5,0.048,4,66,511661
+Omanathinkal Kidavo,S. Janaki,/artist/s-janaki,04:09,Malayalam,02-11-2007,0.15,0.71,0.802,0.867,-12.083,0.0754,138.002,1,0,0.06,4,67,11323877
+Rithubhedakalpana,K J Yesudas|Kalyani Menon,/artist/k-j-yesudas|/artist/kalyani-menon,04:30,Malayalam,10-12-2023,0.56,0.05,0.603,0.379,-6.628,0.07,129.94,1,10,0.07,4,28,7523074
+Shyama Sundara Pushpame,K J Yesudas,/artist/k-j-yesudas,03:23,Malayalam,11-05-2021,0.33,0.08,0.598,0.74,-5.629,0.0334,130.007,0,7,0.042,4,58,7601233
+Kasthoori Maan Mizhi,K J Yesudas,/artist/k-j-yesudas,04:17,Malayalam,03-03-2005,0.2,0.45,0.173,0.909,-4.764,0.07,128.041,1,8,0.08,4,50,6718238
+Mainagan,S. Janaki,/artist/s-janaki,05:04,Malayalam,07-09-2015,0.13,0.717,0.244,0.49,-13.057,0,132.065,0,0,0.0852,4,99,6543776
+Neela Ponmane,K J Yesudas|P. Madhuri,/artist/k-j-yesudas|/artist/p-madhuri-1,04:58,Malayalam,08-08-2021,0.17,0.21,0.17,0.266,-13.866,0.03,138.001,0,9,0.0372,4,53,3455990
+Thozhuthu Madangum,Unni Menon,/artist/unni-menon,04:13,Malayalam,04-08-2021,0.48,0.571,0.216,0.988,-7.901,0.0275,139.992,0,2,0.028,4,49,5891456
+Malarum Kiliyum Oru,K J Yesudas,/artist/k-j-yesudas,04:29,Malayalam,01-10-2007,0.15,0.24,0.053,0.14,-8.863,0.0444,137.994,0,11,0.015,4,55,10530886
+Kamasasthramezhuthiya,P. Jayachandran,/artist/p-jayachandran-1,03:23,Malayalam,11-03-2002,0.83,0.242,0.01,0.408,-11.472,0.099,129.99,1,0,0.047,4,44,5472352
+Theeyiluruki,K J Yesudas,/artist/k-j-yesudas,04:36,Malayalam,02-11-2000,0.34,0.33,0.862,0.049,-13.753,0.0874,134.541,0,8,0.0539,4,89,9796196
+Chakravarthini Ninakku,G. Devarajan,/artist/g-devarajan-1,03:35,Malayalam,08-11-2019,0.97,0.33,0.66,0.502,-7.437,0.0977,137.986,1,9,0.001,4,27,4881404
+Nashtavasantham,K J Yesudas,/artist/k-j-yesudas,03:47,Malayalam,08-02-2006,0.2,0.9,0.397,0.578,-10.382,0.025,127.977,0,11,0.063,4,73,5360830
+Ponnarival Ambiliyil,G. Devarajan,/artist/g-devarajan-1,03:04,Malayalam,12-11-2015,0.64,0.982,0.953,0.088,-7.134,0.036,135,1,8,0.0347,4,70,5451372
+Manjani Poonilavu,S. Janaki,/artist/s-janaki,03:47,Malayalam,03-08-2008,0.05,0.98,0.79,0.097,-10.285,0.04,139.981,0,7,0.01,4,58,9403075
+Mayilina Chanchadum,Unni Menon|K.G. Markose,/artist/unni-menon|/artist/kg-markose-1,04:12,Malayalam,02-04-2019,0.13,0.839,0.74,0.835,-13.06,0.04,128.016,0,4,0.03,4,54,8604269
+Ponnil Kulicha Raatri,K J Yesudas,/artist/k-j-yesudas,03:28,Malayalam,08-08-2014,0.48,0.59,0.616,0.78,-13.077,0.0436,125.981,0,6,0.04,4,31,6504083
+Nee Oru Vasantham,K J Yesudas,/artist/k-j-yesudas,03:11,Malayalam,07-02-2007,0.83,0.816,0.807,0.21,-2.445,0.09,138.326,1,7,0.05,4,73,5106045
+Rithumathiyaay Thelimaanam,K J Yesudas|Latha Raju,/artist/k-j-yesudas|/artist/latha-raju,04:06,Malayalam,05-11-2021,0.68,0.49,0.852,0.51,-8.183,0.0533,139.987,0,5,0.01,4,26,7163798
+Varnavum Neeye (Happy),S. Janaki|K J Yesudas,/artist/s-janaki|/artist/k-j-yesudas,03:18,Malayalam,11-10-2021,0.97,0.163,0.374,0.722,-10.412,0.07,128.007,0,5,0.07,4,74,6877578
+Malayala Bhashathan,P. Jayachandran,/artist/p-jayachandran-1,03:16,Malayalam,11-05-2004,0.01,0.4,0.04,0.063,-7.384,0.05,139.962,0,11,0.0464,4,49,4470772
+Madaprave Vaa,K J Yesudas,/artist/k-j-yesudas,04:33,Malayalam,11-10-2002,0.88,0.315,0.448,0.024,-3.244,0.082,128.001,0,6,0.0278,4,58,5566546
+Chandranudikkunna Dikkil,K J Yesudas|B. Vasantha,/artist/k-j-yesudas|/artist/b-vasantha-1,03:07,Malayalam,05-12-2013,0.5,0.33,0.076,0.317,-13.739,0.08,134.642,0,0,0.01,4,49,2589101
+Thedivarum,Ambili,/artist/ambili,04:00,Malayalam,08-04-2013,0.69,0.904,0.389,0.386,-4.806,0.077,130.05,1,0,0.0154,4,42,5219648
+Kodathi Venam,K J Yesudas,/artist/k-j-yesudas,04:38,Malayalam,07-06-2008,0.5,0.79,0.037,0.928,-6.54,0.0139,138.037,1,8,0.009,4,88,6905485
+Thaayir Chirantha,T.k. Kala,/artist/tk-kala,02:48,Malayalam,09-01-2020,0.61,0.935,0.571,0.057,-13.535,0.04,137.986,0,6,0.069,4,92,10478363
+Innanikku Pottukuthan,P. Madhuri,/artist/p-madhuri-1,05:04,Malayalam,01-09-2007,0.32,0.84,0.609,0.459,-11.036,0.047,132.002,1,6,0.038,4,27,6186404
+Nee Oru Minnalai,K J Yesudas,/artist/k-j-yesudas,03:35,Malayalam,08-05-2008,0.53,0.811,0.167,0.315,-10.135,0.0313,137.986,0,3,0.064,4,93,10031252
+Madana Panchami,P. Madhuri,/artist/p-madhuri-1,03:17,Malayalam,07-10-2016,0.1,0.55,0.655,0.422,-11.528,0.07,134.995,0,7,0.0567,4,78,5306317
+Indraneelima,K. S. Chithra,/artist/chitra,06:10,Malayalam,08-05-2020,0.56,0.464,0.976,0.534,-12.323,0.068,128.03,1,7,0.012,4,42,4412768
+Ramarama,K. S. Chithra,/artist/chitra,04:41,Malayalam,01-02-2020,0.55,0.08,0.158,0.751,-9.329,0.044,139.993,0,5,0.015,4,80,7090212
+Anupame Azhake,K J Yesudas,/artist/k-j-yesudas,04:27,Malayalam,08-10-2006,0.23,0.773,0.004,0.855,-11.845,0.019,127.984,0,9,0.0193,4,68,6657472
+Karuthaa Penne,K J Yesudas,/artist/k-j-yesudas,03:14,Malayalam,06-02-2005,0.95,0.07,0.79,0.522,-13.744,0.0847,138.04,0,9,0.0719,4,66,5356075
+Thenum Vayambum,S. Janaki,/artist/s-janaki,04:34,Malayalam,05-01-2007,0.77,0.89,0.142,0.567,-3.449,0.03,127.999,1,7,0.01,4,66,7479599
+Eswaran Manushynaye,K J Yesudas,/artist/k-j-yesudas,03:06,Malayalam,12-05-2013,0.77,0.26,0.026,0.389,-5.002,0.0607,136.098,0,3,0,4,29,6794037
+Sindhoora Sandhyakku,K J Yesudas|S. Janaki,/artist/k-j-yesudas|/artist/s-janaki,04:34,Malayalam,06-05-2004,0.69,0.519,0.86,0.277,-8.083,0.07,137.834,0,0,0.0678,4,80,4026795
+Sundari - Kjyesudas,K J Yesudas,/artist/k-j-yesudas,04:41,Malayalam,11-07-2019,0.15,0.1,0.705,0.263,-12.137,0.02,139.984,1,7,0.01,4,28,7739000
+Pampa Nadhiyil,N.V. Haridas,/artist/nv-haridas,03:12,Malayalam,09-10-2009,0.84,0.579,0.895,0.785,-8.568,0.03,132.783,0,0,0.0669,4,46,271774
+Aashada Maasam,Vani Jairam,/artist/vani-jayaram,03:27,Malayalam,11-01-2020,0.15,0.49,0.387,0.274,-7.889,0.049,138.828,0,7,0.07,4,30,157937
+Raasaleelaykku,B. Vasantha|K J Yesudas,/artist/b-vasantha-1|/artist/k-j-yesudas,03:13,Malayalam,12-08-2006,0.47,0.35,0.387,0.774,-2.432,0.088,128.022,1,2,0.05,4,49,8624364
+Ettukali Valayam,A. V. Mohammed|R. Jayanthy,/artist/a-v-mohammed-1|/artist/r-jayanthy,03:14,Malayalam,07-02-2004,0.66,0.79,0.943,0.761,-13.452,0.015,133.98,0,1,0.09,4,36,550007
+Saraswathiyamam,K J Yesudas,/artist/k-j-yesudas,03:32,Malayalam,12-02-2002,0.76,0.639,0.825,0.117,-5.943,0.025,137.986,0,9,0.01,4,62,11263269
+Padma Thaerthme,K J Yesudas,/artist/k-j-yesudas,03:32,Malayalam,08-01-2012,0.51,0.24,0.714,0.74,-8.436,0.06,129.975,1,4,0.064,4,83,11360996
+Nadha Nee Varum,S. Janaki,/artist/s-janaki,04:03,Malayalam,06-06-2009,0.4,0.395,0.078,0.347,-5.178,0.031,128.951,1,0,0.01,4,59,10266225
+Katturumbe,K J Yesudas,/artist/k-j-yesudas,03:28,Malayalam,11-04-2020,0.75,0.33,0.016,0.752,-8.56,0.06,130.218,0,6,0.0976,4,35,6837905
+Kasthoori Maan Mizhi,K J Yesudas,/artist/k-j-yesudas,04:17,Malayalam,09-08-2011,0.51,0.965,0.861,0.741,-2.512,0.073,140.017,0,5,0.0402,4,73,1663716
+Anuragagaanam,P. Jayachandran,/artist/p-jayachandran-1,03:33,Malayalam,08-12-2003,0.04,0.66,0.493,0.876,-8.82,0.041,127.989,0,5,0.089,4,42,9868277
+Ente Swapnathin,K J Yesudas,/artist/k-j-yesudas,03:03,Malayalam,04-06-2013,0.18,0.131,0.805,0.145,-11.899,0.0791,140.001,0,5,0.077,4,30,1176681
+Violin Track 1 (Concert),Instrumental,/artist/instrumental,02:58,Malayalam,11-07-2011,0.8,0.03,0.329,0.414,-2.187,0.09,129.846,0,2,0.04,4,79,1171290
+Swarna Mukile,S. Janaki,/artist/s-janaki,04:42,Malayalam,04-04-2011,0.63,0.159,0.983,0.043,-10.644,0.0143,134.965,1,7,0.09,4,96,3607442
+Pandoru Kattil,K J Yesudas,/artist/k-j-yesudas,04:34,Malayalam,04-12-2005,0.16,0.08,0.908,0.093,-2.529,0.073,128.061,1,0,0.042,4,62,4996868
+Unnikale Oru Kadha Parayaam-2,K J Yesudas,/artist/k-j-yesudas,04:21,Malayalam,10-01-2014,0.14,0.804,0.867,0.383,-4.916,0.086,139.996,0,6,0.04,4,49,5687046
+Chillimulam,K. S. George,/artist/k-s-george-1,03:18,Malayalam,08-04-2006,0.52,0.52,0.573,0.219,-8.45,0.085,127.983,1,7,0.065,4,100,11270761
+Kadu Kuliranu,P. Susheela,/artist/p-suseela-2,04:09,Malayalam,06-02-2019,0.1,0.851,0.641,0.151,-10.222,0.0423,139.996,0,6,0.0972,4,46,9048726
+Oruvaram Thdi Vannu,S. Janaki,/artist/s-janaki,03:26,Malayalam,07-12-2014,0.7,0.01,0.741,0.592,-4.124,0.076,128.036,0,11,0.0481,4,43,8069700
+Pottatha Ponnin,S. Janaki,/artist/s-janaki,02:51,Malayalam,10-10-2017,0.82,0.029,0.599,0.274,-13.951,0.1,136.986,0,1,0.096,4,75,5782306
+Thrayambakam Villodinju,K J Yesudas,/artist/k-j-yesudas,03:24,Malayalam,02-11-2015,0.08,0.95,0.363,0.187,-6.289,0.037,138.01,0,1,0.04,4,100,10430588
+Ninpadagalil,P. Jayachandran|Sheela,/artist/p-jayachandran-1|/artist/sheela,03:58,Malayalam,02-02-2007,0.45,0.664,0.876,0.366,-3.996,0.098,138.045,1,9,0.034,4,33,950232
+Premam,K J Yesudas,/artist/k-j-yesudas,03:12,Malayalam,01-02-2016,0.53,0.66,0.133,0.892,-6.464,0.0522,137.999,1,6,0.058,4,85,362446
+Indraneelam - K.J. Yesudas,K J Yesudas,/artist/k-j-yesudas,04:18,Malayalam,01-08-2012,0.15,0.696,0.673,0.61,-4.587,0.09,132.141,1,6,0.076,4,51,2986518
+Thudarkinakkalil,K. S. Chithra|K J Yesudas,/artist/chitra|/artist/k-j-yesudas,05:12,Malayalam,07-02-2002,0.91,0.47,0.118,0.118,-3.949,0.09,128,1,6,0.02,4,90,5629514
+Kalakalam Kaayalolangal,K J Yesudas,/artist/k-j-yesudas,04:39,Malayalam,05-12-2020,0.6,0.686,0.997,0.68,-3.707,0.0745,131.927,0,1,0.0891,4,92,9635405
+Athmavil,K J Yesudas,/artist/k-j-yesudas,04:28,Malayalam,11-02-2014,0.1,0.51,0.06,0.033,-8.499,0.03,140.035,1,8,0.018,4,49,3875829
+Punaru Vegam Nee,S. Janaki,/artist/s-janaki,04:25,Malayalam,06-12-2000,0.47,0.505,0.633,0.783,-3.188,0.057,136.053,1,1,0.051,4,97,10438354
+Osthiyil Vazhum,Jency Antony|Jolly Abraham,/artist/jency-antony|/artist/jolly-abraham,04:18,Malayalam,03-12-2023,0.76,0.07,0.31,0.489,-10.473,0.1,137.976,1,0,0.08,4,37,5245545
+Mazhavilkodi (Kaanakkuyile),S. Janaki,/artist/s-janaki,03:29,Malayalam,05-03-2018,0.57,0.653,0.794,0.549,-13.646,0.063,125.995,1,0,0.011,4,87,3461596
+Peda Peda Pedakkena,Krishnachandran,/artist/krishnachandran,03:21,Malayalam,12-06-2004,0.12,0.06,0.474,0.871,-9.498,0.0405,137.971,1,11,0.08,4,55,8793624
+Asthamayam Asthamayam,K J Yesudas,/artist/k-j-yesudas,04:06,Malayalam,08-07-2021,0.41,0.277,0.963,0.775,-2.357,0.09,128.004,0,10,0.02,4,50,7377856
+Chitra Salabhame Va,S. Janaki,/artist/s-janaki,04:17,Malayalam,07-05-2007,0.6,0.02,0.265,0.4,-10.679,0.0166,137.97,0,8,0.0667,4,67,3386034
+Kripaya Paleya,K J Yesudas,/artist/k-j-yesudas,06:01,Malayalam,12-08-2019,0.62,0.204,0.668,0.966,-12.338,0.03,137.045,1,0,0.065,4,53,2256679
+Manakkale Thathe,K J Yesudas,/artist/k-j-yesudas,03:48,Malayalam,08-02-2020,0.24,0.46,0.826,0.69,-7.611,0.042,134.945,1,0,0.022,4,41,10920073
+Pambukalkku Malamundu,K. S. George,/artist/k-s-george-1,03:19,Malayalam,02-02-2015,0.1,0.064,0.7,0.302,-10.496,0.088,127.994,0,11,0.03,4,91,10016117
+Rasoole Nin Kanivaale,K J Yesudas,/artist/k-j-yesudas,05:04,Malayalam,08-01-2020,0.5,0.69,0.195,0.943,-3.68,0.05,139.999,1,6,0.0334,4,50,5370628
+Alankruthamayi,Vilayil Fazeela,/artist/vilayil-fazeela-14,03:41,Malayalam,07-04-2013,0.04,0.32,0.648,0.82,-12.546,0.0649,134.991,1,3,0.0295,4,51,4509871
+Hridayasarassile,K J Yesudas,/artist/k-j-yesudas,03:01,Malayalam,08-02-2016,0.54,0.19,0.518,0.51,-2.395,0.08,129.658,1,1,0.0155,4,28,7203388
+Tharame Tharame,K. P. Udayabhanu|P Leela,/artist/k-p-udayabhanu-1|/artist/p-leela,04:16,Malayalam,08-01-2015,0.57,0.905,0.708,0.218,-4.056,0.086,140.013,0,4,0.086,4,31,5683529
+Maracheeni Vilayunna,K J Yesudas,/artist/k-j-yesudas,04:00,Malayalam,10-01-2010,0.9,0.12,0.724,0.535,-13.748,0.05,129.977,1,0,0.04,4,58,1196578
+Vaisaka Poojakkai,K J Yesudas|S. Janaki,/artist/k-j-yesudas|/artist/s-janaki,03:28,Malayalam,01-07-2022,0.56,0.698,0.708,0.847,-9.501,0.008,138.006,0,6,0.0257,4,85,10130274
+Devi Kanyakumari,P. Jayachandran,/artist/p-jayachandran-1,03:12,Malayalam,11-02-2007,0.49,0.96,0.293,0.029,-4.679,0.057,133.004,0,5,0.08,4,79,6761786
+Janani Jaga Janani,K J Yesudas,/artist/k-j-yesudas,03:42,Malayalam,12-10-2021,0.29,0.946,0.629,0.737,-3.912,0.01,137.988,1,8,0.07,4,68,2960781
+Kailasa Sailadhi Nadha,P Leela|Srikanth,/artist/p-leela|/artist/srikanth,04:41,Malayalam,01-12-2009,0.99,0.06,0.857,0.901,-2.341,0.053,138.003,0,5,0.03,4,38,6989367
+Neelakoovala,K J Yesudas,/artist/k-j-yesudas,03:38,Malayalam,09-10-2001,0.8,0.362,0.351,0.197,-10.458,0.0585,137.95,1,2,0.086,4,32,244474
+Swarnatheril,K J Yesudas|Ambili,/artist/k-j-yesudas|/artist/ambili,04:57,Malayalam,12-05-2020,0.1,0.21,0.826,0.433,-5.714,0.0231,136.017,0,5,0.0961,4,92,8540828
+Kanninum Kannaadikkum,P. Susheela,/artist/p-suseela-2,03:24,Malayalam,05-01-2011,0.32,0.44,0.437,0.924,-11.334,0.0632,135.994,1,3,0.01,4,96,10707802
+Thushara Bindhukkale,S. Janaki,/artist/s-janaki,03:34,Malayalam,03-07-2022,0.42,0.67,0.463,0.431,-9.771,0.047,126.01,0,2,0.045,4,74,4218391
+Suprabhatham - Instrumental,Kunnakudi Vaidyanathan,/artist/kunnakkudi-baidyanathan,03:02,Malayalam,01-04-2018,0.34,0.641,0.431,0.84,-13.094,0.006,136.026,0,8,0.069,4,64,4929537
+Naadanpaattile Maina,Vani Jairam,/artist/vani-jayaram,04:08,Malayalam,11-06-2007,0.38,0.78,0.289,0.567,-7.622,0.0063,137.988,0,10,0.04,4,84,7264638
+Thaarake,K J Yesudas,/artist/k-j-yesudas,04:13,Malayalam,06-07-2022,0.62,0.23,0.279,0.001,-7.062,0.075,136.007,0,0,0.052,4,99,9444682
+Kaattum Ozhukkum,Lalitha|P. Jayachandran,/artist/lalitha|/artist/p-jayachandran-1,03:56,Malayalam,11-04-2019,0.73,0.51,0.678,0.586,-5.961,0.0127,133.973,0,8,0.0031,4,89,3018006
+Nalacharithathele,P. Susheela,/artist/p-suseela-2,03:36,Malayalam,08-03-2005,0.3,0.353,0.284,0.327,-2.23,0.005,129.6,0,5,0.0567,4,60,9451390
+Id Mubarak,K J Yesudas,/artist/k-j-yesudas,05:03,Malayalam,06-02-2012,0.74,0.71,0.588,0.698,-7.044,0.08,131.998,0,4,0.06,4,90,6465603
+Manjapalunkin,P. Susheela,/artist/p-suseela-2,03:17,Malayalam,12-10-2020,1,0.856,0.863,0.239,-4.854,0.0026,138.029,1,0,0.03,4,44,3088569
+Vrichika Poonilave,K J Yesudas,/artist/k-j-yesudas,03:25,Malayalam,10-03-2001,0.95,0.75,0.343,0.605,-9.946,0.03,133.761,0,8,0.07,4,33,9642029
+Love Me Like I Love You,P. Jayachandran|L.R. Eswari,/artist/p-jayachandran-1|/artist/lr-eswari-2,03:14,Malayalam,04-03-2006,0.07,0.091,0.538,0.682,-4.693,0.093,138.037,0,6,0.0052,4,49,6089248
+Ehathilum Parathilum,K J Yesudas,/artist/k-j-yesudas,03:51,Malayalam,06-04-2019,0.1,0.18,0.559,0.049,-8.506,0.07,138.014,0,11,0.0227,4,75,3645917
+Chottranikkara,P. Jayachandran,/artist/p-jayachandran-1,04:07,Malayalam,01-05-2015,0.13,0.92,0.888,0.141,-7.771,0.0912,138,0,5,0.004,4,60,4425608
+Chandrabimbham,K J Yesudas,/artist/k-j-yesudas,03:31,Malayalam,06-12-2015,0.02,0.98,0.053,0.994,-5.938,0.0772,137.97,1,7,0.0906,4,27,2257084
+Vembanattu,K J Yesudas,/artist/k-j-yesudas,03:29,Malayalam,02-06-2012,0.7,0.26,0.81,0.299,-6.201,0.0806,128.005,0,6,0.0677,4,59,8555093
+Jeevitham,K J Yesudas,/artist/k-j-yesudas,04:19,Malayalam,10-11-2009,0.83,0.34,0.781,0.907,-2.538,0.09,137.607,0,1,0.069,4,33,11070006
+Thalakku Meethe,K. Sulochana|K. S. George,/artist/k-sulochana-1|/artist/k-s-george-1,03:17,Malayalam,07-04-2021,0.52,0.497,0.439,0.504,-7.48,0.044,130,0,1,0.095,4,79,3749085
+Pulayanar Maniyamma,S. Janaki,/artist/s-janaki,04:11,Malayalam,09-08-2009,0.33,0.65,0.339,0.27,-8.575,0.02,130.045,0,6,0.1,4,56,8045864

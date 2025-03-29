@@ -1,0 +1,959 @@
+song_name,singer,singer_id,duration,language,released_date,danceability,acousticness,energy,liveness,loudness,speechiness,tempo,mode,key,Valence,time_signature,popularity,Stream
+Aaj Ei Dintake,Kishore Kumar,/artist/kishore-kumar,04:28,Bengali,09-08-2011,0.03,0.982,0.853,0.013,-11.898,0.09,150.157,0,1,0.05,4,39,10129824
+Amar Swapna Tumi Ogo,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,03:55,Bengali,03-06-2004,0.43,0.24,0.791,0.464,-10.397,0.04,155.007,0,4,0.041,4,27,5049938
+Ami Chini Go Chini Tomare,Kishore Kumar,/artist/kishore-kumar,02:27,Bengali,06-01-2017,0.09,0.551,0.275,0.28,-9.2,0.063,150.02,1,1,0.093,4,60,7639514
+Purano Sei Diner,Debabrata Biswas,/artist/debabrata-biswas,03:03,Bengali,03-11-2018,0.87,0.03,0.774,0.786,-13.11,0.0028,154.87,1,1,0.09,4,71,11193077
+Aamar Pujar Phool,Kishore Kumar,/artist/kishore-kumar,04:27,Bengali,01-03-2018,0.82,0.852,0.593,0.05,-4.049,0.0576,154.776,0,9,0.08,4,32,4125324
+Se Jeno Aamar Pashe,Kishore Kumar,/artist/kishore-kumar,03:30,Bengali,12-01-2010,0.39,0.94,0.978,0.92,-2.038,0.03,150.02,0,9,0.05,4,32,10683359
+Mone Pore Ruby Roy,R. D. Burman,/artist/r-d-burman,03:27,Bengali,04-04-2005,0.16,0.251,0.524,0.95,-11.986,0.09,150.025,0,2,0.06,4,89,10646532
+Coffee Houser Sei Addata Aaj Aar Nei,Manna Dey,/artist/manna-dey,06:26,Bengali,07-11-2001,0.48,0.44,0.454,0.457,-12.621,0.0682,150.001,1,10,0.03,4,71,7892721
+Sei Raate Raat Chhilo Purnima,Kishore Kumar,/artist/kishore-kumar,04:05,Bengali,10-05-2003,0.6,0.691,0.819,0.555,-12.575,0.05,155.06,1,7,0.03,4,56,7901110
+Ei Path Jodi Na Shes Hoy,Sandhya Mukherjee|Hemant Kumar,/artist/sandhya-mukherjee|/artist/hemanta-mukherjee,03:11,Bengali,03-03-2022,0.72,0.81,0.053,0.612,-12.274,0.02,154.95,0,4,0.0752,4,39,2590230
+Tumi Kon Kananer Phul,Asha Bhosle,/artist/asha-bhosle-1,03:58,Bengali,02-03-2021,0.13,0.918,0.8,0.902,-10.568,0.0037,149.971,0,4,0.05,4,82,4653343
+Amar Swapna Je Satyi,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:27,Bengali,01-12-2001,0.52,0.5,0.797,0.798,-13.236,0.08,150.155,1,8,0.021,4,88,1611513
+Nayan Sarasi Keno Bhoreche Jaale,Kishore Kumar,/artist/kishore-kumar,03:25,Bengali,07-06-2013,0.54,0.272,0.387,0.192,-11.85,0.0404,149.992,0,8,0.07,4,38,6243923
+Jodi Hoi Chorkanta,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,03:21,Bengali,04-04-2023,0.95,0.75,0.011,0.817,-3.974,0.0788,154.879,0,4,0.0121,4,44,8723973
+Mon-Majhi Re,R. D. Burman,/artist/r-d-burman,06:21,Bengali,06-03-2020,0.2,0.346,0.908,0.596,-13.29,0.01,149.93,0,7,0.0779,4,93,407716
+Tare Ami Chokhe Dekhini,Kishore Kumar,/artist/kishore-kumar,03:08,Bengali,02-07-2010,0.07,0.39,0.124,0.733,-8.649,0.08,149.983,0,10,0.02,4,94,1646936
+Aamar Bhalobasar Rajprasade,Manna Dey,/artist/manna-dey,03:36,Bengali,05-09-2012,0.89,0.09,0.099,0.927,-2.691,0.05,153,0,6,0.0248,4,91,7089819
+Aaj Milan Tithir Purnima Chand,Kishore Kumar,/artist/kishore-kumar,04:22,Bengali,03-03-2012,0.91,0.03,0.492,0.888,-6.078,0.022,149.953,0,5,0.1,4,32,408314
+Jakhan Keu Amake Pagol Bale,Manna Dey,/artist/manna-dey,06:38,Bengali,03-11-2012,1,0.087,0.837,0.637,-2.736,0.03,149.948,1,5,0.0694,4,96,10264405
+Coffee Houser Sei Addata Aaj Aar Nei,Manna Dey,/artist/manna-dey,06:26,Bengali,03-05-2010,0.96,0.58,0.913,0.422,-10.165,0.088,150.133,1,1,0.06,4,58,11366717
+Chokher Jaler Hoyna Kono Rang,Kishore Kumar,/artist/kishore-kumar,04:28,Bengali,10-09-2007,0.46,0.462,0.374,0.149,-11.128,0.09,155.028,0,1,0.041,4,81,6295285
+Chirodini Tumi Je Aamar- Male,Kishore Kumar,/artist/kishore-kumar,07:11,Bengali,01-08-2023,0.4,0.92,0.873,0.408,-12.666,0.097,150.358,0,0,0.04,4,98,11029714
+Jani Tomar Premer Jogyo Ami To Noi,Manna Dey,/artist/manna-dey,03:26,Bengali,11-01-2020,0.95,0.711,0.173,0.208,-2.32,0.074,149.7,1,9,0.018,4,79,4051640
+Bandhagharer Andhakare,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:32,Bengali,04-11-2023,0.99,0.12,0.018,0.479,-10.376,0.02,155.102,0,6,0.096,4,44,1938534
+O Chand Samle Rakho Jochhnake,Manna Dey,/artist/manna-dey,03:11,Bengali,12-05-2006,0.54,0.973,0.383,0.48,-5.814,0.008,149.98,0,9,0.0946,4,88,9680924
+Na Na Na Kachhe Esona,Asha Bhosle|S. P. Balasubrahmanyam,/artist/asha-bhosle-1|/artist/s-p-balasubrahamanyam,05:05,Bengali,06-11-2018,0.42,0.97,0.2,0.624,-2.053,0.0477,149.798,0,11,0.01,4,39,10344306
+Sundari Go Dohai Dohai,Manna Dey,/artist/manna-dey,03:18,Bengali,05-02-2021,0.39,0.224,0.719,0.177,-9.447,0.02,155.02,0,8,0.028,4,59,5610425
+Asha Chhilo Bhalobasa Chhilo,Kishore Kumar,/artist/kishore-kumar,04:12,Bengali,01-05-2017,0.4,0.82,0.687,0.598,-5.808,0.07,149.975,0,9,0.084,4,71,6643496
+Hoyto Amake Karo Mone,Kishore Kumar,/artist/kishore-kumar,03:49,Bengali,05-08-2021,0.65,0.956,0.761,0.172,-4.282,0.066,149.953,0,9,0.0838,4,41,1448851
+Mone Porle,Arijit Singh,/artist/arijit-singh,06:12,Bengali,06-01-2020,0.03,0.18,0.479,0.557,-6.576,0.041,149.546,0,9,0.06,4,58,3092366
+Gunjane Dole Je Bhramar,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:15,Bengali,02-09-2015,0.25,0.738,0.069,0.472,-11.864,0.0218,149.939,0,0,0.0807,4,99,1315546
+Phulkali Re Phulkali,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,05:19,Bengali,11-03-2009,0.35,0.58,0.621,0.323,-11.326,0.072,149.696,0,10,0.07,4,29,7528169
+Keno Re Tui Chorli,Kishore Kumar,/artist/kishore-kumar,02:30,Bengali,04-02-2022,0.26,0.465,0.389,0.916,-12.629,0.0972,149.894,0,6,0.056,4,40,5828642
+"Rangini Kato Mon, Mon Dite Chay",Manna Dey,/artist/manna-dey,03:13,Bengali,02-11-2003,0.21,0.88,0.553,0.478,-5.604,0.09,154.992,1,9,0.07,4,56,10916247
+Bolchi Tomar Kane Kane- Female,Lata Mangeshkar,/artist/lata-mangeshkar,07:01,Bengali,12-08-2002,0.9,0.858,0.41,0.365,-3.452,0.033,147.952,0,0,0.068,4,39,10235811
+Din Khon Mapa Ache,Arijit Singh,/artist/arijit-singh,05:32,Bengali,08-12-2018,0.43,0.61,0.035,0.396,-4.161,0.1,149.896,1,2,0,4,73,8645734
+Lalita Go Oke Aaj Chole Jete Bal Na,Manna Dey,/artist/manna-dey,03:21,Bengali,02-12-2005,0.67,0.155,0.799,0.804,-12.324,0.08,149.925,1,6,0.03,4,81,2567269
+Prithibi Bodle Gechhe,Kishore Kumar,/artist/kishore-kumar,03:31,Bengali,05-08-2013,0.6,0.54,0.775,0.179,-2.942,0.056,154.195,1,2,0.06,4,46,1942229
+Ek Tanete Jemon Temon,Kishore Kumar|Swapan Chakraborty,/artist/kishore-kumar|/artist/swapan-chakraborty,04:48,Bengali,10-05-2011,0.25,0.207,0.669,0.05,-3.674,0.016,150.602,0,11,0.087,4,85,4027878
+Aaj Theke Aar Bhalobasar,Kishore Kumar,/artist/kishore-kumar,03:19,Bengali,02-07-2006,0.12,0.43,0.557,0.559,-4.424,0.067,149.922,1,8,0.01,4,42,4704168
+Hridayer Gaan Shikhe To Gaay Go Sabai,Manna Dey,/artist/manna-dey,03:02,Bengali,12-03-2014,0.76,0.079,0.79,0.818,-2.769,0.05,147.827,1,1,0.0454,4,98,9320073
+E Gaane Prajapati (Stereo),Sandhya Mukherjee,/artist/sandhya-mukherjee,03:24,Bengali,05-01-2020,0.65,0.47,0.573,0.1,-7.312,0.031,152.021,1,4,0.046,4,82,6933146
+Chhero Na Chhero Na Haath,Kishore Kumar|Sabina Yasmeen,/artist/kishore-kumar|/artist/sabina-yasmeen,04:55,Bengali,07-11-2014,0.66,0.003,0.362,0.598,-2.504,0.1,149.493,0,0,0.04,4,82,5993670
+Ami Cheye Cheye Dekhi,Shyamal Mitra,/artist/shyamal-mitra,03:14,Bengali,03-07-2006,0.48,0.68,0.687,0.566,-6.424,0.04,150.012,0,5,0.003,4,65,674484
+Dole Dodul Dole Jhulana,Manabendra Mukherjee|Shyamal Mitra,/artist/manabendra-mukherjee|/artist/shyamal-mitra,03:07,Bengali,04-09-2002,0.02,0.145,0.101,0.358,-8.127,0.0439,155.66,1,2,0.07,4,87,2474437
+Tomay Porechhe Mone,Kishore Kumar,/artist/kishore-kumar,03:23,Bengali,10-08-2002,0.74,0.62,0.863,0.61,-6.609,0.02,149.981,0,0,0.0763,4,32,3450978
+Mangaldeep Jwele (Part 1),Lata Mangeshkar|Others,/artist/lata-mangeshkar|/artist/others,05:09,Bengali,10-03-2012,0.68,0.293,0.877,0.854,-5.494,0.09,149.975,1,7,0.0557,4,61,3614974
+Shono Mon Boli Tomay,R. D. Burman,/artist/r-d-burman,03:11,Bengali,02-03-2007,0.99,0.03,0.074,0.697,-5.875,0,151.984,0,11,0.0472,4,53,3953787
+Tora Je Ja Bolish,Debabrata Biswas,/artist/debabrata-biswas,02:38,Bengali,08-02-2006,0.42,0.229,0.604,0.675,-11.681,0.08,149.936,0,10,0.1,4,54,9598841
+Chirodini Tumi Je Aamar- Female,Asha Bhosle,/artist/asha-bhosle-1,07:09,Bengali,09-04-2007,0.24,0.65,0.099,0.002,-10.258,0.0542,150.111,0,11,0.094,4,87,1369672
+Aamar Swapna Je,Lata Mangeshkar|Kishore Kumar,/artist/lata-mangeshkar|/artist/kishore-kumar,07:28,Bengali,12-04-2005,0.39,0.833,0.423,0.563,-8.836,0.0169,149.988,1,6,0.01,4,92,9999185
+Ka Phonta Chokher Jal Phelechho,Manna Dey,/artist/manna-dey,03:21,Bengali,06-04-2015,0.65,0.54,0.559,0.181,-10.037,0.086,150.111,0,11,0.044,4,89,1619774
+Katoi Ranga Dekhi Duniyay,Amar Pal,/artist/amar-pal,01:56,Bengali,06-08-2006,0.92,0.345,0.01,0.326,-12.581,0.09,150.009,0,2,0.0951,4,78,1379693
+Bhalo Bashi Bhalo Bashi,Amit Kumar|Kavita Krishnamurthy,/artist/amit-kumar|/artist/kavita-subramaniam,05:00,Bengali,08-10-2000,0.22,0.73,0.402,0.21,-7.03,0.07,149.988,0,1,0.08,4,90,5371375
+Sandhya Belay Tumi Ami,Asha Bhosle,/artist/asha-bhosle-1,03:03,Bengali,05-10-2011,0.68,0.479,0.823,0.27,-13.465,0.0715,149.988,0,11,0.08,4,42,3390543
+Chole Jete Jete Din,Lata Mangeshkar,/artist/lata-mangeshkar,03:19,Bengali,09-03-2017,0.22,0.4,0.823,0.794,-9.566,0.021,150.061,1,0,0.061,4,91,8089942
+Bulbul Pakhi Maiana,Antara Chwdhury,/artist/antara-chwdhury,03:23,Bengali,10-06-2014,0.86,0.132,0.397,0.745,-13.171,0.056,149.999,1,5,0.052,4,40,1005765
+Janmadin,Kishore Kumar,/artist/kishore-kumar,03:33,Bengali,03-05-2005,0.3,0.95,0.339,0.94,-3.454,0.089,150.017,1,0,0.046,4,93,2396722
+Ami Jamini Tumi Shashi Hey,Manna Dey,/artist/manna-dey,03:16,Bengali,08-02-2013,0.87,0.828,0.885,0.649,-4.159,0.01,149.906,0,5,0.0389,4,42,260818
+Ami Taar Thikana Rakhini,Manna Dey,/artist/manna-dey,03:18,Bengali,12-10-2023,0.92,0.13,0.56,0.577,-13.901,0.074,149.896,0,0,0.063,4,47,1674779
+Aar Ki Tomay Chharchhi,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,04:09,Bengali,03-04-2015,0.02,0.387,0.894,0.365,-6.24,0.035,150.05,0,5,0.09,4,45,7988103
+Bom Bhole,Kishore Kumar,/artist/kishore-kumar,03:55,Bengali,03-08-2022,0.63,0.11,0.49,0.546,-7.87,0.0244,149.908,0,9,0.012,4,47,8394
+Gahan Megher Chhaya Ghanay,Manna Dey,/artist/manna-dey,03:26,Bengali,01-10-2016,0.65,0.7,0.632,0.694,-13.932,0.073,150.028,1,1,0.021,4,29,5375036
+Kato Naree Achhe E Gokule,Asha Bhosle|Kishore Kumar|Tanuja,/artist/asha-bhosle-1|/artist/kishore-kumar|/artist/tanuja,02:36,Bengali,07-10-2016,0.72,0.03,0.34,0.147,-7.663,0.088,150.004,0,1,0.0309,4,58,8078786
+Karo Keu Naiko Aami,Kishore Kumar,/artist/kishore-kumar,04:46,Bengali,10-03-2020,0.01,0.714,0.312,0.349,-7.563,0.006,150.024,0,11,0.085,4,53,10255838
+Balo Ki Achhe Go,R. D. Burman,/artist/r-d-burman,03:15,Bengali,07-04-2004,0.23,0.23,0.062,0.289,-9.342,0.03,149.95,0,2,0.0623,4,35,2662134
+Ami Gaan Shonabo,Hemant Kumar,/artist/hemanta-mukherjee,03:04,Bengali,07-02-2013,0.02,0.953,0.828,0.261,-12.767,0.013,150.032,0,5,0.0099,4,95,8803988
+Na Mon Lage Na,Lata Mangeshkar,/artist/lata-mangeshkar,03:15,Bengali,06-05-2013,0.28,0.51,0.027,0.398,-11.443,0.0578,150.058,0,11,0.03,4,71,8954852
+Najar Diyo Na,Kishore Kumar,/artist/kishore-kumar,04:59,Bengali,05-12-2019,0.01,0.776,0.219,0.018,-2.709,0.05,150.038,1,8,0.08,4,73,4465925
+Mon Janala Khule Dena,Kishore Kumar,/artist/kishore-kumar,03:24,Bengali,01-03-2020,0.76,0.53,0.067,0.922,-6.426,0.03,150.02,0,10,0.02,4,34,9428550
+Pora Banshi Shunle E Mon,Asha Bhosle,/artist/asha-bhosle-1,03:27,Bengali,07-08-2016,0.52,0.963,0.366,0.761,-11.174,0.0894,148.356,0,11,0.0525,4,35,3555964
+Amar Deep Nebhano Raat,Kishore Kumar,/artist/kishore-kumar,03:28,Bengali,08-05-2006,0.03,0.45,0.524,0.381,-5.92,0.005,149.946,0,8,0.07,4,67,2791156
+O Mor Moyna Go,Lata Mangeshkar,/artist/lata-mangeshkar,03:24,Bengali,09-11-2006,0.23,0.751,0.641,0.762,-2.411,0.1,155.069,0,11,0.05,4,36,5723145
+Abhimane Chole Jeo Na,Manna Dey,/artist/manna-dey,03:17,Bengali,08-04-2020,0.58,0.98,0.125,0.457,-9.259,0.03,157.644,0,9,0.0169,4,52,2069820
+Prem Baro Madhur,Kishore Kumar,/artist/kishore-kumar,05:15,Bengali,12-09-2012,0.99,0.215,0,0.047,-2.94,0.0473,150.051,0,9,0.065,4,84,4312537
+Na Na Na Aaj Raate Aar,Manna Dey,/artist/manna-dey,03:29,Bengali,05-08-2022,0.03,0.7,0.001,0.932,-8.218,0.0547,155.044,1,8,0.06,4,73,8443752
+Sedino Akashe Chhilo Kato Tara,Kishore Kumar,/artist/kishore-kumar,03:21,Bengali,08-11-2006,0.83,0.552,0.965,0.828,-7.822,0.0575,150.013,0,9,0.0892,4,66,2562026
+Bhuter Raja Dilo Bor,Anup Ghoshal|Rabi Ghosh,/artist/anup-ghoshal-1|/artist/rabi-ghosh,02:22,Bengali,07-12-2004,0.92,0.68,0.117,0.486,-7.622,0.091,150.055,1,6,0.031,4,65,8225154
+Naam Amar Kishore Kumar Ganguly,Kishore Kumar,/artist/kishore-kumar,06:46,Bengali,06-03-2009,0.64,0.314,0.913,0.337,-6.513,0.0528,149.98,0,5,0.095,4,75,8908889
+Bhoy Dekhas Na (Male) Voice & Guitars,Arijit Singh,/artist/arijit-singh,06:31,Bengali,02-12-2017,0.89,0.65,0.039,0.362,-11.053,0.059,150.055,0,4,0.033,4,29,10936079
+Hoyto Tomari Janya,Manna Dey,/artist/manna-dey,03:17,Bengali,03-02-2016,0.71,0.906,0.607,0.005,-10.101,0.0056,150.372,0,0,0.095,4,89,3874260
+Piya Bholo Abhimaan,Ajoy Chakrabarty,/artist/ajoy-chakrabarty,06:37,Bengali,11-03-2014,0.98,0.55,0.106,0.906,-12.692,0.078,150.028,1,9,0.05,4,40,6980919
+Ami Nei Ami Nei,Kishore Kumar,/artist/kishore-kumar,03:22,Bengali,06-02-2003,0.58,0.851,0.743,0.415,-6.302,0.0696,149.992,0,10,0.077,4,82,11153495
+Shono Mon Boli Tomay,R. D. Burman,/artist/r-d-burman,03:11,Bengali,04-08-2001,0.46,0.5,0.7,0.544,-7.668,0.01,150.129,1,1,0.013,4,66,10850184
+Hai Hai Ki Herilam,Utpalendu Chowdhury,/artist/utpalendu-chowdhury,03:16,Bengali,05-05-2015,0.71,0.789,0.949,0.79,-2.168,0.03,155.094,0,5,0.09,4,83,4238392
+Kolkata Kolkata,Bappi Lahiri,/artist/bappi-lahiri,04:12,Bengali,02-01-2023,0.65,0.88,0.583,0.165,-13.511,0.082,154.949,1,6,0.087,4,41,4694071
+Gharete Bhramar Elo Gunguniye,Arundhati Holme Chowdhury,/artist/arundhati-holme-chowdhury,03:07,Bengali,08-09-2020,0.53,0.254,0.266,0.153,-6.735,0.0712,149.713,0,8,0.06,4,83,5498721
+Mor Bhabanare Ki Haoway Matalo,Hemant Kumar,/artist/hemanta-mukherjee,02:24,Bengali,11-02-2009,0.47,0.58,0.045,0.827,-10.087,0.0375,150.093,1,9,0.055,4,53,10531605
+Ami Ek Jajabar,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:05,Bengali,12-03-2010,0.92,0.466,0.153,0.613,-9.27,0.0569,149.969,0,1,0.077,4,40,2710417
+Dekhore Nayan Melay,Anup Ghoshal,/artist/anup-ghoshal-1,01:55,Bengali,11-05-2012,0.79,0.3,0.638,0.895,-4.865,0.056,155.129,0,7,0.0385,4,88,8768679
+Ek Je Chhilo Raja,Anup Ghoshal|Rabi Ghosh,/artist/anup-ghoshal-1|/artist/rabi-ghosh,02:45,Bengali,12-12-2015,0.36,0.921,0.025,0.393,-4.612,0.0393,149.928,0,11,0.057,4,64,642859
+Ei Meghla Dine Ekla,Hemant Kumar,/artist/hemanta-mukherjee,02:49,Bengali,07-04-2000,0.68,0.55,0.523,0.349,-12.763,0.01,152.968,0,6,0.0285,4,53,1737564
+Ami Pathbhola Ek Pathik Esechhi (Duet),Kanika Banerjee|Suchitra Mitra|Hemant Kumar,/artist/kanika-banerjee|/artist/suchitra-mitra|/artist/hemanta-mukherjee,03:13,Bengali,06-04-2011,0.23,0.481,0.276,0.252,-12.933,0.06,149.928,1,1,0.0949,4,65,3714320
+Shudhu Bhalobasha Diye,Hemant Kumar,/artist/hemanta-mukherjee,03:28,Bengali,04-01-2015,0.5,0.73,0.992,0.52,-8.591,0.038,154.895,0,10,0.036,4,62,941333
+Deke Deke Kato,R. D. Burman,/artist/r-d-burman,03:06,Bengali,05-04-2014,0.53,0.396,0.289,0.91,-7.75,0.098,150.021,0,5,0.08,4,40,5142520
+Manush Manusher Jannya,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:02,Bengali,11-01-2014,0.29,0.63,0.828,0.607,-3.182,0.0705,149.942,1,1,0.0824,4,75,9644508
+Aha Ki Ananda,Anup Ghoshal,/artist/anup-ghoshal-1,02:53,Bengali,09-02-2006,0.3,0.48,0.176,0.651,-2.785,0.019,150.018,0,0,0.0497,4,90,11165988
+Darjeeling Jatra,R. D. Burman,/artist/r-d-burman,03:08,Bengali,10-10-2015,0.59,0.2,0.846,0.713,-8.279,0.09,147.883,0,3,0.09,4,66,4035626
+Moner Manush :- (Mon Jakhan Jagli Nare and Milan Habe Kata Dine),Dohar,/artist/dohar,07:18,Bengali,12-03-2021,0.17,0.328,0.984,0.755,-12.271,0.02,154.957,0,6,0.0993,4,62,972403
+Katha Diye Ele Na,Asha Bhosle,/artist/asha-bhosle-1,03:35,Bengali,08-06-2018,0.97,0.88,0.264,0.573,-12.244,0.08,150.041,0,9,0.0775,4,79,237383
+Amar Shilpi Tumi Kishore Kumar,Kumar Sanu,/artist/kumar-sanu,06:00,Bengali,06-12-2018,0.53,0.089,0.857,0.425,-8.694,0.041,149.868,1,7,0.01,4,41,7981068
+Champa Chameli Golaperi Baage,Manna Dey|Sandhya Mukherjee,/artist/manna-dey|/artist/sandhya-mukherjee,03:11,Bengali,12-11-2012,0.64,0.98,0.661,0.049,-8.392,0.0488,154.977,0,1,0.099,4,92,6148094
+Nishidin Nishidin,Lata Mangeshkar,/artist/lata-mangeshkar,03:11,Bengali,06-02-2004,0.09,0.666,0.709,0.775,-6.939,0.059,154.941,0,9,0.074,4,88,7469435
+Jete Jete Pathe Holo,R. D. Burman,/artist/r-d-burman,03:07,Bengali,11-01-2012,0.74,0.54,0.1,0.87,-6.107,0.085,149.967,1,2,0.077,4,30,8113992
+Saat Bhai Champa Jagore,Lata Mangeshkar,/artist/lata-mangeshkar,03:23,Bengali,01-12-2019,0.23,0.534,0.49,0.385,-12.973,0.0472,150.08,0,0,0.05,4,88,2116286
+Antabihin Kate Na Aar Jeno (Baro Shunya Shunya),Lata Mangeshkar,/artist/lata-mangeshkar,03:18,Bengali,07-10-2009,0.9,0.87,0.201,0.077,-5.204,0.09,155.121,1,7,0.0977,4,48,10759422
+Ei Mom Jochhonay Ango Bhijiye,Aarti Mukherji,/artist/aarti-mukherji,03:28,Bengali,11-08-2005,0.81,0.038,0.039,0.024,-3.887,0.06,155.019,0,1,0.07,4,65,3607591
+Tomar Pujar Chhaley,Debabrata Biswas,/artist/debabrata-biswas,03:06,Bengali,10-04-2017,0.94,0.42,0.522,0.107,-7.652,0.09,149.885,0,9,0.0102,4,81,2474224
+Tomate Amate Dekha Hoyechhilo,R. D. Burman,/artist/r-d-burman,02:54,Bengali,11-10-2022,0.01,0.503,0.883,0.721,-13.699,0.04,149.918,0,5,0.09,4,31,8257669
+Jete Jete Pathe Holo,R. D. Burman,/artist/r-d-burman,03:07,Bengali,01-02-2021,0.65,0.46,0.783,0.885,-3.744,0.09,150.005,0,0,0.0281,4,89,266106
+Ei Sundar Swarnali Sandhaye,Geeta Dutt,/artist/geeta-dutt,03:25,Bengali,12-03-2011,0.54,0.397,0.403,0.852,-6.356,0,149.988,1,5,0.02,4,63,935682
+Mayur Aakaash,Bappi Lahiri,/artist/bappi-lahiri,03:08,Bengali,04-06-2009,0.74,0.39,0.863,0.909,-13.81,0.0348,155.007,1,6,0.0176,4,44,6067375
+Olir Katha Shune Bakul Hase,Hemant Kumar,/artist/hemanta-mukherjee,03:02,Bengali,12-09-2005,0.1,0.339,0.28,0.088,-11.904,0.0276,150.05,0,0,0.0629,4,63,5393401
+Aebar Pujoye Chaaye,Alka Yagnik,/artist/alka-yagnik,05:22,Bengali,09-05-2004,0.18,0.28,0.386,0.245,-2.045,0.03,150.147,1,7,0.0616,4,31,6183198
+Jani Na Aaj Je Apon,Asha Bhosle,/artist/asha-bhosle-1,02:42,Bengali,04-05-2020,0.82,0.16,0.766,0.897,-7.756,0.1,155.017,1,5,0.09,4,93,8128927
+Takhon Tomar Ekush Bachhar,Aarti Mukherji,/artist/aarti-mukherji,03:22,Bengali,08-09-2020,0.46,0.57,0.633,0.657,-6.741,0.0139,150.014,0,10,0.01,4,99,729043
+Nagor Amar Kancha Peerit,Asha Bhosle|Shailender Singh,/artist/asha-bhosle-1|/artist/shailender-singh,04:42,Bengali,03-09-2012,0.7,0.633,0.113,0.974,-2.527,0.06,150.044,1,0,0.055,4,58,7584955
+Oi Dustu Chokher Mishti Hasi,Sandhya Mukherjee|Hemant Kumar,/artist/sandhya-mukherjee|/artist/hemanta-mukherjee,03:04,Bengali,11-02-2001,0.26,0.83,0.521,0.915,-3.411,0.0203,149.997,0,9,0.064,4,70,602772
+Mor Bina Othe Kon Sure Baji,Swagatalakshmi Dasgupta,/artist/swagatalakshmi-dasgupta,03:42,Bengali,09-03-2016,0.61,0.514,0.883,0.002,-6.136,0.007,153.994,1,7,0.0676,4,63,4764056
+Phire Eso Anuradha,R. D. Burman,/artist/r-d-burman,03:23,Bengali,10-07-2008,0.28,0.41,0.532,0.59,-10.092,0.031,150.033,0,1,0.0257,4,97,1177452
+Sajani Go Premer Katha,R. D. Burman,/artist/r-d-burman,03:28,Bengali,04-11-2007,0.88,0.258,0.143,0.393,-10.341,0.0031,149.951,0,8,0.038,4,26,2976878
+Jete Dao Amay Dekona,Asha Bhosle,/artist/asha-bhosle-1,03:09,Bengali,12-12-2005,0.17,0.81,0.72,0.976,-8.591,0.01,149.906,1,5,0.04,4,39,4694664
+Jibane Ki Pabo Na,Manna Dey,/artist/manna-dey,03:13,Bengali,10-03-2001,0.62,0.047,0.868,0.154,-12.125,0.03,149.958,0,9,0.03,4,84,10115757
+Tolo Chhinnabeena,Asha Bhosle,/artist/asha-bhosle-1,05:13,Bengali,08-05-2009,0.51,0.25,0.657,0.05,-11.532,0.072,150.106,0,5,0.07,4,45,5883002
+Kalo Meyer Payer Tolaaye,Panna Lal Bhattacharjee,/artist/panna-lal-bhattacharjee,03:13,Bengali,11-01-2007,0.01,0.208,0.037,0.083,-3.723,0.04,149.99,0,6,0.0794,4,27,4880956
+O Amar Sajani Go,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,06:18,Bengali,08-06-2009,0.09,0.46,0.208,0.733,-10.874,0.036,149.827,0,6,0.02,4,68,9393986
+Chhande Chhande Gaane Gaane,Asha Bhosle,/artist/asha-bhosle-1,03:33,Bengali,10-11-2021,0.09,0.804,0.031,0.322,-6.887,0.055,149.989,1,3,0.05,4,45,1655430
+Badhu Kon Alo (Part 1),Arundhati Holme Chowdhury,/artist/arundhati-holme-chowdhury,05:02,Bengali,07-08-2003,0.47,0.05,0.512,0.59,-8.438,0.0869,149.878,1,5,0.019,4,36,974376
+Eshe Hirok Deshe,Anup Ghoshal,/artist/anup-ghoshal-1,02:55,Bengali,12-02-2008,0.36,0.752,0.582,0.976,-13.524,0.055,150.032,0,7,0.0669,4,76,2979131
+Jana - Gana - Mana - Orchestra,Akashvani Vadya Vrinda,/artist/akashvani-vadya-vrinda,00:55,Bengali,04-06-2005,0.19,0.89,0.145,0.551,-3.597,0.06,155.051,0,11,0.039,4,90,8206530
+O Tui Nayan Pakhi Amar Re,Lata Mangeshkar,/artist/lata-mangeshkar,03:16,Bengali,11-07-2012,0.71,0.733,0.214,0.216,-8.503,0.0792,149.907,1,4,0.0025,4,47,2835944
+Aasbo Aar Ekdin Aaj Jai,Asha Bhosle,/artist/asha-bhosle-1,02:52,Bengali,10-06-2006,0.14,0.47,0.622,0.553,-5.333,0.07,149.827,0,9,0.0813,4,63,3123744
+Chokhe Chokhe Katha Balo,Asha Bhosle,/artist/asha-bhosle-1,03:26,Bengali,10-06-2009,0.55,0.053,0.432,0.821,-7.136,0.03,147.968,1,1,0.03,4,89,3580618
+Phire Eso Anuradha,R. D. Burman,/artist/r-d-burman,03:23,Bengali,11-07-2015,0.62,0.06,0.617,0.213,-12.261,0.03,155.028,0,9,0.0731,4,98,6516628
+Ami Dur Hote Tomarei Dekhechhi,Hemant Kumar,/artist/hemanta-mukherjee,03:05,Bengali,08-04-2021,0.84,0.144,0.761,0.996,-3.391,0.0993,155.002,0,5,0.08,4,87,6039748
+Hey Nutan Dekha Dik Aar-Bar,Swagatalakshmi Dasgupta,/artist/swagatalakshmi-dasgupta,04:38,Bengali,11-08-2014,0,0.09,0.667,0.856,-10.354,0.0598,157.163,0,10,0.0741,4,56,7279842
+Ek Je Chhilo Maachhi,Antara Chwdhury,/artist/antara-chwdhury,03:01,Bengali,12-01-2017,0.04,0.337,0.457,0.77,-12.124,0.05,155.024,0,9,0.067,4,32,2346281
+Ami Mon Diye Chi,Asha Bhosle,/artist/asha-bhosle-1,05:20,Bengali,07-03-2019,0.65,0.07,0.868,0.789,-7.234,0.077,154.969,1,1,0.0266,4,65,6974755
+Bidhir Bandhan Katbe Tumi,Kishore Kumar,/artist/kishore-kumar,02:07,Bengali,08-08-2017,0.66,0.735,0.77,0.267,-5.078,0.04,149.672,1,1,0.056,4,84,3369354
+Maharaja Tomarey Shelam,Anup Ghoshal|Rabi Ghosh,/artist/anup-ghoshal-1|/artist/rabi-ghosh,03:37,Bengali,09-05-2014,0.31,0.06,0.358,0.483,-4.948,0.0066,146.973,0,5,0.0145,4,97,10234961
+Ami Je Jalsaghare (Stereo),Sandhya Mukherjee,/artist/sandhya-mukherjee,03:21,Bengali,10-06-2012,0.04,0.587,0.457,0.143,-4.54,0.05,150.005,1,1,0.0614,4,34,6115662
+Aamar Eche Korche Bhalo,Bappi Lahiri|Asha Bhosle,/artist/bappi-lahiri|/artist/asha-bhosle-1,06:23,Bengali,11-03-2005,0.11,0.29,0.056,0.849,-13.475,0.0748,148.012,1,9,0.0977,4,39,7262957
+Balo Ki Achhe Go,R. D. Burman,/artist/r-d-burman,03:15,Bengali,06-03-2017,0.27,0.517,0.736,0.967,-4.878,0.01,149.863,0,0,0,4,65,2033705
+Tomari Chalar Pathe,Asha Bhosle,/artist/asha-bhosle-1,04:45,Bengali,08-08-2022,0.21,0.81,0.407,0.929,-5.316,0.087,150.018,1,7,0.04,4,76,8514787
+Ore Baba Dekho Cheye,Anup Ghoshal,/artist/anup-ghoshal-1,03:43,Bengali,10-02-2008,0.93,0.331,0.9,0.14,-4.09,0.02,150.018,1,7,0.1,4,34,790846
+Keno Kichhu Katha Balo Na,Lata Mangeshkar,/artist/lata-mangeshkar,03:05,Bengali,05-07-2003,0.88,0.1,0.15,0.93,-11.785,0.09,150.026,1,2,0.0561,4,68,8803120
+Aayre Chhute Aai,Antara Chwdhury,/artist/antara-chwdhury,03:28,Bengali,03-01-2019,0.06,0.338,0.802,0.655,-12.678,0.09,154.978,0,11,0.028,4,33,5659342
+Je Khanei Thako Sukhe Thako,Asha Bhosle,/artist/asha-bhosle-1,05:13,Bengali,05-06-2003,0.63,0.56,0.734,0.617,-11.772,0.08,149.92,0,11,0.0043,4,31,9231888
+Dekhle Kemon Tumi Khel,Kishore Kumar,/artist/kishore-kumar,06:05,Bengali,02-10-2017,0.7,0.65,0.225,0.37,-3.217,0.064,150.093,0,11,0.06,4,35,735663
+Aei Gaaneri Shure Shure,Mohammad Aziz,/artist/mohammad-aziz,06:01,Bengali,12-11-2007,0.75,0.91,0.316,0.812,-11.175,0.065,150.042,0,9,0.06,4,71,8150229
+Phire Elam Dure Giye,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,04:05,Bengali,12-02-2011,0.6,0.018,0.67,0.766,-2.959,0.081,149.918,0,10,0.018,4,25,7836326
+Pa Ma Ga Re Sa,Lata Mangeshkar,/artist/lata-mangeshkar,03:07,Bengali,09-04-2021,0.46,0.52,0.461,0.229,-9.834,0.0523,149.977,1,4,0.0162,4,41,2096463
+Na Dir Dir Da,Antara Chwdhury,/artist/antara-chwdhury,02:58,Bengali,11-02-2007,0.24,0.479,0.289,0.858,-8.488,0.0265,149.958,0,4,0.089,4,64,10615229
+Swapna Mahale Ajo Nishirate,Bappi Lahiri,/artist/bappi-lahiri,03:23,Bengali,06-05-2016,0.5,0.35,0.602,0.214,-13.123,0.011,149.998,0,10,0.07,4,95,7846039
+Nadir Paare Uthchhe Dhonya,R. D. Burman,/artist/r-d-burman,06:00,Bengali,06-05-2004,0.09,0.714,0.404,0.953,-8.054,0.0433,156.345,1,7,0.04,4,69,1777225
+Keu Jane Na Tumi Je Amar,R. D. Burman,/artist/r-d-burman,04:46,Bengali,06-08-2022,0.76,0.36,0.58,0.213,-5.792,0.09,149.849,1,7,0.036,4,75,1647161
+Ore Amar Mon,Dwijen Mukherjee,/artist/dwijen-mukherjee,03:23,Bengali,07-05-2016,0.78,0.045,0.552,0.3,-11.733,0.05,149.989,0,6,0.083,4,70,3652067
+Bujhbe Na Keu Bujhbe Na,Lata Mangeshkar,/artist/lata-mangeshkar,04:36,Bengali,01-05-2019,0.39,0.22,0.829,0.822,-13.603,0,150.006,0,0,0.0856,4,74,10592782
+Taare Bole Diyo,Hemant Kumar,/artist/hemanta-mukherjee,03:22,Bengali,07-03-2020,0.14,0.661,0.163,0.627,-13.631,0.0004,149.984,0,2,0.089,4,51,728521
+Dongshili Tui,Lata Mangeshkar,/artist/lata-mangeshkar,03:13,Bengali,06-12-2017,0.93,0.26,0.56,0.91,-5.071,0.08,153.96,0,9,0.0221,4,63,6965606
+Jani Na Kothay Tumi,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,03:12,Bengali,12-09-2010,0.26,0.263,0.539,0.287,-5.812,0.0369,150.007,0,8,0.02,4,84,8716615
+Bolchi Tomar Kane Kane- Duet,Bappi Lahiri|Rema Lahiri,/artist/bappi-lahiri|/artist/rema-lahiri,04:24,Bengali,03-02-2020,0.7,0.15,0.478,0.717,-9.104,0.079,149.931,0,11,0.0459,4,30,6216400
+Lakshmiti Dohai Tomar,Asha Bhosle,/artist/asha-bhosle-1,03:19,Bengali,07-02-2003,0.25,0.802,0.201,0.159,-5.605,0.051,150.085,1,8,0.0678,4,57,11083486
+Phire Elam Dure Giye,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,04:05,Bengali,12-07-2022,0.41,0.28,0.964,0.364,-13.419,0.0007,149.968,0,0,0.048,4,31,8859051
+Chupi Chupi Kaache Aesho,Alka Yagnik,/artist/alka-yagnik,05:53,Bengali,04-04-2015,0.08,0.188,0.355,0.744,-4.062,0.03,149.99,1,0,0.06,4,59,553023
+Ei Purnima Raat,Hemant Kumar,/artist/hemanta-mukherjee,03:03,Bengali,04-02-2019,0.24,0.89,0.895,0.471,-6.859,0.0373,150.066,0,7,0.08,4,52,7898565
+Kono Kaaj Noy Aaj,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:31,Bengali,11-03-2000,0.91,0.851,0.959,0.237,-6.531,0.09,145.985,0,5,0.05,4,85,4547461
+Shudhu Jaowa Asa,Lopamudra Mitra,/artist/lopamudra-mitra,04:39,Bengali,09-07-2002,0.57,0.43,0.466,0.113,-2.966,0.0885,150.128,1,7,0.098,4,99,4239588
+Otho Otho Surjayre,Lata Mangeshkar,/artist/lata-mangeshkar,05:02,Bengali,11-04-2012,0.66,0.564,0.234,0.685,-9.594,0.0947,149.984,0,11,0.044,4,30,3279849
+Drishya Dekhi Anya,Anup Ghoshal,/artist/anup-ghoshal-1,01:32,Bengali,02-04-2020,0.3,0.9,0.99,0.238,-4.607,0.0284,149.982,1,7,0.038,4,44,10436724
+Nei Sei Purnima Raat,Asha Bhosle,/artist/asha-bhosle-1,03:19,Bengali,10-05-2016,0.14,0.745,0.588,0.558,-5.265,0.0322,149.966,0,10,0.0259,4,61,3995422
+Ogo Aar Kichhu To Naai,Lata Mangeshkar,/artist/lata-mangeshkar,03:11,Bengali,11-07-2007,0.53,0.76,0.562,0.477,-12.779,0.01,149.982,0,5,0.0502,4,82,6613791
+Kobe Je Kothay,Bhupinder Singh,/artist/bhupinder-singh,04:23,Bengali,06-07-2008,0.3,0.652,0.297,0.563,-5.022,0.014,149.866,0,0,0,4,82,2974616
+Sei Raate Raat Chhilo Purnima,Kishore Kumar,/artist/kishore-kumar,04:05,Bengali,04-10-2017,0.96,0.22,0.773,0.907,-11.617,0.01,150.026,0,9,0.0143,4,30,11200097
+Sukher Majhey Tomay,Indrani Sen,/artist/indrani-sen,03:13,Bengali,08-02-2010,0.06,0.063,0.581,0.65,-5.267,0.07,149.992,0,2,0.01,4,48,9035263
+Saraswati,Atanu Sanyal,/artist/atanu-sanyal,01:53,Bengali,08-05-2011,0.03,0.77,0.794,0.032,-6.325,0.067,155.166,0,10,0.036,4,36,33276
+Sunilo Saagarey,Debabrata Biswas,/artist/debabrata-biswas,03:12,Bengali,08-09-2010,0.69,0.978,0.446,0.344,-4.614,0.048,150.028,0,7,0.035,4,68,4284699
+Otho Otho Suryai Re,Lata Mangeshkar,/artist/lata-mangeshkar,05:03,Bengali,07-02-2014,0.45,0.99,0.495,0.015,-5.686,0.07,150.007,1,0,0.0859,4,63,5291990
+E Jiban Premeri Ek Patabahar Kabita,Kishore Kumar,/artist/kishore-kumar,04:58,Bengali,04-03-2003,0.82,0.623,0.474,0.217,-12.658,0.091,149.966,0,9,0.094,4,63,11329532
+Bistirna Dupare,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,06:18,Bengali,07-07-2004,0.28,0.62,0.925,0.204,-6.755,0.02,149.953,1,8,0.055,4,79,2992599
+Menokaa Maathaay Dilo Ghomtaa,Purna Das Baul,/artist/purna-das-baul,02:57,Bengali,10-08-2015,0.66,0.454,0.461,0.964,-4.364,0.0409,150.067,1,2,0.03,4,97,4871459
+Paye Pari Baghmama,Anup Ghoshal,/artist/anup-ghoshal-1,03:18,Bengali,06-04-2001,0.6,0.88,0.058,0.261,-11.893,0.0937,155.007,1,1,0.088,4,91,7835863
+Joriye Dhorechhi Jare,Kishore Kumar,/artist/kishore-kumar,03:17,Bengali,11-05-2003,0.04,0.39,0.925,0.438,-12.318,0.0741,150.05,0,10,0.0079,4,84,8271820
+Amar Natun Gaaner Janamatithi,Hemant Kumar,/artist/hemanta-mukherjee,03:42,Bengali,03-10-2007,0.42,0.78,0.151,0.81,-10.034,0.0133,155.065,0,6,0.0552,4,66,6078015
+Ami Tomar Preme Habo Sabar,Sagar Sen,/artist/sagar-sen,03:14,Bengali,11-01-2015,0.65,0.452,0.609,0.491,-13.687,0.021,149.992,0,9,0.066,4,86,5172721
+Bhalo Jodi Baso Sakhi,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,03:01,Bengali,11-02-2023,0.45,0.71,0.523,0.229,-9.934,0.08,150.043,0,4,0.0139,4,45,3219942
+Katha Kichhu Kichhu Bujhe Nite Hoy,Shyamal Mitra|Aarti Mukherji,/artist/shyamal-mitra|/artist/aarti-mukherji,03:49,Bengali,03-01-2021,0.8,0.864,0.098,0.386,-9.012,0.06,149.99,1,10,0.047,4,75,6531475
+Jiban Khatar Prati Patay,Shyamal Mitra,/artist/shyamal-mitra,03:17,Bengali,09-05-2001,0.99,0.47,0.573,0.867,-12.862,0.0173,150.06,0,8,0.1,4,66,4749075
+Amar Moner Ei Mayurmahale,Kishore Kumar,/artist/kishore-kumar,03:09,Bengali,09-09-2003,0.18,0.353,0.057,0.393,-13.349,0.0946,150.071,0,5,0.0227,4,59,11285218
+Alo Aar Alo Diye (Mone Hoy Aaj Ami),Asha Bhosle,/artist/asha-bhosle-1,04:06,Bengali,02-07-2016,0.27,0.39,0.609,0.813,-8.376,0.02,149.984,0,2,0.06,4,39,3126641
+Godhuli Gaganey,Debabrata Biswas,/artist/debabrata-biswas,02:57,Bengali,07-02-2020,0.15,0.674,0.662,0.039,-11.775,0.0707,155.057,0,11,0.08,4,87,6824599
+Abar Habe To Dekha,Manna Dey,/artist/manna-dey,03:01,Bengali,06-05-2008,0.84,0.29,0.451,0.117,-10.626,0.0247,154.931,0,0,0.0608,4,48,5000411
+Akash Keno Daake,Kishore Kumar,/artist/kishore-kumar,03:14,Bengali,01-03-2009,0.77,0.085,0.092,0.892,-13.07,0,149.957,0,11,0.0862,4,30,1371159
+Madhabi Phutechhe Oi,Lata Mangeshkar|R. D. Burman,/artist/lata-mangeshkar|/artist/r-d-burman,04:24,Bengali,05-07-2022,0.31,0.66,0.873,0.815,-7.545,0,154.957,0,5,0.0831,4,87,5882473
+Ek Je Chhilo Dushtu Chhele,Antara Chwdhury,/artist/antara-chwdhury,03:25,Bengali,05-03-2012,0.22,0.945,0.113,0.086,-4.593,0.054,149.975,0,11,0.02,4,41,395200
+Ki Hobe Aar Purono Diner Katha,R. D. Burman,/artist/r-d-burman,05:06,Bengali,07-12-2023,0.63,0.79,0.058,0.561,-11.971,0.07,149.949,1,11,0.077,4,48,7059860
+Mone Naa Rang Lagle,Asha Bhosle|Kishore Kumar|Chorus,/artist/asha-bhosle-1|/artist/kishore-kumar|/artist/chorus,05:18,Bengali,05-07-2003,0.89,0.091,0.608,0.375,-6.018,0.03,149.959,1,2,0.05,4,65,7308369
+Monta Aamar Hariye Geche,Vijayta Pandit,/artist/vijayta-pandit,04:39,Bengali,06-11-2018,0.94,0.18,0.242,0.776,-11.548,0.0234,149.942,0,7,0.1,4,58,10381790
+Ei To Jiban,Kishore Kumar,/artist/kishore-kumar,04:22,Bengali,11-02-2014,0.12,0.87,0.314,0.008,-6.39,0.09,155.014,0,6,0.098,4,54,2121919
+Kato Madhur E Jibon,Kishore Kumar,/artist/kishore-kumar,03:25,Bengali,10-10-2000,0.57,0.41,0.383,0.913,-13.963,0.094,149.902,0,7,0,4,61,668970
+Ei Je Nadi Jay Sagare,Kishore Kumar,/artist/kishore-kumar,03:29,Bengali,01-11-2021,0.85,0.586,0.82,0.824,-7.837,0.0311,150.043,0,0,0.059,4,67,1726659
+Teenti Mantra Niye,Shyamal Mitra,/artist/shyamal-mitra,03:45,Bengali,07-04-2016,0.3,0.29,0.136,0.371,-13.237,0.068,149.994,1,6,0.052,4,32,1541904
+Sakhi Bhabana Kahare Bale,Lata Mangeshkar|Kavita Krishnamurthy,/artist/lata-mangeshkar|/artist/kavita-subramaniam,03:18,Bengali,01-08-2015,0.83,0.807,0.776,0.933,-11.016,0.01,155.026,0,9,0.09,4,71,5168417
+Ketechhe Ekela Biraher Bela,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,03:13,Bengali,01-03-2009,0.36,0.61,0.172,0.022,-7.771,0.0821,149.87,1,1,0.028,4,25,9625782
+Deke Deke Kato,R. D. Burman,/artist/r-d-burman,03:06,Bengali,02-10-2007,0.08,0.623,0.7,0.214,-12.19,0.075,149.981,1,1,0.068,4,57,2679965
+Eso Amar Ghare - Hemanta Mukherjee,Hemant Kumar,/artist/hemanta-mukherjee,04:28,Bengali,04-10-2021,0.98,0.76,0.868,0.977,-9.384,0.066,148.02,1,10,0,4,96,10242873
+Jay Din Emni Jodi,Hemant Kumar,/artist/hemanta-mukherjee,03:17,Bengali,12-02-2010,0.84,0.283,0.997,0.662,-3.987,0.08,149.761,0,2,0.01,4,75,9216193
+Ki Name Deke Bolbo Tomake,Shyamal Mitra,/artist/shyamal-mitra,02:52,Bengali,05-11-2006,0.04,0.28,0.792,0.613,-13.677,0.06,150.045,1,5,0.0343,4,43,5030917
+O Pakhi Ure Aay,Asha Bhosle,/artist/asha-bhosle-1,03:25,Bengali,09-01-2014,0.86,0.877,0.929,0.44,-9.461,0.0196,155.174,0,10,0.096,4,71,5710178
+Phool Koli Re Phool Koli,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,05:21,Bengali,01-09-2002,0.5,0.15,0.102,0.729,-10.713,0,154.983,1,4,0.094,4,90,6106132
+Hey Dola Hey Dola,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:26,Bengali,12-01-2013,0.43,0.182,0.279,0.775,-9.31,0.032,150.118,0,4,0.06,4,39,7955412
+Ei Chhotto Chhotto Paye,Aarti Mukherji|Pratima Banerjee,/artist/aarti-mukherji|/artist/pratima-banerjee,03:31,Bengali,05-03-2020,0.04,0.02,0.969,0.321,-9.51,0.084,150.052,0,11,0.01,4,29,4970676
+Chandra Je Tui,Lata Mangeshkar,/artist/lata-mangeshkar,03:24,Bengali,07-01-2016,0.51,0.919,0.239,0.085,-13.913,0.0491,154.943,1,7,0.069,4,60,2511639
+Ganga Amar Ma,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:04,Bengali,05-02-2002,0.32,0.97,0.323,0.791,-5.592,0.1,150.023,1,10,0.074,4,85,6199480
+Chintamoyee Tara Tumi,Panna Lal Bhattacharjee,/artist/panna-lal-bhattacharjee,03:02,Bengali,11-02-2009,0.76,0.052,0.778,0.842,-8.907,0.0567,149.983,1,1,0.05,4,40,8968650
+Tumi Je Premer,Kishore Kumar|Aarti Mukherji,/artist/kishore-kumar|/artist/aarti-mukherji,03:21,Bengali,07-02-2012,0.63,0.87,0.049,0.026,-8.362,0.058,150.318,1,9,0.035,4,49,2357862
+Jani Na Kothay Tumi,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,03:12,Bengali,02-01-2018,0.08,0.824,0.426,0.759,-13.186,0.04,150.011,0,11,0.01,4,49,8994557
+Dure Akash Samiyanai,Lata Mangeshkar,/artist/lata-mangeshkar,03:31,Bengali,09-01-2002,0.34,0.01,0.022,0.28,-9.86,0.004,152.698,1,1,0.09,4,39,10380966
+Rui Katla Ilish Bhebe,Sabina Yasmeen,/artist/sabina-yasmeen,04:56,Bengali,04-08-2016,0.25,0.287,0.789,0.894,-11.082,0.01,150.003,1,11,0.05,4,85,2207838
+Ektu Baso Chole Jeo Na,Asha Bhosle,/artist/asha-bhosle-1,04:55,Bengali,08-07-2006,0.98,0.17,0.382,0.816,-12.539,0.08,149.947,0,6,0.057,4,55,228760
+Charon Dhorite Diyo Go (Male),Hemant Kumar,/artist/hemanta-mukherjee,04:23,Bengali,09-01-2017,0.68,0.331,0.21,0.283,-3.16,0.0978,149.957,0,6,0.05,4,90,2838408
+Aaro Kachakachi,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,03:35,Bengali,08-09-2018,0.26,0.45,0.513,0.217,-11.87,0.005,150.026,0,5,0.03,4,38,1003840
+Ekbar Bidaay De Ma,Lata Mangeshkar,/artist/lata-mangeshkar,03:13,Bengali,03-04-2000,0.01,0.885,0.651,0.719,-9.401,0.095,149.934,0,0,0.091,4,80,3422056
+Banshi Shune Ki,Asha Bhosle,/artist/asha-bhosle-1,05:25,Bengali,10-03-2004,0.12,0.34,0.194,0.809,-13.997,0.0345,149.989,1,8,0.007,4,100,5182070
+Pora Banshi Shunle E Mon,Asha Bhosle,/artist/asha-bhosle-1,03:27,Bengali,06-01-2008,0.04,0.747,0.104,0.644,-6.296,0.036,155.174,0,5,0.05,4,84,4900456
+Aami Ekjon Saanto Sishto,Kishore Kumar,/artist/kishore-kumar,03:18,Bengali,12-05-2018,0.2,0.61,0.833,0.306,-9.395,0.077,155.041,1,10,0.0425,4,29,6360733
+Felu Theme,various,/artist/various-2,53:06:00,Bengali,12-10-2002,0.76,0.772,0.435,0.523,-12.85,0.0992,149.757,0,5,0.029,4,70,5244263
+Halla Cholechhe Juddhe,Kamu Mukherjee|Jahor Roy,/artist/kamu-mukherjee|/artist/jahor-roy-4,01:42,Bengali,03-02-2002,0.61,0.47,0.504,0.068,-8.691,0.0446,155.073,1,11,0.0728,4,65,10742974
+"O,sona Byang",Antara Chwdhury,/artist/antara-chwdhury,06:11,Bengali,12-04-2009,0.43,0.746,0.011,0.343,-2.428,0.018,150.004,1,0,0.028,4,44,7980578
+Ki Ashai Bandhi Khelaghar,Kishore Kumar,/artist/kishore-kumar,04:28,Bengali,06-07-2008,0.22,0.05,0.381,0.02,-5.16,0.07,154.977,1,5,0.059,4,74,3301698
+Chand Aar Shurjo,Alka Yagnik,/artist/alka-yagnik,04:35,Bengali,12-12-2001,0.96,0.364,0.634,0.257,-5.582,0.049,151.8,1,11,0.0985,4,83,9296435
+Jana Ajana Pathey Cholechhi,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,04:29,Bengali,03-01-2017,0.28,0.97,0.318,0.433,-12.236,0.01,150.038,1,7,0.061,4,98,5918739
+Aay Aay Chhute Aay,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:12,Bengali,07-06-2003,0.24,0.742,0.734,0.711,-13.337,0.037,150.011,0,4,0.07,4,28,10382632
+Oi Mahasindhur Opar Theke,Manna Dey,/artist/manna-dey,03:41,Bengali,12-05-2016,0.01,0.56,0.557,0.632,-11.308,0.0854,150.11,0,1,0.0974,4,33,8454968
+Ei Chhande Chhande Bhara,Sandhya Mukherjee|Hemant Kumar,/artist/sandhya-mukherjee|/artist/hemanta-mukherjee,03:06,Bengali,03-05-2013,0.5,0.788,0.457,0.276,-5.404,0.0613,152.919,0,4,0.04,4,30,10676525
+Dinguli Mor,Debabrata Biswas,/artist/debabrata-biswas,03:05,Bengali,09-06-2017,0.98,0.56,0.332,0.068,-12.26,0.091,150.111,1,1,0.01,4,51,557196
+Hridayer Gaan Shikhe To Gaay Go Sabai,Manna Dey,/artist/manna-dey,03:02,Bengali,09-02-2008,0.06,0.731,0.818,0.171,-8.088,0.037,149.936,0,7,0.045,4,69,10184764
+Mone Pore Ruby Roy,R. D. Burman,/artist/r-d-burman,03:25,Bengali,04-12-2005,0.51,0.91,0.299,0.538,-13.859,0.046,153.087,0,5,0.011,4,90,2403942
+Tumi Jodi Thaktey,Kumar Sanu,/artist/kumar-sanu,05:00,Bengali,04-06-2012,0.02,0.92,0.521,0.682,-12.447,0.0265,150.132,0,5,0.053,4,44,6783828
+Mor Bhabonare (Duet),Saptarshi|SAHANA BAJPEI,/artist/saptarshi|/artist/sahana-bajpei,04:07,Bengali,12-12-2001,0.89,0.07,0.692,0.165,-7.8,0.06,149.944,1,5,0.04,4,75,1669983
+Namo Mata Saraswati,Sandhya Mukherjee|Tarun Banerjee|Aarti Mukherji,/artist/sandhya-mukherjee|/artist/tarun-banerjee|/artist/aarti-mukherji,06:57,Bengali,07-08-2001,0.31,0.623,0.333,0.463,-9.625,0.0612,149.959,0,6,0.0908,4,33,220192
+O Prajapati Prajapati,Lata Mangeshkar,/artist/lata-mangeshkar,03:00,Bengali,12-07-2021,0.07,0.31,0.773,0.962,-6.475,0.08,149.924,1,5,0.0138,4,95,2285881
+Sagar Sangame,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:17,Bengali,02-12-2021,0.13,0.874,0.325,0.123,-2.848,0.0813,149.871,1,5,0.095,4,92,9979708
+Katha Dao Aabar Asbe,Manna Dey,/artist/manna-dey,03:18,Bengali,09-07-2009,0.04,0.18,0.212,0.787,-6.267,0.0276,145.053,1,7,0.079,4,53,10174923
+Tomake Lagche Bhari Chena,Bappi Lahiri|Alka Yagnik,/artist/bappi-lahiri|/artist/alka-yagnik,05:47,Bengali,03-02-2021,0.55,0.575,0.257,0.95,-10.007,0.07,150.08,0,0,0.035,4,47,8875836
+Esho Go Jweley,Debabrata Biswas,/artist/debabrata-biswas,03:03,Bengali,04-05-2022,0.28,0.72,0.549,0.94,-12.765,0.05,150.055,0,0,0.01,4,46,1401849
+Amar Sakal Raser Dhara,Hemant Kumar|Aarti Mukherji,/artist/hemanta-mukherjee|/artist/aarti-mukherji,03:14,Bengali,11-07-2004,0.58,0.851,0.241,0.808,-13.578,0.091,149.999,0,11,0.0739,4,95,8542892
+"Ore Bondhure, Ore Sathi Re",Kishore Kumar,/artist/kishore-kumar,04:00,Bengali,05-07-2015,0.17,0.83,0.75,0.61,-11.313,0.04,150.019,1,7,0.04,4,78,5030759
+Na Bole Esechhi,Aarti Mukherji,/artist/aarti-mukherji,03:21,Bengali,03-08-2019,0.77,0.313,0.796,0.103,-8.549,0.01,149.855,0,8,0.06,4,44,1775079
+Ja Ja Ja Bhule Ja,Lata Mangeshkar,/artist/lata-mangeshkar,03:26,Bengali,11-06-2006,0.43,0.42,0.773,0.38,-13.076,0.04,150.004,0,8,0.0475,4,52,9375678
+Keno Je Kandao Bare Bare,Lata Mangeshkar,/artist/lata-mangeshkar,03:38,Bengali,03-01-2008,0.82,0.813,0.702,0.083,-7.47,0.041,149.81,0,11,0.0792,4,90,2996592
+E Ki Chanchalata Jage,Hemant Kumar,/artist/hemanta-mukherjee,03:09,Bengali,02-02-2018,0.02,0.8,0.345,0.604,-7.166,0.06,154.983,0,0,0.0619,4,29,9898270
+Moner Janala Dhore Unki Diye,Hemant Kumar,/artist/hemanta-mukherjee,03:25,Bengali,11-03-2006,0.49,0.52,0.418,0.647,-10.569,0.03,150.013,0,1,0.0765,4,29,11287181
+Ogo Moner Duyare Danriye Theko Na,Aarti Mukherji,/artist/aarti-mukherji,03:22,Bengali,12-09-2018,0.46,0.24,0.719,0.023,-7.205,0.0725,155.012,1,7,0.0346,4,59,3557878
+Kichhu To Chahini Ami,Lata Mangeshkar,/artist/lata-mangeshkar,03:29,Bengali,07-04-2009,0.61,0.727,0.195,0.087,-10.352,0.01,150.071,0,11,0.07,4,41,9982101
+Ektu Baso Chole Jeo Na,Asha Bhosle,/artist/asha-bhosle-1,04:55,Bengali,10-01-2003,0.66,0.86,0.81,0.926,-11.939,0.05,149.94,0,11,0.08,4,84,481841
+Akash Keno Daake,Kishore Kumar,/artist/kishore-kumar,03:14,Bengali,01-12-2011,0.92,0.094,0.342,0.063,-10.484,0.084,155.013,1,1,0.013,4,97,2511767
+Aakash Bhara,Debabrata Biswas,/artist/debabrata-biswas,02:51,Bengali,06-10-2003,0.72,0.41,0.048,0.961,-11.729,0.02,150.056,1,10,0.05,4,61,2559477
+Dhoronako Shantrimoshai,Anup Ghoshal,/artist/anup-ghoshal-1,01:41,Bengali,04-01-2019,0.1,0.335,0.677,0.731,-6.52,0.0266,150.049,0,9,0.02,4,42,1494576
+Aaj Jiban Khunje Pabi,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:48,Bengali,07-10-2004,0.07,0.4,0.264,0.797,-13.468,0.0387,149.541,0,11,0.09,4,63,9304449
+Bhoy Dekhas Na (The Agnee Version),Mohan Kannan,/artist/mohan-kanan,06:11,Bengali,10-06-2008,0.58,0.821,0.299,0.736,-11.757,0.0624,154.996,1,6,0.0475,4,73,5383263
+Ami Sahebo Noi Golamo Noi,Hemant Kumar,/artist/hemanta-mukherjee,02:35,Bengali,06-09-2010,0.67,0.28,0.204,0.532,-4.373,0.0634,150.008,0,10,0.01,4,27,8703619
+Hayre Pora Banshi,Lata Mangeshkar,/artist/lata-mangeshkar,05:15,Bengali,06-12-2019,1,0.728,0.223,0.44,-13.259,0.02,155.006,0,5,0.0129,4,95,8803006
+Tomader Aasare Aaj,Lata Mangeshkar,/artist/lata-mangeshkar,04:38,Bengali,04-01-2004,0.78,0.95,0.107,0.304,-9.531,0.0668,150,0,2,0.05,4,28,10012949
+Amar Mon Manne Na,Asha Bhosle,/artist/asha-bhosle-1,03:46,Bengali,04-03-2006,0.25,0.108,0.673,0.945,-7.949,0.01,154.965,1,5,0.0669,4,77,11147476
+Gun Gun Kare Mon,Amit Kumar|Asha Bhosle,/artist/amit-kumar|/artist/asha-bhosle-1,04:27,Bengali,01-02-2018,0.81,0.46,0.242,0.314,-9.96,0.0653,149.984,0,10,0.0149,4,54,9022811
+Phule Gandha Nei,Asha Bhosle,/artist/asha-bhosle-1,03:23,Bengali,12-04-2021,0.19,0.291,0.502,0.245,-11.513,0.0562,150.011,0,7,0.01,4,71,11060748
+Katha Hoyechhilo,Asha Bhosle,/artist/asha-bhosle-1,04:49,Bengali,07-05-2011,0.49,0.29,0.958,0.274,-13.532,0.0613,150.042,1,1,0.0463,4,92,6188994
+Ami Dukkhake Sukh Bhebe,Kishore Kumar,/artist/kishore-kumar,04:24,Bengali,09-04-2010,0.19,0.116,0.225,0.329,-2.327,0.0906,155.128,0,5,0.01,4,41,3605595
+E Monihar Amay,Debabrata Biswas,/artist/debabrata-biswas,03:08,Bengali,01-06-2020,0.71,0.25,0.206,0.595,-13.56,0.02,150.101,0,5,0.01,4,60,9858490
+Ek Din Aaro Gelo,Kishore Kumar,/artist/kishore-kumar,04:29,Bengali,10-01-2016,0.15,0.326,0.919,0.564,-8.394,0.07,150.014,1,9,0.012,4,68,10313970
+Na Ekhoni Noy Jabe,Asha Bhosle,/artist/asha-bhosle-1,03:33,Bengali,03-03-2007,0.8,0.11,0.826,0.707,-9.387,0.01,150.021,0,4,0.05,4,92,9812753
+Tomar Akash Duti Chokhe,Nirmal Mishra,/artist/nirmal-mishra,03:18,Bengali,07-08-2009,0.16,0.685,0.874,0.047,-8.214,0.066,149.957,1,8,0.0002,4,77,1118956
+Aar Bilamba Noy,Anup Ghoshal,/artist/anup-ghoshal-1,02:14,Bengali,02-12-2011,0.23,0.95,0.637,0.447,-2.28,0.032,155.041,0,5,0.02,4,74,803140
+Tumi Ele Anek Diner Pare,Hemant Kumar,/artist/hemanta-mukherjee,03:18,Bengali,09-07-2013,0.87,0.767,0.378,0.42,-6.76,0.08,149.992,0,6,0.008,4,28,3859135
+Kajol Kajol Chokhe,Geeta Dutt|Hemant Kumar,/artist/geeta-dutt|/artist/hemanta-mukherjee,03:13,Bengali,06-09-2001,0.79,0.78,0.332,0.061,-13.362,0.0149,150.026,1,1,0.034,4,71,3669865
+Tomaar Holo Shuru (db),Debabrata Biswas,/artist/debabrata-biswas,03:13,Bengali,12-08-2014,0.77,0.426,0.469,0.275,-13.738,0.06,150.3,0,7,0.038,4,56,109513
+Phul Phute Jhore Jaay,Asha Bhosle,/artist/asha-bhosle-1,04:57,Bengali,04-02-2002,0.83,0.48,0.725,0.386,-6.582,0.015,150.139,0,5,0.054,4,93,2844924
+Ele Na Tumi Je,R. D. Burman,/artist/r-d-burman,03:19,Bengali,01-06-2017,0.8,0.085,0.711,0.439,-2.67,0.023,149.916,0,4,0.0818,4,31,3502827
+Khelbo Holi Rang Debo Na,Asha Bhosle|Kavita Krishnamurthy,/artist/asha-bhosle-1|/artist/kavita-subramaniam,04:03,Bengali,04-02-2014,0.08,0.31,0.615,0.452,-9.651,0.019,154.876,0,4,0.05,4,47,10405619
+Sajani Go Premer Katha,R. D. Burman,/artist/r-d-burman,03:28,Bengali,12-04-2019,0.16,0.994,0.906,0.629,-3.261,0.06,150.144,0,1,0.05,4,29,8680669
+Ek Din Pakhi Ure Jabe,Kishore Kumar,/artist/kishore-kumar,03:18,Bengali,02-06-2010,0.84,0.42,0.286,0.819,-6.863,0.06,150.006,0,11,0.034,4,55,8337105
+Ek Tanete Jemon Temon,Kishore Kumar|Swapan Chakraborty,/artist/kishore-kumar|/artist/swapan-chakraborty,04:48,Bengali,01-12-2015,0.86,0.642,0.693,0.712,-12.256,0.0382,149.982,0,8,0.058,4,33,2078814
+Ek Din Pakhi Ure Jabe,Kishore Kumar,/artist/kishore-kumar,03:18,Bengali,01-02-2021,0,0.17,0.476,0.504,-5.516,0.03,149.976,0,11,0.0932,4,68,109959
+Emon Madhur Sandhyay,Asha Bhosle,/artist/asha-bhosle-1,05:43,Bengali,01-04-2003,0.26,0.029,0.817,0.644,-6.283,0.0037,150.069,0,5,0,4,81,3343278
+Aamar Bhalobasar Rajprasade,Manna Dey,/artist/manna-dey,03:36,Bengali,09-03-2011,0.29,0.73,0.22,0.543,-10.936,0.07,150.018,1,5,0.0213,4,72,10647081
+Naari Charitra Bejaay Jatil,Kishore Kumar,/artist/kishore-kumar,02:43,Bengali,10-09-2015,0.28,0.844,0.79,0.11,-4.088,0.06,149.893,0,9,0.0998,4,27,1184926
+Bhalobeshe Dekei Dekho Na,Asha Bhosle,/artist/asha-bhosle-1,03:55,Bengali,02-11-2016,0.47,0.93,0.532,0.914,-11.868,0.0494,150.019,0,0,0.03,4,52,3076673
+Gaane Bhuban Bhoriye Debe,Shyamal Mitra,/artist/shyamal-mitra,03:28,Bengali,03-05-2023,0.66,0.14,0.433,0.436,-2.196,0.012,150.072,0,6,0.09,4,72,4074259
+Ei Korechho Bhalo,Hemant Kumar,/artist/hemanta-mukherjee,03:04,Bengali,03-02-2004,0.14,0.48,0.842,0.818,-2.658,0.07,149.186,0,9,0.004,4,60,2459791
+Baro Asha Kore Esechhi Go,Arundhati Holme Chowdhury|Hemant Kumar,/artist/arundhati-holme-chowdhury|/artist/hemanta-mukherjee,03:03,Bengali,01-06-2010,0.15,0.237,0.687,0.306,-11.518,0.03,149.232,0,10,0.009,4,100,10957159
+Ore Batas Phulshakhate,Sandhya Mukherjee|Hemant Kumar,/artist/sandhya-mukherjee|/artist/hemanta-mukherjee,03:22,Bengali,10-09-2013,0.88,0.86,0.616,0.274,-8.952,0.0106,149.885,0,8,0.09,4,30,3514040
+Kine De Reshmi Churi,Asha Bhosle,/artist/asha-bhosle-1,03:14,Bengali,04-10-2021,0.47,0.315,0.381,0.65,-2.515,0.089,150.004,0,5,0.05,4,25,5103445
+Moner Naam Madhumati,Asha Bhosle,/artist/asha-bhosle-1,03:01,Bengali,03-03-2011,0.42,0.57,0.715,0.642,-8.103,0.08,150.001,0,9,0.09,4,91,4053293
+Nadir Paare Uthchhe Dhonya,R. D. Burman,/artist/r-d-burman,06:00,Bengali,05-03-2007,0.07,0.548,0.114,0.159,-7.949,0.0508,146.973,1,4,0.0896,4,80,1471301
+Bristi Bristi Bristi,Lata Mangeshkar,/artist/lata-mangeshkar,02:47,Bengali,08-01-2015,0.92,0.58,0.502,0.242,-10.994,0.07,152.087,0,6,0.03,4,41,7165511
+Guru Bine Bondhu Naai Re Aar,Amar Pal,/artist/amar-pal,02:45,Bengali,05-03-2014,0.55,0.736,0.724,0.654,-13.114,0.07,153.079,0,11,0.099,4,33,8891936
+Cigarette Naho Tumi Swet-Pari,Kishore Kumar,/artist/kishore-kumar,04:00,Bengali,11-07-2022,0.5,0.84,0.845,0.364,-4.699,0.06,150.01,0,7,0.05,4,100,8455725
+Charon Dhorite Diyo Go (Female),Arundhati Holme Chowdhury,/artist/arundhati-holme-chowdhury,04:22,Bengali,04-12-2005,0.34,0.837,0.32,0.04,-3.756,0.002,149.965,0,11,0.0909,4,67,4537180
+Ke Jabi Aay,Lata Mangeshkar,/artist/lata-mangeshkar,03:39,Bengali,12-01-2021,0.19,0.07,0.31,0.615,-7.209,0.0788,150.082,0,4,0.06,4,40,11393230
+Ebar Ami Amar Theke,Lata Mangeshkar,/artist/lata-mangeshkar,03:52,Bengali,09-06-2009,0.82,0.458,0.077,0.88,-13.552,0.03,155.011,0,2,0.0186,4,63,407780
+Tumi Aamar Asha,Kishore Kumar,/artist/kishore-kumar,07:00,Bengali,02-10-2002,0.87,0.27,0.512,0.223,-12.788,0.07,149.97,0,10,0.0066,4,34,4980431
+Chokhe Naame Brishti,Asha Bhosle,/artist/asha-bhosle-1,03:17,Bengali,02-07-2009,0.57,0.974,0.998,0.153,-11.928,0.026,149.672,1,1,0.0117,4,87,2993413
+Ami Premer Pather Pathik,Kishore Kumar,/artist/kishore-kumar,03:25,Bengali,04-01-2005,0.7,0.73,0.268,0.095,-9.554,0.0895,149.947,0,0,0.01,4,67,10412524
+Tarpar Tar Aar Par Nei,Hemant Kumar,/artist/hemanta-mukherjee,03:11,Bengali,03-10-2010,0.76,0.049,0.232,0.941,-6.534,0.0249,150.056,0,0,0.0538,4,64,3207431
+Aay Khuku Aay (Keta Na Somay),Hemant Kumar|Sravanti Mazumder,/artist/hemanta-mukherjee|/artist/sravanti-mazumder,05:05,Bengali,08-10-2001,0.13,0.06,0.58,0.923,-5.99,0.0747,149.96,0,8,0.02,4,28,11170689
+Ektuku Chhonwa Lage,Kishore Kumar,/artist/kishore-kumar,03:13,Bengali,10-01-2000,0.79,0.466,0.581,0.05,-2.376,0.1,149.928,0,7,0.0767,4,60,7219316
+Danriye Achho Tumi Amar Gaaner O Paare,Sandhya Mukherjee,/artist/sandhya-mukherjee,04:04,Bengali,11-05-2019,0.86,0.37,0.639,0.897,-9.993,0.04,149.937,1,1,0.0828,4,27,10893195
+Moyna Balo Tumi,Asha Bhosle,/artist/asha-bhosle-1,03:28,Bengali,07-07-2013,0.83,0.995,0.48,0.995,-5.787,0.088,150.051,0,11,0.0258,4,60,509778
+Keu Jane Na Tumi Je Amar,R. D. Burman,/artist/r-d-burman,04:46,Bengali,12-03-2000,0.4,0.17,0.734,0.78,-9.927,0.0571,149.975,0,7,0.09,4,46,595006
+Du Chokhe Brishti,Alka Yagnik,/artist/alka-yagnik,04:54,Bengali,06-07-2001,0.29,0.042,0.335,0.617,-12.934,0.0142,147.854,0,5,0.091,4,42,7743415
+Emon Ekta Jhinuk Khunje,Nirmal Mishra,/artist/nirmal-mishra,03:35,Bengali,05-05-2007,0.39,0.65,0.597,0.576,-8.438,0.0855,150.002,0,3,0.05,4,25,11300271
+Thuilam Re Mon Padmapatay,Asha Bhosle,/artist/asha-bhosle-1,03:06,Bengali,04-04-2011,0.07,0.352,0.145,0.272,-10.916,0.0307,157.098,0,1,0.06,4,32,1800176
+Jana Gana Mana - Military Band,Normon Richardazz|Harbert Murril,/artist/normon-richardazz|/artist/harbert-murril,00:56,Bengali,01-09-2008,0.43,0.36,0.361,0.765,-5.115,0.0224,149.976,0,8,0.054,4,44,7631104
+Bone Noy Mone Mor,Manabendra Mukherjee,/artist/manabendra-mukherjee,03:17,Bengali,01-02-2007,0.94,0.745,0.705,0.991,-10.363,0.1,149.998,1,1,0.065,4,26,2316017
+Dake Loke Amake Clown,Kishore Kumar,/artist/kishore-kumar,04:18,Bengali,04-05-2022,0.08,0.45,0.987,0.348,-3.204,0.01,150.226,0,11,0.092,4,90,5137656
+Kolahal To Baron Holo,Debabrata Biswas,/artist/debabrata-biswas,03:14,Bengali,11-02-2020,0.67,0.799,0.077,0.2,-6.445,0.059,149.948,0,5,0.003,4,46,5343068
+"Aar Nai Re Bela, Namlo Chhaya",Sumitra Sen,/artist/sumitra-sen,03:19,Bengali,05-01-2019,0.18,0.85,0.088,0.6,-10.568,0.085,155.067,0,1,0.0243,4,70,1129467
+Ami Cholte Cholte Theme Gechhi,Lata Mangeshkar,/artist/lata-mangeshkar,03:54,Bengali,07-11-2012,0.3,0.316,0.756,0.42,-13.933,0.0603,149.987,0,6,0.092,4,72,7048570
+Swapan Jodi Madhur Emon,Manna Dey,/artist/manna-dey,02:49,Bengali,12-05-2000,0.39,0.6,0.936,0.076,-8.572,0.0266,155.092,1,0,0.05,4,48,4782225
+Madhumas Jay,R. D. Burman,/artist/r-d-burman,03:27,Bengali,11-05-2005,0.03,0.346,0.821,0.548,-12.503,0.054,149.987,1,11,0.05,4,25,10545696
+Shamla Gaanyer Kajla Meye,Hemant Kumar|Aarti Mukherji,/artist/hemanta-mukherjee|/artist/aarti-mukherji,04:21,Bengali,08-07-2016,0.1,0.92,0.16,0.095,-5.641,0.05,150.122,1,8,0.06,4,95,10173781
+Dil Dariyar Majhete,Purna Das Baul,/artist/purna-das-baul,02:54,Bengali,12-04-2023,0.58,0.951,0.493,0.765,-3.921,0.08,150.079,0,9,0.01,4,59,9648375
+Ami Chaee Chaee Chaee,Sapna Mukherjee,/artist/sapna-mukherjee,04:10,Bengali,11-02-2007,0.98,0.35,0.766,0.426,-6.805,0.05,150.063,0,6,0.023,4,58,3727647
+Tari:- (Ebar Tor Mora Gange and Samal Samal Samal),Dohar,/artist/dohar,05:56,Bengali,08-08-2009,0.98,0.067,0.94,0.271,-8.513,0.01,149.931,1,8,0.0357,4,77,11399802
+Madhobi Modhupey Holo Mitali,Aarti Mukherji,/artist/aarti-mukherji,03:23,Bengali,12-10-2018,0.95,0.53,0.186,0.522,-11.715,0.04,155.057,0,0,0.0207,4,47,11253545
+Ki Je Kori Dure Jete Hay,Lata Mangeshkar,/artist/lata-mangeshkar,03:22,Bengali,11-10-2004,0.69,0.352,0.176,0.021,-4.758,0,150.058,1,7,0.012,4,38,4786864
+Ami Je Jalsaghare,Manna Dey,/artist/manna-dey,03:02,Bengali,06-12-2010,0.06,0.06,0.945,0.089,-10.424,0.0298,149.515,0,10,0.0213,4,76,11289810
+Mon Bolchhe,Asha Bhosle,/artist/asha-bhosle-1,03:38,Bengali,08-12-2005,0.03,0.385,0.47,0.211,-5.995,0.08,149.974,0,7,0.09,4,37,1081020
+Amar Balar Kichhu Chhilo Na,Haimanti Shukla,/artist/haimanti-shukla,03:16,Bengali,10-03-2001,0.16,0.89,0.514,0.338,-11.706,0.0162,150.019,0,0,0.02,4,61,3400515
+Chaaridike Paaper Andhar (Manush Janam Diye Bidhi),Kishore Kumar,/artist/kishore-kumar,03:23,Bengali,03-08-2022,0.58,0.512,0.419,0.831,-13.325,0.06,149.982,0,7,0.053,4,52,7525229
+Ami Je Ke Tomar,Kishore Kumar,/artist/kishore-kumar,05:12,Bengali,07-01-2023,0.68,0.86,0.527,0.384,-4.423,0.03,150.017,1,0,0.045,4,42,7163508
+Shaon Raate Jodi,Manna Dey,/artist/manna-dey,04:18,Bengali,03-05-2003,0.49,0.864,0.902,0.73,-7.457,0.052,154.983,0,6,0.034,4,30,7552169
+Rui Katla Ilish To Noy,Kishore Kumar,/artist/kishore-kumar,05:01,Bengali,12-02-2021,0.9,0.71,0.124,0.407,-7.752,0.097,149.96,1,2,0.088,4,34,9740101
+Hay Re Kala Eki Jwala,Asha Bhosle,/artist/asha-bhosle-1,04:54,Bengali,06-11-2017,0.48,0.462,0.098,0.773,-9.103,0.023,150.027,0,2,0.03,4,83,9939447
+Mukhe Bolleye Prem Hoye Na,Alka Yagnik,/artist/alka-yagnik,06:54,Bengali,11-11-2013,0.63,0.61,0.682,0.917,-6.498,0.0435,150.001,0,9,0.0956,4,85,625881
+Chakrita Ami Peyegechi Bela 2441139,Anjan Dutt,/artist/anjan-dutt,05:09,Bengali,07-03-2013,0.1,0.612,0.656,0.025,-10.85,0.1,149.962,0,11,0.052,4,69,5617583
+O Amar Pran Sajani (Champabothi Kanya),Lata Mangeshkar,/artist/lata-mangeshkar,04:59,Bengali,03-07-2022,0.65,0.86,0.283,0.276,-5.012,0.04,155.002,1,10,0.049,4,42,10125248
+Jodi Bhabo Bhalobeshe,Alka Yagnik,/artist/alka-yagnik,05:49,Bengali,03-01-2012,0.62,0.905,0.356,0.671,-3.167,0.07,150.049,0,9,0.05,4,100,5203201
+Andhakarer Ei Raater Sheshe,Kishore Kumar,/artist/kishore-kumar,04:58,Bengali,07-07-2003,0.35,0.17,0.963,0.748,-4.926,0.09,149.97,0,5,0.0246,4,100,793226
+Amar Raat Pohaalo (d B),Debabrata Biswas,/artist/debabrata-biswas,02:54,Bengali,11-05-2009,0.88,0.649,0.808,0.564,-8.714,0.077,150.023,0,6,0.0613,4,70,8235424
+Bangla:- (Ami Bangla Mayer Chhele and Amar Sonar Bangla),Dohar,/artist/dohar,09:48,Bengali,02-06-2012,0.27,0.38,0.645,0.125,-6.333,0.068,149.864,0,1,0.009,4,81,737369
+Sukno Patar Nupur Paye,Feroza Begum,/artist/feroza-begum,03:10,Bengali,10-01-2021,0.3,0.45,0.34,0.992,-9.961,0.0792,150.02,1,6,0.0903,4,86,3832399
+Jodi Kagoje Lekho Naam,Manna Dey,/artist/manna-dey,03:26,Bengali,05-06-2010,0.21,0.41,0.039,0.494,-6.539,0.0219,157.018,1,2,0.0747,4,75,41126
+Na Chahile Jare Paoya Jaay - Manna Dey,Manna Dey,/artist/manna-dey,03:01,Bengali,04-02-2021,0.96,0.452,0.262,0.441,-6.679,0.094,149.974,1,1,0.005,4,76,4522976
+Jhilik Jhilik Jhinuk,Lata Mangeshkar,/artist/lata-mangeshkar,03:08,Bengali,05-08-2008,0.72,0.85,0.039,0.201,-5.002,0.062,150.169,1,7,0.03,4,69,4307498
+Purano Sei Diner Kotha,Hemant Kumar,/artist/hemanta-mukherjee,03:36,Bengali,09-09-2001,0.71,0.325,0.049,0.858,-13.315,0.09,150.017,0,1,0.0456,4,54,6473820
+O Tota Pakhi Re,Nirmal Mishra,/artist/nirmal-mishra,02:56,Bengali,08-05-2022,0.63,0.38,0.807,0.743,-9.427,0.028,150.206,1,1,0.0971,4,76,8570288
+Bhoy Dekhas Na Please (Female),Sunidhi Chauhan,/artist/sunidhi-chauhan,06:05,Bengali,01-02-2010,0.97,0.617,0.074,0.903,-6.883,0.07,150,1,1,0.073,4,40,10359511
+She Keno Amay,Pankaj Udhas,/artist/pankaj-udhas,03:37,Bengali,09-10-2023,0.69,1,0.304,0.034,-8.508,0.032,154.85,1,6,0.095,4,57,3229778
+Jeevanamaraner,Debabrata Biswas,/artist/debabrata-biswas,03:08,Bengali,01-03-2009,0.94,0.12,0.272,0.993,-7.001,0.089,149.943,0,5,0.051,4,53,2199358
+Ore Bagha Re,Rabi Ghosh|Anup Ghoshal,/artist/rabi-ghosh|/artist/anup-ghoshal-1,02:02,Bengali,06-08-2005,0.09,0.47,0.293,0.612,-2.02,0.0715,148.704,0,5,0.02,4,74,6670445
+Eureka Eureka,Kishore Kumar|Ranu Mukherjee|Chorus,/artist/kishore-kumar|/artist/ranu-mukherjee|/artist/chorus,03:30,Bengali,04-10-2018,0.57,0.685,0.148,0.153,-13.047,0.09,150.019,0,5,0.04,4,27,4403364
+Chhinnapatar Sajai Taranee,Sumitra Sen,/artist/sumitra-sen,03:03,Bengali,07-06-2004,0.55,0.89,0.162,0.652,-8.777,0.062,150.037,1,0,0.09,4,82,902284
+Amar Chetana Chaitanya Kore,Panna Lal Bhattacharjee,/artist/panna-lal-bhattacharjee,03:03,Bengali,04-01-2018,0.77,0.362,0.031,0.439,-9.427,0.032,155.094,1,2,0.0647,4,44,6484126
+Amar Hriday Tomar Aapan Haater Dole (Duet),Arundhati Holme Chowdhury|Santu Mukherjee,/artist/arundhati-holme-chowdhury|/artist/santu-mukherjee-3,03:52,Bengali,12-03-2002,0.96,0.3,0.826,0.17,-10.01,0.0896,150.205,1,2,0.01,4,69,5958367
+Ek Din Aaro Gelo,Kishore Kumar,/artist/kishore-kumar,04:29,Bengali,05-01-2008,0.69,0.629,0.215,0.762,-13.42,0.001,152.009,1,1,0.08,4,66,3956221
+Madhumas Jay,R. D. Burman,/artist/r-d-burman,03:27,Bengali,04-05-2000,0.46,0.95,0.361,0.737,-12.099,0.066,150.063,0,11,0.065,4,33,4195068
+Hotam Jodi Tota Pakhi,Lata Mangeshkar,/artist/lata-mangeshkar,04:23,Bengali,07-02-2000,0.65,0.548,0.697,0.143,-5.171,0.0252,149.892,0,1,0.0217,4,57,9533729
+Aadho Aalo Chhayte,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,05:15,Bengali,07-01-2018,0.73,0.01,0.269,0.347,-12.836,0.0792,155.073,0,8,0.0913,4,97,8431358
+Ami Tomar Majhe Pelam Khunje,Hemant Kumar,/artist/hemanta-mukherjee,03:09,Bengali,11-11-2001,0.44,0.156,0.377,0.015,-13.267,0,150.019,0,1,0.04,4,69,11112261
+Ore Mon-Mayana,Lata Mangeshkar,/artist/lata-mangeshkar,02:57,Bengali,03-04-2002,0.51,0.25,0.265,0.859,-8.145,0.087,149.92,0,1,0.09,4,68,7903857
+Machher Kanta Khonpar Kanta,Asha Bhosle,/artist/asha-bhosle-1,02:57,Bengali,10-03-2005,0.93,0.586,0.718,0.038,-8.407,0.08,149.988,1,6,0.09,4,33,1165850
+Bhalobese Sakhi Nibhrite Jatane,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,03:19,Bengali,09-05-2019,0.02,0.38,0.592,0.358,-13.648,0.01,155.032,0,11,0.082,4,95,3705403
+Nahin Surya Nahin Jyoti,Anup Jalota,/artist/anup-jalota,05:47,Bengali,11-09-2010,0.99,0.215,0.004,0.201,-3.269,0.0854,149.996,1,0,0.012,4,29,9068824
+Ek Baishakhe Dekha Holo Dujanay,Aarti Mukherji,/artist/aarti-mukherji,03:31,Bengali,05-06-2009,0.73,0.67,0.737,0.471,-11.009,0.0572,149.997,0,8,0.09,4,60,10049869
+Ei Sundar Raatri,Sandhya Mukherjee,/artist/sandhya-mukherjee,03:15,Bengali,08-09-2014,0.08,0.688,0.197,0.063,-6.47,0.0058,150.014,1,7,0.0048,4,46,4483401
+O Montrimoshai,Rabi Ghosh|Anup Ghoshal,/artist/rabi-ghosh|/artist/anup-ghoshal-1,01:37,Bengali,08-07-2012,0.39,0.28,0.33,0.192,-13.352,0.0309,150.012,0,11,0.065,4,70,7756883
+Iskabaner Deshe,Antara Chwdhury,/artist/antara-chwdhury,03:51,Bengali,03-06-2012,0.01,0.573,0.038,0.977,-12.626,0.063,150.064,1,4,0.0008,4,62,4651064
+Gun Gun Gun Kunje Amar,Asha Bhosle,/artist/asha-bhosle-1,03:08,Bengali,03-06-2017,0.15,0.01,0.21,0.842,-12.053,0.09,150.066,0,7,0.068,4,28,8626697
+Golemale Gole Male Pirit Koiro Na,Purna Das Baul,/artist/purna-das-baul,03:06,Bengali,06-02-2006,0.17,0.566,0.999,0.291,-13.65,0.0827,155.128,0,7,0.0049,4,26,7168528
+Tomaro Ashimey,Debabrata Biswas,/artist/debabrata-biswas,03:02,Bengali,04-05-2002,0.91,0.53,0.102,0.257,-7.414,0.0543,149.94,0,8,0.01,4,62,2535240
+Amar Moner Ei Mayurmahale,Kishore Kumar,/artist/kishore-kumar,03:09,Bengali,07-04-2019,0.84,0.511,0.134,0.683,-7.538,0.019,149.987,0,7,0.0751,4,35,3289649
+Ami Je Ke Tomar,Lata Mangeshkar,/artist/lata-mangeshkar,05:17,Bengali,11-05-2013,0.12,0.89,0.917,0.277,-12.771,0.078,150.042,1,5,0.026,4,39,10990805
+Tomate Amate Dekha Hoyechhilo,R. D. Burman,/artist/r-d-burman,02:54,Bengali,12-01-2013,0.49,0.162,0.105,0.664,-8.319,0.04,149.755,1,11,0.02,4,78,2754182
+Raat Je Madhumati,Asha Bhosle,/artist/asha-bhosle-1,02:15,Bengali,06-10-2015,0.71,0.35,0.671,0.257,-5.359,0.021,155.053,0,0,0.08,4,51,7068354
+Ei Brishtite Bhije Mati,Manna Dey|Lata Mangeshkar,/artist/manna-dey|/artist/lata-mangeshkar,04:46,Bengali,09-12-2019,0.42,0.726,0.094,0.533,-8.226,0.05,155.021,0,10,0.0525,4,94,5396031
+Ke Pratham Kachhe Esechhi,Lata Mangeshkar|Manna Dey,/artist/lata-mangeshkar|/artist/manna-dey,03:16,Bengali,04-05-2012,0.63,0.58,0.192,0.033,-8.937,0.0295,150.023,0,1,0.087,4,30,832609
+Pherano Jabe Na Aar,Hemant Kumar,/artist/hemanta-mukherjee,03:22,Bengali,03-01-2023,0.99,0.557,0.013,0.862,-11.636,0.0296,149.954,1,4,0.09,4,56,10396094
+Chanchal Moyuri E Raat,Lata Mangeshkar,/artist/lata-mangeshkar,03:25,Bengali,08-03-2017,0.76,0.77,0.852,0.954,-12.92,0.0183,150.083,0,1,0.0154,4,44,6337685
+Ei To Bhalo Legechhilo - Hemanta Mukherjee,Hemant Kumar,/artist/hemanta-mukherjee,03:33,Bengali,04-12-2016,0.2,0.891,0.638,0.795,-8.136,0.0742,150.006,1,1,0.06,4,72,5374075
+Eso Pranbharan,Arundhati Holme Chowdhury|Bitu Samajpati,/artist/arundhati-holme-chowdhury|/artist/bitu-samajpati,03:00,Bengali,11-02-2007,0.04,0,0.288,0.576,-10.179,0.1,150.215,1,0,0.051,4,28,3797186
+Ami Aaj Bhebechhi Mone,Hemant Kumar,/artist/hemanta-mukherjee,03:03,Bengali,09-03-2017,0.33,0.271,0.063,0.436,-13.258,0.09,150.098,0,5,0.0159,4,91,5370058
+Baro Eka Laage,Manna Dey,/artist/manna-dey,03:31,Bengali,08-03-2016,0.29,0.02,0.18,0.572,-5.582,0.0015,149.907,0,0,0.1,4,84,7963805
+Nohi Jantra,Anup Ghoshal,/artist/anup-ghoshal-1,04:26,Bengali,07-03-2014,0.81,0.332,0.616,0.03,-6.629,0.015,150.004,0,1,0.0866,4,56,7993992
+Pranbhara Swapna,Kishore Kumar|Chandrani Mukherjee,/artist/kishore-kumar|/artist/chandrani-mukherjee,04:25,Bengali,07-11-2014,0.28,0.52,0.642,0.642,-3.31,0.0242,150.048,0,5,0.098,4,38,9041892
+Sabar Aarale,Lata Mangeshkar,/artist/lata-mangeshkar,04:53,Bengali,11-03-2015,0.74,0.083,0.698,0.079,-13.406,0.004,155.056,0,1,0.05,4,89,7078851
+Tapur Tupur Sara Dupur,Aarti Mukherji,/artist/aarti-mukherji,02:47,Bengali,07-04-2007,0.76,0.23,0.549,0.189,-4.502,0.028,149.937,1,8,0.0614,4,40,8393641
+Amay Bolo Na Gahite,Suchitra Mitra,/artist/suchitra-mitra,05:01,Bengali,07-03-2000,0.46,0.335,0.017,0.775,-6.526,0.04,154.966,0,5,0.01,4,59,3631777
+Ore Sujan Naiya,R. D. Burman,/artist/r-d-burman,02:17,Bengali,07-11-2012,0.14,0.74,0.119,0.229,-2.115,0.033,149.98,1,3,0.0676,4,48,5282138
+Aami Dasyir Sathey Kori Dosti,Manna Dey,/artist/manna-dey,02:29,Bengali,08-09-2010,0.68,0.095,0.034,0.857,-12.842,0.0517,149.99,0,11,0.08,4,41,5704715
+Na Na Emon Korey,Asha Bhosle,/artist/asha-bhosle-1,02:05,Bengali,04-10-2011,0.32,0.59,0.106,0.437,-4.125,0.1,149.902,0,1,0.039,4,81,9753411
+Katha Hoyechhilo,Asha Bhosle,/artist/asha-bhosle-1,04:51,Bengali,12-02-2003,0.44,0.874,0.616,0.135,-10.765,0.079,150.068,1,1,0.01,4,95,5837747
+Pathey Chhile Jetey,Debabrata Biswas,/artist/debabrata-biswas,03:28,Bengali,04-05-2011,0.38,0.52,0.605,0.796,-13.4,0.09,149.975,0,4,0.09,4,42,5683501
+Jakhan Porbe Na Mor Payer Chinha,Hemant Kumar,/artist/hemanta-mukherjee,02:45,Bengali,07-05-2002,0.81,0.263,0.403,0.971,-11.751,0.04,149.972,0,2,0,4,67,11271361
+Kana Machhi Bhon Bhon,Antara Chwdhury|Sabita Chowdhury,/artist/antara-chwdhury|/artist/sabita-chowdhury,03:11,Bengali,03-08-2013,0.24,0.91,0.744,0.561,-13.581,0.055,150.04,0,5,0.07,4,87,1420122
+Dui Naukaye Diya Pa,Alka Yagnik,/artist/alka-yagnik,04:12,Bengali,10-05-2011,0.58,0.509,0.197,0.224,-2.206,0.01,147.888,0,6,0.052,4,67,7625737
+Shiter Shishir Bheja Raat,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:44,Bengali,09-11-2003,0.57,0.02,0.911,0.057,-12.987,0.0821,150.11,1,11,0.0483,4,46,3826591
+Mon Tomar Ei Bhram Gelo Na,Panna Lal Bhattacharjee,/artist/panna-lal-bhattacharjee,03:08,Bengali,01-07-2002,0.33,0.862,0.717,0.477,-9.95,0.0227,149.923,1,0,0.0845,4,96,3135971
+Ami Tomar Preme Habo Sabar,Sagar Sen,/artist/sagar-sen,03:14,Bengali,01-10-2015,0.56,0.58,0.693,0.695,-3.256,0.006,149.977,0,0,0.045,4,28,4283601
+Mahabiswey Mahabiswey,Debabrata Biswas,/artist/debabrata-biswas,02:57,Bengali,08-02-2002,0.13,0.916,0.008,0.209,-7.465,0.0472,154.895,1,7,0.0226,4,63,8047358
+Priyotamo Ki Likhi Tomay,Lata Mangeshkar,/artist/lata-mangeshkar,03:36,Bengali,05-08-2005,0.26,0.96,0.668,0.679,-4.873,0.03,149.954,0,11,0.048,4,84,860873
+O Bideshi Bandhu,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,04:35,Bengali,11-03-2016,0.67,0.722,0.164,0.065,-2.422,0.05,150.068,0,7,0.07,4,86,4596905
+Nayan Chherey Geley,Debabrata Biswas,/artist/debabrata-biswas,03:29,Bengali,02-05-2018,0.61,0.27,0.714,0.042,-9.066,0.0766,150.087,0,1,0.009,4,100,108677
+Aaro Katodin Ami Khunjechhi Tomake,Aarti Mukherji,/artist/aarti-mukherji,02:47,Bengali,03-09-2009,0.45,0.175,0.529,0.626,-7.685,0.036,154.966,0,9,0.0625,4,85,3045470
+Kalyankarini Saptanadi Bhagini,Chandrabali Rudra Dutta,/artist/chandrabali-rudra-dutta,03:43,Bengali,08-04-2015,0.46,0.05,0.83,0.197,-8.245,0.0418,149.912,0,9,0.09,4,29,3675696
+Shono Go Dakhin Hawa,S. D. Burman,/artist/sdburman,03:17,Bengali,11-07-2016,0.53,0.499,0.247,0.411,-7.813,0.009,150.036,0,11,0.03,4,84,10053081
+Prem Kise Hoy,Asha Bhosle,/artist/asha-bhosle-1,03:52,Bengali,06-06-2002,0.41,0.6,0.044,0.54,-13.461,0.082,149.949,0,9,0.0107,4,60,9998292
+King Of The Ghosts Gives 3 Boons,Satyajit Ray,/artist/satyajit-ray,01:37,Bengali,10-05-2022,0.43,0.254,0.252,0.536,-13.247,0.04,150.055,0,5,0.071,4,88,1599427
+Kon Pakhi Dhara Dite Chaaye,Hemant Kumar,/artist/hemanta-mukherjee,03:23,Bengali,06-06-2022,0.75,0.98,0.556,0.785,-13.445,0.0103,149.906,0,9,0.0343,4,94,10399741
+Bharaa Thaak Smritisudhaay,Debabrata Biswas,/artist/debabrata-biswas,03:23,Bengali,09-10-2001,0.17,0.3,0.678,0.207,-5.345,0.04,149.989,1,1,0.058,4,91,545728
+Naam Rekhechhi Bonolata,Shyamal Mitra,/artist/shyamal-mitra,03:03,Bengali,07-09-2014,0.4,0.29,0.299,0.803,-13.457,0.02,150.02,1,8,0.0883,4,71,9205070
+Ami Apon Koriya Chahini,Asha Bhosle,/artist/asha-bhosle-1,03:55,Bengali,06-04-2004,0.92,0.207,0.873,0.374,-6.266,0.044,152.949,0,11,0.091,4,91,7024662
+"Barne, Gandhe, Chhande, Gitite",S. D. Burman,/artist/sdburman,03:13,Bengali,02-03-2018,0.81,0.81,0.147,0.039,-10.978,0.0073,150.008,1,1,0.0453,4,44,3920718
+Hay Go Amar Mon Mane Na,Asha Bhosle,/artist/asha-bhosle-1,03:16,Bengali,12-04-2016,0.9,0.061,0.04,0.779,-4.474,0.024,149.986,1,0,0.065,4,80,6028466
+Darjeeling Jatra,R. D. Burman,/artist/r-d-burman,03:08,Bengali,04-05-2016,0.06,0.83,0.712,0.813,-8.99,0.05,149.973,0,4,0.02,4,31,3148695
+Ja Peyechhi,Amit Kumar,/artist/amit-kumar,03:21,Bengali,09-01-2012,0.13,0.082,0.37,0.198,-12.431,0.058,150.049,0,9,0.033,4,58,8985247
+Se To Elo Na,Kishore Kumar,/artist/kishore-kumar,03:09,Bengali,03-03-2004,0.05,0.65,0.59,0.576,-4.618,0.0877,148.005,0,6,0.05,4,52,7435566
+Na Na Jeo Na,Manna Dey,/artist/manna-dey,03:05,Bengali,11-05-2017,0.36,0.145,0.311,0.193,-8.753,0.07,149.965,0,2,0.08,4,27,588717
+Ghoomer,Om Pawar|Shamim|Rehana Mirza|Shiv Ram|Master Alauddin|Shobha Purohitanand Kuar,/artist/om-pawar|/artist/shamim|/artist/rehana-mirza|/artist/shiv-ram|/artist/master-alauddin-7|/artist/shobha-purohitanand-kuar-3,03:26,Bengali,05-01-2008,0.76,0.27,0.005,0.573,-3.115,0.05,151.995,1,8,0.0589,4,44,7309156
+Pratidhwani Suni,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:21,Bengali,01-06-2001,0.07,0.053,0.517,0.843,-5.69,0.04,150.132,0,2,0.03,4,45,7671764
+Charu Theme,various,/artist/various-2,01:04,Bengali,02-09-2016,0.81,0.82,0.75,0.357,-12.569,0.07,150.005,0,4,0.087,4,86,74764
+Ke Jay Amritadhamjatri,Ritu Guha,/artist/ritu-guha,02:58,Bengali,09-01-2000,0.29,0.22,0.291,0.341,-7.665,0.032,149.913,0,10,0.0706,4,35,10462426
+Badal Kalo Ghirlo Go,Lata Mangeshkar,/artist/lata-mangeshkar,03:09,Bengali,08-10-2013,0.7,0.47,0.283,0.686,-13.57,0.03,150.118,0,0,0.0805,4,45,9661389
+Baro Asha Kare,Asha Bhosle,/artist/asha-bhosle-1,03:43,Bengali,11-02-2005,0.56,0.412,0.115,0.066,-6.594,0.075,149.991,0,1,0.0686,4,80,8419335
+Onek Khujechi Khuje Payine,Mohammad Aziz,/artist/mohammad-aziz,06:16,Bengali,07-08-2003,0.14,0.96,0.537,0.596,-10.397,0.05,155.094,0,1,0.013,4,99,8473940
+Aar Nai Je Deri,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,02:38,Bengali,04-04-2021,0.67,0.99,0.538,0.077,-11.327,0.085,149.974,0,11,0.05,4,84,4653755
+Rai Jago Rai Jago Bole,Amar Pal,/artist/amar-pal,03:01,Bengali,09-05-2015,0.91,0.03,0.563,0.618,-5.76,0.0019,149.984,0,9,0.039,4,69,10762717
+"Ogo Kangal, Amare Kangal Karechho",Ritu Guha,/artist/ritu-guha,03:44,Bengali,06-06-2005,0.18,0.041,0.663,0.247,-7.438,0.016,150.027,0,9,0.0949,4,60,6783743
+Play Out [ Sonar Kella ],various,/artist/various-2,45:26:00,Bengali,11-05-2020,0.53,0.93,0.149,0.99,-5.828,0.0218,150.034,1,0,0.017,4,82,5804699
+Eto Kachhe Dujane,Kishore Kumar,/artist/kishore-kumar,03:53,Bengali,07-07-2017,0.44,0.755,0.964,0.443,-8.35,0.073,150.045,0,5,0.0798,4,91,3393106
+Amra Korbo Joy,Bhupen Hazarika|Chorus,/artist/dr-bhupen-hazarika-2|/artist/chorus,04:13,Bengali,09-11-2012,0.33,0.47,0.329,0.848,-10.147,0.094,150.082,1,2,0.0155,4,38,83190
+E Jiban Premeri Ek Patabahar Kabita,Kishore Kumar,/artist/kishore-kumar,04:58,Bengali,04-06-2016,0.34,0.087,0.586,0.161,-2.575,0.02,149.942,0,5,0.03,4,77,7789331
+Megh Aar Kuyashay Hok,Kishore Kumar|Aarti Mukherji,/artist/kishore-kumar|/artist/aarti-mukherji,03:29,Bengali,11-05-2011,0.4,0.28,0.895,0.351,-11.003,0.0566,155.094,1,0,0.09,4,99,4783726
+Jare Ja Tel Dega,Purna Das Baul,/artist/purna-das-baul,03:37,Bengali,05-09-2010,0.58,0.926,0.085,0.933,-4.885,0.089,150.212,0,5,0.0254,4,94,6408243
+Amar Bela Je Jai,Asha Bhosle,/artist/asha-bhosle-1,02:36,Bengali,11-08-2005,0.01,0.05,0.392,0.998,-12.403,0.0554,149.968,0,4,0.05,4,68,5542032
+Badhu Kon Alo (Part 2),Arundhati Holme Chowdhury,/artist/arundhati-holme-chowdhury,04:04,Bengali,09-10-2015,0.66,0.322,0.695,0.999,-6.486,0.01,149.743,0,6,0.09,4,94,6662410
+Shudhu Jaoya Aasa,Arundhati Holme Chowdhury,/artist/arundhati-holme-chowdhury,03:47,Bengali,11-05-2007,0.75,0.31,0.151,0.476,-10.416,0.093,149.986,1,5,0.0927,4,61,8107942
+Chanchal Mon Anmona Hoy,Lata Mangeshkar|Hemant Kumar,/artist/lata-mangeshkar|/artist/hemanta-mukherjee,02:56,Bengali,02-05-2009,0.15,0.64,0.587,0.075,-12.833,0.09,149.866,1,8,0.0899,4,29,6661514
+Bhola Mon Moner Katha,Shyamal Mitra,/artist/shyamal-mitra,03:35,Bengali,12-02-2023,0.99,0.14,0.919,0.603,-3.227,0.0988,150.027,0,7,0.0195,4,65,1859589
+Amar Andhar Bhubane,Kishore Kumar,/artist/kishore-kumar,04:48,Bengali,11-07-2002,0.69,0.947,0.286,0.678,-13.777,0.002,149.892,1,1,0.067,4,41,7254184
+Banshi Keno Hai,Lata Mangeshkar,/artist/lata-mangeshkar,03:18,Bengali,10-03-2003,0.86,0.49,0.745,0.753,-13.406,0,151.288,0,11,0.0062,4,52,1103526
+Hey Priyotama Ami To Tomay,Kishore Kumar,/artist/kishore-kumar,05:11,Bengali,04-04-2018,0.49,0.914,0.214,0.039,-10.129,0.0317,149.288,0,10,0.04,4,30,9821959
+"Sakhi, Bhabana Kahare Bale",Sumitra Sen,/artist/sumitra-sen,03:12,Bengali,03-09-2022,0.61,0.82,0.996,0.591,-6.659,0.089,150.045,1,10,0.003,4,59,5759927
+Klaanti Aamaar Kshamaa Koro,Debabrata Biswas,/artist/debabrata-biswas,03:02,Bengali,10-04-2002,0.01,0.589,0.136,0.498,-13.823,0.07,153.067,0,11,0.02,4,37,7811987
+Tunhu Mamo Monpran Hey (Stereo),Sandhya Mukherjee,/artist/sandhya-mukherjee,03:28,Bengali,05-04-2002,0.25,0.87,0.925,0.805,-11,0.0532,150.072,0,7,0.021,4,59,7522560
+Jabo Ki Jabo Na,Asha Bhosle,/artist/asha-bhosle-1,03:02,Bengali,08-09-2018,0.09,0.415,0.037,0.573,-13.01,0.03,149.967,0,5,0.0583,4,70,4705077
+Dekhe Elam Ruper Agun,Manna Dey,/artist/manna-dey,02:33,Bengali,07-05-2005,0.62,0.51,0.163,0.81,-3.1,0.017,149.879,0,6,0.067,4,39,7432587
+E Ki Holo,Kishore Kumar,/artist/kishore-kumar,03:22,Bengali,10-02-2013,0.68,0.408,0.236,0.399,-4.843,0.059,149.962,0,5,0.0585,4,80,7032047
+Gharete Bhramar Elo,Sumitra Sen,/artist/sumitra-sen,04:00,Bengali,09-12-2007,0.05,0.75,0.37,0.603,-5.048,0.0316,149.527,0,7,0.05,4,60,10832358
+Ma Tui Amay Daya Korbi Ki Na Bal,Manna Dey,/artist/manna-dey,02:55,Bengali,10-12-2022,0.43,0.195,0.108,0.662,-9.182,0.0163,150.032,0,9,0.05,4,28,6748488
+Aaj Bikeler Dake Tomar Chithi,Banasree Sengupta,/artist/banasree-sengupta,03:29,Bengali,06-03-2022,0.16,0.32,0.594,0.531,-3.027,0.0927,149.979,0,10,0.073,4,48,5991045
+Aaro Bhalo Hoto,Hemant Kumar,/artist/hemanta-mukherjee,03:04,Bengali,01-04-2007,0.17,0.164,0.878,0.263,-6.678,0.0972,150.132,0,0,0.08,4,58,2938354
+Tumi Je Amar,Asha Bhosle,/artist/asha-bhosle-1,03:41,Bengali,05-01-2007,0.27,0.14,0.482,0.917,-3.114,0.0469,150.02,0,9,0.0504,4,38,2131292
+Amar Khela Jakhon Chhilo Tomar Sane,Hemant Kumar,/artist/hemanta-mukherjee,03:23,Bengali,06-06-2018,0.71,0.691,0.872,0.551,-3.816,0.0275,149.922,0,1,0.008,4,41,3367521
+Shono Ei To Samay,R. D. Burman,/artist/r-d-burman,04:58,Bengali,09-03-2008,0.06,0.99,0.052,0.656,-9.441,0.0638,149.989,1,8,0.0246,4,93,9999257
+Ami Gun Kormu Ekjonare,Anuradha Paudwal,/artist/anuradha-paudwal-2,03:52,Bengali,11-06-2021,0.73,0.47,0.498,0.737,-7.933,0.017,152.865,0,6,0.1,4,49,6529657
+Nibhrita Praner,Debabrata Biswas,/artist/debabrata-biswas,02:48,Bengali,05-12-2021,0.26,0.82,0.348,0.674,-2.725,0.0868,149.963,0,11,0.0646,4,95,11091188
+Dinguli Mor Sonar Khanchay Roilo Na,Dwijen Mukherjee,/artist/dwijen-mukherjee,03:26,Bengali,06-07-2021,0.95,0.186,0.813,0.275,-10.608,0.0756,149.979,0,10,0.044,4,66,6533652
+Keno Dure Thako,Hemant Kumar,/artist/hemanta-mukherjee,02:48,Bengali,07-01-2005,0.14,0.22,0.723,0.103,-4.426,0.003,147.987,1,8,0.009,4,37,10127005
+Jabar Belay Pichhu Theke,Lata Mangeshkar,/artist/lata-mangeshkar,03:23,Bengali,04-09-2001,0.82,0.617,0.049,0.839,-7.192,0.094,155.022,0,1,0.04,4,43,627210
+Tomake Shonate E Gaan,Lata Mangeshkar,/artist/lata-mangeshkar,03:31,Bengali,07-04-2001,0.85,0.18,0.956,0.354,-10.745,0.03,149.943,1,6,0.072,4,88,5472870
+Akash Keno Daake,Kishore Kumar,/artist/kishore-kumar,03:14,Bengali,04-09-2013,0.41,0.954,0.243,0.065,-10.237,0.004,149.811,0,10,0.0407,4,55,278287
+Jani Jani Tumi Esechho E Pathe,Sudeshna Chatterjee,/artist/sudeshna-chatterjee,04:22,Bengali,01-06-2016,0.58,0.87,0.239,0.403,-4.882,0.002,150.506,0,5,0.0992,4,72,379367
+Hey Mor Debota,Debabrata Biswas,/artist/debabrata-biswas,03:35,Bengali,04-06-2006,0.96,0.338,0.593,0.069,-9.294,0,149.84,1,5,0.04,4,98,8090293
+Jodi Baran Karo Tabe Gabo Na,Lata Mangeshkar,/artist/lata-mangeshkar,03:29,Bengali,04-10-2013,0.57,0.85,0.985,0.18,-7.495,0.079,149.609,1,1,0.07,4,82,8128132
+Ami Jani Na,Asha Bhosle|Abhijeet Bhattacharya,/artist/asha-bhosle-1|/artist/abhijeet-1,04:39,Bengali,11-10-2018,0.7,0.63,0.575,0.962,-4.17,0.0615,149.95,0,8,0.069,4,49,6412281
+Aaro Kachakachi,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,03:35,Bengali,05-05-2018,0.88,0.97,0.074,0.626,-12.568,0.0919,150.026,0,11,0,4,28,10629936
+Ogo Abar Natun Kore,Mukesh,/artist/mukesh,03:22,Bengali,01-09-2017,0.11,0.359,0.377,0.358,-9.733,0.0883,149.98,0,6,0.0118,4,72,7135973
+Deep Nibhey Gechhey,Indrani Sen,/artist/indrani-sen,03:18,Bengali,09-11-2007,0.07,0.74,0.736,0.413,-6.051,0.0823,149.984,1,8,0.047,4,47,7924014
+Mon Mor Megher Sangi,Hemant Kumar,/artist/hemanta-mukherjee,03:05,Bengali,01-12-2020,0.91,0.597,0.11,0.448,-3.785,0.0157,155.021,1,1,0.07,4,60,6428808
+Aachhey Dukkha,Debabrata Biswas,/artist/debabrata-biswas,02:47,Bengali,05-01-2009,0.87,0.31,0.087,0.974,-4.173,0.088,154.942,0,0,0.083,4,49,2260066
+Saat Sakaale,Lata Mangeshkar,/artist/lata-mangeshkar,03:55,Bengali,04-04-2019,0.1,0.126,0.003,0.054,-7.53,0.1,154.966,1,2,0.1,4,89,6543924
+Jakhan Ami Anek Dure,Kishore Kumar,/artist/kishore-kumar,06:11,Bengali,02-06-2016,0.21,0.1,0.879,0.406,-5.804,0.0322,150.015,1,10,0.02,4,63,8745994
+Jodi Baran Karo Tabe Gabo Na,Lata Mangeshkar,/artist/lata-mangeshkar,03:29,Bengali,06-11-2009,0.08,0.576,0.788,0.472,-9.133,0.05,150.031,1,5,0.0619,4,68,4764762
+Prano Bhariye Trisha Hariye,Debabrata Biswas,/artist/debabrata-biswas,03:04,Bengali,08-02-2018,0.03,0.87,0.263,0.177,-13.115,0.0989,155.064,0,9,0.0345,4,59,10207675
+Mor Bhabonare (Female),SAHANA BAJPEI,/artist/sahana-bajpei,04:07,Bengali,09-05-2017,0.64,0.288,0.219,0.398,-4.047,0.069,149.942,0,9,0.09,4,66,6544369
+Hai Re Poda Banshi,Lata Mangeshkar,/artist/lata-mangeshkar,06:32,Bengali,12-03-2021,0.19,0.26,0.904,0.685,-6.614,0.0422,154.946,0,8,0.03,4,83,6488276
+Tomar Oi Dhupchhaya Rang,Shyamal Mitra,/artist/shyamal-mitra,03:19,Bengali,07-08-2015,0.28,0.222,0.109,0.452,-7.827,0.0613,150.199,0,11,0.06,4,36,11199686
+Je Chhilo Amar Swapancharini,Srikanto Acharya,/artist/srikanto-acharya,03:45,Bengali,08-12-2020,0.27,0.24,0.085,0.954,-10.69,0.05,150.172,0,1,0.044,4,47,8764251
+Sri Sri Krishnalila,RADHA RANI,/artist/radha-rani,42:59:00,Bengali,12-09-2003,0.89,0.352,0.243,0.95,-10.022,0.08,149.186,0,7,0.076,4,71,957586
+Dinguli Mor,Debabrata Biswas,/artist/debabrata-biswas,03:05,Bengali,12-10-2020,0.59,0.74,0.461,0.384,-10.565,0.0259,149.835,1,5,0.0797,4,38,6387993
+Mora Dujonai Rajar Jamai,Anup Ghoshal,/artist/anup-ghoshal-1,05:09,Bengali,02-12-2001,0.84,0.903,0.842,0.514,-3.147,0.06,150.08,0,4,0.1,4,63,5736149
+Amay Nahe Go,Feroza Begum,/artist/feroza-begum,04:13,Bengali,11-04-2018,0.32,0.88,0.867,0.79,-2.264,0.0954,149.984,1,7,0.07,4,35,4241581
+Naam Dhore Kejano,Alka Yagnik,/artist/alka-yagnik,05:35,Bengali,05-01-2010,0.73,0.141,0.516,0.709,-12.572,0.036,149.978,0,2,0.012,4,74,889547
+Shai Pakhitar,Alka Yagnik,/artist/alka-yagnik,04:59,Bengali,02-09-2012,0.21,0.62,0.861,0.038,-3.464,0.1,149.919,1,1,0.03,4,69,9677791
+Deko Naa Aamarey,Indrani Sen,/artist/indrani-sen,04:05,Bengali,01-01-2007,0.27,0.198,0.293,0.065,-11.639,0.07,150.017,0,7,0.092,4,29,7931938
+O Amar Pran Sajani (Champabothi Kanya),Lata Mangeshkar,/artist/lata-mangeshkar,04:59,Bengali,09-12-2016,0.86,0.75,0.2,0.382,-6.367,0.047,155.058,0,5,0.0444,4,39,8222942
+Phote Je Rakta Golap,Kishore Kumar,/artist/kishore-kumar,03:26,Bengali,10-03-2003,0.09,0.028,0.015,0.012,-13.668,0.073,150.002,0,10,0.055,4,43,1718485
+Bhulo Na Pratham Se Din,Lata Mangeshkar,/artist/lata-mangeshkar,05:00,Bengali,06-05-2006,0.54,0.25,0.35,0.964,-8.58,0.0754,150.002,0,9,0.098,4,93,1520524
+Jadi Akash Hoto Ankhi,Aarti Mukherji,/artist/aarti-mukherji,02:57,Bengali,04-10-2017,0.66,0.906,0.506,0.764,-2.361,0.0156,150.076,1,8,0.0963,4,100,11200701
+Tung Tung Tung,C.L.T.,/artist/clt-7,03:24,Bengali,06-09-2021,0.03,0.23,0.141,0.852,-11.415,0.05,149.94,1,8,0.03,4,86,5287003
+Habuchandra Raja,Antara Chwdhury,/artist/antara-chwdhury,05:32,Bengali,06-02-2016,0.25,0.285,0.618,0.953,-13.083,0.067,148.231,1,7,0.09,4,35,2118940
+E Mon Amar Hariye Jay,Asha Bhosle,/artist/asha-bhosle-1,04:52,Bengali,12-12-2002,0.03,0.29,0.68,0.621,-13.457,0.05,150.034,1,2,0.1,4,100,2908352
+Rangiye Diye Jao,Hemant Kumar,/artist/hemanta-mukherjee,02:21,Bengali,02-12-2004,0.04,0.536,0.386,0.11,-10.987,0.1,149.91,0,10,0.0792,4,72,1371305
+Tomar Kaache Jabo,Alka Yagnik,/artist/alka-yagnik,04:55,Bengali,10-02-2002,0.39,0.26,0.576,0.321,-2.838,0.0519,149.942,1,2,0.085,4,48,5117657
+Sei Raate Raat Chhilo Purnima,Kishore Kumar,/artist/kishore-kumar,04:05,Bengali,02-01-2020,0.64,0.281,0.972,0.112,-4.336,0.0884,149.998,1,7,0.0258,4,54,8023177
+Jafrani Rang Akashe,Asha Bhosle,/artist/asha-bhosle-1,04:05,Bengali,06-07-2011,0.96,0.06,0.285,0.354,-13.214,0.03,154.993,1,1,0.03,4,79,11260619
+Tomar Pujar Chhaley,Debabrata Biswas,/artist/debabrata-biswas,03:06,Bengali,10-12-2022,0.01,0.879,0.673,0.019,-4.763,0.03,150.105,0,4,0,4,58,10294135
+Shyam Roop Dhariya,S. D. Burman,/artist/sdburman,02:53,Bengali,10-06-2001,0.72,0.64,0.333,0.269,-11.266,0.1,150.022,1,5,0.0599,4,43,283740
+O Jhar Jhar Jharna,Lata Mangeshkar,/artist/lata-mangeshkar,03:11,Bengali,07-01-2011,0.94,0.345,0.746,0.311,-7.585,0.025,154.971,1,0,0.089,4,51,3409747
+"Madhur, Tomar Shesh Jey Na Pai",Indrani Sen,/artist/indrani-sen,04:44,Bengali,06-02-2003,0.24,0.17,0.211,0.715,-12.304,0.098,155.039,0,11,0.099,4,50,11277602
+Ami Jwalbo Na Mor,Indrani Sen,/artist/indrani-sen,04:04,Bengali,02-06-2010,0.71,0.057,0.998,0.161,-5.248,0.0797,149.935,1,7,0.018,4,56,749788
+Kar Milano Chao Birahi,Indrani Sen,/artist/indrani-sen,03:53,Bengali,01-02-2002,0.34,0.4,0.136,0.104,-2.373,0.0622,149.762,1,0,0.073,4,50,11071809
+Pran Chay Chokkhu Na Chay,Sagar Sen,/artist/sagar-sen,02:05,Bengali,04-11-2014,0.36,0.093,0.655,0.713,-8.187,0.0954,149.743,0,5,0.062,4,47,5173699
+Ki Rupe,Bitu Samajpati|Others|Sanghamitra Banerjee,/artist/bitu-samajpati|/artist/others|/artist/sanghamitra-banerjee-1,03:03,Bengali,12-08-2008,0.46,0.33,0.639,0.666,-9.2,0.0555,149.984,1,1,0.07,4,27,7161012
+Amar Ga Chhamchham Kare,Asha Bhosle|Bappi Lahiri,/artist/asha-bhosle-1|/artist/bappi-lahiri,05:01,Bengali,04-06-2002,0.78,0.101,0.032,0.536,-3.306,0.04,149.992,0,2,0.048,4,58,3371670
+Esse Chhile Tobu,Debabrata Biswas,/artist/debabrata-biswas,02:53,Bengali,04-12-2013,0.15,0.62,0.376,0.792,-6.434,0,149.949,1,5,0.07,4,81,7795433
+Ore Mon Pakhi,Lata Mangeshkar,/artist/lata-mangeshkar,03:13,Bengali,06-03-2002,0.13,0.094,0.966,0.447,-12.753,0.0893,155.078,0,5,0.0311,4,57,2759707
+Bare Bare Ke Jeno Dake,Manabendra Mukherjee,/artist/manabendra-mukherjee,03:16,Bengali,11-02-2005,0.4,0.76,0.817,0.065,-9.863,0.0577,150.011,0,0,0,4,74,9690977
+Beshi Ki Boli Jakhon Boli,Bappi Lahiri|Asha Bhosle,/artist/bappi-lahiri|/artist/asha-bhosle-1,07:22,Bengali,09-08-2005,0.83,0.017,0.418,0.069,-8.104,0.05,149.671,0,7,0.1,4,65,4040471
+Chirodin Kancha Bansher,Swapan Basu,/artist/swapan-basu,06:32,Bengali,07-02-2008,0.93,0.48,0.056,0.616,-13.763,0.0055,150.083,0,10,0.04,4,48,9645643
+Chalo Chole Jai Haate Haat Rekhe,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,03:06,Bengali,08-02-2003,0.62,0.062,0.219,0.213,-10.854,0.01,150.03,0,11,0.0843,4,53,9340619
+Bandha Moner Duar Diyechhi,Asha Bhosle,/artist/asha-bhosle-1,03:29,Bengali,06-05-2015,0.75,0.4,0.59,0.876,-10.521,0.041,150.025,0,4,0.0114,4,55,1838759
+Haowa Megh Saraye Phul Jharaye,Kishore Kumar,/artist/kishore-kumar,04:46,Bengali,12-11-2010,0.2,0.726,0.979,0.944,-5.676,0.09,149.981,1,7,0.0939,4,48,10819862
+Khukumani Go Sonaa,Antara Chwdhury|Sabita Chowdhury,/artist/antara-chwdhury|/artist/sabita-chowdhury,03:15,Bengali,03-03-2007,0.75,0.9,0.782,0.169,-9.53,0.0319,149.913,1,2,0.097,4,87,3709329
+Diner Shese Ghumer Deshe,Hemant Kumar,/artist/hemanta-mukherjee,06:02,Bengali,11-02-2009,0.51,0.367,0.922,0.78,-3.51,0.04,154.893,0,1,0,4,74,1857336
+Tari Amar Hathat Dubey Jai,Indrani Sen,/artist/indrani-sen,03:57,Bengali,04-12-2011,0.47,0.79,0.812,0.937,-3.372,0.03,150.052,0,5,0.0976,4,37,6547098
+Ami Tomay Jato Shuniyechhilem Gaan,Hemant Kumar,/artist/hemanta-mukherjee,02:47,Bengali,10-03-2005,0.56,0.844,0.952,0.226,-13.337,0.0257,149.988,0,11,0,4,95,7476370
+Tomar Dake Sara Dite,Aarti Mukherji,/artist/aarti-mukherji,03:06,Bengali,03-08-2015,0.62,0.89,0.75,0.303,-7.058,0.09,149.983,0,7,0.09,4,37,5900993
+Ki Je Bhabi Elomelo,Asha Bhosle,/artist/asha-bhosle-1,03:21,Bengali,04-04-2002,0.41,0.364,0.328,0.762,-5.52,0.07,147.867,0,8,0.03,4,45,121650
+Ekta Gaan Likho Amar Janyo,Pratima Banerjee,/artist/pratima-banerjee,03:17,Bengali,03-05-2010,0.83,0.69,0.682,0.86,-13.998,0.0164,150.064,0,4,0.09,4,88,3401046
+Ei Agune Haat Rakho,Nachiketa Chakraborty,/artist/nachiketa-chakraborty,06:38,Bengali,11-11-2018,0.45,0.814,0.456,0.607,-10.418,0.02,149.986,0,5,0.0597,4,99,11058875
+Ami To Tomar Chirodiner Hnasi Kannar Sathi,Nirmal Mishra,/artist/nirmal-mishra,03:17,Bengali,02-02-2010,0.68,0.29,0.083,0.478,-3.848,0.02,154.915,0,4,0.0614,4,84,10371445
+Dekte Dekte Din Chole,Mahendra Kapoor,/artist/mahendra-kapoor,03:19,Bengali,03-06-2019,0.05,0.11,0.097,0.112,-9.262,0.003,154.989,0,1,0.045,4,37,11181293
+Amio Pather Mato,Hemant Kumar,/artist/hemanta-mukherjee,03:31,Bengali,04-10-2011,0.95,0.47,0.739,0.819,-11.654,0.02,150.934,0,4,0.09,4,66,3076738
+Dure Dure Kachhe Kachhe,Aarti Mukherji,/artist/aarti-mukherji,03:18,Bengali,09-06-2013,0.97,0.635,0.827,0.601,-5.902,0.049,153.13,0,5,0.03,4,60,292201
+Lakshmiti Dohai Tomar,Asha Bhosle,/artist/asha-bhosle-1,03:19,Bengali,03-09-2005,0,0.95,0.276,0.6,-13.436,0.001,150.034,1,1,0.079,4,89,9428569
+Ekhono Sarengita Bajchhe,Haimanti Shukla,/artist/haimanti-shukla,03:16,Bengali,07-09-2008,0.43,0.152,0.266,0.8,-6.663,0.063,150.024,0,4,0.033,4,53,5930759
+Angur Angur Chokh,Asha Bhosle,/artist/asha-bhosle-1,04:17,Bengali,04-03-2009,0.47,0.07,0.158,0.09,-7.757,0.0302,149.671,0,11,0.03,4,93,745467
+Je Jon Premer Bhav Jane Na,Runa Laila,/artist/runa-laila,02:44,Bengali,04-03-2016,0.26,0.695,0.987,0.211,-6.723,0.0895,155.066,0,6,0.039,4,100,1513302
+Orey Jay Naa Ki Jaanaa,Debabrata Biswas,/artist/debabrata-biswas,03:19,Bengali,06-06-2016,0.59,0.6,0.191,0.173,-7.359,0.006,149.96,0,6,0.0678,4,50,358572
+O Duti Ankhi Jeno,Hemant Kumar,/artist/hemanta-mukherjee,03:16,Bengali,07-02-2004,0.09,0.694,0.177,0.142,-5.11,0.0941,150.046,1,7,0.08,4,94,9490167
+Tumi Nirmal Karo Mangal Kare,Panna Lal Bhattacharjee,/artist/panna-lal-bhattacharjee,03:02,Bengali,07-03-2016,0.44,0.56,0.243,0.239,-13.702,0.04,149.034,0,7,0.067,4,72,11278148
+Nabo Anande Jago Aaji,Hemant Kumar,/artist/hemanta-mukherjee,02:36,Bengali,10-04-2012,0.99,0.369,0.853,0.766,-6.582,0.082,150.016,0,0,0.099,4,50,2887300
+Kaharba Noy Dadra Bajao,Manna Dey,/artist/manna-dey,04:00,Bengali,07-08-2022,0.81,0.17,0.314,0.922,-7.485,0.0339,150.472,1,5,0.03,4,64,8159978
+Amay Prashna Kare Neel Dhrubatara,Hemant Kumar,/artist/hemanta-mukherjee,03:15,Bengali,07-05-2001,0.25,0.384,0.526,0.128,-9.831,0.06,149.959,0,5,0.0043,4,29,5901419
+Banya Banya E Aranya,Aarti Mukherji,/artist/aarti-mukherji,03:45,Bengali,01-06-2005,0.75,0.05,0.963,0.373,-8.389,0.004,149.954,0,7,0.064,4,35,8743545
+Ki Gabo Ami Ki Shunabo,Aarti Mukherji,/artist/aarti-mukherji,03:32,Bengali,11-08-2013,0.13,0.365,0.339,0.332,-13.751,0.01,149.929,0,1,0.02,4,34,3135902
+Praaney Gaan Naai,Indrani Sen,/artist/indrani-sen,02:43,Bengali,11-05-2012,0.87,0.36,0.967,0.526,-11.375,0.02,150.05,0,5,0.01,4,52,8058593
+The Camel Ride,various,/artist/various-2,01:11,Bengali,11-10-2019,0.4,0.402,0.504,0.037,-9.858,0,150.073,0,9,0.02,4,100,1917654
+Dak Pathale Kaal Sakale,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,04:48,Bengali,12-04-2004,0.83,0.4,0.368,0.521,-12.28,0.01,149.967,1,6,0.07,4,82,9414904
+Tumi Esechhile Porshu,S. D. Burman,/artist/sdburman,03:17,Bengali,01-06-2009,0.92,0.81,0.016,0.322,-13.854,0.047,149.876,1,0,0.0718,4,71,10340146
+Jani Na Se Kon Sudur Pare,Haimanti Shukla,/artist/haimanti-shukla,03:18,Bengali,05-07-2017,0.73,0.04,0.17,0.164,-7.739,0.048,149.905,0,0,0.084,4,77,274785
+Tomar Kachhe- E- Bar,Debabrata Biswas,/artist/debabrata-biswas,02:59,Bengali,11-06-2004,0.27,0.401,0.066,0.93,-6.997,0.09,150.043,0,4,0.013,4,41,3074266
+Dil Dariyar Majhete,Purna Das Baul,/artist/purna-das-baul,02:54,Bengali,02-05-2008,0.93,0.23,0.657,0.838,-12.558,0.0664,150.029,0,10,0.0085,4,89,3940617
+Jani Nai Go Sadhan,Debabrata Biswas|Others,/artist/debabrata-biswas|/artist/others,03:02,Bengali,09-12-2008,0.3,0.899,0.787,0.119,-7.328,0.065,150.694,0,5,0.0851,4,56,7759347
+Ei Je Nadi Jay Sagare,Kishore Kumar,/artist/kishore-kumar,03:29,Bengali,01-02-2005,0.33,0.61,0.246,0.328,-7.655,0.06,154.927,0,7,0.02,4,93,9872612
+Kar Manjir Baje Rini,Shyamal Mitra,/artist/shyamal-mitra,03:04,Bengali,05-07-2015,0.87,0.511,0.243,0.014,-9.737,0.0123,150.004,0,5,0.1,4,80,5429158
+Khonpar Ei Golap Diye,Sivaji Chatterjee,/artist/sivaji-chatterjee,03:41,Bengali,03-07-2018,0.31,0.17,0.527,0.032,-10.861,0.0934,153.02,1,10,0.089,4,30,4405676
+Tumi Jey Surer Aagun,Indrani Sen,/artist/indrani-sen,02:47,Bengali,03-08-2020,0.85,0.83,0.955,0.741,-11.629,0.02,154.048,1,7,0.07,4,55,5397285
+Bharat Amar Bharat Barsha,Manna Dey,/artist/manna-dey,03:25,Bengali,04-06-2006,0.36,0.43,0.268,0.48,-7.407,0.036,155.002,0,8,0.08,4,70,10301967
+Din Jaye Raat Jaye,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:40,Bengali,08-05-2002,0.02,0.539,0.141,0.115,-13.377,0,150.005,1,8,0.058,4,62,7956506
+Bahudiner Agete Godhulir Belate,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:39,Bengali,12-01-2002,0.58,0.19,0.268,0.489,-7.603,0.096,149.997,0,8,0.04,4,27,7440577
+Amar Sesh Paraner Kodi,Debabrata Biswas,/artist/debabrata-biswas,02:57,Bengali,10-06-2017,0.73,0.851,0.391,0.859,-5.395,0.02,155.081,0,5,0.0773,4,95,3896430
+Aaj Mon Cheyechhe,Lata Mangeshkar,/artist/lata-mangeshkar,03:17,Bengali,09-04-2021,0.29,0.14,0.377,0.849,-13.606,0.01,150.033,1,2,0.07,4,63,6585880
+Ei Je Heri Go Debi Amari,Hemant Kumar,/artist/hemanta-mukherjee,01:38,Bengali,05-08-2000,0.18,0.537,0.892,0.22,-11.726,0.09,149.841,0,1,0.0552,4,60,7436759
+Jiya Manat Na - Thumree,Mahendra Kapoor,/artist/mahendra-kapoor,06:11,Bengali,09-08-2007,0.05,0.55,0.756,0.116,-3.934,0.037,149.7,0,11,0.019,4,51,8852433
+Ei Bhabey,Kumar Sanu,/artist/kumar-sanu,04:00,Bengali,09-02-2004,0.67,0.316,0.875,0.538,-9.905,0.0189,149.998,0,5,0.08,4,96,10420573
+Akaraney Akaley Mor,Debabrata Biswas,/artist/debabrata-biswas,03:07,Bengali,05-02-2016,0.27,0.69,0.091,0.151,-4.167,0.07,151.705,1,7,0.041,4,83,5271787
+Se To Elo Na,Kishore Kumar,/artist/kishore-kumar,03:09,Bengali,11-07-2018,0.58,0.534,0.158,0.312,-4.197,0.024,149.904,1,1,0.0056,4,74,1496281
+Ei Sundar Swarnali Sandhaye,Geeta Dutt,/artist/geeta-dutt,03:25,Bengali,03-07-2014,0.73,0.25,0.866,0.753,-6.869,0.0394,150.03,0,8,0.04,4,52,10962550
+Payal Baje Chham Chham Chham - Thumree,Mahendra Kapoor,/artist/mahendra-kapoor,06:12,Bengali,06-02-2019,0.44,0.804,0.499,0.433,-4.366,0.077,149.955,0,11,0.08,4,90,1237422
+Chinechhi Chinechhi Tomar E Mon,Aarti Mukherji,/artist/aarti-mukherji,03:13,Bengali,09-07-2019,0.27,0.4,0.212,0.836,-11.14,0.056,149.947,1,0,0.1,4,45,3649876
+Bhalobashar Moto Bhalo Kauke,Udit Narayan,/artist/udit-narayan,05:20,Bengali,02-04-2003,0.01,0.004,0.495,0.494,-9.992,0.0495,150.074,1,9,0.037,4,41,7641318
+Swapney Aamaar Mone Holo,Indrani Sen,/artist/indrani-sen,02:59,Bengali,10-02-2016,0.28,0.71,0.911,0.836,-4.474,0.076,149.986,1,3,0.092,4,97,7855304
+Tomra Paisa Diye,Asha Bhosle,/artist/asha-bhosle-1,04:09,Bengali,03-08-2005,0.58,0.07,0.698,0.937,-8.833,0.07,149.994,1,7,0.0884,4,56,1674938
+Ei Edike Eso Esona,Asha Bhosle,/artist/asha-bhosle-1,03:09,Bengali,05-11-2015,0.42,0.28,0.014,0.052,-13.344,0.04,150.021,1,6,0.083,4,44,5653966
+Milan Hobe Katodine,Farida Parveen,/artist/farida-parveen,02:29,Bengali,12-03-2014,0.03,0.268,0.714,0.183,-3.514,0.025,149.875,0,11,0.06,4,78,8781042
+Haowa Megh Saraye Phul Jharaye,Kishore Kumar,/artist/kishore-kumar,04:46,Bengali,08-01-2014,0.12,0.71,0.233,0.723,-3.922,0.095,149.831,1,2,0.058,4,94,9688816
+Baani Tabo Dhai,Debabrata Biswas,/artist/debabrata-biswas,03:44,Bengali,07-01-2006,0.37,0.775,0.747,0.137,-4.783,0.02,147.945,1,10,0.05,4,70,5151223
+Na Na Kache Eso Na,Lata Mangeshkar,/artist/lata-mangeshkar,04:52,Bengali,01-08-2008,0.76,0.89,0.58,0.466,-2.921,0.0876,148.826,0,2,0.09,4,73,9659143
+Tomar Bhubane Phuler Mela,Akhil Bandhu Ghosh,/artist/akhil-bandhu-ghosh,02:56,Bengali,12-01-2021,0.05,0.842,0.276,0.852,-8.297,0.008,149.935,1,0,0.09,4,51,4502776
+Bojho Na Keno Je,Lata Mangeshkar,/artist/lata-mangeshkar,02:48,Bengali,11-11-2011,0.92,0.49,0.783,0.469,-8.61,0.0807,149.996,0,9,0.0997,4,25,8056341
+Oi Padma Chokher Neel Jamunay,Shyamal Mitra,/artist/shyamal-mitra,03:37,Bengali,07-12-2002,0.71,0.023,0.372,0.715,-3.085,0.077,154.951,0,10,0.039,4,58,8532590
+Kon Bhiruke Bhoy Dekhabi,Suchitra Mitra,/artist/suchitra-mitra,02:37,Bengali,05-09-2016,0.32,0.94,0.266,0.363,-8.485,0.0304,150.008,1,5,0.02,4,74,5449135
+Entry Of The Halla King,various,/artist/various-2,50:36:00,Bengali,12-05-2021,0.94,0.265,0.426,0.148,-8.879,0.02,149.903,1,6,0.03,4,30,4591944
+Bhanusingher Padavali (Drama),Banani Ghosh|Bani Tagore|Bela Mukherjee|Kanika Banerjee|Nilima Sen|Pratima Mukherjee|Suchitra Mitra|Sumitra Roy|Hemant Kumar,/artist/banani-ghosh|/artist/bani-tagore|/artist/bela-mukherjee|/artist/kanika-banerjee|/artist/nilima-sen|/artist/pratima-mukherjee|/artist/suchitra-mitra|/artist/sumitra-roy|/artist/hemanta-mukherjee,23:08,Bengali,12-08-2007,0.38,0.6,0.401,0.991,-9.456,0.03,149.899,1,8,0.0084,4,85,8482897
+Pather Shes Kothay,Hemant Kumar,/artist/hemanta-mukherjee,03:01,Bengali,07-03-2007,0.2,0.145,0.475,0.843,-6.167,0.0682,150.02,0,5,0.095,4,86,1016083
+Jodi Jante Chao Tumi,Hemant Kumar,/artist/hemanta-mukherjee,03:22,Bengali,11-06-2020,0.96,0.41,0.982,0.831,-11.633,0.045,155.027,0,8,0.05,4,55,1860041
+O Mago Ma,Antara Chwdhury,/artist/antara-chwdhury,03:15,Bengali,02-11-2012,0.8,0.8,0.312,0.308,-10.268,0.0399,148.695,0,1,0.03,4,100,11247860
+Tomari Jharnatalar Nirjane,Asha Bhosle,/artist/asha-bhosle-1,03:48,Bengali,06-02-2013,0.13,0.36,0.245,0.142,-7.517,0.0716,150.036,1,8,0.06,4,63,6884472
+Aaha Ki Darun Dekhtey,Kishore Kumar,/artist/kishore-kumar,02:42,Bengali,04-12-2006,0.9,0.832,0.924,0.949,-10.779,0.058,147.963,1,5,0.055,4,29,7804999
+Baro Bishad Bhara Rajani,Lata Mangeshkar|Chorus,/artist/lata-mangeshkar|/artist/chorus,04:39,Bengali,03-02-2009,0.28,0.03,0.71,0.648,-9.399,0.0197,155.01,0,0,0.07,4,77,6506200
+E Kemon Ranga Jadu,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:02,Bengali,11-07-2021,0.76,0.3,0.361,0.82,-11.678,0.091,153.024,0,5,0.03,4,72,631976
+Tobu Bole Keno Sahasai,Kishore Kumar,/artist/kishore-kumar,03:09,Bengali,03-03-2019,0.52,0.84,0.289,0.669,-3.53,0.019,150.02,0,5,0.01,4,92,6133404
+Krishnachura Shon Shon Shon,Lata Mangeshkar,/artist/lata-mangeshkar,02:55,Bengali,03-11-2004,0.91,0.379,0.205,0.356,-8.427,0.0467,149.903,0,5,0.012,4,97,9288585
+Tui Ki Amar Putul Putul,Manna Dey,/artist/manna-dey,03:03,Bengali,03-01-2023,0.3,0.28,0.882,0.28,-12.994,0.064,146.981,0,0,0.038,4,68,7561881
+Naam Amar Kishore Kumar Ganguly,Kishore Kumar,/artist/kishore-kumar,06:46,Bengali,02-05-2017,0.82,0.211,0.758,0.658,-2.612,0.07,150.008,0,9,0.084,4,81,7860439
+E Jhumri Re,Kishore Kumar,/artist/kishore-kumar,03:12,Bengali,07-03-2007,0.14,0.99,0.765,0.227,-11.522,0.013,150.003,0,5,0.046,4,67,4752941
+Jeno Kichhu Mone Korona,Akhil Bandhu Ghosh,/artist/akhil-bandhu-ghosh,03:03,Bengali,08-02-2009,0.15,0.347,0.874,0.444,-4.744,0.0311,150.022,1,0,0.04,4,36,1642410
+Chokhe Naame Brishti,Asha Bhosle,/artist/asha-bhosle-1,03:17,Bengali,01-03-2007,0.39,0.94,0.37,0.197,-12.756,0.0089,150.11,1,1,0.046,4,46,8669967
+Opare Thakbo Ami,Kishore Kumar,/artist/kishore-kumar,03:29,Bengali,04-04-2005,0.61,0.508,0.89,0.37,-3.925,0.019,149.962,1,2,0.061,4,45,1635844
+Khub Chena Chena Mukhkhani,Asha Bhosle,/artist/asha-bhosle-1,03:38,Bengali,10-06-2009,1,0.16,0.357,0.934,-13.693,0.0583,149.965,0,1,0.07,4,68,9050611
+O Shyam Jakhan Takhan,Sujata Mukherjee|Aarti Mukherji,/artist/sujata-mukherjee|/artist/aarti-mukherji,03:27,Bengali,01-07-2008,0.31,0.9,0.388,0.591,-10.844,0.07,149.956,1,11,0.03,4,44,5387874
+Baba O Khoka,Kishore Kumar,/artist/kishore-kumar,03:28,Bengali,12-08-2012,0.49,0.05,0.137,0.638,-9.878,0.06,154.997,0,5,0.1,4,56,2981063
+Dhale Jete Jete,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,04:21,Bengali,07-11-2006,0.52,0.815,0.993,0.69,-2.532,0.074,150.03,0,7,0.05,4,89,10769532
+Amar Mon Manne Na,Asha Bhosle,/artist/asha-bhosle-1,03:46,Bengali,11-08-2003,0.36,0.76,0.307,0.182,-6.344,0.0731,150.049,1,7,0.0903,4,65,5005601
+Ekti Kunri Duti Pata,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,04:08,Bengali,04-04-2013,0.25,0.472,0.919,0.931,-10.641,0.0689,149.782,1,2,0.05,4,52,10613637
+Khub Chena Chena Mukhkhani,Asha Bhosle,/artist/asha-bhosle-1,03:38,Bengali,02-10-2012,0.54,0.56,0.776,0.834,-5.225,0.0165,149.849,0,1,0.032,4,78,5981184
+Putul Putul,Antara Chwdhury,/artist/antara-chwdhury,04:00,Bengali,02-01-2005,0.44,0.259,0.688,0.043,-5.395,0.056,149.862,1,7,0.09,4,37,7170413
+Aamar Moner Kato Sukh Niye,Mukesh,/artist/mukesh,03:18,Bengali,10-07-2010,0.94,0.09,0.899,0.136,-5.242,0.09,149.946,1,3,0.0995,4,72,1773617
+Jaubansarosinire,Hemant Kumar,/artist/hemanta-mukherjee,03:14,Bengali,10-01-2002,0.23,0.908,0.41,0.916,-8.666,0.033,149.988,0,11,0.06,4,100,8868208
+O Mor Moyna Go,Lata Mangeshkar,/artist/lata-mangeshkar,03:24,Bengali,02-03-2000,0.67,0.48,0.197,0.801,-4.605,0.03,154.966,1,6,0.08,4,77,1072107
+Nijhum Nishithe,Hemant Kumar,/artist/hemanta-mukherjee,03:15,Bengali,12-11-2003,0.24,0.136,0.227,0.531,-7.18,0.0879,149.862,0,9,0.0952,4,33,258627
+E Manihar Amay Nahi Saje,Hemant Kumar,/artist/hemanta-mukherjee,02:48,Bengali,02-01-2003,0.34,1,0.701,0.981,-6.693,0.1,149.949,1,6,0.0898,4,38,2318513
+Kolka Paper Eyey Sarita,Kumar Sanu,/artist/kumar-sanu,03:00,Bengali,03-12-2016,0.18,0.675,0.592,0.981,-2.949,0.08,150.102,1,7,0.065,4,49,10625673
+O Aamar Kandher Anchal,Asha Bhosle,/artist/asha-bhosle-1,03:37,Bengali,01-02-2022,0.79,0.96,0.387,0.36,-8.696,0.0832,147.982,1,0,0.081,4,29,1104767
+Bujhte Nari Naree Ki Chay,Kishore Kumar,/artist/kishore-kumar,45:08:00,Bengali,11-01-2019,0.58,0.378,0.34,0.302,-3.392,0.098,153.002,0,9,0.081,4,48,1106363
+Anek Jamano Byatha,Kishore Kumar,/artist/kishore-kumar,03:28,Bengali,02-03-2017,0.59,0.33,0.582,0.227,-7.829,0.082,150.074,0,5,0.069,4,61,135574
+Jodi Jante Chao Tumi,Hemant Kumar,/artist/hemanta-mukherjee,03:22,Bengali,12-08-2007,0.02,0.126,0.641,0.925,-13.188,0.05,149.978,0,4,0.0655,4,91,7573942
+Saat Suron Ki Bandh Payeliya,Hemant Kumar|Shakti Thakur,/artist/hemanta-mukherjee|/artist/shakti-thakur,05:02,Bengali,05-04-2002,0.89,0.33,0.141,0.337,-6.522,0.067,151.171,1,1,0.04,4,80,8759504
+Ekkhana Megh Bhese Elo Akashe,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,05:00,Bengali,01-03-2017,0.53,0.494,0.898,0.483,-3.655,0.012,149.99,0,6,0.046,4,37,3677910
+Chokhe Chokh Rekhe - Kishore Kumar,Kishore Kumar,/artist/kishore-kumar,05:13,Bengali,02-10-2017,0.15,0.92,0.112,0.6,-13.841,0.0355,149.87,0,5,0.052,4,81,7742745
+Ore Mon Ke Emon Daga,Amit Kumar|Bhupinder Singh|Mohammed Rafi|Aarti Mukherji,/artist/amit-kumar|/artist/bhupinder-singh|/artist/mohammad-rafi|/artist/aarti-mukherji,11:14,Bengali,06-04-2011,0.14,0.832,0.854,0.442,-6.798,0.0175,150.056,0,1,0.0356,4,32,9475243
+E Mon Mor Jani Na Kotha Je Haralo,Nirmal Mishra,/artist/nirmal-mishra,03:15,Bengali,12-09-2021,0.22,0.57,0.394,0.568,-13.546,0.0269,150.021,0,11,0.01,4,67,2883763
+Amar Silpi Kishore Kumar,Kumar Sanu,/artist/kumar-sanu,06:00,Bengali,02-09-2016,1,0.84,0.398,0.194,-7.153,0.045,149.993,0,11,0.0688,4,69,10963853
+Chole Chole Majhkhane,Hemant Kumar,/artist/hemanta-mukherjee,03:15,Bengali,07-10-2004,0.23,0.17,0.671,0.26,-11.481,0.033,149.933,1,10,0.0297,4,53,9739819
+Ke Jay Re,Asha Bhosle,/artist/asha-bhosle-1,04:50,Bengali,12-08-2023,0.2,0.422,0.124,0.211,-7.925,0.026,150.032,0,9,0.0347,4,87,7330622
+Duti Mon Aar Nei,Chitra Singh,/artist/chitra-singh,03:48,Bengali,04-03-2003,0.62,0.71,0.771,0.422,-7.577,0.074,154.959,0,9,0.0789,4,53,4858579
+"Lajja, Mori Mori Eki Lajja",Aarti Mukherji,/artist/aarti-mukherji,03:48,Bengali,07-12-2011,0.77,0.351,0.834,0.802,-3.005,0.01,149.908,1,7,0.05,4,100,8628806
+Mor Swapneri Saathi,Kishore Kumar,/artist/kishore-kumar,04:32,Bengali,12-02-2003,0.61,0.43,0.355,0.526,-3.365,0.05,149.841,1,1,0.0562,4,53,10699645
+Story and Songs Part I,Asha Bhosle|Kishore Kumar|Shyamal Mitra,/artist/asha-bhosle-1|/artist/kishore-kumar|/artist/shyamal-mitra,30:11:00,Bengali,03-04-2022,0.05,0.066,0.582,0.51,-8.318,0.036,149.987,1,1,0.076,4,73,6950761
+O Dayal Bichar Karo,Akhil Bandhu Ghosh,/artist/akhil-bandhu-ghosh,02:41,Bengali,09-08-2004,0.34,0.32,0.169,0.399,-9.557,0.0537,150.018,0,6,0.0249,4,98,1216443
+Twamishwaranang,Debabrata Biswas,/artist/debabrata-biswas,06:28,Bengali,05-06-2012,0.73,0.639,0.041,0.343,-3.843,0.0519,150.003,0,9,0.06,4,66,10555481
+"Bondhu, Michhe Raag Koro Na",Chinmoy Chatterjee,/artist/chinmoy-chatterjee,03:14,Bengali,07-03-2009,0.72,0.6,0.859,0.614,-7.4,0.068,149.773,0,7,0.06,4,26,8245611
+Amar Praner Manus Achhe Prane,Sagar Sen,/artist/sagar-sen,02:44,Bengali,08-02-2004,0.92,0.636,0.865,0.182,-12.196,0.04,150.11,0,6,0.02,4,44,2469258
+Prem Baro Madhur,Kishore Kumar,/artist/kishore-kumar,05:13,Bengali,07-02-2014,0.37,0.55,0.228,0.248,-2.287,0,149.977,0,0,0.093,4,61,10677248
+Joubansarasineere,Hemant Kumar|Sushil Mullick,/artist/hemanta-mukherjee|/artist/sushil-mullick,02:36,Bengali,09-01-2013,0.6,0.875,0.444,0.064,-3.624,0.07,150.004,0,5,0.051,4,67,1502859
+Jhor Jhor Jhoriche Sharabon,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:02,Bengali,04-11-2012,0.36,0.62,0.763,0.152,-12.009,0,149.961,0,0,0.0956,4,99,4032454
+Bhalobasar Agun Jwele,Lata Mangeshkar,/artist/lata-mangeshkar,03:24,Bengali,07-11-2009,0.03,0.664,0.065,0.25,-7.566,0,154.943,0,1,0.0324,4,90,10632569
+O Kalo Horin Chokhe,Shyamal Mitra,/artist/shyamal-mitra,03:24,Bengali,01-04-2013,0.88,0.5,0.436,0.754,-6.421,0.0611,150.036,0,0,0.0379,4,53,6237286
+Ei Mom Jochhonay Ango Bhijiye,Aarti Mukherji,/artist/aarti-mukherji,03:28,Bengali,08-02-2014,0.52,0.431,0.781,0.186,-2.947,0.05,150.002,1,9,0.07,4,83,6732397
+Jiban Jakhan Shukaye Jay,Hemant Kumar,/artist/hemanta-mukherjee,03:17,Bengali,09-03-2011,0.15,0.03,0.535,0.974,-12.234,0.047,150.025,0,9,0.0764,4,72,3404942
+Bolte Tumi Paro,Aarti Mukherji,/artist/aarti-mukherji,03:22,Bengali,02-02-2005,0.16,0.606,0.051,0.634,-2.196,0.071,149.647,0,6,0.06,4,33,7838695
+Sakal Janam Bhore O Mor Daradiya,Kanika Banerjee,/artist/kanika-banerjee,03:01,Bengali,11-11-2004,0.24,0.59,0.571,0.727,-11.272,0.0342,150.034,1,4,0.0508,4,35,9045012
+Badsha Begumer Khelaghare,Sharon Prabhakar,/artist/sharon-prabhakar,04:26,Bengali,01-04-2019,0.12,0.08,0.082,0.212,-8.508,0.01,149.981,1,0,0.059,4,89,932583
+Twamishwaranang,Debabrata Biswas,/artist/debabrata-biswas,06:28,Bengali,03-01-2022,0.86,0.68,0.255,0.891,-9.58,0.047,149.928,0,5,0.0296,4,100,11269054
+Aaji Marmardhwani Keno Jagilo Re,Hemant Kumar,/artist/hemanta-mukherjee,03:02,Bengali,07-10-2013,0.79,0.778,0.842,0.727,-7.869,0.079,150.033,0,1,0.0241,4,83,5435736
+Deko Na Amare Deko Na,Asha Bhosle,/artist/asha-bhosle-1,04:01,Bengali,02-02-2019,0.48,0.98,0.008,0.088,-7.151,0.0966,150.027,1,2,0.0988,4,91,7770191
+Jakhan Manusher Dukkhhe,Shyamal Mitra,/artist/shyamal-mitra,03:28,Bengali,10-10-2002,0.16,0.581,0.3,0.507,-8.65,0.09,149.868,0,4,0.07,4,26,9832624
+Mone Rabe Ki Na Rabe Amare,Hemant Kumar,/artist/hemanta-mukherjee,02:41,Bengali,04-10-2004,0.28,0.05,0.712,0.728,-9.828,0.0242,149.987,1,5,0.064,4,69,4125985
+Bhulo Na Pratham Se Din,Lata Mangeshkar,/artist/lata-mangeshkar,05:00,Bengali,07-12-2021,0.46,0.229,0.302,0.794,-5.275,0.01,150.021,1,1,0.083,4,31,1936509
+Swapno Amar Hariye Gechhe,R. D. Burman,/artist/r-d-burman,03:06,Bengali,03-10-2019,0.82,0.73,0.404,0.881,-4.028,0.08,150.056,0,5,0,4,55,10869768
+On The Merry Go Round,Suzi Miller,/artist/suzi-miller,05:51,Bengali,03-11-2002,0.37,0.119,0.115,0.141,-7.504,0.002,149.984,0,11,0.057,4,94,7514351
+Mayabono Biharini Harini,Kishore Kumar,/artist/kishore-kumar,03:56,Bengali,08-09-2006,0.3,0.73,0.002,0.826,-2.352,0.099,149.815,0,8,0.005,4,66,8084693
+Goopy Gyne Bagha Byne,various,/artist/various-2,02:43,Bengali,02-09-2002,0.85,0.057,0.735,0.639,-13.026,0.01,149.913,0,8,0.008,4,97,10127050
+Bhiru Bhiru Chokhe Cheye Chole Gele,Shyamal Mitra,/artist/shyamal-mitra,03:04,Bengali,01-08-2019,0.05,0.23,0.041,0.139,-12.122,0,155.022,0,4,0.0827,4,86,5221789
+Mehedir Rang Makhano,Asha Bhosle,/artist/asha-bhosle-1,04:08,Bengali,02-09-2019,0.35,0.531,0.53,0.606,-8.014,0.08,150.186,1,6,0.0978,4,86,5822827
+Megher Swapan Dekhi,Hemant Kumar,/artist/hemanta-mukherjee,03:33,Bengali,10-07-2009,0.49,0.12,0.02,0.8,-4.784,0,149.984,0,9,0.0228,4,46,8836117
+Prabhat Samaye Sachir Angina Majhe,Amar Pal,/artist/amar-pal,02:49,Bengali,02-03-2023,0.74,0.165,0.681,0.197,-5.959,0.01,149.31,0,6,0.0989,4,48,5541970
+Neel Kamal Lal Kamal - Thakurmaar Jhuli,Asha Devi|Kazi Sabyasachi|Lalita Dhar Chowdhury|Manju Banerjee|Reshma Chowdhury|Sailen Mukherjee|Hemant Kumar|Aarti Mukherji|Suparnakanti Ghosh|Sandhya Mukherjee|Dolly Ghosh|Amit Dasgupta|Papiya Bagchi|Sanat Banerjee|Shyamal Mitra|Nirmalendu Choudhury|Anup Ghoshal|Master Arindam|Party|Aparajita Dutta|Chandrakanta Seal|Anghuman Roy|Janaki Dutta|Biswajit Roychowdhury|Montu Bhattacharya,/artist/asha-devi|/artist/kazi-sabyasachi|/artist/lalita-dhar-chowdhury|/artist/manju-banerjee|/artist/reshma-chowdhury|/artist/sailen-mukherjee|/artist/hemanta-mukherjee|/artist/aarti-mukherji|/artist/suparnakanti-ghosh|/artist/sandhya-mukherjee|/artist/dolly-ghosh|/artist/amit-dasgupta|/artist/papiya-bagchi|/artist/sanat-banerjee|/artist/shyamal-mitra|/artist/nirmalendu-choudhury|/artist/anup-ghoshal-1|/artist/master-arindam|/artist/party|/artist/aparajita-dutta-2|/artist/chandrakanta-seal-8|/artist/anghuman-roy-2|/artist/janaki-dutta-2|/artist/biswajit-roychowdhury-2|/artist/montu-bhattacharya-2,18:41,Bengali,11-02-2003,0.04,0.03,0.431,0.662,-7.063,0.1,149.967,0,1,0.051,4,43,3351966
+Bipinbabur Karan,Kishore Kumar,/artist/kishore-kumar,04:03,Bengali,06-08-2003,0.02,0.123,0.213,0.417,-11.669,0.08,149.551,0,5,0.02,4,48,11375209
+Emoni Barosa Chilo Sedin,Feroza Begum,/artist/feroza-begum,03:23,Bengali,01-07-2003,0.84,0.44,0.911,0.556,-12.938,0.017,150.002,1,7,0.0592,4,80,7224225
+Tui Je Kemon Dayamoyee,Panna Lal Bhattacharjee,/artist/panna-lal-bhattacharjee,03:19,Bengali,07-10-2014,0.83,0.451,0.011,0.234,-12.033,0.03,149.851,0,0,0.071,4,60,4036286
+Kaal Kakhan Aasbe Balo Na,R. D. Burman,/artist/r-d-burman,03:09,Bengali,11-02-2023,0.94,0.68,0.744,0.976,-7.502,0.086,150.174,0,0,0.0916,4,85,10436487
+Golemale Golemale,Purna Das Baul,/artist/purna-das-baul,03:15,Bengali,03-05-2016,0.96,0.89,0.053,0.904,-11.184,0.014,149.976,1,1,0.073,4,72,137763
+Keno Kichhu Katha Balo Na,Lata Mangeshkar,/artist/lata-mangeshkar,03:05,Bengali,03-11-2003,0.49,0.53,0.353,0.22,-5.061,0.01,147.884,1,10,0.008,4,28,6144577
+Amar Ei Path Chaoyatei Ananda,Hemant Kumar,/artist/hemanta-mukherjee,02:51,Bengali,03-08-2022,0.33,0.559,0.539,0.512,-2.113,0.09,150.934,1,6,0,4,89,8434361
+Khaat Paalankey,Amar Pal,/artist/amar-pal,03:28,Bengali,10-12-2008,0.54,0.59,0.157,0.129,-7.827,0.0236,149.965,0,4,0.0865,4,44,7676192
+Aadho Aalo Chhayte,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,05:15,Bengali,07-12-2013,0.29,0.649,0.139,0.99,-8.529,0.0948,150.202,0,5,0.0562,4,57,4065106
+Ogo Aar Kichhu To Naai,Lata Mangeshkar,/artist/lata-mangeshkar,03:11,Bengali,07-10-2022,0.68,0.57,0.135,0.454,-8.055,0.015,149.987,1,7,0.036,4,86,4068493
+Naol Kishori Go,Hemant Kumar,/artist/hemanta-mukherjee,02:53,Bengali,05-11-2011,0.3,0.383,0.021,0.863,-11.694,0.06,150.095,1,6,0.05,4,57,10510095
+Chanting Of Sloka,Atanu Sanyal,/artist/atanu-sanyal,04:59,Bengali,09-05-2009,0,0.82,0.768,0.28,-8.505,0.0991,150.107,1,1,0.06,4,32,8940141
+Pagol (Pagol Pagol and Je Tore Pagol Bale),Dohar,/artist/dohar,04:17,Bengali,10-07-2004,0.67,0.325,0.643,0.409,-4.239,0.02,149.96,1,7,0.0039,4,31,585482
+Ei Balukabelay Ami Likhechhinu,Hemant Kumar,/artist/hemanta-mukherjee,03:31,Bengali,02-01-2004,0.7,0.03,0.401,0.117,-8.873,0.03,149.943,1,3,0.057,4,65,3326384
+O Kokila Tore Sudhai Re,Manna Dey,/artist/manna-dey,03:09,Bengali,05-12-2018,0.81,0.674,0.143,0.966,-10.837,0.0554,152.414,0,5,0.05,4,69,5001218
+O Aamar Kandher Anchal,Asha Bhosle,/artist/asha-bhosle-1,03:37,Bengali,12-03-2023,0.2,0.51,0.888,0.862,-13.179,0.02,149.937,0,9,0.1,4,82,4622153
+Utho Utho Gourchand,Amar Pal,/artist/amar-pal,03:01,Bengali,10-10-2002,0.37,0.176,0.984,0.404,-3.947,0.0552,150.024,1,2,0.086,4,52,8103050
+O Tota Pakhi Re,Nirmal Mishra,/artist/nirmal-mishra,02:56,Bengali,11-11-2020,0.38,0.15,0.203,0.223,-3.779,0.023,150.066,0,9,0.092,4,68,8767052
+Kachhe Theke Dur Rachilo,Hemant Kumar,/artist/hemanta-mukherjee,03:09,Bengali,01-01-2008,0.66,0.412,0.652,0.838,-10.5,0.1,149.987,0,6,0.07,4,37,4443365
+Dakhina Malay Ase Dhire Bohi,Shankarlal Mukherjee,/artist/shankarlal-mukherjee,03:24,Bengali,12-04-2007,0.2,0.39,0.458,0.102,-7.894,0.0586,154.969,1,9,0.066,4,74,9921976
+Ghore Ferar Gaan,Vishal Dadlani,/artist/vishal-dadlani,03:51,Bengali,04-12-2019,0.72,0.219,0.866,0.15,-3.507,0.0248,150.042,1,1,0.072,4,75,9164201
+Ami Premer Pather Pathik,Kishore Kumar,/artist/kishore-kumar,03:25,Bengali,10-10-2009,0.97,0.12,0.912,0.833,-5.849,0.01,149.232,1,9,0.024,4,58,4046241
+Ei Monta Jodi,Asha Bhosle,/artist/asha-bhosle-1,03:11,Bengali,01-02-2008,0.98,0.854,0.681,0.842,-7.48,0.0203,149.945,0,5,0.057,4,83,7577166
+Chokhe Jodi Jol Kare Talomal,Hemant Kumar,/artist/hemanta-mukherjee,03:29,Bengali,12-01-2010,0.47,0.11,0.771,0.851,-5.392,0.0123,149.988,0,0,0.03,4,56,5850284
+Kshama Koro More,Sagar Sen,/artist/sagar-sen,03:36,Bengali,02-05-2017,0.43,0.098,0.881,0.162,-8.354,0.0831,150.021,1,2,0.0424,4,55,6683888
+Ami Nei Ami Nei,Kishore Kumar,/artist/kishore-kumar,03:02,Bengali,02-04-2001,0.08,0.85,0.737,0.484,-9.058,0.024,149.965,1,1,0.06,4,42,220403
+Chhere Dao Reshmi Churi,Sabitabrata Dutta,/artist/sabitabrata-dutta,04:09,Bengali,05-02-2023,0.36,0.919,0.015,0.472,-12.081,0.02,149.951,0,1,0.05,4,56,2201641
+Janam Abdhi,Manna Dey,/artist/manna-dey,03:55,Bengali,07-11-2010,0.52,0.76,0.99,0.074,-10.101,0.0324,149.958,0,6,0.06,4,59,1224483
+Dujanete Lekha Gaan,Kishore Kumar,/artist/kishore-kumar,03:09,Bengali,06-04-2013,0.78,0.398,0.079,0.354,-9.595,0.08,155.006,0,2,0.06,4,45,9875397
+Hey Priyotama Ami To Tomay,Kishore Kumar,/artist/kishore-kumar,05:11,Bengali,09-11-2018,0.48,0.54,0.837,0.278,-11.934,0.082,149.984,1,1,0.0531,4,49,6218510
+Thikana Na Rekhe Bhaloi Korechho,Haimanti Shukla,/artist/haimanti-shukla,04:09,Bengali,07-03-2005,0.7,0.051,0.85,0.428,-6.704,0.06,149.995,0,11,0.0373,4,30,3552437
+Nahi Keho Mor,Anup Ghoshal,/artist/anup-ghoshal-1,03:03,Bengali,03-10-2010,0.45,0.37,0.384,0.112,-2.088,0.089,149.957,0,5,0.0883,4,96,9461118
+Dak Diye Jai,Hemant Kumar,/artist/hemanta-mukherjee,03:26,Bengali,09-04-2003,0.3,0.555,0.439,0.493,-11.197,0.006,149.983,0,9,0.0306,4,29,5647296
+Bondhu Kon Alo Laglo Chokhe,Sagar Sen,/artist/sagar-sen,03:27,Bengali,06-04-2020,0.83,0.86,0.963,0.839,-3.848,0.03,147.921,0,11,0.04,4,90,11236435
+Baju Mor Khule Khule Jay,Shefali Ghosh,/artist/shefali-ghosh,03:06,Bengali,05-10-2012,0.07,0.047,0.481,0.188,-8.938,0.051,155.03,0,1,0.0485,4,30,10696241
+Aaj Hridaye Bhalobese,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:38,Bengali,01-09-2014,0.66,0.19,0.921,0.713,-10.642,0.0464,149.997,0,6,0.04,4,90,4207884
+Ami Tomay Jato Shuniyechhilem Gaan,Hemant Kumar,/artist/hemanta-mukherjee,02:47,Bengali,01-02-2006,0.87,0.425,0.789,0.528,-10.245,0.08,149.967,1,5,0.029,4,79,1971395
+Tare Ami Chokhe Dekhini,Kishore Kumar,/artist/kishore-kumar,03:07,Bengali,02-08-2019,0.71,0.36,0.255,0.721,-8.174,0.09,150.004,0,7,0.0241,4,100,6801678
+Abar Habe To Dekha,Manna Dey,/artist/manna-dey,03:11,Bengali,11-09-2009,0.13,0.268,0.441,0.202,-3.913,0.006,149.996,0,7,0.06,4,49,2635033
+Paro Jodi Phire Eso (1965),Manna Dey,/artist/manna-dey,03:05,Bengali,12-04-2004,0.99,0.53,0.846,0.358,-13.087,0.094,150.002,1,9,0.07,4,92,3942400
+Ami Ki Aar Bhalo Habona,Manna Dey,/artist/manna-dey,03:19,Bengali,01-02-2023,0.67,0.529,0.32,0.104,-10.345,0.0293,150.047,0,9,0.1,4,61,9541404
+O Malik Sara Jiban Kandale,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:53,Bengali,07-12-2003,0.76,0.56,0.977,0.034,-3.762,0,149.984,1,7,0.058,4,36,10477267
+Haajaar Taaraar Aaloy,Lata Mangeshkar,/artist/lata-mangeshkar,04:38,Bengali,02-06-2019,0.69,0.153,0.455,0.355,-3.632,0.08,150.083,1,8,0.01,4,80,2669848
+Sahasra Jane More Prashna Kare,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:09,Bengali,08-04-2009,0.15,0.27,0.867,0.392,-12.573,0.053,154.893,0,6,0.1,4,98,10852188
+Sabar Aarale,Lata Mangeshkar,/artist/lata-mangeshkar,04:53,Bengali,02-03-2006,0.78,0.47,0.385,0.804,-11.386,0.06,145.066,0,3,0.03,4,90,1465004
+Ami Tomar Sange Bendhechhi Amar Pran,Hemant Kumar,/artist/hemanta-mukherjee,03:26,Bengali,09-02-2002,0.69,0.07,0.052,0.385,-5.136,0.06,150.037,0,8,0.04,4,47,11008216
+Amar Duarkhani Batas Ese,Sandhya Mukherjee,/artist/sandhya-mukherjee,03:26,Bengali,04-10-2015,0.48,0.856,0.296,0.83,-2.088,0.04,149.974,0,7,0.02,4,73,3705411
+Dujon Bhayra Bhai,Anup Ghoshal,/artist/anup-ghoshal-1,01:02,Bengali,01-11-2006,0.58,0.95,0.713,0.039,-8.451,0.0391,150.053,0,10,0.06,4,75,9114613
+Amar Paran Jaha Chay,Sagar Sen,/artist/sagar-sen,03:03,Bengali,01-12-2009,0.69,0.808,0.465,0.565,-13.277,0.0218,149.761,1,4,0.02,4,98,4804968
+Tui Jato Phool,Asha Bhosle,/artist/asha-bhosle-1,03:36,Bengali,04-05-2011,0.31,0.5,0.961,0.253,-12.013,0.034,149.936,0,9,0.0839,4,98,5234067
+A Jibon Madhu,Sharon Prabhakar,/artist/sharon-prabhakar,06:29,Bengali,09-03-2022,0.36,0.877,0.482,0.659,-7.223,0.0034,149.993,1,1,0.08,4,100,606332
+Amar Naam Kishore Kumar Ganguly,Kishore Kumar|Chorus,/artist/kishore-kumar|/artist/chorus,06:42,Bengali,02-04-2016,0.08,0.61,0.352,0.705,-5.982,0.0141,149.982,1,1,0.01,4,87,4777983
+Jani Tumi Phire Asbe Aabar,Hemant Kumar,/artist/hemanta-mukherjee,03:20,Bengali,05-04-2016,0.14,0.972,0.387,0.174,-12.477,0.06,150.176,0,0,0.094,4,66,10284820
+"Na Jeyo Na, Tumi Jeyo Na",Hemant Kumar,/artist/hemanta-mukherjee,03:29,Bengali,04-12-2013,0.41,0.69,0.048,0.061,-9.722,0.073,149.924,1,0,0.06,4,79,7284156
+Jani E Bhul,Aarti Mukherji,/artist/aarti-mukherji,03:14,Bengali,01-04-2008,0.88,0.814,0.753,0.845,-9.149,0.01,149.913,0,0,0.0403,4,70,9101277
+Ogo Megh Tumi Ure Jao,Hemant Kumar,/artist/hemanta-mukherjee,03:39,Bengali,07-06-2009,0.25,0.18,0.156,0.306,-12.725,0.0721,149.849,1,6,0.04,4,75,2637185
+Moner Darja Khule Dilam,Alka Yagnik,/artist/alka-yagnik,05:00,Bengali,12-01-2008,0.3,0.016,0.798,0.803,-6.512,0.06,150.004,0,10,0,4,41,9506930
+Edin Aaji Kon Ghore Go,Sumitra Sen,/artist/sumitra-sen,02:22,Bengali,03-10-2019,0.79,0.97,0.971,0.169,-8.665,0.0812,149.896,0,1,0.086,4,74,10695122
+Nai Nai E Anadhar Theke,Kishore Kumar,/artist/kishore-kumar,03:25,Bengali,01-12-2004,0.15,0.472,0.188,0.008,-12.486,0.09,149.973,0,9,0.02,4,72,10738022
+Tare Ami Chokhe Dekhini,Kishore Kumar,/artist/kishore-kumar,03:07,Bengali,08-07-2012,0.01,0.69,0.848,0.734,-8.036,0.045,149.998,0,10,0.1,4,28,334659
+Tumi Kon Kananer Phul,Asha Bhosle,/artist/asha-bhosle-1,03:58,Bengali,11-02-2022,0.78,0.2,0.79,0.879,-11.785,0.0702,146.979,0,5,0.084,4,46,6520938
+Taire Naire Na,Antara Chwdhury,/artist/antara-chwdhury,04:01,Bengali,05-12-2014,0.56,0.19,0.92,0.6,-11.852,0.09,150.004,0,6,0.0537,4,96,2775617
+Basanta (Part-1) With Recitation,Arghya Sen|Banani Ghosh|Chinmoy Chatterjee|Dwijen Mukherjee|Gora Sarbadhikari|Kanika Banerjee|Kazi Sabyasachi|Suchitra Mitra|Hemant Kumar|Ritu Guha|Sagar Sen|Purabi Mukherjee|Sushil Mullick|Sumitra Ghosh|Swapan Gupta,/artist/arghya-sen|/artist/banani-ghosh|/artist/chinmoy-chatterjee|/artist/dwijen-mukherjee|/artist/gora-sarbadhikari|/artist/kanika-banerjee|/artist/kazi-sabyasachi|/artist/suchitra-mitra|/artist/hemanta-mukherjee|/artist/ritu-guha|/artist/sagar-sen|/artist/purabi-mukherjee|/artist/sushil-mullick|/artist/sumitra-ghosh|/artist/swapan-gupta,24:35:00,Bengali,09-11-2011,0.75,0.176,0.242,0.533,-4.688,0,150.005,0,5,0.093,4,67,3722553
+Prem Kathatai Chhoto,Asha Bhosle,/artist/asha-bhosle-1,03:29,Bengali,10-12-2003,0.42,0.67,0.04,0.806,-12.552,0.0617,150.095,1,6,0.08,4,53,2788293
+"Bone Phagun, Mone Agun",S. D. Burman,/artist/sdburman,03:17,Bengali,01-02-2015,0.82,0.04,0.198,0.062,-4.768,0.06,149.997,1,11,0.06,4,29,3353214
+Nitya Tomar Je Phul Phote,Hemant Kumar,/artist/hemanta-mukherjee,03:18,Bengali,06-09-2013,0.31,0.38,0.502,0.955,-12.952,0.042,150.007,1,1,0.0484,4,74,4286117
+Sona Bandhu,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:00,Bengali,02-04-2009,0.1,0.098,0.119,0.125,-13.197,0.076,149.997,0,1,0.081,4,25,7223654
+Mon Je Amar Kemon Kemon Kare,Ruma Guha Thakurta|Geeta Dutt,/artist/ruma-guha-thakurta|/artist/geeta-dutt,03:03,Bengali,04-10-2020,0.89,0.84,0.088,0.866,-5.132,0.052,149.961,1,8,0.01,4,79,2591482
+Dhale Jete Jete,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,04:21,Bengali,02-10-2011,0.28,0.844,0.041,0.06,-4.627,0.02,154.993,1,7,0.018,4,53,8462054
+Runner,Lata Mangeshkar,/artist/lata-mangeshkar,05:05,Bengali,02-07-2018,0.31,0.58,0.489,0.32,-5.794,0.0564,155.096,0,1,0.0021,4,75,852075
+E Shudhu Gaaner Din,Sandhya Mukherjee,/artist/sandhya-mukherjee,03:31,Bengali,06-11-2015,0.1,0.574,0.036,0.756,-5.059,0.05,149.913,0,9,0.096,4,64,4366455
+Tarader Kane Kane,Nirmal Mishra,/artist/nirmal-mishra,03:09,Bengali,04-07-2013,0.72,0.15,0.251,0.668,-3.152,0.0843,150.015,1,0,0.051,4,62,9625022
+Jetey Jetey ( Manna Dey ),Manna Dey|Arundhati Holme Chowdhury,/artist/manna-dey|/artist/arundhati-holme-chowdhury,03:05,Bengali,05-10-2006,0.84,0.591,0.281,0.61,-3.631,0.013,150.036,0,4,0.01,4,52,6006198
+Kar Nikunje Raat Katay,Feroza Begum,/artist/feroza-begum,04:04,Bengali,10-11-2020,0.25,0.11,0.623,0.495,-4.22,0.092,149.991,0,1,0.03,4,29,5924154
+Puruliar Bajar Morey,Subhas Chakraborty,/artist/subhas-chakraborty,02:50,Bengali,06-08-2017,0.27,0.558,0.241,0.281,-13.329,0.0839,150.186,1,0,0.06,4,80,1397576
+Chalo Jai Chole Jai,Kishore Kumar,/artist/kishore-kumar,02:56,Bengali,04-05-2015,0.02,0.15,0.958,0.07,-8.465,0.0853,149.992,0,5,0.066,4,25,6950516
+Tiya Tiya Tiya,Shyamasree Mazumder,/artist/shyamasree-mazumder,02:38,Bengali,12-02-2009,0.37,0.692,0.685,0.388,-11.893,0.064,149.743,0,5,0.086,4,26,2171711
+Amar Mayer Naamti Dayamoyee,Dhananjoy Bhattacharya,/artist/dhananjoy-bhattacharya,03:26,Bengali,08-09-2002,0.4,0.24,0.93,0.493,-11.629,0.074,155.013,0,5,0.056,4,54,7988029
+Din Chole Jay Sobi Badlay,Hemant Kumar,/artist/hemanta-mukherjee,03:24,Bengali,05-10-2020,0.14,0.299,0.639,0.805,-4.282,0.03,149.883,0,7,0.026,4,35,5836858
+Ei Sundar Swarnali Sandhaye,Geeta Dutt,/artist/geeta-dutt,03:25,Bengali,05-03-2021,0.52,0.3,0.082,0.674,-4.213,0.0151,150.082,0,1,0.071,4,80,9043695
+Sanyasi Raja - Dialogue - Jogjiban Raja Samlao And Songs,Manna Dey|Hemant Kumar,/artist/manna-dey|/artist/hemanta-mukherjee,27:14:00,Bengali,06-11-2008,0.54,0.674,0.417,0.104,-2.909,0.01,149.693,0,8,0.1,4,68,6483152
+Banshi Shune Ki,Asha Bhosle,/artist/asha-bhosle-1,05:25,Bengali,09-09-2009,0.78,0.42,0.713,0.667,-7.123,0.013,147.357,1,9,0.063,4,87,4139387
+Bhalo Kore Tumi Cheye Dekho,Lata Mangeshkar,/artist/lata-mangeshkar,03:24,Bengali,03-05-2013,0.89,0.498,0.875,0.316,-3.423,0.065,149.957,0,8,0.09,4,65,9362682
+Raanar,Lata Mangeshkar,/artist/lata-mangeshkar,05:50,Bengali,09-04-2001,0.46,0.23,0.903,0.562,-10.603,0.052,149.852,0,7,0.023,4,49,8064567
+Amar Moner Video Camera,Subir Nandi,/artist/subir-nandi,03:06,Bengali,01-10-2013,0.61,0.012,0.078,0.393,-5.02,0.013,149.988,0,6,0.028,4,46,8974263
+Banshi Keno Hai,Lata Mangeshkar,/artist/lata-mangeshkar,03:18,Bengali,11-07-2019,0.6,0.7,0.616,0.146,-2.104,0.03,150.067,1,2,0.02,4,48,8781097
+Kader Kuler Bou,Ramkumar Chatterjee,/artist/ramkumar-chatterjee,03:30,Bengali,03-03-2009,0.82,0.987,0.825,0.319,-12.566,0.001,150.034,0,4,0.0432,4,47,4671539
+Keno Amay Pagol Kore Jas,Hemant Kumar,/artist/hemanta-mukherjee,03:23,Bengali,12-07-2001,0.6,0.04,0.669,0.36,-13.576,0.063,150.046,1,2,0.017,4,38,5967076
+Noorjahan Noorjahan,Feroza Begum,/artist/feroza-begum,03:07,Bengali,12-04-2000,0.28,0.617,0.409,0.551,-6.544,0.002,149.983,0,9,0.08,4,38,8082567
+Akash Pathe Prem Korechhi,Kishore Kumar,/artist/kishore-kumar,04:52,Bengali,07-04-2016,0.62,0.53,0.82,0.662,-3.966,0.0293,150.039,0,5,0.051,4,61,399253
+Jana Ajana Pathey Cholechhi,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,04:29,Bengali,06-08-2014,0.84,0.739,0.565,0.563,-3.323,0.06,149.952,1,0,0.038,4,87,6938215
+Hanti Hanti Pa Pa,Manna Dey,/artist/manna-dey,02:46,Bengali,01-03-2011,0.24,0.5,0.176,0.411,-10.65,0.0696,149.745,0,6,0.004,4,26,4463046
+Kon Se Alor Swapna Niye,Asha Bhosle,/artist/asha-bhosle-1,03:18,Bengali,06-03-2001,0.75,0.783,0.308,0.976,-9.385,0.09,150.003,1,5,0.03,4,55,3413084
+Jhar Jhar Jhare,Amit Kumar|Asha Bhosle,/artist/amit-kumar|/artist/asha-bhosle-1,03:39,Bengali,04-09-2003,0.25,0.65,0.032,0.71,-3.517,0.07,150.012,0,5,0.032,4,62,2788690
+Boudidi Go,Swapna Chakraborty,/artist/swapna-chakraborty,03:03,Bengali,10-12-2001,0.23,0.47,0.191,0.15,-9.15,0.08,150.105,0,8,0.02,4,89,4940902
+Champabati Meye Ogo,Shyamal Mitra,/artist/shyamal-mitra,02:57,Bengali,11-03-2008,0.87,0.98,0.633,0.389,-3.073,0.0098,153.095,1,5,0.059,4,42,8320012
+Anandadhara Bahichhe Bhubane,Kanika Banerjee,/artist/kanika-banerjee,03:28,Bengali,09-05-2021,0.05,0.333,0.219,0.212,-6.919,0.04,155.117,0,1,0.0513,4,82,9614235
+Bristi Thamar Sheshe,Asha Bhosle,/artist/asha-bhosle-1,03:05,Bengali,05-03-2008,0.97,0.71,0.691,0.176,-2.894,0.09,155.119,0,5,0.0129,4,70,9743544
+Balo To Arshi Tumi,Nirmal Mishra,/artist/nirmal-mishra,03:17,Bengali,03-08-2018,0.52,0.148,0.117,0.858,-3.649,0.072,150.02,1,0,0.07,4,41,11130597
+Ami :- (Ami-Poem and Sakalei Ami),Dohar,/artist/dohar,06:12,Bengali,04-01-2019,0.08,0.24,0.097,0.556,-8.164,0.039,155.102,0,8,0.024,4,67,8697852
+Kato Gaan Haralam,Geeta Dutt,/artist/geeta-dutt,03:17,Bengali,04-01-2005,0.14,0.608,0.869,0.152,-10.628,0.056,150.15,0,9,0.02,4,47,3619665
+E Jiban Premeri Ek Patabahar Kabita,Kishore Kumar,/artist/kishore-kumar,04:58,Bengali,09-08-2016,0.58,0.42,0.309,0.984,-11.993,0.07,154.944,0,10,0.062,4,62,10647208
+Maner Mayur,Asha Bhosle,/artist/asha-bhosle-1,04:02,Bengali,07-04-2002,0.07,0.304,0.656,0.38,-5.975,0.02,150.011,0,8,0.0168,4,32,10382870
+Aaj Jiban Khunje Pabi,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:48,Bengali,07-10-2016,0.36,0.36,0.332,0.842,-3.981,0.0627,149.963,0,1,0.004,4,73,688619
+Bhalobashar Tumi Ki Jano,Namita Ghoshal,/artist/namita-ghoshal,02:41,Bengali,12-12-2019,0.3,0.242,0.15,0.656,-12.888,0.04,153.024,0,11,0.06,4,90,3652760
+Mon Matal Sanjh Sakal,Mukesh,/artist/mukesh,03:18,Bengali,08-05-2019,0.31,0.36,0.889,0.314,-7.08,0.0803,150.19,0,2,0.0219,4,27,316597
+Sedin Tomay Dekhechhilam,Hemant Kumar,/artist/hemanta-mukherjee,03:21,Bengali,02-02-2020,0.47,0.27,0.387,0.599,-3.067,0.09,150.038,1,1,0.0597,4,87,9836135
+Ebar Nirab Kore Dao Hey Tomar Mukhar Kabire,Hemant Kumar,/artist/hemanta-mukherjee,03:03,Bengali,10-09-2016,0.24,0.75,0.017,0.903,-9.313,0.05,148.031,0,9,0.0873,4,81,2497831
+Jodi Kichhu Amare Shudhao,Shyamal Mitra,/artist/shyamal-mitra,03:02,Bengali,12-06-2012,0.26,0.73,0.092,0.28,-6.535,0.06,154.997,0,11,0.0325,4,82,1690062
+Biraha Baro Bhalo Lage,S. D. Burman,/artist/sdburman,03:16,Bengali,12-11-2007,0.91,0.78,0.19,0.797,-12.668,0.07,149.927,0,5,0.05,4,34,10880793
+Katodin Dekhini Tomay,Manna Dey,/artist/manna-dey,03:11,Bengali,07-03-2008,0.03,0.612,0.485,0.176,-11.058,0.018,148.763,0,7,0.02,4,99,7938603
+Ora Akarone Chanchal,Hemant Kumar,/artist/hemanta-mukherjee,02:53,Bengali,04-04-2020,0.3,0.3,0.589,0.647,-8.957,0.077,149.801,0,10,0.0093,4,53,8279157
+Mor Bhabonare (Male),Saptarshi,/artist/saptarshi,04:07,Bengali,02-12-2002,0.07,0.395,0.663,0.043,-6.751,0.031,150.023,0,10,0.069,4,91,2339263
+Pratham Na Hoy Dwitiya Na Hoy,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:01,Bengali,01-01-2012,0.45,1,0.643,0.632,-11.709,0.083,156.422,0,11,0.07,4,40,1859816
+Banshi Shune Aar Kaj Nai,S. D. Burman,/artist/sdburman,03:16,Bengali,02-08-2010,0.01,0.97,0.278,0.249,-13.216,0.03,150.052,0,5,0.0879,4,56,5000423
+Amar Swapna Tumi Ogo,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,03:56,Bengali,06-01-2012,0.69,0.4,0.706,0.146,-2.796,0.022,150.063,0,5,0.0358,4,86,11144869
+O Keno Eto Sundari Holo,Manna Dey,/artist/manna-dey,03:21,Bengali,12-07-2012,0,0.372,0.29,0.113,-11.793,0.07,149.988,0,7,0.034,4,76,9360365
+Tomar Haat Dhorlam,Haimanti Shukla,/artist/haimanti-shukla,03:48,Bengali,02-05-2001,0.83,0.94,0.056,0.535,-13.477,0.0273,149.738,1,4,0.084,4,31,8040065
+Mone Mone Se Janina,Aarti Mukherji,/artist/aarti-mukherji,02:58,Bengali,06-08-2001,0.01,0.121,0.398,0.267,-12.568,0.07,149.975,0,10,0.054,4,48,8800657
+Ami Phuldanite Sajiye Rakha,Asha Bhosle,/artist/asha-bhosle-1,03:39,Bengali,04-03-2000,0.62,0.46,0.822,0.21,-12.568,0.018,150.095,1,4,0.091,4,41,1043275
+Rojoni Phurate Ekhonoje Baki,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:22,Bengali,03-03-2006,0.52,0.9,0.67,0.409,-10.317,0.059,150.05,0,3,0.098,4,75,1593020
+The Prisoners,various,/artist/various-2,43:13:00,Bengali,02-10-2015,0.55,0.49,0.859,0.297,-11.527,0.07,150.083,1,1,0.0524,4,80,10432408
+Ogo Bondhu Amar,BHAKTA DAS BAUL,/artist/bhakta-das-baul,07:00,Bengali,08-04-2010,0.8,0.741,0.097,0.983,-12.078,0.01,149.86,1,11,0.047,4,94,3255032
+Diye Gechhi Sabi,Hemant Kumar,/artist/hemanta-mukherjee,03:08,Bengali,02-07-2000,0.97,0.5,0.165,0.519,-4.661,0.0176,149.671,1,5,0.031,4,57,10557309
+Jhun Jhun Moyna Nacho Na,Mukesh,/artist/mukesh,03:14,Bengali,10-01-2015,0.68,0.209,0.483,0.556,-6.415,0.0145,150.009,0,10,0.04,4,89,6550411
+Amay Bhasaili Re Amay Dubaili Re,Manabendra Mukherjee,/artist/manabendra-mukherjee,02:59,Bengali,05-01-2006,0.44,0.08,0.354,0.083,-9.007,0.072,149.992,0,10,0.0909,4,56,3384545
+Sankha Bajiye Maake,Sandhya Mukherjee,/artist/sandhya-mukherjee,02:29,Bengali,12-10-2017,0.32,0.818,0.377,0.602,-10.787,0.0129,149.742,1,11,0.0536,4,67,11063592
+Sarata Jibon Palonke,Satinath Mukhyopadhyay,/artist/satinath-mukhyopadhyay,03:37,Bengali,11-04-2016,0.75,0.54,0.748,0.984,-8.367,0.07,150.004,0,9,0.0495,4,99,4061853
+Jakey Pabo Na,Lata Mangeshkar,/artist/lata-mangeshkar,05:13,Bengali,02-11-2018,0.03,0.194,0.428,0.222,-13.709,0.0647,149.831,0,1,0.04,4,49,7487103
+Bhora Thak Smritisudhay,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,03:13,Bengali,10-04-2019,0.45,0.15,0.412,0.877,-2.32,0.0085,150.095,0,3,0.01,4,67,6481371
+Lakshmiti Dohai Tomar,Asha Bhosle,/artist/asha-bhosle-1,03:19,Bengali,09-11-2023,0.32,0.109,0.601,0.521,-7.353,0.09,150.076,0,0,0.0352,4,37,941994
+Raat Dupure Kothay Jabe,Asha Bhosle,/artist/asha-bhosle-1,03:46,Bengali,09-05-2012,0.69,0.57,0.677,0.696,-4.449,0.07,149.827,0,8,0.093,4,68,8757702
+Ek Phule Char Rang Dhorechhe,Dinendra Chowdhury,/artist/dinendra-chowdhury,03:02,Bengali,02-04-2006,0.03,0.656,0.54,0.047,-12.557,0.0017,150.017,0,3,0.052,4,36,8484902
+Ogo Nirupama,Kishore Kumar,/artist/kishore-kumar,03:11,Bengali,09-11-2004,0.91,0.89,0.198,0.672,-6.082,0.1,149.831,0,5,0.02,4,72,9889964
+Marubhumi,Anuradha Paudwal,/artist/anuradha-paudwal-2,05:00,Bengali,05-06-2000,0.02,0.453,0.041,0.097,-12.382,0.0639,150.057,0,6,0.04,4,89,1781099
+Phiriya Jodi Se,Manabendra Mukherjee,/artist/manabendra-mukherjee,03:09,Bengali,08-05-2017,0.85,0.55,0.492,0.034,-9.434,0.0457,152.039,0,0,0.0693,4,41,10074584
+Dujane Dekha Holo Madhujamini Re,Kanika Banerjee,/artist/kanika-banerjee,02:39,Bengali,04-06-2002,0.88,0.912,0.456,0.459,-11.37,0.0003,149.951,1,4,0.03,4,88,9260255
+Jato Bhabna Chhilo,Arundhati Holme Chowdhury,/artist/arundhati-holme-chowdhury,03:13,Bengali,08-10-2003,0.33,0.33,0.595,0.126,-10.372,0.0849,149.984,0,6,0.0042,4,32,1048405
+Jemon Beni Temni Rabey,Purna Das Baul,/artist/purna-das-baul,03:07,Bengali,12-04-2021,0.39,0.815,0.271,0.992,-12.899,0.09,154.79,1,3,0.08,4,77,2339889
+Mangaldeep Jwele (Part 2),Bappi Lahiri,/artist/bappi-lahiri,02:59,Bengali,12-10-2007,0.85,0.74,0.636,0.746,-12.185,0.06,150.126,1,7,0.05,4,47,9199606
+Sandhya Belay Tumi Ami Bose Achi Dujone,Asha Bhosle,/artist/asha-bhosle-1,03:31,Bengali,01-12-2012,0.9,0.402,0.478,0.018,-12.665,0,150.015,1,1,0.09,4,53,7436397
+Amar Je Din Bhese Gechhe,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,03:05,Bengali,12-10-2010,0.85,0.23,0.687,0.968,-12.218,0.08,150.06,1,0,0.0317,4,32,3927024
+Orey Bondhurey Moner Katha,S. D. Burman,/artist/sdburman,03:15,Bengali,07-03-2014,0.32,0.199,0.371,0.499,-4.343,0.019,149.884,0,9,0.0254,4,34,5563744
+Nayan Sarasi Keno Bhoreche Jaale,Kishore Kumar,/artist/kishore-kumar,03:24,Bengali,10-07-2018,0.97,0.96,0.268,0.389,-5.046,0.092,150.02,0,1,0.081,4,39,11225557
+Jeno Chiradini Ei Hoy,Aarti Mukherji,/artist/aarti-mukherji,03:18,Bengali,03-04-2023,0.25,0.683,0.454,0.699,-3.216,0.0139,150.038,1,9,0.0922,4,37,6474890
+Jato Baar Aalo Jwalate Chai,Dwijen Mukherjee,/artist/dwijen-mukherjee,02:59,Bengali,11-12-2014,0.08,0.44,0.478,0.576,-10.218,0.03,150.034,0,9,0.0514,4,35,5845106
+Chaina Amar Reshmi Chudi,Asha Bhosle,/artist/asha-bhosle-1,04:54,Bengali,02-05-2001,0.96,0.249,0.153,0.458,-5.437,0.08,150.073,1,1,0.01,4,33,2874729
+Ami Eto Je Tomay Bhalobesechhi,Manashi Mukherjee,/artist/manashi-mukherjee,03:21,Bengali,04-06-2020,0.67,0.45,0.992,0.069,-3.143,0.087,150.028,0,1,0.018,4,29,4726045
+Sei Bhalo Sei Bhalo,Hemant Kumar,/artist/hemanta-mukherjee,03:01,Bengali,05-05-2009,0.58,0.73,0.067,0.775,-11.864,0.02,149.994,0,9,0.03,4,97,2954656
+Jare Ja Ure Rajar Kumar (Part 2),Hemant Kumar,/artist/hemanta-mukherjee,02:51,Bengali,04-02-2004,0.2,0.68,0.74,0.646,-11.556,0.085,153.95,0,11,0.05,4,30,2452889
+Mrinmoyee Sad,various,/artist/various-2,01:11,Bengali,12-06-2015,0.21,0.284,0.49,0.111,-5.445,0.0401,149.911,0,9,0.0247,4,27,9213969
+Ei Path Jodi Na Shes Hoy,Sandhya Mukherjee,/artist/sandhya-mukherjee,01:52,Bengali,04-10-2002,0.81,0.3,0.779,0.235,-8.906,0.0885,150.061,0,6,0.0829,4,99,10170862
+Maa Durgar Onek Roop,Udit Narayan,/artist/udit-narayan,05:59,Bengali,07-05-2013,0.63,0.452,0.348,0.767,-4.66,0.0102,149.998,0,5,0.083,4,42,1640475
+O Jhar Jhar Jharna,Lata Mangeshkar,/artist/lata-mangeshkar,03:11,Bengali,05-04-2012,0.61,0.26,0.658,0.216,-11.723,0.05,154.928,0,5,0.1,4,36,3924269
+Saraswati Bidyebati,Sanat Singha,/artist/sanat-singha,03:26,Bengali,01-01-2012,0.77,0.89,0.244,0.715,-11.277,0.098,152.84,1,1,0.0424,4,90,7718669
+Tumi Jodi Thakte,Kumar Sanu,/artist/kumar-sanu,05:00,Bengali,03-06-2021,0.31,0.49,0.856,0.497,-4.835,0.0765,149.96,1,4,0.008,4,50,10375120
+Ministers Get Necklaces,various,/artist/various-2,01:14,Bengali,02-04-2012,0.75,0.498,0.97,0.776,-8.183,0.0062,150.009,0,8,0.0654,4,39,1369936
+Ke Jay Re,Asha Bhosle,/artist/asha-bhosle-1,04:53,Bengali,09-12-2022,0.49,0.91,0.935,0.268,-7.513,0.0858,155.033,0,2,0.0105,4,29,4273967
+Dukkher Timir Jodi Jwale,Debabrata Biswas,/artist/debabrata-biswas,02:53,Bengali,11-09-2016,0.94,0.285,0.558,0.967,-5.592,0.039,149.931,0,10,0.04,4,52,1103729
+Jano Naki Tumi,Asha Bhosle|Bappi Lahiri,/artist/asha-bhosle-1|/artist/bappi-lahiri,04:51,Bengali,03-04-2015,0.6,0.61,0.71,0.91,-6.345,0.0807,150,0,8,0.052,4,82,839460
+Kemone Taribo Tara,Lata Mangeshkar,/artist/lata-mangeshkar,02:53,Bengali,07-04-2004,0.31,0.613,0.708,0.291,-9.481,0.0865,150.019,1,9,0.012,4,30,3659888
+Aaji Manda Madhura Pabane,Sreekumar Chatterjee,/artist/sreekumar-chatterjee,04:23,Bengali,06-08-2017,0.12,0.83,0.039,0.254,-7.268,0.045,150.043,0,8,0.035,4,57,8161066
+Aaju Rang Khelatu,Sandhya Mukherjee,/artist/sandhya-mukherjee,03:14,Bengali,05-04-2013,0.16,0.156,0.237,0.144,-6.289,0.059,155.047,1,10,0.03,4,60,9268965
+Shono Kono Ekdin,Hemant Kumar,/artist/hemanta-mukherjee,03:02,Bengali,11-04-2011,0.5,0.28,0.622,0.157,-7.132,0.0835,149.871,0,10,0.0877,4,25,6115800
+O Je Mane Na Mana,Kanika Banerjee,/artist/kanika-banerjee,02:52,Bengali,01-07-2000,0.3,0.035,0.826,1,-9.983,0.018,146.969,1,5,0.0543,4,44,3569376
+Sei Raate Raat Chhilo Purnima,Kishore Kumar,/artist/kishore-kumar,04:05,Bengali,03-04-2009,0.07,0.27,0.973,0.481,-8.027,0.051,155.006,0,5,0.06,4,51,4417266
+Oi Malatilata Dole,Sagar Sen,/artist/sagar-sen,03:03,Bengali,07-04-2010,0.13,0.59,0.6,0.365,-13.405,0.035,150.03,1,8,0.0959,4,46,3689067
+Keno Tumi Chupi Chupi,Kishore Kumar,/artist/kishore-kumar,03:00,Bengali,11-01-2015,0.21,0.76,0.392,0.773,-12.073,0.0881,150.067,1,1,0.003,4,40,5454940
+Ami Boli Tomay Dure Thako,Lata Mangeshkar,/artist/lata-mangeshkar,03:06,Bengali,10-03-2012,0.74,0.05,0.054,0.503,-7.598,0.097,150.036,1,1,0.0906,4,48,7171790
+Na Deko Na Deko Na Go More,Asha Bhosle,/artist/asha-bhosle-1,04:32,Bengali,01-10-2019,0.55,0.15,0.886,0.215,-11.003,0.085,150.014,0,1,0.049,4,25,7606351
+Chithi (Tumi Aaj Kato Durey),Jaganmoy Mitra,/artist/jaganmoy-mitra,06:57,Bengali,04-01-2016,0.87,0.667,0.934,0.818,-6.347,0.0941,154.815,1,11,0.02,4,52,11186338
+Behaya Banshi Dake Je,Lata Mangeshkar,/artist/lata-mangeshkar,03:02,Bengali,08-04-2018,0.65,0,0.695,0.117,-2.15,0.07,149.557,0,3,0.0663,4,94,8187071
+Kalka Parer Nil Sarita,Kumar Sanu,/artist/kumar-sanu,03:52,Bengali,02-11-2001,0.83,0.51,0.764,0.936,-9.049,0.03,150.023,0,9,0.0138,4,97,4805911
+Gopal Re O Gopal,Anusuya Ghosh,/artist/anusuya-ghosh,07:09,Bengali,10-10-2006,0.16,0.87,0.79,0.325,-4.586,0.01,149.96,0,5,0.0338,4,38,6303787
+Sab Kata Janala Khule Daona,Sabina Yasmeen,/artist/sabina-yasmeen,05:07,Bengali,05-04-2003,0.13,0.395,0.996,0.672,-5.136,0.02,149.949,1,1,0.0877,4,43,692409
+Title Music - Teen Kanya,Satyajit Ray,/artist/satyajit-ray,01:26,Bengali,05-03-2004,0.18,0.7,0.824,0.449,-3.486,0.02,150.044,0,6,0.055,4,90,399435
+Lal Paahaarir Dyashe Jaa,Subhas Chakraborty,/artist/subhas-chakraborty,02:55,Bengali,03-12-2003,0.16,0.406,0.346,0.584,-3.163,0.0556,150.005,0,1,0.0939,4,32,1222714
+Amar Ma Eshchen Ghare,Manju Das,/artist/manju-das,02:35,Bengali,09-07-2003,0.17,0.54,0.352,0.614,-12.922,0.08,150.004,0,9,0.0107,4,100,7170766
+Antara Jar Athai Sagar (manna),Manna Dey,/artist/manna-dey,03:17,Bengali,10-12-2003,0.24,0.631,0.066,0.829,-2.294,0.0543,149.85,1,7,0.0239,4,34,3523189
+Amanush - Dialogue - Maap Korben Huzur,Abhhi Bhattacharya|Anil Chatterjee|Uttam Kumar|Sharmila Tagore,/artist/abhhi-bhattacharya|/artist/anil-chatterjee|/artist/uttam-kumar|/artist/sharmila-tagore,26:03:00,Bengali,03-06-2005,0.36,0.76,0.344,0.469,-2.61,0.0964,148.004,0,10,0.0927,4,79,9615545
+Lord Bhanu (1 and 2)(Comic Sketch),Basabi Ghatak|Bithi Ganguly|Chandidas Chakraborty|Debnarayan Chatterjee|Dilip Ghosh|Dwijadas Chakraborty|Robin Mukherjee|Sudhin Mukherjee|Sandip Bhattacharya|Swapan Pathak|Bhanu Bandopadhyay,/artist/basabi-ghatak|/artist/bithi-ganguly|/artist/chandidas-chakraborty|/artist/debnarayan-chatterjee|/artist/dilip-ghosh|/artist/dwijadas-chakraborty|/artist/robin-mukherjee|/artist/sudhin-mukherjee|/artist/sandip-bhattacharya|/artist/swapan-pathak|/artist/bhanu-bandopadhyay-45,13:04,Bengali,10-05-2009,0.29,0.059,0.08,0.141,-12.314,0.048,150.008,0,6,0.01,4,61,5485014
+Keu Kakhano Thik,Antara Chwdhury,/artist/antara-chwdhury,05:46,Bengali,07-02-2008,0.85,0.18,0.176,0.277,-12.844,0.03,149.931,0,5,0.0696,4,54,7056954
+"Aparupa, Aparupa",Lata Mangeshkar,/artist/lata-mangeshkar,03:15,Bengali,12-02-2017,0.24,0.465,0.859,0.349,-5.941,0.088,149.918,0,1,0.018,4,72,11140740
+Ogo Kajal Nayana Harini,Hemant Kumar,/artist/hemanta-mukherjee,03:25,Bengali,03-12-2001,0.6,0.3,0.784,0.104,-11.515,0.01,150.012,0,5,0.061,4,64,6792130
+Amar Paran Jaha Chaay,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,02:41,Bengali,03-10-2005,0.43,0.752,0.365,0.888,-7.584,0.01,150.065,0,4,0.04,4,83,6627671
+Dance Of The Ghosts,various,/artist/various-2,03:07,Bengali,03-12-2010,0.37,0.09,0.02,0.744,-8.122,0.09,150.042,1,5,0.05,4,58,1732967
+Ami Pathbhola Ek Pathik Esechhi,Asha Bhosle|Hemant Kumar,/artist/asha-bhosle-1|/artist/hemanta-mukherjee,03:14,Bengali,11-03-2017,0.08,0.059,0.02,0.068,-13.165,0.0198,150.004,1,1,0.05,4,36,7426524
+O Ki Mahishal Re,Ayesha Sarkar,/artist/ayesha-sarkar,03:01,Bengali,04-09-2020,0.87,0.1,0.109,0.884,-11.817,0.07,150.034,0,4,0.0874,4,25,2947951
+"Rodanbhora E Basanta, Sakhi",Hemant Kumar,/artist/hemanta-mukherjee,03:05,Bengali,08-12-2016,0.01,0.707,0.634,0.231,-5.299,0.096,149.992,1,1,0.08,4,50,6152267
+Akashe Surja Achhe Jatodin,Asha Bhosle,/artist/asha-bhosle-1,03:04,Bengali,10-07-2006,0.01,0.81,0.478,0.077,-11.603,0.05,150.184,1,8,0.075,4,48,9052839
+Tumi Surjya Tumi Chandra,Amar Roy|Asha Bhosle|Chittapriya Mukherjee,/artist/amar-roy|/artist/asha-bhosle-1|/artist/chittapriya-mukherjee,06:21,Bengali,10-03-2017,0.96,0.164,0.307,0.146,-10.293,0.0896,157.045,1,0,0.0102,4,25,4790378
+Keno Tumi badle Gechho,Akhil Bandhu Ghosh,/artist/akhil-bandhu-ghosh,03:09,Bengali,08-02-2007,0.74,0.95,0.339,0.362,-7.982,0.01,150.082,1,3,0.03,4,63,9755239
+Jiban Jakhan Shukaye Jay (Mono),Suchitra Mitra,/artist/suchitra-mitra,03:11,Bengali,09-01-2011,0.66,0.124,0.093,0.517,-3.653,0.05,149.915,0,10,0.0809,4,36,5915574
+Tumi Sandhyar Meghmala,Rakhi Sarkar,/artist/rakhi-sarkar,04:03,Bengali,02-01-2023,0.31,0.47,0.643,0.969,-6.871,0.058,150.003,0,7,0.0037,4,81,1816987
+Rakhal Chandra Matal,Kishore Kumar,/artist/kishore-kumar,26:22:00,Bengali,12-10-2004,0.07,0.971,0.226,0.618,-13.834,0.071,149.964,0,9,0.068,4,52,3877531
+Dur Dwipbasini,Feroza Begum,/artist/feroza-begum,04:38,Bengali,09-01-2012,0.53,0.96,0.753,0.961,-4.6,0.03,155.023,0,9,0.099,4,86,9677290
+Borfi,various,/artist/various-2,47:06:00,Bengali,10-09-2008,0.58,0.139,0.577,0.514,-2.537,0.0977,154.958,0,10,0.073,4,62,9763177
+Karo Keu Naiko Aami,Kishore Kumar,/artist/kishore-kumar,04:46,Bengali,12-03-2012,0.71,0.02,0.29,0.845,-7.769,0.03,149.959,1,9,0.08,4,57,848088
+O Pahar (Female Version),Kavita Krishnamurthy,/artist/kavita-subramaniam,07:22,Bengali,04-05-2016,0.36,0.9,0.69,0.34,-13.65,0.0052,149.883,1,0,0.015,4,69,5503425
+Teler Shishi,Antara Chwdhury,/artist/antara-chwdhury,02:51,Bengali,04-11-2006,0.43,0.5,0.262,0.483,-12.42,0.06,149.995,0,10,0,4,96,10354831
+Eso Kachhe Eso (Part 1),Lata Mangeshkar,/artist/lata-mangeshkar,03:28,Bengali,07-09-2006,0.85,0.244,0.443,0.976,-9.207,0.0426,149.967,1,6,0.0583,4,50,4129067
+Tomader Aasare Aaj,Lata Mangeshkar,/artist/lata-mangeshkar,04:38,Bengali,05-12-2001,0.12,0.13,0.533,0.808,-12.207,0.07,155.02,1,0,0,4,77,7551027
+Andhakare Ese Tumi,Manabendra Mukherjee,/artist/manabendra-mukherjee,02:43,Bengali,01-07-2016,0.26,0.261,0.888,0.953,-3.131,0.0307,149.987,0,10,0.08,4,54,1410918
+Moynaparar Meye (Krishnakali and Surer Guru),Dohar,/artist/dohar,11:46,Bengali,06-11-2023,0.45,0.89,0.624,0.195,-8.364,0.0275,150.021,0,1,0.0413,4,25,9055074
+Guru Guru Guru Guru Ghana Megh Garaje,Chorus,/artist/chorus,01:04,Bengali,05-07-2009,0.94,0.907,0.175,0.101,-4.383,0.07,155.021,1,4,0.029,4,67,7442229
+Mone Pore Ruby Roy,R. D. Burman,/artist/r-d-burman,03:25,Bengali,11-03-2005,0.33,0.6,0.428,0.836,-4.48,0.071,149.728,0,9,0.06,4,64,2107022
+"Barne, Gandhe, Chhande, Gitite",S. D. Burman,/artist/sdburman,03:13,Bengali,02-10-2001,0.84,0.961,0.306,0.652,-13.132,0.05,149.969,0,8,0.061,4,95,5524791
+Haay Haay Praan Jaay,Lata Mangeshkar,/artist/lata-mangeshkar,03:32,Bengali,12-12-2011,0.06,0.1,0.601,0.51,-7.006,0.067,150.014,1,1,0.08,4,45,9687294
+Samay Gele Sadhan Hobe Na,Farida Parveen,/artist/farida-parveen,03:42,Bengali,02-08-2007,0.46,0.328,0.998,0.451,-3.049,0.085,149.949,0,6,0.001,4,98,10209041
+Swapna Dekhi Danriye Achho,Sriradha Banerjee,/artist/sriradha-banerjee,03:19,Bengali,01-03-2018,0.01,0.93,0.648,0.315,-9.541,0.089,150.025,0,9,0.0439,4,30,3616248
+Tumi Shakti Tumi Debi,Abhijit Mukherjee,/artist/abhijit-mukherjee,04:03,Bengali,07-10-2002,0.41,0.826,0.999,0.148,-5.935,0.06,150.053,1,1,0.04,4,54,1983193
+Dekho Gorbito Bir Ver.2,Anup Ghoshal,/artist/anup-ghoshal-1,01:31,Bengali,07-04-2012,0.33,0.02,0.517,0.506,-7.363,0.026,155.111,1,1,0.01,4,91,5003035
+Story and Songs Part Ii,Asha Bhosle|Kishore Kumar|Shyamal Mitra,/artist/asha-bhosle-1|/artist/kishore-kumar|/artist/shyamal-mitra,29:18:00,Bengali,01-01-2020,0.53,0.885,0.674,0.138,-4.229,0.0081,155.098,0,7,0.008,4,70,9078698
+Emon Mon Byabsaa,Purna Das Baul,/artist/purna-das-baul,03:07,Bengali,07-11-2009,0.77,0.68,0.898,0.937,-12.034,0.087,150.051,1,4,0.093,4,44,5303325
+Agamani Gaan Shona Jay (Aashwin),Manna Dey,/artist/manna-dey,04:02,Bengali,05-02-2005,0.88,0.344,0.698,0.064,-8.436,0.0348,150.011,1,7,0.074,4,99,8618042
+Amar Jabar Belay Pichhu Dake,Hemant Kumar,/artist/hemanta-mukherjee,03:03,Bengali,11-08-2005,0.89,0.68,0.026,0.206,-10.432,0.013,149.815,1,7,0.059,4,59,47106
+O Prajapati Prajapati,Lata Mangeshkar,/artist/lata-mangeshkar,03:00,Bengali,07-02-2015,0.45,0.841,0.762,0.014,-6.241,0.02,150.144,0,6,0.09,4,75,10493860
+Amar Moner Manusher Sone,Pratima Banerjee,/artist/pratima-banerjee,02:51,Bengali,12-12-2016,0.41,0.72,0.889,0.339,-12.163,0.019,150.042,0,3,0.05,4,71,8184591
+Aamar Swapna Je,Lata Mangeshkar|Kishore Kumar,/artist/lata-mangeshkar|/artist/kishore-kumar,07:28,Bengali,08-02-2022,0.42,0.374,0.247,0.222,-6.131,0.054,149.938,0,0,0.012,4,47,7354485
+Eka Nare,Antara Chwdhury,/artist/antara-chwdhury,03:38,Bengali,10-10-2000,0.59,0.08,0.062,0.247,-9.312,0.0442,149.959,0,4,0.0182,4,92,167277
+Jharapata Go Ami Tomari Dale,Hemant Kumar,/artist/hemanta-mukherjee,02:54,Bengali,07-05-2006,0.07,0.745,0.275,0.652,-11.864,0.03,149.986,0,0,0.011,4,34,2239410
+Danrale Duare Mor,Feroza Begum,/artist/feroza-begum,04:35,Bengali,10-04-2014,0.95,0.27,0.497,0.595,-8.821,0.08,149.925,1,0,0.048,4,54,3979551
+(Ami) Takdum Takdum Bajai,S. D. Burman,/artist/sdburman,03:07,Bengali,09-01-2003,0.16,0.91,0.494,0.056,-10.558,0,154.995,1,11,0.047,4,33,5123619
+Tui Phele Esechhis Kare,Hemant Kumar,/artist/hemanta-mukherjee,02:55,Bengali,01-09-2002,0.06,0.96,0.993,0.413,-2.809,0.077,155.07,1,5,0.06,4,63,571679
+Ei Je Nodi - Nodire,Hemant Kumar,/artist/hemanta-mukherjee,03:41,Bengali,03-07-2011,0.99,0.04,0.679,0.679,-8.017,0.007,149.988,0,8,0.05,4,37,10436580
+O Mon Kakhan Shuru,Sandhya Mukherjee|Shyamal Mitra,/artist/sandhya-mukherjee|/artist/shyamal-mitra,03:32,Bengali,12-03-2012,0.65,1,0.582,0.705,-12.133,0.06,150.047,0,5,0.01,4,76,8220574
+Sona Ghumalo Para Juralo,Geeta Dutt,/artist/geeta-dutt,03:15,Bengali,05-10-2022,0.7,0.33,0.716,0.642,-12.52,0.0422,150.092,0,1,0.034,4,99,8581198
+Pahare Jongole Ek Manushkhekho Bagh Thake,Asha Bhosle,/artist/asha-bhosle-1,05:25,Bengali,09-12-2004,0.29,0.8,0.96,0.143,-2.062,0.055,150.009,0,0,0.0395,4,35,6764728
+Alo Amar Alo Ogo,Chinmoy Chatterjee,/artist/chinmoy-chatterjee,02:26,Bengali,11-01-2005,0.62,0.265,0.918,0.223,-2.804,0.008,150.055,0,7,0.016,4,59,6385122
+Shuno Shuno Go Sabe,Kishore Kumar,/artist/kishore-kumar,07:29,Bengali,07-07-2012,0.58,0.38,0.056,0.642,-3.555,0.044,149.937,0,1,0.01,4,32,8708735
+Kanthe Amar Daogo Bani,Pamela Mukherjee,/artist/pamela-mukherjee,04:19,Bengali,04-02-2001,0.57,0.139,0.245,0.41,-9.635,0.059,149.893,0,5,0.093,4,49,8733820
+Bak Halo Binapani,Sreekumar Chatterjee,/artist/sreekumar-chatterjee,05:25,Bengali,03-05-2006,0.38,0.8,0.525,0.901,-4.886,0.003,147.989,0,6,0.075,4,65,9723484
+Kato Raaginir Bhul Bhangate,Hemant Kumar,/artist/hemanta-mukherjee,03:05,Bengali,05-05-2020,0.51,0.834,0.551,0.967,-6.893,0.08,149.943,0,4,0.0772,4,75,9751660
+Nao Go Ma Phul Nao,Lata Mangeshkar,/artist/lata-mangeshkar,03:02,Bengali,05-12-2018,0.49,0.59,0.953,0.854,-7.757,0.09,149.87,1,1,0.05,4,66,9766531
+Keno Dako Bare Bare,Sandhya Mukherjee,/artist/sandhya-mukherjee,03:06,Bengali,11-03-2005,0.55,0.126,0.23,0.262,-4.391,0.009,149.956,0,5,0.0562,4,55,10325951
+Mone Pade Sei Sab,Kishore Kumar,/artist/kishore-kumar,03:30,Bengali,06-06-2006,0.01,0.47,0.774,0.551,-7.719,0,149.974,0,1,0.0165,4,76,10575395
+Jak Dhuye Jak Muchhe Jak,Shyamal Mitra,/artist/shyamal-mitra,03:23,Bengali,12-09-2010,0.13,0.234,0.141,0.611,-3.263,0.046,150.011,1,3,0.08,4,94,8934937
+Aloy Alor Smriti,Atanu Sanyal,/artist/atanu-sanyal,03:02,Bengali,01-06-2013,0.95,0.83,0.709,0.48,-5.084,0.098,149.81,0,10,0.0886,4,95,10122819
+Jhiri Jhiri Batas Kande,Shyamal Mitra,/artist/shyamal-mitra,03:14,Bengali,09-04-2000,0.78,0.252,0.216,0.841,-3.454,0.066,154.868,1,4,0.06,4,92,6758168
+Chaina Amar Reshmi Chudi,Asha Bhosle,/artist/asha-bhosle-1,04:54,Bengali,01-09-2008,0.95,0.67,0.288,0.027,-2.496,0.09,149.944,1,7,0.08,4,98,4190026
+Shikhtey Tomaay Hobeyi,Kishore Kumar,/artist/kishore-kumar,04:59,Bengali,01-01-2006,0.91,0.713,0.89,0.54,-2.901,0.0819,144.973,0,1,0.029,4,89,1515652
+Keno Bani Tabo Nahi Shuni Nath Hey,Sagar Sen,/artist/sagar-sen,03:31,Bengali,12-10-2002,0.53,0.99,0.511,0.266,-10.516,0.0429,149.967,0,11,0.06,4,33,7123443
+O Didimoni,Aarti Mukherji,/artist/aarti-mukherji,02:41,Bengali,11-02-2008,0.7,0.921,0.831,0.303,-12.843,0.001,149.949,1,5,0.064,4,59,2559302
+Dur Noy Beshi Dur Oi (Jaak Ja Gechhe Ta Jaak),Shyamal Mitra,/artist/shyamal-mitra,02:48,Bengali,07-04-2014,0.87,0.04,0.07,0.403,-11.325,0.03,150.037,1,2,0.0075,4,82,10867981
+Amar Moner Ei Mayurmahale,Kishore Kumar,/artist/kishore-kumar,03:09,Bengali,11-04-2019,0.39,0.711,0.405,0.188,-2.747,0.0431,149.973,0,4,0.003,4,70,1250190
+Banshi Shune Aar Kaj Nai,S. D. Burman,/artist/sdburman,03:16,Bengali,09-03-2003,0.17,0.28,0.874,0.287,-2.974,0.04,149.944,0,11,0.0138,4,87,1155749
+Nishi Raat Banka Chand Akashe,Banasree Sengupta,/artist/banasree-sengupta,04:24,Bengali,11-06-2013,0.03,0.239,0.072,0.301,-11.208,0.03,150.001,0,6,0.0155,4,26,3555903
+Nitol Paye Rinik Jhinik,S. D. Burman,/artist/sdburman,03:29,Bengali,09-04-2014,0.08,0.08,0.465,0.205,-11.072,0.036,149.99,1,2,0.03,4,93,4314095
+Jodio Rajani Pohalo,Lata Mangeshkar,/artist/lata-mangeshkar,04:28,Bengali,06-03-2001,0.64,0.977,0.13,0.659,-4.831,0.061,150.097,0,6,0.0595,4,78,6577
+Aarati Korte Chokh,Sanjay Chakraborty,/artist/sanjay-chakraborty,04:57,Bengali,05-11-2002,0.21,0.95,0.601,0.16,-13.025,0.0972,149.838,1,1,0.0861,4,32,8509619
+Nao Gaan Bhare,Antara Chwdhury,/artist/antara-chwdhury,03:38,Bengali,11-12-2003,0.45,0.871,0.913,0.131,-6.183,0.1,147.854,1,0,0.03,4,75,9316399
+Amar Malatilata Dole,Lata Mangeshkar,/artist/lata-mangeshkar,03:33,Bengali,05-06-2018,0.82,0.28,0.261,0.666,-6.036,0.0952,150.005,1,1,0.08,4,85,505384
+Bhanu Elo Kolkatay - 1 And 2 - Comic,Sudhin Mukherjee|Sushil Das|Vivekananda Roy|Bhanu Bandopadhyay|Sudhir Bhattacharya|Shaila Devi,/artist/sudhin-mukherjee|/artist/sushil-das|/artist/vivekananda-roy|/artist/bhanu-bandopadhyay-14|/artist/sudhir-bhattacharya|/artist/shaila-devi,11:15,Bengali,03-03-2007,0.71,0.654,0.997,0.527,-5.718,0.096,149.871,0,5,0.0386,4,50,10641376
+Takhon Tomar Ekush Bachhar,Aarti Mukherji,/artist/aarti-mukherji,03:22,Bengali,10-06-2002,0.86,0.97,0.636,0.513,-3.673,0.07,149.917,1,8,0.09,4,34,7283068
+Seito Sravan,Anuradha Paudwal,/artist/anuradha-paudwal-2,04:00,Bengali,05-11-2001,0.91,0.023,0.149,0.427,-8.499,0.0741,149.931,1,10,0.0336,4,83,8432214
+Jhim Chiki Chak,Lata Mangeshkar|Chorus,/artist/lata-mangeshkar|/artist/chorus,03:25,Bengali,04-10-2000,0.19,0.25,0.639,0.205,-3.967,0.04,149.992,0,4,0.0015,4,51,7574110
+Amar Mon Cheye Roy Mone Mone,Hemant Kumar,/artist/hemanta-mukherjee,03:15,Bengali,05-05-2005,0.2,0.599,0.86,0.436,-5.367,0.098,149.971,0,10,0.07,4,58,2057352
+Chiradin Kancha Bansher Khancha,Purna Das Baul,/artist/purna-das-baul,03:39,Bengali,11-03-2016,0.37,0.13,0.703,0.139,-5.303,0.08,150.029,1,0,0.0679,4,55,6319738
+Aay Aay Chhute Aay,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:12,Bengali,04-05-2017,0.4,0.025,0.541,0.548,-10.57,0.099,154.906,0,9,0.09,4,80,3332464
+Bhupatis Grief,various,/artist/various-2,01:29,Bengali,01-08-2016,0.77,0.19,0.509,0.215,-12.293,0.0868,155.023,1,5,0.09,4,61,4480172
+Ja Jare Ja Ja Pakhi,Shyamal Mitra,/artist/shyamal-mitra,03:18,Bengali,07-03-2016,0.09,0.963,0.555,0.061,-4.33,0.0602,149.998,0,11,0.1,4,71,10407185
+Harinam Ke Aanilo,BHAKTA DAS BAUL,/artist/bhakta-das-baul,05:00,Bengali,06-10-2014,0.36,0.93,0.819,0.852,-12.706,0.0678,149.992,0,6,0.02,4,100,2459177
+Sukhe Amai Rakhbe Keno,Arundhati Holme Chowdhury,/artist/arundhati-holme-chowdhury,04:07,Bengali,06-10-2009,0.19,0.817,0.215,0.249,-13.34,0.1,149.991,0,6,0.01,4,69,8601507
+Bharatbarso Surjer Ek Naam,Calcutta Youth Choir,/artist/calcutta-youth-choir,04:02,Bengali,06-09-2015,0.44,0.7,0.068,0.05,-9.648,0.0149,147.906,1,1,0.034,4,93,27874
+Mone Pore Ruby Roy,R. D. Burman,/artist/r-d-burman,03:25,Bengali,08-04-2005,0.95,0.041,0.697,0.55,-4.99,0.0381,152.918,1,4,0.0754,4,49,1766818
+Dharanir Pathe Pathe,Lata Mangeshkar,/artist/lata-mangeshkar,05:11,Bengali,10-04-2002,0.41,0.43,0.322,0.401,-4.847,0.099,150.135,0,1,0.084,4,83,9317344
+Kotodin Dekhini Tomay,Feroza Begum,/artist/feroza-begum,03:45,Bengali,10-08-2000,0.47,0.796,0.071,0.731,-4.774,0.072,149.761,0,8,0.031,4,93,2156733
+Har-Mana Har,Sivaji Chatterjee,/artist/sivaji-chatterjee,03:45,Bengali,06-06-2010,0.73,0.26,0.47,0.135,-11.155,0.0213,150.049,0,8,0.0681,4,46,9500479
+Son Go Lalite,Manju Das,/artist/manju-das,02:29,Bengali,05-10-2002,0.42,0.688,0.676,0.307,-3.064,0.026,149.907,1,9,0.012,4,80,9016838
+Kono Ek Chena Pathe,Aarti Mukherji,/artist/aarti-mukherji,03:18,Bengali,02-10-2001,0.83,0.49,0.117,0.136,-13.693,0.02,150.013,1,7,0.0384,4,33,9282089
+Ei To Bhalo Legechhilo,Debabrata Biswas,/artist/debabrata-biswas,03:11,Bengali,11-08-2023,0.65,0.417,0.991,0.951,-5.491,0.05,149.913,0,6,0.0064,4,90,3593171
+Oi Dur Diganta Pare,Mohammed Rafi,/artist/mohammad-rafi,03:22,Bengali,06-04-2013,0.94,0.12,0.034,0.515,-4.891,0.02,149.994,0,5,0.05,4,28,2658487
+Sadhya Kire Amar Se Rup Chinite,Nirmalendu Choudhury,/artist/nirmalendu-choudhury,02:35,Bengali,06-04-2018,0.52,0.397,0.626,0.044,-3.391,0.081,154.995,0,5,0.0271,4,61,2669493
+Duyo Duyo Ari,Lata Mangeshkar,/artist/lata-mangeshkar,03:09,Bengali,05-04-2024,0.38,0.34,0.589,0.684,-8.806,0.0904,150.002,1,1,0.038,4,51,6156718
+Tumi Ki Ekhon Dekhicho Swapan,Feroza Begum,/artist/feroza-begum,03:28,Bengali,04-01-2004,0.79,0.58,0.569,0.206,-13.022,0.03,149.909,0,5,0.08,4,31,9052935
+Ek Bnao Mele Na,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:23,Bengali,01-06-2006,0.21,0.26,0.624,0.353,-2.712,0.04,150.031,0,9,0.0004,4,35,5998431
+Amar Kuasha Je Orna,Asha Bhosle|Chorus,/artist/asha-bhosle-1|/artist/chorus,02:49,Bengali,03-10-2006,0.91,0.629,0.361,0.581,-4.387,0.0536,149.968,1,6,0.0089,4,88,11125740
+Dekhona Amay Ogo Aayna,Lata Mangeshkar,/artist/lata-mangeshkar,03:37,Bengali,02-11-2004,0.14,0.5,0.893,0.026,-10.975,0.07,150.029,0,9,0.024,4,69,6825870
+Amar A Bedan Majhe Tumi,Nirmal Mishra,/artist/nirmal-mishra,03:08,Bengali,11-04-2013,0.93,0.554,0.637,0.578,-6.093,0.068,150.003,1,1,0.0453,4,89,9782
+Thik Saare Panchta Jei Bejechhe,Kishore Kumar,/artist/kishore-kumar,03:14,Bengali,04-09-2008,0.96,0.39,0.758,0.208,-5.756,0.0854,150.006,0,5,0.09,4,45,944665
+Kala Aar Na Bajan Banshari,Bishnupada Das,/artist/bishnupada-das,03:43,Bengali,11-09-2015,0.86,0.533,0.747,0.587,-11.475,0.0354,150.036,0,7,0.006,4,95,908149
+Amay Prashna Kare Neel Dhrubatara,Hemant Kumar,/artist/hemanta-mukherjee,03:15,Bengali,08-09-2022,0.99,0.51,0.725,0.123,-8.767,0.044,150.075,0,4,0.0876,4,78,2229892
+Salma Jarir Jhalak,Asha Bhosle,/artist/asha-bhosle-1,04:33,Bengali,03-02-2015,0.51,0.556,0.945,0.251,-10.621,0.0953,150,1,9,0.04,4,56,208781
+Ami Jar Nupurer Chhanda,Madhuri Chatterjee,/artist/madhuri-chatterjee,02:48,Bengali,10-09-2018,0.04,0.01,0.209,0.273,-11.172,0.014,149.996,0,5,0.08,4,68,8311831
+Tumi Pathar Chokheo Je Dristi,Lata Mangeshkar,/artist/lata-mangeshkar,05:51,Bengali,08-04-2001,0.45,0.006,0.062,0.985,-12.499,0.0572,154.856,0,7,0.087,4,82,7575874
+Shwasure Jamaiye Halud Phul,Swapna Chakraborty,/artist/swapna-chakraborty,03:15,Bengali,03-05-2023,0.11,0.72,0.244,0.256,-13.148,0.04,149.936,0,4,0.088,4,35,11075086
+Na Bole Esechhi,Aarti Mukherji,/artist/aarti-mukherji,03:21,Bengali,08-12-2011,0.82,0.728,0.582,0.455,-12.159,0.03,149.943,0,4,0.0285,4,38,3189450
+The Reciting Of Mantras,various,/artist/various-2,01:07,Bengali,10-03-2006,0.84,0.03,0.775,0.234,-8.74,0,154.847,0,0,0.032,4,31,6495916
+Oi Ja Ami Bolte Bhule Gechhi,Akhil Bandhu Ghosh,/artist/akhil-bandhu-ghosh,02:52,Bengali,04-05-2011,0.79,0.455,0.742,0.887,-6.763,0.0752,149.842,0,10,0.0324,4,43,10546805
+Bombe Khub Doore Noi,Alka Yagnik,/artist/alka-yagnik,05:00,Bengali,01-12-2005,0.95,0.09,0.572,0.456,-3.34,0.09,150.027,0,6,0,3,36,6418231
+Niyoti Amar Prothom,Satinath Mukhyopadhyay,/artist/satinath-mukhyopadhyay,03:31,Bengali,05-04-2008,0.07,0.925,0.242,0.793,-2.245,0.012,150.069,0,5,0,4,98,2946830
+Aaji Shubhodine Pitar Bhabane,Sagar Sen,/artist/sagar-sen,02:45,Bengali,10-02-2005,0.59,0.18,0.023,0.133,-9.323,0.035,144.986,0,11,0.06,4,53,1993769
+Ho Re Re Re,Kishore Kumar,/artist/kishore-kumar,04:51,Bengali,02-04-2005,0.61,0.295,0.999,0.832,-7.145,0.0677,149.96,0,6,0.038,4,70,10746663
+Dhire Jai,Manabendra Mukherjee,/artist/manabendra-mukherjee,03:33,Bengali,02-01-2008,0.11,0.82,0.066,0.903,-8.019,0.02,149.949,0,6,0.029,4,95,8294043
+Aaj Mukhete Bolle Tumi,Kishore Kumar,/artist/kishore-kumar,05:34,Bengali,05-11-2000,0.5,0.373,0.344,0.369,-6.062,0.06,152.981,0,9,0.0322,4,64,603971
+Tara Kon Aparadhe,Ramkumar Chatterjee,/artist/ramkumar-chatterjee,05:15,Bengali,03-09-2020,0.32,0.54,0.136,0.314,-9.413,0.01,149.94,0,7,0.0748,4,40,4291863
+The Hero,Rabindranath Tagore,/artist/rabindranath-tagore,02:30,Bengali,09-11-2018,0.97,0.156,0.869,0.215,-2.081,0.01,152.028,1,1,0.06,4,55,5386762
+Ke Jeno Abir,Asha Bhosle,/artist/asha-bhosle-1,03:33,Bengali,12-03-2017,0.5,0.7,0.124,0.555,-2.255,0.007,150.026,0,9,0.091,4,86,2639612
+Tumi Mor Pao Nai Parichay,Hemant Kumar,/artist/hemanta-mukherjee,03:17,Bengali,09-12-2011,0.94,0.296,0.557,0.553,-7.806,0.0074,149.745,0,11,0.041,4,26,197031
+Gaaner Koli Surer Durite,S. D. Burman,/artist/sdburman,03:15,Bengali,09-11-2001,0.23,0.97,0.701,0.722,-6.907,0.03,155.026,1,2,0.02,4,41,9485455
+Amar Kantho Hote Gaan Ke Nilo,Hemant Kumar,/artist/hemanta-mukherjee,02:57,Bengali,12-07-2018,0.76,0.066,0.897,0.15,-12.134,0.02,150.068,0,0,0.0592,4,83,1459511
+Chaaridike Paaper Andhar (Manush Janam Diye Bidhi),Kishore Kumar,/artist/kishore-kumar,03:23,Bengali,10-04-2006,0.16,0.34,0.833,0.281,-12.431,0.06,152.054,0,0,0.0614,4,55,585134
+Ei Ki Go Shesh Daan,Feroza Begum,/artist/feroza-begum,03:56,Bengali,02-06-2009,0.89,0.805,0.732,0.668,-5.925,0.1,149.816,1,1,0.06,4,66,8761222
+Ei Je Bangla,Sandhya Mukherjee|Hemant Kumar,/artist/sandhya-mukherjee|/artist/hemanta-mukherjee,07:36,Bengali,05-01-2020,0.25,0.38,0.331,0.83,-10.551,0.058,149.899,1,0,0.08,4,48,3616407
+Jatone Hridaye Rekho,Ajoy Chakrabarty,/artist/ajoy-chakrabarty,04:29,Bengali,12-05-2005,0.64,0.904,0.015,0.995,-13.309,0.08,150.038,0,6,0.05,4,70,9590329
+Tomar Je Oi Haater Mala,Asha Bhosle,/artist/asha-bhosle-1,03:22,Bengali,02-03-2004,0.48,0.72,0.357,0.731,-12.252,0.0926,150.032,1,1,0.04,4,62,3931406

@@ -1,0 +1,725 @@
+song_name,singer,singer_id,duration,language,released_date,danceability,acousticness,energy,liveness,loudness,speechiness,tempo,mode,key,Valence,time_signature,popularity,Stream
+Namore Kothia,Bhupen Hazarika|Anju Devi,/artist/dr-bhupen-hazarika-2|/artist/anju-devi,07:11,Assamese,02-07-2005,0.77,0.67,0.25,0.471,-7.404,0.0152,149.977,0,9,0.07,4,40,9195112
+Jai A Kanu,Khagen Mahanta,/artist/khagen-mahanta,04:41,Assamese,03-09-2005,0.17,0.24,0.557,0.906,-6.357,0.01,150.031,0,9,0.0454,4,62,5008223
+Tuamaki Roana,sibcharan das,/artist/sibcharan-das,03:11,Assamese,12-06-2009,0.88,0.628,0.295,0.257,-2.865,0.01,149.964,0,9,0.01,4,71,662879
+Surat Magan Bhayal Rati,Jayanta Hazarika,/artist/jayanta-hazarika,04:02,Assamese,11-04-2015,0.29,0.74,0.288,0.45,-5.943,0.054,149.962,0,1,0.031,4,82,9514268
+Buku Ham Ham Kore,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:23,Assamese,09-11-2019,0.05,0.284,0.692,0.571,-2.519,0.057,153.945,0,10,0.0129,4,54,1580562
+Bhal Poa Mor,sibcharan das,/artist/sibcharan-das,02:54,Assamese,02-07-2001,0.56,0.66,0.368,0.378,-13.072,0.1,150.009,1,2,0.038,4,89,6985188
+O Siparar Baandhu,Manna Dey|Bhupen Hazarika,/artist/manna-dey|/artist/dr-bhupen-hazarika-2,05:00,Assamese,04-11-2012,0.77,0.428,0.271,0.053,-10.298,0.04,145.004,1,1,0.02,4,78,7552691
+Alfolia Kopou Phool,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,03:24,Assamese,12-05-2001,0.05,0.98,0.31,0.21,-4.807,0.01,149.982,0,5,0.059,4,32,8296179
+Kapili Kapili,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:15,Assamese,12-09-2006,0.79,0.091,0.47,0.619,-6.866,0.0264,150.011,0,6,0.0091,4,74,6001859
+Gouri Puriya Gavoru Dekhilo,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,04:18,Assamese,12-07-2006,0.93,0.85,0.831,0.736,-9.727,0.077,150.01,0,0,0.03,4,46,5403539
+Madarare Phoolo Heno,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,05:04,Assamese,03-08-2018,0.13,0.222,0.452,0.913,-2.671,0.0632,149.945,0,9,0.04,4,48,9770659
+Iyat Rod Olalei Akash,Suez Bardoloi,/artist/suez-bardoloi,03:00,Assamese,02-01-2013,0.46,0.72,0.457,0.956,-7.908,0.071,149.938,1,1,0.0816,4,37,4844403
+Sharadi Rani Tomar,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:25,Assamese,09-05-2017,0.75,0.166,0.144,0.113,-4.52,0.04,149.887,0,6,0.1,4,97,1856621
+Tumi Prabhu Anathar Nath,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,03:14,Assamese,12-07-2016,0.93,0.23,0.102,0.443,-3.791,0.0651,150.04,0,6,0.09,4,79,9062614
+Bihu Bihu Lagichhe Gaat,Bhupen Hazarika|Ruby Singha,/artist/dr-bhupen-hazarika-2|/artist/ruby-singha,02:55,Assamese,06-02-2006,0.28,0.604,0.688,0.947,-9.265,0.016,150.147,1,6,0.073,4,68,9183656
+Phulite Keteki,Bibha Barua|Anu Barkakati|Sharat Sharma,/artist/bibha-barua-1|/artist/anu-barkakati-1|/artist/sharat-sharma,04:00,Assamese,11-01-2023,0.99,0.41,0.078,0.56,-8.036,0.047,149.961,1,2,0.0349,4,49,8983871
+Shankar Guru,Rameshwar Pathak|Dhanada Pathak,/artist/rameshwar-pathak|/artist/dhanada-pathak,03:04,Assamese,02-06-2004,0.07,0.681,0.056,0.135,-9.201,0.03,150.044,1,8,0.0049,4,49,5062202
+Radha Chalilora,Snehalata Das,/artist/snehalata-das,03:04,Assamese,06-08-2017,0.75,0.64,0.9,0.027,-4.029,0.006,149.895,1,1,0.0523,4,55,6345210
+Tomar Buba,sibcharan das,/artist/sibcharan-das,02:53,Assamese,10-01-2022,0.34,0.964,0.58,0.429,-3.594,0.0466,150.044,0,5,0.009,4,51,3207112
+Jon Bai E Beji Eti Dia,Jiten Deka|Nirmali Das,/artist/jiten-deka|/artist/nirmali-das,03:39,Assamese,12-01-2023,0.95,0.81,0.19,0.991,-4.587,0.01,153.948,1,1,0.06,4,82,9600216
+Aahaaho Mahaho,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:11,Assamese,09-01-2006,0.09,0.536,0.928,0.662,-4.124,0.0593,149.998,0,11,0.067,4,97,10469975
+Aami Pani Ona Ghat,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,05:25,Assamese,06-01-2004,0.49,0.08,0.921,0.694,-9.268,0.02,149.982,1,10,0.032,4,69,10412327
+Ou Kumalia,Khagen Mahanta,/artist/khagen-mahanta,03:07,Assamese,07-07-2000,0.26,0.922,0.255,0.241,-4.331,0.1,150.058,1,5,0.066,4,66,11258952
+Oi Babitoi Dhulia,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,05:56,Assamese,05-12-2002,0.57,0.25,0.639,0.616,-11.563,0.02,149.842,1,11,0.08,4,95,4380345
+Joa Beli Bohagat,Lokeswar Deka,/artist/lokeswar-deka,04:03,Assamese,01-09-2018,0.09,0.344,1,0.283,-9.059,0.0153,149.992,0,10,0.0142,4,72,9089186
+Ai Saraswati A,Bhupen Hazarika|Bandana Boraha,/artist/dr-bhupen-hazarika-2|/artist/bandana-boraha,05:33,Assamese,01-09-2014,0.54,0.74,0.146,0.95,-10.631,0.08,149.984,1,5,0.004,4,82,2505197
+Nai Hoya Sesh,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,03:09,Assamese,01-06-2002,0.29,0.163,0.118,0.132,-2.263,0.07,150.02,0,10,0.081,4,84,6368796
+Moi Geet Rachina,sibcharan das,/artist/sibcharan-das,03:21,Assamese,01-11-2003,0.91,0.92,0.601,0.95,-3.843,0.028,155.199,0,11,0.09,4,54,4243506
+Loke Boley,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,03:55,Assamese,09-04-2010,0.25,0.744,0.867,0.282,-3.183,0.07,149.624,1,1,0.0232,4,82,10486459
+Jai Srimanta Shankara,Rameshwar Pathak,/artist/rameshwar-pathak,02:56,Assamese,11-04-2015,0.24,0.79,0.75,0.718,-13.173,0.0222,150.028,0,2,0.0067,4,68,8383926
+A Aaji Beular Biya,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,02:54,Assamese,09-03-2019,0.88,0.116,0.165,0.04,-7.201,0.06,149.967,1,1,0.051,4,58,6081845
+Bihu Anandia,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,05:01,Assamese,03-10-2000,0.17,0.71,0.018,0.008,-10.665,0.03,150.073,1,4,0.029,4,94,9894203
+Aaji Akashar,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:31,Assamese,01-02-2014,0.49,0.076,0.969,0.653,-6.942,0.0606,149.907,1,5,0.0729,4,93,1924992
+Kala Chola Kuruta,Khagen Mahanta|Chorus,/artist/khagen-mahanta|/artist/chorus,03:16,Assamese,02-03-2021,0.8,0.58,0.505,0.393,-2.161,0.006,149.618,1,5,0.078,4,80,1007021
+Aaji Akashar,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:48,Assamese,11-02-2006,0.64,0.72,0.586,0.889,-10.34,0.012,150.014,1,9,0.08,4,34,2367768
+Murat Dadhire Boja,Anima Choudhury|Rameshwar Pathak|Bharati Choudhury,/artist/anima-choudhury|/artist/rameshwar-pathak|/artist/bharati-choudhury-1,05:05,Assamese,07-12-2022,0.52,0.1,0.713,0.344,-4.034,0.0525,150.021,1,1,0.058,4,55,10043914
+Jhiri Jhiri Botaha Jakar,Mridula Das Dewan,/artist/mridula-das-dewan,03:04,Assamese,07-02-2020,0.78,0.544,0.029,0.949,-8.962,0.0577,150.07,0,6,0.01,4,89,10499449
+Sakala Tengati,Archana Mahanta|Khagen Mahanta,/artist/archana-mahanta|/artist/khagen-mahanta,06:13,Assamese,09-11-2014,0.71,0.84,0.174,0.084,-6.825,0.099,155.019,1,9,0.033,4,38,4211626
+Dinor Pohar Rangchangia,Manna Dey,/artist/manna-dey,03:28,Assamese,04-08-2018,0.93,0.134,0.874,0.852,-6.967,0.015,149.943,0,9,0.04,4,38,4555760
+Shuni Ki Nushuni O,Anima Choudhury,/artist/anima-choudhury,03:01,Assamese,03-09-2006,0.8,0.48,0.792,0.634,-8.905,0.071,149.992,0,9,0.05,4,84,10101426
+Thuriai Katilo,Khagen Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/archana-mahanta,02:47,Assamese,12-08-2011,0.21,0.771,0.007,0.64,-7.821,0.1,155.255,1,7,0.08,4,34,9166456
+Hatote Cherenda Loi,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,02:04,Assamese,08-04-2023,0.49,0.85,0.77,0.566,-2.798,0.0532,150.017,1,9,0.008,4,42,4137267
+Bon Phuler,sibcharan das,/artist/sibcharan-das,03:02,Assamese,07-12-2017,0.15,0.581,0.639,0.934,-9.38,0.0994,155.25,0,1,0.0802,4,25,2344795
+Karnat Kundal Tomar,Rameshwar Pathak|Dhanada Pathak,/artist/rameshwar-pathak|/artist/dhanada-pathak,03:18,Assamese,07-08-2021,0.64,0.91,0.284,0.37,-12.553,0.0943,150.037,0,11,0.01,4,27,11098088
+Aaji O Mon Mor,Suez Bordoloi,/artist/suez-bordoloi,03:19,Assamese,09-05-2018,0.43,0.542,0.495,0.914,-6.9,0.09,149.986,0,8,0.0502,4,27,1126106
+Dneoe Di Sarile,Sharat Sharma|Shiv Prasad Nath,/artist/sharat-sharma|/artist/shiv-prasad-nath,04:57,Assamese,12-11-2004,0.33,0.67,0.779,0.968,-7.081,0.06,154.741,1,4,0.02,4,31,10813143
+Magilo Biday,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,05:18,Assamese,11-01-2009,0.99,0.059,0.648,0.193,-12.378,0.09,154.897,1,8,0.07,4,35,4859358
+O Kaloi Sanchili Dhar,Naren Das,/artist/naren-das,03:22,Assamese,11-06-2010,0.88,0.72,0.369,0.027,-9.328,0.029,150.044,0,3,0.0194,4,63,2957151
+Aa Thunuka Kanchghar,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,05:09,Assamese,10-01-2017,0.23,0.375,0.047,0.749,-8.799,0.0005,155.056,0,5,0.07,4,98,581596
+Moke Gutene,sibcharan das,/artist/sibcharan-das,03:02,Assamese,10-09-2004,0.14,0.93,0.056,0.456,-5.968,0.02,150.033,0,8,0.01,4,51,2230980
+Halaloi Likhile,Namita Bhattacharya|Dwipen Baruah,/artist/namita-bhattacharya|/artist/dwipen-baruah,02:48,Assamese,09-11-2019,0.54,0.886,0.298,0.198,-4.476,0.03,149.945,1,8,0.005,4,53,3711850
+Natun Natun Sah,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,04:27,Assamese,01-04-2004,0.44,0.47,0.095,0.377,-2.869,0.0665,149.985,0,0,0.01,4,44,2542196
+A Phool Pah Halichha Jalichha,Archana Mahanta,/artist/archana-mahanta,03:58,Assamese,05-10-2006,0.69,0.037,0.491,0.773,-5.431,0.0001,149.981,1,10,0.083,4,76,5741924
+Ohe Ki Diya Pujim,Rameshwar Pathak,/artist/rameshwar-pathak,03:18,Assamese,10-09-2023,0.47,0.42,0.481,0.072,-8.104,0.0279,149.998,0,5,0.009,4,57,1596552
+Moyna Kon Bidhatai,Renu Barua|Dwipen Baruah,/artist/renu-barua|/artist/dwipen-baruah,03:16,Assamese,03-01-2001,0.6,0.409,0.854,0.574,-3.714,0.0845,149.969,0,9,0.09,4,91,8140188
+Ki Naam Di Matim,Nirmal Mishra|Dwipen Baruah,/artist/nirmal-mishra|/artist/dwipen-baruah,03:03,Assamese,05-02-2004,0.28,0.46,0.228,0.974,-13.46,0.06,149.553,0,7,0.06,4,53,10203250
+Sandur Sandur Phota,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:44,Assamese,02-12-2017,0.65,0.348,0.854,0.213,-3.377,0.0595,150.099,0,9,0.0633,4,73,6506594
+Jibon Joba Khatia,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:04,Assamese,11-05-2013,0.55,0.43,0.85,0.932,-12.003,0.01,149.878,0,9,0.0408,4,43,7400339
+Sokala Tengati,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,06:36,Assamese,04-08-2016,0.77,0.723,0.292,0.397,-2.51,0.024,155.03,0,9,0.099,4,51,7968840
+Suban Siri Nadi,Kalpana Bhuyan|Nibha Deka|Nomi Gayan,/artist/kalpana-bhuyan|/artist/nibha-deka|/artist/nomi-gayan,05:28,Assamese,12-11-2019,0.43,0.02,0.36,0.695,-7.671,0.059,149.924,1,5,0.0697,4,88,7067641
+Eijani Nachani Koneno Srogile,dasarath das,/artist/dasarath-das,06:29,Assamese,02-03-2023,0.06,0.694,0.494,0.054,-5.985,0.0652,155.116,0,9,0.048,4,98,6021886
+Aparoopa Aparoopa,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:54,Assamese,12-02-2022,0.87,0.06,0.287,0.545,-6.033,0.025,154.864,0,5,0.0086,4,63,7102681
+Buku Ham Ham Kore,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:23,Assamese,12-02-2005,0.95,0.279,0.345,0.332,-8.96,0.053,153.026,0,11,0.0225,4,37,6877852
+Bihu Anandia,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,05:01,Assamese,07-01-2022,0.82,0.66,0.139,0.733,-4.063,0.06,149.944,0,6,0.02,4,78,2767241
+He He Dole Dagore,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:46,Assamese,07-02-2011,0.27,0.738,0.604,0.603,-2.573,0.046,149.713,0,10,0.013,4,93,5334058
+Al Folia Kopou Phool,Namita Bhattacharya|Dwipen Baruah,/artist/namita-bhattacharya|/artist/dwipen-baruah,03:23,Assamese,09-02-2008,0.46,0.62,0.485,0.014,-6.719,0.03,149.899,0,9,0.0976,4,89,3235151
+Lahoti Khopate Kinu Phool Pindhili,Kalpana Bordoloi,/artist/kalpana-bordoloi,03:01,Assamese,12-03-2019,0.64,0.876,0.088,0.803,-2.678,0.081,152.077,1,1,0.0685,4,85,8342857
+Shile Shile Theka Khale,Aarti Mukherji,/artist/aarti-mukherji,03:15,Assamese,06-03-2022,0.87,0.57,0.535,0.779,-8.949,0.0705,150.006,0,6,0.0643,4,28,9505170
+Dur Kata Dur,Rituparna Sharma,/artist/rituparna-sharma,03:42,Assamese,01-07-2016,0.66,0.515,0.952,0.19,-2.85,0.097,153.002,1,6,0,4,82,6576410
+Bihu Geet,Ila Kakoti|Krishna Das|Moni Baruah|Kabita Hazarika|Sudakshina Sharma|Bharati Das,/artist/ila-kakoti|/artist/krishna-das|/artist/moni-baruah|/artist/kabita-hazarika|/artist/sudakshina-sharma|/artist/bharati-das,01:48,Assamese,07-03-2005,0.08,0,0.156,0.571,-5.908,0.0462,154.864,0,7,0.0556,4,53,6201515
+Eikhani Gaaon Bukur Aapon,Dwipen Baruah,/artist/dwipen-baruah,03:37,Assamese,03-01-2020,0.95,0.406,0.28,0.18,-11.904,0.095,149.993,1,6,0.01,4,46,2954364
+Phulile Naharar Phul,Aju Barkakati|Lakshmi Bordoloi|Nirmal Kalita|Sarifuddin Ahmed|Sibanath|Bibha Barua|Sharat Sharma,/artist/aju-barkakati|/artist/lakshmi-bordoloi|/artist/nirmal-kalita|/artist/sarifuddin-ahmed|/artist/sibanath|/artist/bibha-barua-1|/artist/sharat-sharma,05:37,Assamese,08-05-2014,0.27,0.18,0.427,0.026,-12.442,0.019,150.028,0,9,0.03,4,93,9645347
+Kaak Bulilo,Runjun Phukan|Dwipen Baruah,/artist/runjun-phukan-1|/artist/dwipen-baruah,03:11,Assamese,11-09-2011,0.46,0.618,0.33,0.243,-9.741,0.025,149.982,0,0,0.05,4,64,3474642
+Naira Par Hole,Lokeswar Deka,/artist/lokeswar-deka,06:02,Assamese,03-10-2016,0.13,0.55,0.903,0.264,-8.626,0.07,154.972,0,7,0.0101,4,99,8150632
+Aakaashee Gangaa,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:24,Assamese,03-03-2019,0.3,0.667,0.842,0.795,-11.383,0.029,149.983,0,4,0.02,4,100,11030220
+Tomar Ganat Apon Pahara,Manisha Hazarika,/artist/manisha-hazarika,03:01,Assamese,11-03-2020,0.97,0.43,0.74,0.687,-11.832,0.059,150.018,0,9,0.048,4,70,8328293
+Nahar Phula Batara Tey Mor,Dolly Ghosh,/artist/dolly-ghosh,03:24,Assamese,01-04-2013,0.08,0.884,0.035,0.771,-2.38,0.016,150.05,0,0,0.0794,4,41,9034681
+Tumi Je Morkalpanaare,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:52,Assamese,05-02-2006,0.06,0.5,0.219,0.629,-10.657,0.039,149.91,0,7,0.03,4,90,10107162
+O Aji Bihu Bihu,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,03:35,Assamese,07-01-2012,0.84,0.977,0.797,0.32,-3.415,0.037,147.867,0,11,0.04,4,71,4378178
+Mon Aaji Uri Guchi Jai,Namita Bhattacharya,/artist/namita-bhattacharya,03:26,Assamese,01-11-2016,0.19,0.33,0.789,0.145,-2.789,0.0292,149.89,0,10,0.0438,4,51,8554491
+O Deha Bihua,Anima Choudhury,/artist/anima-choudhury,03:24,Assamese,02-12-2011,0.83,0.557,0.316,0.399,-13.566,0.0184,147.981,0,10,0.03,4,54,8702124
+Atoi Obuj Mon,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:53,Assamese,03-09-2018,0.02,0.13,0.442,0.405,-8.894,0.021,149.965,0,11,0.0751,4,28,4083196
+Tejore Kamalapati - Borgeet,Khagen Mahanta,/artist/khagen-mahanta,05:36,Assamese,03-02-2019,0.79,0.739,0.174,0.875,-9.079,0.0382,150.008,0,10,0.01,4,26,1263168
+Aami Pani Ana Ghat,Khagen Phukan|Nikunjalata Mahanta|Prahlad Bora|Ranima Devi|Maheshwar Barua,/artist/khagen-phukan|/artist/nikunjalata-mahanta|/artist/prahlad-bora|/artist/ranima-devi|/artist/maheshwar-barua-2,06:26,Assamese,07-02-2012,0.5,0.86,0.145,0.654,-2.105,0.04,149.951,0,11,0.0499,4,88,8089278
+Paar Hoi Gale,Dwipen Baruah,/artist/dwipen-baruah,04:56,Assamese,10-01-2014,0.94,0.757,0.876,0.345,-2.981,0.001,147.036,1,7,0.0016,4,73,9100274
+Dolani Lagiche,Mridula Das Dewan,/artist/mridula-das-dewan,03:05,Assamese,11-10-2002,0.21,0.52,0.413,0.327,-3.549,0.05,150.099,0,11,0.04,4,100,2003716
+Arey Orey More Bhaber Deora,Pranita Barman,/artist/pranita-barman,02:53,Assamese,06-03-2002,0.18,0.66,0.432,0.067,-8.685,0.041,150.07,1,1,0.069,4,41,2859838
+Enaka Nokba Jaoga Buli,Anima Choudhury,/artist/anima-choudhury,02:55,Assamese,02-02-2020,0.23,0.05,0.569,0.017,-3.695,0.09,149.987,1,0,0.021,4,59,10495856
+Hanhi Hoi Parimgoi,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,02:49,Assamese,02-06-2016,0.55,0.07,0.962,0.302,-7.164,0.017,149.976,0,5,0.0365,4,66,9371235
+Moyna Kon Bidhatai,Dwipen Baruah|Renu Barua,/artist/dwipen-baruah|/artist/renu-barua,03:16,Assamese,05-08-2010,0.47,0.22,0.526,0.426,-6.129,0.08,150.006,0,6,0.011,4,59,5351893
+Mora Sindhu Kandhe Loia,Rameshwar Pathak,/artist/rameshwar-pathak,03:13,Assamese,10-07-2004,0.07,0.711,0.523,0.557,-8.689,0.09,149.978,0,10,0.091,4,80,5027356
+Rambha Menaka Kingba Juthika,Jayanta Hazarika|Kula Baruwa,/artist/jayanta-hazarika|/artist/kula-baruwa,03:11,Assamese,01-07-2009,0.22,0.47,0.847,0.959,-10.458,0.08,150.02,0,5,0.06,4,43,2092176
+Kino Pokhiya,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:02,Assamese,04-01-2017,0.65,0.362,0.571,0.838,-13.923,0.02,150.002,0,1,0.1,4,70,192571
+Maati Phuti Olaale,Namita Bhattacharya|Dwipen Baruah,/artist/namita-bhattacharya|/artist/dwipen-baruah,03:57,Assamese,05-07-2002,0.77,0.12,0.269,0.71,-3.121,0.01,155.088,0,1,0.068,4,58,3387906
+Ram Ram Pari Tulibaloi,Kalpana Bhuyan|Nibha Deka|Nomi Gayan,/artist/kalpana-bhuyan|/artist/nibha-deka|/artist/nomi-gayan,04:59,Assamese,02-01-2012,0.86,0.902,0.475,0.366,-7.774,0.07,155.088,0,5,0.0054,4,51,3676411
+Aoi Aoi Akash Shuba,Suman Kalyanpur,/artist/suman-kalyanpur,03:11,Assamese,04-03-2012,0.44,0.81,0.869,0.369,-5.117,0.0464,150.067,0,9,0.038,4,25,2811615
+Palasar Rang Palasar Rang,Bhupen Hazarika|Usha Mangeshkar,/artist/dr-bhupen-hazarika-2|/artist/usha-mangeshkar-2,04:17,Assamese,03-01-2004,0.72,0.7,0.253,0.2,-6.064,0.017,150.021,1,10,0.05,4,60,2095757
+Sonali A Sonali,Dipen Baruah,/artist/dipen-baruah,03:04,Assamese,04-05-2009,0.51,0.01,0.861,0.446,-13.575,0.09,149.927,0,7,0.01,4,93,11253841
+Sendur Sendur,Satya Baruah,/artist/satya-baruah,03:26,Assamese,04-03-2024,0.96,0.043,0.27,0.781,-12.409,0.02,150.017,1,1,0.0756,4,55,3484008
+Saikel Khon Salaotey,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,03:36,Assamese,05-08-2014,0.03,0.23,0.639,0.64,-13.847,0.05,149.906,1,5,0.03,4,62,4372620
+Kirili Suniba,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,05:29,Assamese,03-08-2017,0.36,0.112,0.378,0.393,-11.233,0.0591,150.413,0,8,0.056,4,28,5559797
+Sudhichha Tomaloi,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,03:04,Assamese,07-07-2023,0.1,0.93,0.541,0.838,-5.506,0.0295,153.96,0,11,0.013,4,58,8602742
+Liyeng Makao,Talat Mahmood|Bhupen Hazarika,/artist/talat-mahmood|/artist/dr-bhupen-hazarika-2,03:22,Assamese,04-12-2018,0.03,0.329,0.993,0.087,-10.122,0.0122,149.928,0,1,0.04,4,59,3505313
+Ei Dhuniya Godhuli Lagan,Asha Bhosle,/artist/asha-bhosle-1,02:05,Assamese,12-08-2015,0.41,0.34,0.965,0.908,-13.276,0.0934,149.941,1,2,0.0961,4,99,5327878
+Betha Kiyo Lagai Gali,Anima Choudhury,/artist/anima-choudhury,03:16,Assamese,11-05-2006,0.54,0.294,0.434,0.375,-5.231,0.067,149.564,0,7,0.0901,4,99,4270365
+Phool Phool Phool,Nirmal Mishra|Renu Barua|Dwipen Baruah,/artist/nirmal-mishra|/artist/renu-barua|/artist/dwipen-baruah,03:13,Assamese,05-04-2012,0.76,0.09,0.392,0.165,-2.115,0.035,149.902,0,6,0.06,4,29,8394547
+Pakkhiraj Ghora,Asha Bhosle|Kishore Kumar|Bhupen Hazarika,/artist/asha-bhosle-1|/artist/kishore-kumar|/artist/dr-bhupen-hazarika-2,06:48,Assamese,11-04-2011,0.01,0.346,0.402,0.623,-2.472,0.09,149.933,0,10,0.09,4,81,1072708
+Laijar Bhangilu,Dhanada Pathak,/artist/dhanada-pathak,02:59,Assamese,05-09-2022,0.15,0.3,0.146,0.758,-2.735,0.04,150.023,0,11,0.078,4,58,7992222
+Hiar Maram Mukuta Hoi,Ina Mukherjee|Ridip Dutta,/artist/ina-mukherjee|/artist/ridip-dutta,04:43,Assamese,11-01-2011,0.22,0.418,0.672,0.552,-4.394,0.02,150.087,1,6,0.0276,4,96,5879477
+Rang Rang Nana Rang,Bhupinder Singh|Krishna|Utpala|Asomi|Arindam|Nirupama|Mrinalini Dutta Chowdhury|Munin,/artist/bhupinder-singh|/artist/krishna|/artist/utpala|/artist/asomi|/artist/arindam|/artist/nirupama|/artist/mrinalini-dutta-chowdhury-1|/artist/munin,04:42,Assamese,12-03-2006,0.72,0.08,0.4,0.653,-9.064,0.08,150.066,0,3,0.01,4,61,8365097
+Moynajan Moynajan,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:54,Assamese,01-01-2021,0.03,0.218,0.297,0.017,-11.303,0.07,150.029,0,8,0.027,4,28,2836597
+Natun Nimati Niyarare Nisha,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:57,Assamese,07-11-2012,0.38,0.85,0.495,0.937,-3.061,0.043,150.008,0,0,0.02,4,40,9415032
+Daley Pari Mayura,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,02:45,Assamese,04-11-2014,0.98,0.711,0.435,0.235,-10.32,0.0356,149.985,0,6,0.02,4,27,6232016
+O Bihua Kai,Kumari Dharitri|Lakshmi Bordoloi|Siba Prasad Nath,/artist/kumari-dharitri|/artist/lakshmi-bordoloi|/artist/siba-prasad-nath,03:23,Assamese,05-04-2019,0.52,0.08,0.993,0.942,-9.396,0.03,150.026,0,9,0.0415,4,26,5044622
+O Bapa Harakanta,Nagen Barman,/artist/nagen-barman,03:49,Assamese,10-07-2000,0.25,0.421,0.542,0.871,-2.553,0.07,150.003,0,9,0.023,4,35,8819794
+Ali Dhaki Para Saliki,Namita Bhattacharya,/artist/namita-bhattacharya,03:54,Assamese,03-03-2001,0.94,0.92,0.438,0.393,-8.098,0.037,150.009,0,5,0.09,4,60,7852325
+Banda Debnarayan,Rameshwar Pathak,/artist/rameshwar-pathak,05:36,Assamese,10-02-2002,0.72,0.918,0.144,0.687,-11.424,0.0313,149.843,0,5,0.08,4,78,10792316
+Moi Aji Sangibihin,Pulak Banerjee,/artist/pulak-banerjee-1,03:57,Assamese,08-06-2019,0.32,0.77,0.644,0.125,-9.313,0.042,155.053,1,7,0.024,4,41,8307961
+Tomar Hatera Roba,Anima Choudhury,/artist/anima-choudhury,03:23,Assamese,04-10-2003,0.12,0.664,0.689,0.636,-9.245,0.0873,149.876,0,9,0.03,4,89,9128500
+Tulashir Tole Tole,Nirmal Mishra,/artist/nirmal-mishra,03:14,Assamese,11-07-2008,0.66,0.74,0.645,0.488,-4.159,0.03,155.01,0,9,0.0596,4,31,9107717
+Hridya Na Hoy,Jiten Deka,/artist/jiten-deka,03:22,Assamese,02-04-2019,0.8,0.007,0.083,0.375,-2.812,0.08,149.713,1,7,0.043,4,56,9411466
+Chokhur Pahit,Anima Choudhury,/artist/anima-choudhury,03:13,Assamese,09-04-2023,0.72,0.44,0.319,0.075,-2.312,0.078,149.974,1,1,0.0465,4,49,9945087
+Korobar Du Nayan,Kula Barua,/artist/kula-barua,02:59,Assamese,09-10-2022,0.96,0.741,0.747,0.711,-2.52,0.0327,153.024,0,0,0.012,4,49,3413838
+Tejore Kamalapati,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:23,Assamese,10-12-2008,0.06,0.8,0.055,0.164,-7.814,0.08,149.117,1,7,0,4,37,7000758
+Oto Dukhe Mor Prabhu,Naren Das,/artist/naren-das,04:17,Assamese,12-12-2004,0.05,0.26,0.952,0.959,-4.268,0.035,150.081,1,7,0.0392,4,37,5950809
+Ei Akash Baro Bishal,Jayanta Hazarika,/artist/jayanta-hazarika,03:07,Assamese,05-12-2001,0.85,0.67,0.641,0.752,-10.402,0.025,154.767,0,8,0.069,4,42,6395998
+A Mynajan,Dwipen Baruah|Debjani Barua,/artist/dwipen-baruah|/artist/debjani-barua,03:03,Assamese,03-08-2000,0.06,0.776,0.584,0.478,-4.797,0.076,150.034,1,1,0.072,4,89,83021
+Natun Tomar Charandhani Sonma,Parveen Sultana,/artist/parveen-sultana,03:09,Assamese,05-04-2021,0.42,0.25,0.866,0.565,-9.879,0.094,155.109,1,2,0.091,4,89,9798115
+A Aaji Beular Biya,Dhanada Pathak,/artist/dhanada-pathak,03:07,Assamese,09-08-2021,0.86,0.502,0.364,0.458,-7.531,0.0557,155.101,0,6,0.05,4,57,10266025
+Ki Khil Khil Khil Khil,Nirmal Mishra,/artist/nirmal-mishra,03:58,Assamese,12-08-2022,0.63,0.94,0.675,0.274,-11.714,0.0574,150,0,4,0.009,4,37,6021798
+Duiroir Bahiti Bagi Thak,Dolly Ghosh,/artist/dolly-ghosh,03:07,Assamese,07-02-2021,0.03,0.674,0.638,0.881,-5.91,0.09,149.993,0,9,0.085,4,45,8594873
+O Sham Kaliyara,Pranita Barman,/artist/pranita-barman,03:23,Assamese,03-04-2003,0.05,0.35,0.169,0.674,-13.952,0.011,149.995,0,9,0.036,4,26,4620201
+Jal Anibake Jnao,Dhanada Pathak,/artist/dhanada-pathak,03:06,Assamese,01-01-2003,0.1,0.771,0.222,0.648,-13.709,0.073,150.016,0,1,0.03,4,32,5420019
+Seujaya,Biman|Chorus,/artist/biman-8|/artist/chorus,04:42,Assamese,10-03-2002,0.73,0.56,0.303,0.266,-12.835,0.0739,149.748,1,8,0.0285,4,29,1570748
+Dheu Tuli Nachile,Dwipen Baruah|Runjun Phukan,/artist/dwipen-baruah|/artist/runjun-phukan-1,03:37,Assamese,01-11-2013,0.78,0.053,0.228,0.997,-5.886,0.031,149.964,1,1,0.07,4,70,7434782
+Aaji Toi Jodi,Dipen Baruah,/artist/dipen-baruah,03:15,Assamese,11-06-2022,0.02,0.69,0.838,0.462,-13.686,0.049,154.999,1,8,0.02,4,44,608079
+O Raghupati,Kalpana Bhuyan|Nibha Deka|Siba Prasad Nath|Nomi Gayan,/artist/kalpana-bhuyan|/artist/nibha-deka|/artist/siba-prasad-nath|/artist/nomi-gayan,04:56,Assamese,06-06-2002,0.4,0.15,0.894,0.592,-12.889,0.063,150.047,1,1,0.02,4,97,7565430
+Dhansiri Parehoi,Khagen Mahanta,/artist/khagen-mahanta,03:08,Assamese,01-12-2001,0.39,0.14,0.981,0.282,-5.667,0.0556,150.001,0,11,0.018,4,56,1410436
+Moina Kon Bidhatai,Wahidur Rahman,/artist/wahidur-rahman,03:14,Assamese,12-12-2012,0.51,0.7,0.817,0.778,-5.029,0.024,149.994,1,3,0.0884,4,70,9077065
+Biyanaam,Ila Kakoti|Krishna Das|Moni Baruah|Kabita Hazarika|Sudakshina Sharma|Bharati Das,/artist/ila-kakoti|/artist/krishna-das|/artist/moni-baruah|/artist/kabita-hazarika|/artist/sudakshina-sharma-1|/artist/bharati-das-1,02:11,Assamese,05-04-2021,0.78,0.53,0.907,0.601,-11.316,0.06,150.016,1,2,0.036,4,87,2599309
+Ei Shankar Madhab,Rameswar Pathak,/artist/rameswar-pathak,02:55,Assamese,10-11-2000,0.99,0.72,0.069,0.674,-3.877,0.1,150.032,1,8,0.01,4,51,2387791
+Sou Meghar Cha,Namita Bhattacharya,/artist/namita-bhattacharya,03:16,Assamese,12-02-2021,0.39,0.4,0.336,0.845,-6.935,0.01,150.04,1,1,0.0921,4,46,7905515
+Agalati Kalapat Lare Ki Chare,Jayanta Hazarika,/artist/jayanta-hazarika,03:11,Assamese,03-05-2004,0.77,0.866,0.377,0.64,-7.527,0.0563,149.961,1,0,0.09,4,94,4809586
+Tumi Pradip Hoan,Dilip Sharma|Anima Chowdhury,/artist/dilip-sharma|/artist/anima-chowdhury-1,03:33,Assamese,03-04-2005,0.85,0.52,0.342,0.332,-11.207,0.0443,151.798,1,1,0.0113,4,59,2816324
+Jibontu Hol,Ridip Dutta,/artist/ridip-dutta,05:26,Assamese,07-12-2014,0.48,0.923,0.333,0.398,-7.423,0.0433,149.983,0,0,0.07,4,57,3850764
+Tumi Kon Pepare Furate,Jayanta Hazarika|Bhupen Hazarika,/artist/jayanta-hazarika|/artist/dr-bhupen-hazarika-2,03:13,Assamese,01-02-2016,0.37,0.2,0.739,0.757,-7.921,0.0171,150.028,0,9,0.035,4,30,10576261
+Thuriai Katilo,Digen Mahanta,/artist/digen-mahanta,03:02,Assamese,09-12-2000,0.41,0.618,0.075,0.347,-12.338,0,150.1,1,2,0.0249,4,59,4735866
+Maram Logai Logai,Lokeswar Deka|Others,/artist/lokeswar-deka|/artist/others,06:19,Assamese,04-11-2001,0.22,0.42,0.064,0.921,-10.338,0.013,149.994,1,9,0.045,4,26,10745058
+Kino Maramar,Namita Bhattacharya,/artist/namita-bhattacharya,02:53,Assamese,11-02-2007,0.81,0.52,0.891,0.825,-8.004,0.023,150.036,0,11,0.029,4,78,5368321
+Phale Phule Bhara,Anima Choudhury,/artist/anima-choudhury,03:02,Assamese,08-04-2007,0.33,0.02,0.725,0.297,-2.621,0.071,150.317,0,11,0.04,4,56,1605676
+Ki Naam Di Matim Dr Bezbaruah,Nirmal Mishra,/artist/nirmal-mishra,03:33,Assamese,09-05-2018,0.07,0.397,0.444,0.479,-12.468,0.011,149.975,1,9,0.07,4,75,9109514
+O Moy Kino Karo,Nilima Khatoon,/artist/nilima-khatoon,03:25,Assamese,08-10-2006,0.64,0.45,0.821,0.589,-8.146,0.0103,155.25,0,11,0.088,4,33,10628074
+Kola Chola Kuruta,Anima Bhattacharya|Khagen Mahanta|Nikunjalata Mahanta|Ridib Dutta|Archana Mahanta|Nalini Chowdhury,/artist/anima-bhattacharya|/artist/khagen-mahanta|/artist/nikunjalata-mahanta|/artist/ridib-dutta|/artist/archana-mahanta|/artist/nalini-chowdhury,03:13,Assamese,11-07-2021,0.4,0.961,0.119,0.777,-9.576,0.0906,155.117,0,7,0.0185,4,33,244659
+Nai Hoya Sesh - Duet,Namita Bhattacharya|Dwipen Baruah,/artist/namita-bhattacharya|/artist/dwipen-baruah,03:05,Assamese,03-08-2015,0.6,0.51,0.748,0.703,-4.871,0.019,150.015,0,11,0.043,4,25,9667414
+Asha Mor Habaloi,Dwipen Baruah,/artist/dwipen-baruah,03:58,Assamese,04-02-2005,0.46,0.984,0.161,0.909,-12.188,0.051,149.759,0,1,0.02,4,78,5220129
+Na Kanda Na Kanda,Rameshwar Pathak,/artist/rameshwar-pathak,03:15,Assamese,07-04-2012,0.15,0.62,0.106,0.593,-13.301,0.088,147.99,1,1,0.04,4,58,8320148
+Silonor Monalisa,Bhupen Hazarika|Jayanta Hazarika,/artist/dr-bhupen-hazarika-2|/artist/jayanta-hazarika,03:18,Assamese,01-06-2010,0.43,0.971,0.815,0.553,-3.492,0.0851,149.872,0,9,0.02,4,100,844383
+Turen Changar,Jiten Deka,/artist/jiten-deka,03:09,Assamese,12-07-2014,0.58,0.88,0.086,0.338,-11.546,0.01,149.982,1,9,0.059,4,88,1681432
+Cholila Shankar Sarba Gunakar,Anima Das|Naren Das,/artist/anima-das|/artist/naren-das,03:02,Assamese,09-04-2009,0.17,0.515,0.644,0.233,-12.359,0.049,152.967,0,2,0.0666,4,28,9819693
+Rupahi Kabane,Archana Mahanta,/artist/archana-mahanta,02:22,Assamese,03-11-2020,0.49,0.1,0.53,0.448,-7.172,0.0566,150.014,0,6,0.01,4,77,10585337
+Ai O Sipini,Khagen Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/archana-mahanta,05:46,Assamese,12-03-2004,0.81,0.183,0.039,0.19,-12.992,0.06,150.013,0,3,0.0264,4,35,11375335
+Kona Batenu Pohara,Rituparna Sharma,/artist/rituparna-sharma,02:53,Assamese,09-04-2023,0.12,0.66,0.078,0.133,-4.622,0.09,149.957,0,11,0.007,4,27,5556969
+Pitati Oi Pitati Fagooni,Jayanta Hazarika,/artist/jayanta-hazarika,03:05,Assamese,01-02-2010,0.51,0.747,0.588,0.089,-3.644,0.0756,154.983,0,1,0.031,4,66,657189
+Asam Deshor Bagichare,Bhupen Hazarika|Usha Mangeshkar,/artist/dr-bhupen-hazarika-2|/artist/usha-mangeshkar-2,04:57,Assamese,01-10-2022,0.57,0.77,0.413,0.848,-10.824,0.09,149.957,1,0,0.0011,4,82,7594591
+Senai Mor O Manprajapati,Bhupen Hazarika|Usha Mangeshkar,/artist/dr-bhupen-hazarika-2|/artist/usha-mangeshkar-2,03:41,Assamese,06-02-2008,0.89,0.675,0.82,0.78,-11.871,0.081,149.999,0,7,0.099,4,97,2145906
+Bonjui Bontahe Jwale,Anju Devi|Bhupen Hazarika,/artist/anju-devi|/artist/dr-bhupen-hazarika-2,07:29,Assamese,01-01-2021,0.6,0.38,0.716,0.735,-9.2,0.02,154.996,1,8,0.0819,4,89,1642192
+Sharatare Tumi Jon Jeno,Jayanta Hazarika,/artist/jayanta-hazarika,03:02,Assamese,07-02-2013,0.12,0.715,0.929,0.756,-10.206,0.08,150.017,1,7,0.03,4,44,10182884
+Ai Tai Bahagate,Samar Hazarika,/artist/samar-hazarika,02:48,Assamese,01-06-2006,0.18,0.39,0.314,0.118,-12.471,0.04,149.997,0,6,0.0625,4,86,8647750
+Radhar Aoasher Majhey,Pranita Barman,/artist/pranita-barman,02:26,Assamese,10-10-2002,0.22,0.531,0.098,0.69,-10.959,0.081,150.008,0,4,0.1,4,81,5216396
+O Pran Krishna O,Naren Das|Anima Das,/artist/naren-das|/artist/anima-das,02:55,Assamese,03-03-2020,0.13,0.47,0.539,0.813,-13.054,0.0392,149.957,0,11,0.029,4,78,268425
+Kelei Shok Karan,Digen Mohanta,/artist/digen-mohanta,03:04,Assamese,03-12-2013,0.83,0.551,0.392,0.826,-2.947,0.092,155.022,0,6,0.001,4,40,5355054
+Maram Buji,Bipul|Chorus,/artist/bipul|/artist/chorus,05:52,Assamese,04-05-2005,0.36,0.82,0.928,0.122,-4.454,0.0102,150.029,1,7,0.07,4,47,8932535
+Nahibi A Sowarani,Manisha Hazarika,/artist/manisha-hazarika,02:59,Assamese,07-01-2007,0.73,0.331,0.782,0.061,-2.97,0.09,149.951,0,7,0.07,4,98,9898980
+Aay Bihu Re Uruka Nisa,Dolly Ghosh,/artist/dolly-ghosh,03:12,Assamese,10-04-2018,0.05,0.25,0.422,0.252,-2.225,0.043,150.001,0,9,0.077,4,98,3835289
+Thuriai Katilo,Lokeswar Deka|Others,/artist/lokeswar-deka|/artist/others,05:54,Assamese,08-03-2012,0.95,0.855,0.147,0.624,-8.696,0.02,150.062,0,0,0.0973,4,88,9326900
+O Mor Sadhure Sadhu,Rameshwar Pathak,/artist/rameshwar-pathak,04:14,Assamese,01-12-2012,0.12,0.23,0.885,0.366,-9.809,0.091,150.013,0,10,0.007,4,58,10037117
+Aamare Moina,Malabika Bora|Samar Hazarika,/artist/malabika-bora|/artist/samar-hazarika,03:03,Assamese,11-01-2002,0.46,0.255,0.372,0.486,-6.442,0.01,149.916,0,0,0.0552,4,75,59701
+Pitaiti Ei Bhalo Kabili,Jayanta Hazarika|Malabika Bora,/artist/jayanta-hazarika|/artist/malabika-bora,03:03,Assamese,12-02-2018,0.18,0.54,0.363,0.906,-7.519,0.037,149.899,1,1,0.06,4,56,6843351
+A Aaji Beular Biya,Rameshwar Pathak,/artist/rameshwar-pathak,02:55,Assamese,09-03-2013,0.29,0.889,0.2,0.568,-3.574,0.022,149.96,0,7,0.04,4,67,6316384
+Moi Aahichhon - Bhupen Hazarika,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:36,Assamese,10-03-2011,0.29,0.39,0.711,0.669,-10.45,0.05,149.93,1,9,0.0345,4,88,3174085
+Mrityu Savoti Samadhi,Jayanta Hazarika,/artist/jayanta-hazarika,04:32,Assamese,12-11-2017,0.41,0.37,0.268,0.746,-2.012,0.08,149.87,0,5,0,4,81,10862784
+Aay Bihu Re Uruka Nisa,Dolly Ghosh,/artist/dolly-ghosh,03:24,Assamese,02-04-2012,0.37,0.93,0.683,0.698,-11.02,0.09,149.717,0,9,0.018,4,54,1760950
+Disco Sangeet Amare,Nagen Barman,/artist/nagen-barman,03:17,Assamese,02-04-2006,0.78,0.509,0.401,0.041,-5.196,0.039,151.274,1,1,0.07,4,59,6433142
+Aghunare Pathare Aai,Aju Barkakati|Lakshmi Bordoloi|Nirmal Kalita|Sarifuddin Ahmed|Sibanath|Bibha Barua|Sharat Sharma,/artist/aju-barkakati|/artist/lakshmi-bordoloi|/artist/nirmal-kalita|/artist/sarifuddin-ahmed|/artist/sibanath|/artist/bibha-barua-1|/artist/sharat-sharma,05:51,Assamese,11-08-2016,0.58,0.66,0.829,0.553,-13.651,0.0642,150.083,1,1,0.056,4,54,19312
+Dehi Oi Kalija,Dwipen Baruah,/artist/dwipen-baruah,03:28,Assamese,09-04-2023,0.56,0.415,0.304,0.912,-6.246,0.02,149.991,0,10,0.082,4,41,4558073
+Pran Krishna Mor,Snehalata Das,/artist/snehalata-das,02:56,Assamese,10-02-2022,0.38,0.22,0.341,0.16,-3.991,0.01,150.001,0,10,0.0027,4,48,11308004
+Tomar Kapalote,Malabika Bora|Samar Hazarika,/artist/malabika-bora|/artist/samar-hazarika,03:06,Assamese,01-11-2022,0.94,0.546,0.208,0.455,-2.967,0.0733,149.994,1,0,0.015,4,62,2192585
+Bihu Bihu Lagichhe Gaat,Bhupen Hazarika|Ruby Singha,/artist/dr-bhupen-hazarika-2|/artist/ruby-singha,02:46,Assamese,08-03-2010,0.27,0.13,0.866,0.735,-10.594,0.04,149.748,0,10,0.0682,4,99,7575194
+Phagun Ahi,Dwipen Baruah,/artist/dwipen-baruah,03:26,Assamese,05-04-2022,0.81,0.508,0.137,0.831,-3.25,0.092,150.095,1,4,0.0813,4,47,8552118
+Dehei Jauban Matir,Malabika Bora|Mahananda Majinder Barua,/artist/malabika-bora|/artist/mahananda-majinder-barua,03:21,Assamese,07-11-2011,0.2,0.78,0.328,0.321,-13.448,0.022,149.992,0,11,0.08,4,93,786273
+Khodhura Re Mungate,Kalpana Bordoloi,/artist/kalpana-bordoloi,03:17,Assamese,05-09-2019,0.96,0.47,0.74,0.717,-6.44,0.0783,150.07,1,11,0.065,4,67,8645374
+Laj Laj,Namita Bhattacharya|Dwipen Barua,/artist/namita-bhattacharya|/artist/dwipen-barua-4,02:42,Assamese,12-08-2017,0.86,0.59,0.055,0.273,-3.591,0.0134,153.345,0,2,0.0572,4,100,8424018
+Aaroi Dhan Lochia,Anju Devi|Bhupen Hazarika|Indira Chowdhury,/artist/anju-devi|/artist/dr-bhupen-hazarika-2|/artist/indira-chowdhury-1,03:04,Assamese,08-07-2008,0.53,0.753,0.827,0.675,-7.957,0.02,149.971,1,11,0.0831,4,81,505791
+Chinaki Chinaki - Usha Mangeshkar,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:27,Assamese,12-02-2023,0.39,0.94,0.62,0.821,-2.627,0.003,148.722,1,0,0.06,4,26,6026817
+Dada Balai A,Rameshwar Pathak,/artist/rameshwar-pathak,03:08,Assamese,10-05-2010,0.66,0.162,0.184,0.643,-11.085,0.04,149.928,0,5,0.051,4,77,1120636
+Deha Kola Hole,Khagen Mahanta,/artist/khagen-mahanta,03:02,Assamese,11-02-2003,0.64,0.8,0.683,0.228,-10.631,0.0894,150.014,1,11,0.0201,4,87,2559416
+Suorani Kuwaliya,Jayanta Hazarika,/artist/jayanta-hazarika,03:28,Assamese,04-05-2004,0.38,0.971,0.883,0.092,-9.364,0.1,150.054,1,8,0.03,4,34,10088739
+Dekha Nai,Jayanta Hazarika,/artist/jayanta-hazarika,03:04,Assamese,04-08-2002,0.19,0.1,0.899,0.08,-9.077,0.0747,149.827,0,0,0.01,4,25,9460083
+Bhatiai Jaota,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,02:44,Assamese,05-03-2006,0.2,0.809,0.462,0.047,-4.275,0.06,152.84,1,7,0.026,4,96,11125447
+Rhega Dibo Lega Jodi,Dolly Ghosh,/artist/dolly-ghosh,03:34,Assamese,09-06-2010,0.11,0.05,0.954,0.614,-9.712,0.06,150.011,0,11,0.01,4,77,9643289
+Baikunthe Chaloy Guru,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,03:21,Assamese,11-03-2009,0.62,0.86,0.816,0.617,-6.231,0.0078,149.827,0,5,0.047,4,30,2611001
+Jibonor Rangror,Malabika Bora|Samar Hazarika,/artist/malabika-bora|/artist/samar-hazarika,04:22,Assamese,08-02-2012,0.44,0.01,0.611,0.949,-5.55,0.0007,150.12,0,9,0.012,4,44,7761806
+Mor Shona Saragara,Dwipen Baruah,/artist/dwipen-baruah,03:42,Assamese,03-11-2008,0.68,0.845,0.236,0.999,-2.497,0.04,149.994,0,6,0.1,4,26,11175484
+Nahor Phoole,Namita Goswami|Samar Hazarika,/artist/namita-goswami|/artist/samar-hazarika,02:21,Assamese,10-07-2004,0.65,0.02,0.477,0.305,-13.56,0.0335,149.971,0,11,0.066,4,72,9769005
+Balukate Sharalire Chhan,Manisha Hazarika,/artist/manisha-hazarika,03:16,Assamese,10-10-2018,0.22,0.805,0.872,0.418,-13.816,0.0198,149.967,1,0,0.03,4,55,5756591
+Moi Eti Mukali Pakhi,Arun Das,/artist/arun-das,03:09,Assamese,10-12-2001,0.34,0.63,0.3,0.683,-8.537,0.0593,150.04,0,11,0.0306,4,73,10193434
+Arey Khulosali,Kalpana Bhuiya|Dijen Kakati,/artist/kalpana-bhuiya|/artist/dijen-kakati-7,03:07,Assamese,03-11-2008,0.78,0.299,0.684,0.493,-6.707,0.0936,147.953,1,1,0.06,4,79,1330688
+Lehiri Bonore,Malabika Bora|Samar Hazarika,/artist/malabika-bora|/artist/samar-hazarika,04:17,Assamese,10-12-2021,0.46,0.06,0.024,0.603,-10.631,0.05,150.038,0,10,0.01,4,69,3243145
+A Aaji Beular Biya,Rameshwar Pathak|Dhanada Pathak,/artist/rameshwar-pathak|/artist/dhanada-pathak,03:07,Assamese,11-11-2001,0.84,0.406,0.356,0.297,-8.55,0.0331,155.013,1,5,0.0364,4,56,7609437
+Bramhaputrar Balire,Khagen Mahanta|Nikunjalata Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/nikunjalata-mahanta|/artist/archana-mahanta,03:25,Assamese,08-03-2008,0.21,0.8,0.365,0.589,-3.98,0.057,149.982,1,3,0.0944,4,45,3843386
+Jeevan Gharir Pratita Pol Kanchghar,Suman Kalyanpur,/artist/suman-kalyanpur,04:07,Assamese,02-05-2002,0.64,0.436,0.808,0.128,-4.558,0.081,149.92,1,9,0.07,4,31,9745065
+Tare Nare,Dwipen Baruah|Jayanta,/artist/dwipen-baruah|/artist/jayanta,02:29,Assamese,01-07-2017,0.5,0.09,0.725,0.004,-9.663,0.021,154.749,0,6,0.0746,4,57,3967278
+A Aaji Beular Biya,Rameshwar Pathak,/artist/rameshwar-pathak,03:03,Assamese,08-11-2002,0.72,0.778,0.752,0.182,-7.496,0.08,150.056,0,9,0.0461,4,63,3159646
+A Mayabhara,Khagen Mahanta,/artist/khagen-mahanta,03:23,Assamese,09-11-2003,0.42,0.27,0.934,0.151,-13.501,0.068,154.977,1,6,0.052,4,85,8217669
+Baihagar Mahte Sitaru,Naren Das,/artist/naren-das,05:22,Assamese,05-08-2012,0.65,0.05,0.205,0.658,-5.773,0.0473,149.972,1,2,0.02,4,42,6968889
+Sham Kanu Duraihai Najaba,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:08,Assamese,08-02-2004,0.21,0.25,0.249,0.675,-4.667,0.0319,149.755,0,9,0.039,4,25,8925587
+Pani Pai Badile,Dijen Kakati|Siba Prasad Nath|Kalpana Bhuiya|Nibha Deka|Nomi Gayan,/artist/dijen-kakati-4|/artist/siba-prasad-nath|/artist/kalpana-bhuiya|/artist/nibha-deka|/artist/nomi-gayan,05:25,Assamese,08-07-2019,0.08,0.681,0.807,0.278,-7.595,0.0781,156.942,1,1,0.08,4,61,7144422
+Rang Rang Rang Bhara,Mitali Choudhury|Dwipen Barua,/artist/mitali-choudhry|/artist/dwipen-barua-6,03:37,Assamese,10-08-2008,0.99,0.23,0.392,0.622,-12.655,0.051,150.063,1,6,0,4,67,5223339
+Lagarta Mor Banare Banaphool,Anima Choudhury,/artist/anima-choudhury,02:47,Assamese,06-11-2018,0.74,0.132,0.381,0.497,-4.137,0.09,150,0,10,0.0839,4,67,2105560
+Husara,Unknown,/artist/unknown,03:06,Assamese,09-10-2007,0.65,0.23,0.122,0.541,-7.029,0.038,150.045,1,1,0.099,4,77,5218520
+Phagune Phul Phalale,Samar Hazarika,/artist/samar-hazarika,03:17,Assamese,06-11-2000,0.6,0.379,0.646,0.331,-13.067,0.0608,150.041,0,7,0.01,4,65,148748
+Ma O Ma,Aarti Mukherji,/artist/aarti-mukherji,03:04,Assamese,04-04-2018,0.83,0.01,0.354,0.766,-13.431,0.0186,150.097,0,5,0,4,76,10284739
+Dari O Nukhurao,Nagen Barman,/artist/nagen-barman,04:08,Assamese,09-06-2019,0.56,0.253,0.175,0.002,-7.539,0.0154,154.195,1,0,0.078,4,70,10805485
+Luitar Sontot Likha,Jayanta Hazarika,/artist/jayanta-hazarika,03:05,Assamese,09-10-2011,0.36,0.58,0.566,0.557,-13.813,0.022,149.941,0,7,0.03,4,71,9036348
+Bihu Ahil Buli,Nagen Barman,/artist/nagen-barman,02:52,Assamese,01-11-2018,0.65,0.216,0.069,0.314,-2.677,0.095,150.088,0,7,0.07,4,53,11173867
+Bhoy Nai Bhoy Nai,Rituparna Sharma,/artist/rituparna-sharma,03:14,Assamese,11-11-2018,0.93,0.96,0.306,0.732,-9.067,0.01,150.051,0,0,0.068,4,48,6405694
+Aha Son Aha,Indrani Ganguly|Ridip Dutta,/artist/indrani-ganguly|/artist/ridip-dutta,03:01,Assamese,06-09-2016,0.48,0.56,0.315,0.815,-5.568,0.043,149.951,1,11,0.0284,4,37,6150402
+Naraon Janom Lovilo - Traditional,Biren Deka,/artist/biren-deka,03:22,Assamese,11-02-2017,0.43,0.91,0.164,0.623,-11.376,0.03,150.039,1,6,0.0021,4,92,8923925
+Nagachaki Heroshima,Jiten Deka,/artist/jiten-deka,03:23,Assamese,02-02-2018,0.29,0.988,0.405,0.185,-3.321,0.0341,150.039,1,7,0.0892,4,85,5592898
+Petore Juruni Bhat,Khagen Phukan|Others|Pushpa Fukan Dubra|Bibha Dubra|Maheswar Barua|Meena Chakraborty,/artist/khagen-phukan|/artist/others|/artist/pushpa-fukan-dubra-2|/artist/bibha-dubra-2|/artist/maheswar-barua-2|/artist/meena-chakraborty-4,05:53,Assamese,03-12-2014,0.97,0.66,0.729,0.965,-13.191,0.06,149.827,0,6,0.058,4,77,4281916
+Kaak Bulilo,Dwipen Baruah|Runjun Phukan,/artist/dwipen-baruah|/artist/runjun-phukan-1,03:11,Assamese,09-06-2007,0.83,0.139,0.591,0.522,-9.876,0.0638,149.934,0,11,0.01,4,67,6992566
+Tejare Kamalapati,Dwipen Barua,/artist/dwipen-barua-3,04:49,Assamese,08-08-2015,0.26,0.83,0.714,0.883,-6.897,0.065,155.014,0,10,0.0849,4,76,1822138
+Aaji Eta Daam,Nagen Barman,/artist/nagen-barman,03:35,Assamese,05-05-2000,0.32,0.129,0.467,0.818,-12.699,0.0297,150.015,1,8,0.055,4,31,9609884
+Bijuleer Pohar Mor Nai,Suman Kalyanpur,/artist/suman-kalyanpur,05:15,Assamese,12-01-2004,0.58,0.86,0.701,0.147,-12.262,0.072,151.988,0,0,0.08,4,29,1521244
+Chenai Mor O,Usha Mangeshkar|Bhupen Hazarika,/artist/usha-mangeshkar-2|/artist/dr-bhupen-hazarika-2,03:43,Assamese,09-01-2017,0.51,0.248,0.697,0.213,-3.775,0.0747,149.892,1,7,0.061,4,36,6395114
+Jigija Gijao,Bhupen Hazarika|Usha Mangeshkar,/artist/dr-bhupen-hazarika-2|/artist/usha-mangeshkar-2,03:48,Assamese,04-05-2022,0.77,0.15,0.731,0.185,-12.19,0.096,150.011,0,11,0.0282,4,69,3459047
+Kirtan Dashamar Shankar Guru,Malabika Bora,/artist/malabika-bora,03:00,Assamese,07-04-2014,0.01,0.162,0.4,0.147,-2.734,0.043,149.935,0,9,0.03,4,98,2754250
+Devata Koa Mok Adalat,Aarti Mukherji,/artist/aarti-mukherji,03:03,Assamese,02-02-2005,0.66,0.14,0.088,0.823,-6.161,0.05,155.096,1,8,0.0313,4,64,72598
+Ami Bhaiti Bhanti,Bhupinder Singh|Krishna|Utpala|Asomi|Arindam|Nirupama|Mrinalini Dutta Chowdhury|Munin,/artist/bhupinder-singh|/artist/krishna|/artist/utpala|/artist/asomi|/artist/arindam|/artist/nirupama|/artist/mrinalini-dutta-chowdhury-1|/artist/munin,02:55,Assamese,12-02-2005,0.44,0.391,0.996,0.389,-9.545,0.0567,149.945,1,1,0.06,4,81,2041422
+Kinu Maram Lagata,Others|Khagendranath Phukan|Meena Chakraborty,/artist/others|/artist/khagendranath-phukan-1|/artist/meena-chakraborty-3,03:01,Assamese,10-09-2022,0.5,0.04,0.084,0.295,-4.086,0.01,150.026,0,5,0.03,4,54,3940005
+Jetnkare Bulali,Jiten Deka,/artist/jiten-deka,03:06,Assamese,06-04-2009,0.2,0.912,0.362,0.841,-13.674,0.058,150.046,0,11,0.04,4,52,7331677
+Rib Ribkoi Batah Bale,Khagen Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/archana-mahanta,03:07,Assamese,11-06-2013,0.67,0.13,0.203,0.824,-4.039,0.07,155.174,0,10,0.0055,4,40,1253249
+Ukhakoi Gara Oi,Lokeswar Deka|Lakshmi Bordoloi|Sibprasad Nath|Iru Saika|Puna Saika,/artist/lokeswar-deka|/artist/lakshmi-bordoloi|/artist/sibprasad-nath-2|/artist/iru-saika-2|/artist/puna-saika-2,03:02,Assamese,12-08-2002,0.77,0.973,0.608,0.727,-11.312,0.0161,150.05,1,1,0.0926,4,93,2346634
+Bahagi O Ketiya,Mitali Chowdhury,/artist/mitali-chowdhury,03:13,Assamese,05-03-2010,0.51,0.12,0.269,0.208,-5.162,0.088,149.95,0,9,0.082,4,66,491393
+Boghra Pamru Mon,Rmeswar Pathak,/artist/rmeswar-pathak,03:17,Assamese,12-04-2021,0.63,0.453,0.368,0.255,-8.768,0.0176,150.048,0,4,0.017,4,28,9008504
+Ei Nadikhani,Dwipen Baruah|Debjani Barua,/artist/dwipen-baruah|/artist/debjani-barua,02:41,Assamese,11-02-2002,0.41,0.18,0.425,0.621,-12.942,0.0066,150.144,1,0,0.07,4,96,8076
+Ki Bichari Ore Jibon,Anju Devi|Bhupen Hazarika,/artist/anju-devi|/artist/dr-bhupen-hazarika-2,06:58,Assamese,01-01-2023,0.66,0.783,0.314,0.819,-9.891,0.044,149.94,0,7,0.0745,4,27,11324419
+Guahati Loi Nahaibi,Nagen Barman,/artist/nagen-barman,03:26,Assamese,08-06-2010,0.96,0.8,0.291,0.611,-9.576,0.088,149.99,1,7,0.05,4,94,10929714
+A Aaji Beular Biya,Rameshwar Pathak,/artist/rameshwar-pathak,02:56,Assamese,03-12-2001,0.83,0.57,0.639,0.688,-10.24,0.0939,154.886,0,5,0.01,4,50,6869108
+Ah Ah Ah Olai Ah,Khagen Mahanta,/artist/khagen-mahanta,02:43,Assamese,02-12-2022,0.42,0.26,0.886,0.088,-9.835,0.024,149.875,1,9,0.0142,4,51,1283617
+Marame O Pacha,Santa Sharma|Arun Das,/artist/santa-sharma|/artist/arun-das,02:47,Assamese,02-02-2006,0.24,0.896,0.289,0.953,-10.017,0.05,149.915,0,0,0.0932,4,85,14261
+Runu Jun Runu Junu,Namita Bhattacharya,/artist/namita-bhattacharya,03:25,Assamese,07-10-2012,0.1,0.24,0.39,0.969,-12.104,0.045,150.018,0,5,0,4,34,1491243
+O Pahar O Dawor,Dilip Sharma|Anima Chowdhury,/artist/dilip-sharma|/artist/anima-chowdhury-1,03:18,Assamese,02-12-2014,0.65,0.355,0.804,0.395,-2.364,0.1,150.042,0,4,0.0652,4,41,9259050
+O Baiamor Dekati Ai,Kumari Dharitri|Lakshmi Bordoloi|Sibaprashad Nath,/artist/kumari-dharitri|/artist/lakshmi-bordoloi|/artist/sibaprashad-nath,02:51,Assamese,07-05-2012,0.62,0.68,0.881,0.468,-2.738,0.0901,155.027,0,5,0.01,4,32,5772054
+Eito Prahar Shunya Prahar,Samar Hazarika,/artist/samar-hazarika,02:39,Assamese,07-04-2007,0.68,0.156,0.025,0.602,-11.947,0.0938,149.885,0,1,0.04,4,81,750151
+Mor Ausir Rati,Jayanta Hazarika,/artist/jayanta-hazarika,02:54,Assamese,01-11-2017,0.22,0.38,0.746,0.399,-8.742,0.04,150.111,0,5,0.08,4,59,1108003
+Lajara Naam Rangin Palash,Manisha Hazarika,/artist/manisha-hazarika,03:42,Assamese,07-01-2012,0.08,0.832,0.274,0.274,-13.74,0,149.98,0,11,0.001,4,95,8377586
+More Pran Jeeban,Naren Das|Anima Das,/artist/naren-das|/artist/anima-das,03:15,Assamese,07-08-2017,0.39,0.7,0.154,0.549,-4.127,0.07,149.986,0,0,0.097,4,66,3707423
+Nakanda Nakanda Monai O,Rameshwar Pathak,/artist/rameshwar-pathak,03:15,Assamese,02-07-2003,0.02,0.643,0.085,0.2,-8.976,0.0883,150.024,0,11,0.06,4,45,6632956
+Asomre O Maina Houta,Jiten Deka,/artist/jiten-deka,02:58,Assamese,07-01-2009,0.02,0.11,0.762,0.451,-11.281,0.069,150.027,1,1,0.049,4,25,9601028
+Aag Fale Dekhilo,Khagen Mahanta|Others,/artist/khagen-mahanta|/artist/others,03:02,Assamese,01-05-2019,0.81,0.489,0.773,0.809,-7.506,0.0307,149.837,0,11,0.032,4,49,5465292
+O Beulai Kande Re,Naren Das,/artist/naren-das,03:38,Assamese,06-09-2014,0.99,0.18,0.337,0.467,-9.526,0.04,150.039,1,7,0.0255,4,82,3248476
+Rim Jhim Barashuney,Sangira Singha|Bhupen Hazarika,/artist/sangira-singha|/artist/dr-bhupen-hazarika-2,03:22,Assamese,09-11-2018,0.36,0.001,0.712,0.618,-10.04,0.02,149.987,0,6,0.015,4,89,4921209
+Bimurto Mur Nixati,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,01:21,Assamese,03-03-2017,0.73,0.55,0.686,0.846,-4.875,0.058,147.854,0,11,0.02,4,96,10546577
+Maanuhe Maanuhara,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:09,Assamese,09-12-2002,0.1,0.521,0.899,0.405,-3.875,0.0458,150.05,0,9,0.004,4,61,634185
+Choku Meli Nachaba,Runjun Phukan,/artist/runjun-phukan-1,03:52,Assamese,02-01-2010,0.6,0.85,0.232,0.849,-12.457,0.088,150.062,0,6,0.05,4,51,890782
+Sham Kaliya,Rameshwar Pathak|Dhanada Pathak,/artist/rameshwar-pathak|/artist/dhanada-pathak,03:11,Assamese,12-11-2009,0.92,0.051,0.433,0.513,-4.863,0.03,149.998,0,3,0.05,4,86,4430093
+A Mai Diok Labon More,Rameshwar Pathak,/artist/rameshwar-pathak,03:00,Assamese,09-07-2007,0.92,0.19,0.348,0.872,-5.603,0.041,149.954,0,5,0.011,4,45,2063968
+Nupore Matiche,Haimanti Shukla|Namita Bhattacharya,/artist/haimanti-shukla|/artist/namita-bhattacharya,03:03,Assamese,08-03-2017,0.26,0.111,0.175,0.273,-5.26,0.069,149.895,0,11,0.052,4,36,10439584
+Aaji Ki Je Mukali,Jayanta Das|Dwipen Baruah,/artist/jayanta-das|/artist/dwipen-baruah,03:29,Assamese,09-02-2020,0.97,0.01,0.861,0.935,-12.661,0.037,149.954,0,10,0.04,4,25,3816752
+Beb Kaati Jaba Naru,Snehalata Das,/artist/snehalata-das,03:29,Assamese,03-01-2017,0.7,0.503,0.073,0.247,-11.505,0.03,149.913,1,1,0.01,4,31,1324764
+Akou Ubhati Jadi Aha,Anima Choudhury,/artist/anima-choudhury,03:18,Assamese,12-04-2002,0.33,0.05,0.3,0.505,-10.291,0.0745,150.017,1,6,0.067,4,36,11187188
+Tan Kanali Mori Jao Laje,Snehalata Das,/artist/snehalata-das,03:57,Assamese,10-04-2012,0.58,0.511,0.419,0.274,-9.886,0.058,150.015,0,9,0.04,4,57,10671618
+Aghunare Pathare Aai,Sarat Sharma|Lakshmi Bordoloi|Others|Bibha Barua|Anu Barkakati,/artist/sarat-sharma|/artist/lakshmi-bordoloi|/artist/others|/artist/bibha-barua-2|/artist/anu-barkakati-2,05:57,Assamese,05-05-2003,0.51,0.86,0.298,0.204,-11.967,0.029,150.031,1,7,0.071,4,64,9103316
+Dekh Dekho Re,Rameshwar Pathak,/artist/rameshwar-pathak,03:11,Assamese,11-04-2019,0.7,0.568,0.455,0.142,-9.343,0.0788,150.001,0,5,0.04,4,61,1051794
+Nil Nil Sagn,Jiten Deka,/artist/jiten-deka,03:06,Assamese,08-11-2004,0.19,0.27,0.887,0.95,-11.598,0.1,150.031,1,1,0.036,4,70,3874166
+Alap Hanhi Alap,Manisha Hazarika,/artist/manisha-hazarika,02:22,Assamese,08-12-2005,0.78,0.633,0.178,0.833,-7.95,0.0776,150.071,1,4,0.01,4,52,8382725
+Ashwin Mashe Durga Puja,Mridula Das Dewan|Bhupen Hazarika,/artist/mridula-das-dewan|/artist/dr-bhupen-hazarika-2,04:48,Assamese,05-01-2004,0.96,0.97,0.689,0.004,-4.044,0.038,149.964,0,1,0.002,4,49,9418313
+Aji Tomake Dekhilo,Dilip Sharma|Anima Chowdhury,/artist/dilip-sharma|/artist/anima-chowdhury-1,03:07,Assamese,04-10-2007,0.55,0.875,0.862,0.05,-10.377,0.0398,149.906,1,7,0.07,4,32,2191047
+Man Aji,Pulak Banerjee|Haimanti Shukla,/artist/pulak-banerjee-1|/artist/haimanti-shukla,03:19,Assamese,11-02-2023,0.45,0.64,0.909,0.541,-4.487,0.0589,149.916,0,6,0.08,4,35,1826300
+Chintare Chataki Mon,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,03:09,Assamese,03-06-2015,0.76,0.886,0.485,0.799,-12.182,0.02,150.037,0,7,0.0738,4,57,10752606
+Abhimani Bandhu,Asha Bhosle,/artist/asha-bhosle-1,05:12,Assamese,05-01-2009,0.33,0.89,0.108,0.807,-4.33,0.02,150.072,0,4,0.0372,4,62,4872891
+Nadi Tore Bukute,Manisha Hazarika|Samar Hazarika,/artist/manisha-hazarika|/artist/samar-hazarika,03:09,Assamese,09-12-2006,0.12,0.08,0.686,0.084,-6.34,0.01,149.969,0,7,0.0866,4,90,6726585
+Sarute Sarkakai,Snehalata Das,/artist/snehalata-das,03:23,Assamese,01-05-2017,0.39,1,0.492,0.885,-12.689,0.042,149.991,0,5,0.0137,4,85,8457684
+Ei Laganat Kolu,Jayanta Hazarika|Nirmal Mishra,/artist/jayanta-hazarika|/artist/nirmal-mishra,03:08,Assamese,05-07-2016,0.82,0.401,0.622,0.31,-7.556,0.0113,150.04,0,5,0.1,4,48,5051239
+Ghar Amar Mati Hoy,Mukesh,/artist/mukesh,03:02,Assamese,09-04-2022,0.66,0.67,0.206,0.557,-2.096,0.05,149.977,1,8,0.006,4,51,2533422
+Guwahati Loi Gaichhilo - Parody,Nagen Barman|Udoy Barman,/artist/nagen-barman|/artist/udoy-barman,05:08,Assamese,09-03-2003,0.25,0.684,0.075,0.644,-5.229,0.01,149.977,0,11,0.0447,4,95,2210836
+Shama Thakile,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:27,Assamese,06-09-2001,0.05,0.44,0.798,0.82,-13.454,0.01,148.018,1,7,0.093,4,29,3909266
+Ei Bristi Ei Bristi,dasarath das|Kula Barua|Minu Saikia,/artist/dasarath-das|/artist/kula-barua|/artist/minu-saikia,03:02,Assamese,02-08-2007,0.6,0.958,0.707,0.845,-7.834,0.0193,154.964,0,3,0.0473,4,81,9318072
+Konay Aji Aabeli,Riniki Barua|Dwipen Barua|Anima Chowdhury|Bhanti Barua,/artist/riniki-barua|/artist/dwipen-barua-8|/artist/anima-chowdhury-2|/artist/bhanti-barua,03:14,Assamese,10-02-2014,0.06,0.48,0.863,0.203,-2.952,0.05,147.633,1,0,0.02,4,82,4765727
+Duru Duri Kanpe Hiya,Madhumati Goswami,/artist/madhumati-goswami,03:33,Assamese,05-09-2013,0.53,0.387,0.19,0.473,-3.91,0.0312,149.943,1,0,0.005,4,81,2472054
+Anurag Tumi,Jiten Deka,/artist/jiten-deka,05:17,Assamese,05-05-2019,0.79,0.5,0.336,0.846,-13.275,0.034,147.998,0,2,0.084,4,54,8368675
+Akash Aaji Mor,Manisha Hazarika,/artist/manisha-hazarika,03:31,Assamese,06-04-2022,0.72,0.498,0.501,0.198,-4.343,0.0307,149.918,0,10,0.021,4,51,10030082
+Loilase Tneo,Rituparna Sharma,/artist/rituparna-sharma,03:14,Assamese,05-02-2003,0.57,0.59,0.652,0.923,-10.158,0.0418,148.008,1,2,0.025,4,85,1516214
+Ai Nilaj Pahar,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:25,Assamese,02-04-2015,0.01,0.24,0,0.036,-3.604,0.09,150.111,0,9,0.02,4,71,4684261
+Uddhab Sakhi Ahare,Rameshwar Pathak,/artist/rameshwar-pathak,03:07,Assamese,10-05-2008,0.8,0.25,0.614,0.763,-3.92,0.05,149.797,0,9,0.0878,4,70,7319005
+Ek Doi Tini Chari,Lalita Das|Kokila Goswami|Mrinalini Dutta Chowdhury|Puspa Das,/artist/lalita-das|/artist/kokila-goswami-3|/artist/mrinalini-dutta-chowdhury-3|/artist/puspa-das-2,04:21,Assamese,06-02-2017,0.2,0.916,0.431,0.766,-12.735,0.021,149.804,0,9,0.0363,4,52,2450436
+O Kajali Pahare Jane,Anup Ghoshal,/artist/anup-ghoshal-1,03:21,Assamese,03-03-2009,0.09,0.55,0.603,0.996,-9.121,0.01,148.025,1,3,0.031,4,80,4428812
+Gati Je Jibaner Naam,Samar Hazarika,/artist/samar-hazarika,03:36,Assamese,06-01-2023,0.97,0.805,0.469,0.189,-8.411,0.065,155.016,1,11,0.069,4,57,11371207
+Dhng Dhari Dhng,Rameshwar Pathak,/artist/rameshwar-pathak,03:22,Assamese,08-12-2002,0.13,0.17,0.101,0.877,-11.703,0.05,150.04,1,0,0.072,4,76,5196618
+Chali Palir,Nagen Barman,/artist/nagen-barman,02:38,Assamese,07-03-2015,0.19,0.936,0.959,0.157,-7.879,0.01,149.956,0,11,0.03,4,28,5532052
+Sundari Saon Kino Kalpana,Jayanta Hazarika|Nirmal Mishra,/artist/jayanta-hazarika|/artist/nirmal-mishra,02:57,Assamese,12-02-2005,0.23,0.24,0.847,0.767,-12.465,0.01,149.977,0,8,0.057,4,57,4724890
+Kajiranga Kajiranga,Krishna|Bhupen Hazarika|Arindam|Gogoi Sisters,/artist/krishna|/artist/dr-bhupen-hazarika-2|/artist/arindam|/artist/gogoi-sisters,04:14,Assamese,04-09-2019,0.2,0.241,0.298,0.145,-11.893,0.0654,150.018,0,6,0.0773,4,91,6525198
+O He Mon Bhai,Naren Das,/artist/naren-das,03:31,Assamese,04-12-2004,0,0.4,0.409,0.398,-13.055,0.0605,149.964,0,10,0.044,4,82,5466773
+Na Jadi Bholali,Unknown,/artist/unknown,06:21,Assamese,07-03-2021,0.91,0.32,0.108,0.526,-7.04,0.06,149.936,1,6,0.044,4,70,3005697
+Kiono Hahili Fagun,Anima Choudhury,/artist/anima-choudhury,03:09,Assamese,08-04-2018,0.27,0.28,0.832,0.494,-2.443,0.08,149.991,0,9,0.0461,4,35,1808241
+Jilimili Jilimili,Aarti Mukherji,/artist/aarti-mukherji,02:48,Assamese,07-04-2016,0.96,0.835,0.049,0.619,-2.185,0.01,155.085,0,1,0.04,4,77,7160060
+Achhilo Ba Kino,Dwipen Baruah,/artist/dwipen-baruah,04:22,Assamese,11-05-2009,0.97,0.04,0.904,0.9,-13.463,0.0715,149.991,0,10,0.0974,4,65,4552587
+Tumiye Mor Kalpanare,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,04:21,Assamese,01-02-2020,0.93,0.895,0.095,0.938,-7.472,0.074,150.111,1,0,0.072,4,27,1769085
+Pahrar Juriti,Khagen Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/archana-mahanta,03:36,Assamese,11-05-2008,0.95,0.2,0.373,0.613,-9.792,0.07,154.961,0,4,0.001,4,93,6234071
+Mor Naam Radha,Snehalata Das,/artist/snehalata-das,02:54,Assamese,12-03-2000,0.06,0.412,0.261,0.06,-3.697,0.04,149.953,1,10,0.02,4,79,377834
+Ei Jibon Jadi,Jiten Deka,/artist/jiten-deka,04:02,Assamese,03-08-2007,0.6,0.23,0.562,0.94,-9.754,0.03,150.003,0,6,0.0476,4,31,4300516
+Karnat Kundal Tomar,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,03:14,Assamese,06-01-2019,0.79,0.31,0.999,0.814,-3.897,0.063,150.067,0,11,0.01,4,73,2907326
+Pran Sakhi Re,Snehalata Das,/artist/snehalata-das,02:31,Assamese,05-01-2017,0.18,0.48,0.59,0.735,-7.974,0.01,150.016,0,4,0.026,4,75,6465559
+Chulat Mad Khopa - Parody,Nagen Barman|Pranita Barman,/artist/nagen-barman|/artist/pranita-barman,06:36,Assamese,04-07-2002,0.09,0.372,0.006,0.513,-10.95,0.044,150.055,0,6,0.098,4,51,9023165
+Bengena Namere,Khagen Mahanta,/artist/khagen-mahanta,06:22,Assamese,08-08-2005,0.21,0.99,0.673,0.655,-5.44,0.067,150.014,0,0,0,4,97,8301848
+Ei Son Barania,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,02:56,Assamese,12-11-2002,0.62,0.521,0.928,0.599,-3.471,0.0442,149.983,0,10,0.0985,4,76,3373912
+A Aaji Beular Biya,Rameshwar Pathak,/artist/rameshwar-pathak,03:19,Assamese,05-11-2006,0.89,0.2,0.998,0.122,-2.368,0.084,149.91,0,0,0.042,4,69,1807316
+Chanchal Mon,Biren Deka,/artist/biren-deka,03:04,Assamese,12-12-2022,0.93,0.124,0.039,0.538,-7.916,0.0108,154.943,0,5,0.068,4,48,5137174
+Ei Karunatar,Manisha Hazarika,/artist/manisha-hazarika,02:47,Assamese,10-03-2010,0.91,0.04,0.189,0.709,-3.183,0.0865,150.023,0,5,0.061,4,58,2165253
+Kaanaai Paar Karaa,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:14,Assamese,11-08-2020,0.17,0.917,0.121,0.499,-11.793,0.0044,150.172,0,11,0.04,4,62,4835158
+Adite Akale,Dwipen Baruah,/artist/dwipen-baruah,02:38,Assamese,09-12-2002,0.6,0.12,0.036,0.114,-4.9,0.054,149.935,0,5,0.0544,4,91,81347
+Andhar Raati,Dwipen Baruah,/artist/dwipen-baruah,04:27,Assamese,02-01-2013,0.88,0.348,0.992,0.301,-11.507,0.06,149.994,0,5,0.0469,4,92,5135940
+Beli Lahiai,D Pen Baruah,/artist/d-pen-baruah,03:33,Assamese,11-04-2022,0.55,0.97,0.813,0.759,-13.818,0.09,150.004,0,1,0.02,4,26,1066982
+Banhar Kathi Tulai,Khagen Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/archana-mahanta,03:13,Assamese,09-11-2019,0.08,0.892,0.4,0.974,-2.721,0.01,149.903,0,11,0.015,4,33,8698292
+Aea Je Dekhicha,Dwipen Baruah|Runjun Phukan,/artist/dwipen-baruah|/artist/runjun-phukan-1,04:45,Assamese,10-09-2001,0.38,0.18,0.412,0.098,-10.829,0.05,149.983,0,7,0.0561,4,42,5235077
+Kerasene Dilane - Parody,Nagen Barman|Pranita Barman,/artist/nagen-barman|/artist/pranita-barman,06:04,Assamese,09-01-2004,0.02,0.883,0.306,0.78,-7.517,0.014,147.827,1,0,0.0858,4,96,10614206
+Oliya Holo Moi,Lokeswar Deka|Others,/artist/lokeswar-deka|/artist/others,06:51,Assamese,10-12-2009,0.6,0.63,0.902,0.739,-2.568,0.0415,150.02,0,1,0.03,4,54,7944731
+Sialeya Nahibi Rati,Nagen Barman,/artist/nagen-barman,03:52,Assamese,06-08-2013,0.59,0.801,0.686,0.611,-5.226,0.093,150.023,0,1,0.082,4,97,4204868
+Oki Radhe Bolre,Dhanada Pathak,/artist/dhanada-pathak,03:17,Assamese,02-07-2016,0.49,0.5,0.304,0.16,-13.39,0.056,152.065,1,7,0.0932,4,74,11276076
+Ek Dui Tini,Jayanta Hazarika,/artist/jayanta-hazarika,01:49,Assamese,11-02-2005,0.89,0.716,0.488,0.848,-10.786,0.058,154.948,0,9,0.07,4,86,2205283
+O Aji Bihu Bihu,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,03:35,Assamese,11-10-2003,0.39,0.25,0.011,0.694,-4.128,0.005,149.966,0,5,0.0008,4,80,11384270
+Kopi Uthe Kio Taj Mahal,Bhupen Hazarika|Lata Mangeshkar,/artist/dr-bhupen-hazarika-2|/artist/lata-mangeshkar,06:42,Assamese,05-09-2015,0.57,0.974,0.553,0.026,-10.359,0.0097,150.054,1,8,0.038,4,79,10205818
+Jadi Ketiara Kararat,Anima Choudhury,/artist/anima-choudhury,03:01,Assamese,11-09-2008,0.15,0.41,0.364,0.973,-12.594,0.0052,150.009,1,10,0.0511,4,67,8369147
+Porilo Barisha Kaalre,Snehalata Das,/artist/snehalata-das,03:28,Assamese,03-04-2017,0.19,0.032,0.993,0.245,-9.138,0.06,155.007,0,5,0.01,4,78,527824
+Rati Je Holo Baro,Manisha Hazarika,/artist/manisha-hazarika,03:33,Assamese,05-01-2004,0.54,0.95,0.355,0.311,-13.875,0.08,150.017,0,9,0.0841,4,88,3479195
+Luitab Sontat Likha Bab,Jayanta Hazarika,/artist/jayanta-hazarika,03:27,Assamese,09-03-2019,0.04,0.013,0.813,0.081,-11.693,0.0234,153.945,0,11,0.047,4,100,10029831
+Jonoti Olale Tarati,Khagen Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/archana-mahanta,03:22,Assamese,06-04-2021,0.71,0.22,0.772,0.377,-3.041,0.093,149.987,1,7,0.041,4,39,10532117
+Fashion Tomar Diney Diney,Nagen Barman|Bani Barua,/artist/nagen-barman|/artist/bani-barua,03:11,Assamese,05-02-2007,0.35,0.405,0.533,0.432,-6.538,0.098,149.938,0,10,0.05,4,25,5479527
+Na Aat Sath,Jiten Deka|Nirmali Das,/artist/jiten-deka|/artist/nirmali-das,02:03,Assamese,05-07-2019,0.3,0.47,0.348,0.794,-3.435,0.0766,149.968,1,10,0.05,4,92,5418171
+Jaunsari Song No.2,Male Uttar Pradesh singers from Konain|Jaunsar Bower,/artist/male-uttar-pradesh-singers-from-konain|/artist/jaunsar-bower,03:12,Assamese,02-07-2001,0.51,0.359,0.791,0.506,-8.806,0.029,150.043,0,6,0.097,4,79,3426219
+Ahan Ahan Kao Shuna,Mitali Chowdhury,/artist/mitali-chowdhury,02:59,Assamese,02-11-2022,0.42,0.01,0.555,0.207,-8.04,0.075,149.878,0,4,0.01,4,68,8655611
+Kino Hol Kino Hol,Mahananda Mazinder Baruah,/artist/mahananda-mazinder-baruah-4,04:32,Assamese,05-09-2017,0.82,0.27,0.969,0.685,-4.878,0.1,149.984,0,9,0.0174,4,45,4017307
+Bhohutake Bhohudio,Ina Mukherjee|Namita Goswami,/artist/ina-mukherjee|/artist/namita-goswami,02:41,Assamese,06-02-2001,0.04,0.37,0.151,0.235,-9.184,0.027,149.971,1,6,0.083,4,75,5251505
+Saraju Kande Re,Naren Das,/artist/naren-das,04:54,Assamese,07-02-2003,0.01,0.799,0.735,0.364,-10.749,0.0799,150.028,0,7,0.07,4,82,10583167
+Beli Lahiyai,Dwipen Baruah,/artist/dwipen-baruah,03:43,Assamese,02-05-2009,0.33,0.58,0.719,0.907,-8.678,0.1,153.059,0,9,0.05,4,89,9738072
+Kinno Maya Jal Patila,Naren Das,/artist/naren-das,03:34,Assamese,06-01-2022,0.47,0.421,0.936,0.77,-8.87,0.09,150.934,0,10,0.0262,4,80,3752576
+Jonak Bhara Nisha,Malabika Bora,/artist/malabika-bora,04:49,Assamese,04-02-2013,0.53,0.57,0.011,0.364,-9.388,0.0314,150.095,0,0,0.0595,4,100,5751695
+Dayal Guru Kripal Guru,Rameshwar Pathak,/artist/rameshwar-pathak,03:15,Assamese,05-12-2022,0.2,0.054,0.141,0.965,-4.305,0.065,149.951,0,3,0.0526,4,62,1044466
+Beli Olale,Madhumati Goswami,/artist/madhumati-goswami,04:04,Assamese,01-03-2011,0.79,0.04,0.887,0.068,-12.002,0.0188,149.986,1,1,0.0431,4,36,173464
+O He Budi Ai,Naren Das,/artist/naren-das,03:09,Assamese,09-06-2019,0.86,0.613,0.931,0.737,-4.684,0.0228,149.966,0,7,0.04,4,32,8526653
+Parashi Puaate Tulungaa,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:48,Assamese,11-04-2018,0.61,0.47,0.931,0.491,-4.069,0.023,150.024,1,7,0.011,4,64,9021426
+Jhir Jhir Malayar,Dwipen Barua|Mitali Choudhury,/artist/dwipen-barua-5|/artist/mitali-choudhry,03:56,Assamese,01-04-2007,0.63,0.216,0.915,0.176,-9.08,0.079,149.911,0,2,0.0493,4,83,8379281
+Joy Joy Srimanta Shankar,Rameshwar Pathak,/artist/rameshwar-pathak,02:57,Assamese,06-07-2003,0.94,0.31,0.821,0.793,-8.345,0.0652,150.026,0,7,0.016,4,40,8065538
+Kopi Uthe Kio Taj Mahal (Introduction),Samar Hazarika,/artist/samar-hazarika,01:09,Assamese,11-12-2006,0.24,0.211,0.64,0.408,-2.414,0.038,150.004,1,10,0.09,4,92,1186793
+Mor Haon Phaon Dhar Phar Korey,Nagen Barman,/artist/nagen-barman,02:59,Assamese,12-02-2002,0.18,0.97,0.857,0.124,-3.219,0.0058,153.997,1,8,0.022,4,83,9895424
+Mohila Mohila Kaloino Ahila,Jayanta Hazarika,/artist/jayanta-hazarika,03:08,Assamese,02-09-2016,0.97,0.808,0.271,0.759,-11.339,0.0635,149.944,1,5,0.0604,4,56,4207465
+Bapoi Chengerare,Dhanada Pathak,/artist/dhanada-pathak,02:05,Assamese,04-11-2016,0.27,0.07,0,0.602,-10.685,0.0677,155.096,0,11,0.0808,4,48,3830519
+Kona Samayata Shui Parilo Moi,Anima Choudhury,/artist/anima-choudhury,03:29,Assamese,05-04-2020,0.87,1,0.922,0.567,-8.196,0.0885,150.009,0,4,0.0557,4,75,11278958
+Kalir Krishna Duet,Dwipen Barua|Kokila Goswami|Mrinalini Dutta Chowdhury|Lalita Das|Puspa Das,/artist/dwipen-barua-11|/artist/kokila-goswami-2|/artist/mrinalini-dutta-chowdhury-2|/artist/lalita-das|/artist/puspa-das-1,03:34,Assamese,01-06-2008,0.79,0.46,0.189,0.734,-12.571,0.034,150.021,0,5,0.08,4,46,5591046
+O Mor Priyo Janagan,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,04:23,Assamese,06-06-2017,0.39,0.676,0.281,0.526,-3.761,0.023,150.017,0,9,0.061,4,68,5307996
+Hawa Nai Batash Nai,Usha Mangeshkar,/artist/usha-mangeshkar-2,04:02,Assamese,11-09-2017,0.59,0.03,0.559,0.615,-4.434,0.0512,150.014,0,5,0.0118,4,29,9168337
+Ak Din Tumi,Jiten Deka,/artist/jiten-deka,03:55,Assamese,10-01-2005,0.2,0.756,0.676,0.943,-10.449,0.0926,150.063,0,9,0.024,4,83,1679294
+O Dukhiya Man Mara,Digen Mahanta|Khagen Mahanta,/artist/digen-mahanta|/artist/khagen-mahanta,03:02,Assamese,08-05-2002,0.26,0.54,0.921,0.203,-6.773,0.0766,155.026,1,2,0.09,4,27,3388887
+Boney Se,sibcharan das,/artist/sibcharan-das,02:07,Assamese,05-02-2009,0.7,0.493,0.703,0.849,-13.924,0.0874,149.972,0,10,0.047,4,36,6936610
+Moi Achhon,Dwipen Baruah|Kabita Barthakur,/artist/dwipen-baruah|/artist/kabita-barthakur,03:55,Assamese,08-01-2009,1,0.76,0.667,0.13,-4.678,0.03,149.998,0,11,0.06,4,29,2195143
+Pratham Dekhar,Khagen Mahanta|Mitali Choudhury,/artist/khagen-mahanta|/artist/mitali-choudhry,03:02,Assamese,06-11-2021,0.64,0.608,0.631,0.027,-5.491,0.09,150.05,0,3,0.098,4,53,7689351
+Dham Dhama Dham Jibon - Madul Baje,Banasree Sengupta|Jayanta Hazarika|Nirmal Mishra,/artist/banasree-sengupta|/artist/jayanta-hazarika|/artist/nirmal-mishra,03:14,Assamese,02-07-2018,0.66,0.31,0.299,0.667,-4.808,0.06,150.011,1,9,0.09,4,35,6914379
+Boi Ja Boi Ja,Manisha Hazarika,/artist/manisha-hazarika,03:28,Assamese,01-11-2022,0.5,0.867,0.174,0.317,-5.411,0.0091,149.983,0,4,0.077,4,95,7026435
+Chenai Tomar Chalukia,Khagen Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/archana-mahanta,02:37,Assamese,01-07-2011,0.5,0.31,0.482,0.091,-3.306,0.005,150.015,0,11,0.08,4,70,6957276
+Ne Kaandibaa Ne Kaandibaa,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:07,Assamese,02-02-2024,0.05,0.54,0.503,0.208,-3.862,0.075,154.942,0,6,0.0645,4,58,2014025
+Badi Achhe Naderey Jaal,Nagen Barman,/artist/nagen-barman,05:26,Assamese,10-03-2018,0.87,0.92,0.925,0.837,-3.696,0.0391,150.051,0,7,0.07,4,97,4494473
+Jni Jni,Jiten Deka,/artist/jiten-deka,03:00,Assamese,02-05-2017,0.81,0.609,0.503,0.673,-9.464,0.09,150.064,0,8,0.06,4,70,3576542
+Nak Dangarer Beta Ta,Naren Das,/artist/naren-das,03:03,Assamese,10-09-2007,0.28,0.24,0.955,0.08,-10.401,0.03,150.009,0,4,0.06,4,84,2857329
+Tumi Nisangha Nohoba,Malabika Bora,/artist/malabika-bora,04:26,Assamese,02-12-2007,0.29,0.9,0.803,0.815,-12.433,0.0076,149.803,0,4,0.0431,4,42,2882046
+Surey Surey,Jiten Deka,/artist/jiten-deka,02:03,Assamese,12-05-2022,0.06,0.4,0.502,0.962,-5.312,0.03,149.922,1,1,0.0465,4,57,8669070
+Ali Dhaki Par Shaliki,Namita Bhattacharya,/artist/namita-bhattacharya,04:03,Assamese,09-11-2013,0.45,0.744,0.208,0.192,-10.608,0.0719,148.214,1,0,0.039,4,25,7282299
+Bolia Mor Mon,Kalpana Bhuyan|Dijen Kakati,/artist/kalpana-bhuyan|/artist/dijen-kakati-4,03:02,Assamese,04-05-2012,0.95,0.83,0.299,0.021,-9.663,0.025,150.02,0,9,0.0235,4,68,7974150
+Khone Jage Hai,Namita Bhattacharya,/artist/namita-bhattacharya,03:05,Assamese,04-01-2006,0.06,0.11,0.964,0.242,-8.033,0.073,152.983,0,0,0.084,4,59,9278258
+Chowahi Chowahi Shile Katha Koy,Namita Bhattacharya,/artist/namita-bhattacharya,03:02,Assamese,07-10-2012,0.87,0.98,0.841,0.632,-11.798,0.0685,149.987,1,1,0.0483,4,88,1808677
+Na Jano Kon,Suez Bardoloi,/artist/suez-bardoloi,03:17,Assamese,03-11-2008,0.62,0.202,0.037,0.518,-4.476,0.077,147.804,0,7,0.08,4,48,3980342
+Ei Je Amar Janwar Bahini,Dwipen Barua,/artist/dwipen-barua-7,02:25,Assamese,10-02-2007,0.67,0.94,0.247,0.71,-4.995,0.042,149.935,0,11,0.017,4,67,819679
+Jiri Jiri Barsun,Namita Bhattacharya|Atul Methi,/artist/namita-bhattacharya|/artist/atul-methi-4,04:08,Assamese,08-11-2013,0.4,0.881,0.569,0.45,-13.938,0.0787,150.03,1,7,0.0724,4,76,4524853
+Aaruno Kiman Baki,Namita Bhattacharya,/artist/namita-bhattacharya,04:36,Assamese,07-08-2015,0.64,0.74,0.215,0.868,-7.445,0.0755,150.026,0,9,0.063,4,73,9794860
+A Pran Gopal,Anima Chowdhury,/artist/anima-chowdhury,03:24,Assamese,10-03-2011,0.83,0.749,0.722,0.67,-13.665,0.0504,150.011,0,10,0.031,4,97,8088485
+Bharibo Taluar Para,Jayanta Hazarika,/artist/jayanta-hazarika,03:38,Assamese,01-02-2011,0.7,0.02,0.317,0.262,-11.172,0.003,149.964,0,6,0.09,4,98,8027205
+Nao Chapan Nao Chapan,Dhanada Pathak,/artist/dhanada-pathak,03:22,Assamese,10-01-2004,0.55,0.538,0.865,0.183,-9.099,0.042,150.041,1,7,0.1,4,85,9003320
+Sakala Duniya - Kamrupi,Rameshwar Pathak,/artist/rameshwar-pathak,03:29,Assamese,11-05-2010,0.47,0.71,0.753,0.74,-4.611,0.06,150.272,0,4,0.08,4,45,4781923
+Joy Baa Parajoy,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:15,Assamese,02-02-2011,0.08,0.513,0.012,0.142,-4.345,0.04,149.99,1,8,0.0573,4,82,4888723
+Noire Bukut Uthe Dhou,Dilip Sharma|Anima Chowdhury,/artist/dilip-sharma|/artist/anima-chowdhury-1,03:43,Assamese,11-05-2023,0.87,0.65,0.294,0.097,-9.601,0.018,150.007,1,5,0.096,4,74,9439566
+Shun Hero Rupahi Bijoli,Samar Hazarika,/artist/samar-hazarika,02:45,Assamese,02-05-2006,0.96,0.676,0.336,0.206,-11.827,0.0768,150.044,0,7,0.063,4,46,4070368
+Ahan Ahanchhon,Suman Kalyanpur|Pulak Banerjee,/artist/suman-kalyanpur|/artist/pulak-banerjee-1,05:49,Assamese,12-11-2016,0.46,0.17,0.496,0.475,-11.86,0.033,150.016,0,11,0.0279,4,96,4667485
+Basanta Ahil Sakhi,Madhumati Goswami|Mahananda Mazinder Baruah,/artist/madhumati-goswami|/artist/mahananda-mazinder-baruah-3,06:06,Assamese,08-05-2006,0.25,0.282,0.157,0.579,-8.087,0.042,149.992,0,11,0.04,4,53,6883599
+Bastra Meli Meli Chay,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,02:58,Assamese,01-03-2021,0.06,0.8,0.034,0.054,-9.534,0,152.039,0,5,0.027,4,49,5113630
+Gorui Machhe,Nagen Barman,/artist/nagen-barman,03:36,Assamese,04-10-2015,0.22,0.822,0.43,0.631,-4.936,0.0745,150.037,0,7,0.07,4,49,9583394
+Iman Moram Kiya,Dwipen Barua|Anima Chowdhury,/artist/dwipen-barua-9|/artist/anima-chowdhury-3,03:15,Assamese,10-06-2005,0.29,0.73,0.343,0.717,-9.72,0.0746,150.106,1,2,0.088,4,52,3394167
+Uchnpi Nutiba,Jiten Deka,/artist/jiten-deka,03:17,Assamese,04-07-2016,0.86,0.932,0.623,0.593,-12.392,0.057,149.838,0,5,0.0912,4,91,4221871
+Mugha Riha Mekhelarey,Dijen Kakati,/artist/dijen-kakati-4,03:21,Assamese,11-12-2017,0.93,0.25,0.327,0.658,-2.323,0.0245,150,0,1,0.05,4,56,6097992
+Prantar Pahare,Kula Barua,/artist/kula-barua,03:04,Assamese,07-11-2010,0.6,0.48,0.762,0.033,-8.184,0.08,149.877,0,7,0.0703,4,30,5766131
+Kopi Uthe Kio Taj Mahal,Samar Hazarika|Monima Saikia,/artist/samar-hazarika|/artist/monima-saikia,03:48,Assamese,12-11-2008,0.84,0.26,0.661,0.85,-2.519,0.0493,149.852,0,11,0.023,4,92,6692482
+E He Narayan,Rameshwar Pathak,/artist/rameshwar-pathak,06:19,Assamese,12-01-2000,0.93,0.158,0.988,0.949,-12.178,0.002,145.046,1,3,0.09,4,40,7537280
+Amare Bhonti Subo,Mridula Das Dewan,/artist/mridula-das-dewan,04:14,Assamese,08-03-2015,0.62,0.94,0.096,0.591,-8.395,0.0976,149.907,0,6,0.008,4,64,4075520
+Maha Moho,Jayanta Das|Dwipen Baruah,/artist/jayanta-das|/artist/dwipen-baruah,03:47,Assamese,09-10-2017,0.04,0.912,0.69,0.375,-13.919,0.008,155.174,0,11,0.0751,4,88,7877060
+Aghone Anile Hanhi,Kuntala Deka|Dwipen Baruah,/artist/kuntala-deka|/artist/dwipen-baruah,03:05,Assamese,10-02-2021,0.97,0.8,0.769,0.719,-5.688,0.0029,150.074,1,3,0.056,4,95,10242254
+Keteki Nahao Moi,Anima Bhattacharya,/artist/anima-bhattacharya,03:47,Assamese,01-04-2000,0.89,0.058,0.962,0.455,-13.243,0.0242,149.707,0,6,0.07,4,35,3270355
+Amej Bhara,Arun Das,/artist/arun-das,02:55,Assamese,11-08-2019,0.07,0.52,0.523,0.034,-5.794,0.062,150.021,0,11,0.0988,4,62,2856774
+Palo Adhikar Tomar Hiyar,Anima Choudhury,/artist/anima-choudhury,03:16,Assamese,03-06-2017,0.09,0.318,0.237,0.517,-12.169,0.06,150.057,1,3,0.02,4,68,9912190
+Moi Sainik Rokhia,Bina Sharma,/artist/bina-sharma,03:02,Assamese,01-11-2020,0.75,0.83,0.678,0.97,-10.468,0.05,149.985,0,9,0.0683,4,63,8892150
+Kanhura Bon,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:43,Assamese,05-04-2005,0.81,0.16,0.196,0.451,-9.868,0.03,149.982,0,0,0.01,4,35,3916139
+Uddhar Shaki Ahara,Rameshwar Pathak,/artist/rameshwar-pathak,03:04,Assamese,03-09-2019,0.69,0.99,0.567,0.964,-8.12,0.08,149.983,0,8,0.0349,4,77,8854461
+O Bandhu Bohag Bihu,Dijen Kakati,/artist/dijen-kakati-6,02:43,Assamese,01-07-2012,0.85,0.822,0.781,0.802,-7.204,0.0632,149.912,0,11,0.09,4,61,122280
+O Mor Dharitri,Pampa Gagai|Bhupen Hazarika,/artist/pampa-gagai|/artist/dr-bhupen-hazarika-2,03:27,Assamese,11-10-2004,0.75,0.69,0.698,0.976,-7.573,0.08,150.043,0,1,0.0984,4,35,1353833
+Jibon Ghorir Protito Pal,Suman Kalyanpur,/artist/suman-kalyanpur,04:01,Assamese,11-06-2005,0.42,0.765,0,0.998,-7.371,0.012,149.988,0,6,0.09,4,98,9757602
+Hindu Ki Musolmaan (Jikir),Rekibuddin Ahmed,/artist/rekibuddin-ahmed,03:32,Assamese,02-02-2024,0.83,0.64,0.591,0.618,-9.916,0.02,149.899,1,8,0.0874,4,52,4710162
+O Mitha Bohag,Bhupen Hazarika|Ruby Singha,/artist/dr-bhupen-hazarika-2|/artist/ruby-singha,03:21,Assamese,03-12-2015,0.85,0.774,0.792,0.356,-2.376,0.04,154.995,1,7,0.075,4,81,1719421
+Mati Phuti Chale,D Pen Baruah|Namita Bhattacharya,/artist/d-pen-baruah|/artist/namita-bhattacharya,03:50,Assamese,09-06-2009,0.08,0.09,0.78,0.743,-5.426,0.09,150.086,1,3,0.0973,4,54,2519088
+Shyam Kalia,Dhanada Pathak,/artist/dhanada-pathak,03:11,Assamese,12-02-2007,0.07,0.887,0.279,0.234,-8.658,0.0909,149.995,1,0,0.044,4,46,152006
+Naami Aha Sundare,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,05:49,Assamese,01-06-2000,0.11,0.22,0.397,0.408,-10.35,0.058,150.008,1,11,0.05,4,64,9571029
+Aha Jen,Atul Methi|Bonti Borah,/artist/atul-methi|/artist/bonti-borah,02:37,Assamese,09-01-2019,0.79,0.763,0.225,0.415,-10.971,0.0664,150.06,1,1,0.07,4,60,11318266
+Maati Phuti Olaale,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,03:57,Assamese,07-01-2007,0.38,0.54,0.109,0.683,-9.637,0.042,150.056,0,8,0.0852,4,61,5160239
+Bianaam - Part - 1,Runumi Bhattacharya|Nikunjalata Mahanta|Archana Mahanta,/artist/runumi-bhattacharya|/artist/nikunjalata-mahanta|/artist/archana-mahanta,06:00,Assamese,02-03-2005,0.13,0.75,0.104,0.698,-6.56,0.0956,150.018,0,9,0.09,4,35,10824494
+Eri Thoi Jaon,Dwipen Baruah,/artist/dwipen-baruah,03:13,Assamese,12-11-2011,0.4,0.36,0.147,0.563,-12.441,0.06,149.921,0,7,0.0235,4,54,11234122
+Suhuri Marili,Barnali Hazarika,/artist/barnali-hazarika,02:54,Assamese,01-03-2007,0.51,0.958,0.317,0.26,-6.774,0.056,149.985,0,9,0.04,4,81,8881417
+Hayre Praner Basa Mor,Usha Mangeshkar,/artist/usha-mangeshkar-2,02:04,Assamese,09-10-2008,0.98,0.73,0.955,0.022,-7.532,0.05,150.015,1,11,0.1,4,52,8680980
+Kajiranga Kajiganga,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,04:06,Assamese,10-11-2012,0.7,0.694,0.816,0.921,-7.079,0.07,150.06,1,4,0.0572,4,73,5362564
+Phulil Azar Phool,Suez Bardoloi,/artist/suez-bardoloi,03:06,Assamese,09-09-2008,0.12,0.98,0.642,0.109,-2.562,0.04,150.224,1,1,0.024,4,72,9920165
+Mor Jibon Ek Ambachedor,Dwipen Baruah,/artist/dwipen-baruah,03:48,Assamese,04-07-2011,0.13,0.204,0.412,0.378,-9.383,0.01,150.034,1,7,0.05,4,35,9643897
+Akashrey Nilaai,Suman Kalyanpur,/artist/suman-kalyanpur,05:27,Assamese,08-01-2019,0.08,0.66,0.436,0.514,-12.778,0.03,149.945,1,6,0.07,4,59,3961199
+Ki Mok Ne Lage,Aarti Mukherji|Dwipen Baruah,/artist/aarti-mukherji|/artist/dwipen-baruah,03:15,Assamese,06-11-2016,0.5,0.502,0.491,0.327,-7.649,0,156.345,0,6,0.0379,4,45,2336927
+Sakal Duniya Dukkha,Rameshwar Pathak,/artist/rameshwar-pathak,03:03,Assamese,09-05-2011,0.29,0.6,0.98,0.439,-11.126,0.076,149.992,0,2,0.05,4,41,2166104
+Chinaki Tumi Ne Mor,Namita Bhattacharya,/artist/namita-bhattacharya,03:19,Assamese,01-06-2018,0.59,0.71,0.36,0.72,-11.123,0.003,155.18,1,1,0.052,4,29,9311404
+Parbator Dhakia,Lokeswar Deka|Party,/artist/lokeswar-deka|/artist/party,06:25,Assamese,06-04-2017,0.4,0.48,0.15,0.376,-13.277,0.088,149.985,0,11,0.04,4,86,1367891
+Pohaaniya Charaaity,Dwipen Barua|Kokila Goswami,/artist/dwipen-barua-1|/artist/kokila-goswami-1,04:03,Assamese,09-03-2010,0.19,0.885,0.45,0.754,-4.926,0.05,149.887,0,9,0.041,4,36,7950016
+He Mai Joshowa,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:24,Assamese,02-01-2020,0.3,0.36,0.414,0.357,-12.612,0.1,155.065,1,8,0.0917,4,54,10765008
+Jonali A Jonali,Dwipen Baruah,/artist/dwipen-baruah,03:06,Assamese,01-06-2017,0.02,0.868,0.462,0.624,-7.48,0.0551,150.038,0,10,0.013,4,86,8234314
+Sarukoi Bakul Phul Lahi,Archana Mahanta,/artist/archana-mahanta,03:14,Assamese,02-02-2009,0.29,0.86,0.169,0.415,-2.177,0.057,148.702,0,8,0.0319,4,74,9835355
+Mon Mor Urichhey,Samar Hazarika|Rijuwana Sultana,/artist/samar-hazarika|/artist/rijuwana-sultana,03:43,Assamese,06-04-2006,0.02,0.248,0.845,0.76,-6.728,0.07,150.027,0,5,0.0673,4,27,6772225
+Chenai Mor O,Bhupen Hazarika|Usha Mangeshkar,/artist/dr-bhupen-hazarika-2|/artist/usha-mangeshkar-2,03:44,Assamese,05-01-2009,0.69,0.63,0.467,0.36,-2.425,0.0491,149.98,0,1,0.027,4,70,7912772
+Dur Duranite,Jiten Deka,/artist/jiten-deka,03:09,Assamese,01-03-2021,0.27,0.813,0.486,0.439,-11.202,0.003,149.738,1,10,0.0187,4,31,2484145
+Kurut Kurut Korka Baje,Rameshwar Pathak,/artist/rameshwar-pathak,03:08,Assamese,10-10-2021,0.66,0.26,0.86,0.875,-9.519,0.03,154.986,1,8,0.055,4,64,6018802
+Shankare Bolile,Ina Mukherjee|Mahananda Mazinder Baruah,/artist/ina-mukherjee|/artist/mahananda-mazinder-baruah-2,05:37,Assamese,09-06-2020,0.06,0.7,0.271,0.127,-10.543,0.07,149.937,0,1,0.02,4,35,2708892
+Radhar Nupurar,Chandrani Mukherjee,/artist/chandrani-mukherjee,03:54,Assamese,01-02-2010,0.95,0.47,0.79,0.523,-10.768,0.03,149.991,1,8,0.067,4,93,10843038
+Tomar Hamir Chinaki Suravi,Barnali Hazarika,/artist/barnali-hazarika,03:13,Assamese,08-07-2013,0.67,0.725,0.862,0.314,-3.784,0.07,149.99,0,5,0.057,4,99,2865089
+Ki Rang Dila Halo Utala,Namita Bhattacharya|Dwipen Barua,/artist/namita-bhattacharya|/artist/dwipen-barua-10,03:51,Assamese,01-02-2003,0.1,0.64,0.375,0.036,-11.115,0.1,149.996,1,1,0.1,4,66,4451749
+Katenu Achha Mor,Manisha Hazarika,/artist/manisha-hazarika,05:24,Assamese,10-01-2008,0.05,0.095,0.416,0.927,-10.681,0.014,149.992,0,0,0.08,4,51,6929681
+E Rangin Raat Mein,Haimanti Shukla,/artist/haimanti-shukla,03:08,Assamese,02-09-2013,0.68,0.29,0.321,0.189,-13.168,0.09,150,0,4,0.0847,4,96,2759600
+Machhi Thoi Jadi,Dwipen Baruah,/artist/dwipen-baruah,03:15,Assamese,10-08-2004,0.03,0.959,0.646,0.813,-9.787,0.04,149.953,1,9,0.0355,4,100,396651
+Buker Tejare,Suez Bardoloi,/artist/suez-bardoloi,03:05,Assamese,09-12-2010,0.81,0.88,0.539,0.901,-5.184,0.072,149.936,0,0,0.04,4,88,1803630
+Eman Dhuniyakoi,Pahari Saikia|Dwipen Barua,/artist/pahari-saikia|/artist/dwipen-barua-13,03:34,Assamese,09-12-2009,0.75,0.107,0.094,0.112,-4.685,0.0914,150.206,0,10,0.09,4,73,3949021
+Dhoi Tnli Tnli,Jiten Deka,/artist/jiten-deka,05:24,Assamese,11-06-2006,0,0.43,0.601,0.632,-11.913,0.072,150.009,0,9,0.04,4,96,3784224
+Kone Jane Tomar Swapon,Shyamal Mitra,/artist/shyamal-mitra,03:10,Assamese,05-03-2021,0.08,0.107,0.197,0.879,-12.198,0.04,149.983,1,5,0.09,4,91,11399641
+Phool Bhara Phool Niwa,Suman Kalyanpur,/artist/suman-kalyanpur,03:27,Assamese,11-11-2004,0.61,0.13,0.563,0.862,-6.228,0.0856,149.761,1,9,0.0285,4,40,8950048
+Kamalakoi Bahanre Oi,Khagen Mahanta|Archana Mahanta|Nikunjalata Mohanta|Digen Mohanta,/artist/khagen-mahanta|/artist/archana-mahanta|/artist/nikunjalata-mohanta|/artist/digen-mohanta,06:18,Assamese,02-12-2003,0.57,0.836,0.153,0.391,-6.204,0.01,149.962,0,10,0.008,4,91,9481956
+Udbab Bondhu - Shankar Dev,Krishna Burman|Bhupen Hazarika,/artist/krishna-burman|/artist/dr-bhupen-hazarika-2,04:38,Assamese,05-04-2010,0.71,0.31,0.297,0.896,-5.291,0,150.015,0,1,0.058,4,77,10068619
+Oi Kino Maya,Pulak Banerjee,/artist/pulak-banerjee-1,04:05,Assamese,05-08-2011,0.47,0.751,0.953,0.901,-10.699,0.0613,150.099,0,4,0.01,4,90,7348974
+Aai Madhur Milanor Mela,Mitali Chowdhury,/artist/mitali-chowdhury,03:09,Assamese,10-03-2009,0.19,0.63,0.499,0.206,-9.497,0.05,150.876,1,1,0.025,4,30,2835275
+Seuji Seuji Seuji O,Mihir Bardaloi,/artist/mihir-bardaloi,03:23,Assamese,11-01-2012,0.57,0.65,0.917,0.221,-7.936,0.046,149.976,0,10,0.0365,4,80,9513522
+Pahhaad Bhoiyaamara,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:05,Assamese,05-12-2012,0.37,0.14,0.537,0.254,-4.049,0.08,150.066,0,1,0.07,4,94,7382918
+O Thuria Tamolkhan,Mahananda Majinder Barua|Santa Sharma,/artist/mahananda-majinder-barua|/artist/santa-sharma,03:51,Assamese,01-06-2001,0.61,0.723,0.642,0.406,-11.669,0.0969,150.019,0,8,0.036,4,91,11009427
+Gopini Pran,Rameshwar Pathak,/artist/rameshwar-pathak,06:21,Assamese,05-04-2002,0.64,0.4,0.129,0.76,-13.306,0.001,150.028,0,1,0.04,4,89,11036930
+Akhan Nadekha Nadir,Dwipen Barua,/artist/dwipen-barua-2,03:14,Assamese,09-11-2005,0.49,0.038,0.972,0.155,-6.97,0.0979,154.979,0,11,0.06,4,86,490379
+Parane Manat,Jiten Deka,/artist/jiten-deka,02:52,Assamese,03-04-2010,0.02,0.7,0.226,0.562,-2.448,0.0755,154.928,0,10,0.096,4,57,10683583
+Hawa Nai Batash Nai,Usha Mangeshkar,/artist/usha-mangeshkar-2,01:55,Assamese,12-07-2012,0.24,0.012,0.013,0.359,-9.312,0.017,150.019,1,5,0.0266,4,60,7226347
+Akou Ebar Log,Manna Dey,/artist/manna-dey,03:16,Assamese,07-12-2013,0.79,0.2,0.994,0.129,-3.044,0.07,146.053,0,4,0.0167,4,93,8255238
+Bihu Bihu Lagichhe Gaat,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:26,Assamese,07-11-2001,0.77,0.843,0.432,0.647,-2.853,0.0339,149.89,0,7,0.0869,4,77,4616636
+Ka Kha Ga Gha,Usha Mangeshkar,/artist/usha-mangeshkar-2,02:23,Assamese,09-12-2010,0.69,0.29,0.434,0.42,-10.025,0.0704,150.027,0,4,0.01,4,76,4756438
+Halaloi Likhile,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,02:48,Assamese,11-01-2014,0.1,0.662,0.568,0.018,-10.266,0.0132,150.045,1,2,0.0789,4,73,8483706
+Kuli Ketakiya,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:46,Assamese,12-03-2004,0.66,0.06,0.524,0.346,-4.772,0.04,151.962,0,7,0.02,4,34,1330971
+Tumi Hoba Koina,Kalpana Bhuiya|Dijen Kakati,/artist/kalpana-bhuiya|/artist/dijen-kakati-5,03:08,Assamese,05-06-2017,0.54,0.429,0.109,0.877,-2.431,0.017,150.011,0,10,0.02,4,39,4991376
+Ei To Lagan Aji,Anima Bhattacharya|Hemen Das,/artist/anima-bhattacharya|/artist/hemen-das,02:37,Assamese,07-04-2004,0.46,0.53,0.872,0.717,-13.663,0.008,149.946,0,5,0.0611,4,32,5608791
+Alingan Alingan,Aftab Ahmad,/artist/aftab-ahmad,05:47,Assamese,02-06-2016,0.45,0.693,0.277,0.841,-8.123,0.026,150.003,0,5,0.084,4,95,9391521
+Riniki Riniki,Namita Bhattacharya|Kula Barua,/artist/namita-bhattacharya|/artist/kula-barua-4,02:05,Assamese,07-03-2020,0.27,0.29,0.12,0.995,-5.655,0.0258,150.037,0,8,0.0672,4,30,1718699
+Asom Amar Desh,Jiten Deka|Nirmali Das,/artist/jiten-deka|/artist/nirmali-das,04:45,Assamese,06-10-2004,0.39,0.024,0.859,0.847,-5.384,0.058,150.031,0,10,0.04,4,98,6471338
+Ramjanare Roja Galo,Mohammed Rafi|Bhupen Hazarika,/artist/mohammad-rafi|/artist/dr-bhupen-hazarika-2,07:04,Assamese,01-03-2004,0.12,0.36,0.24,0.244,-3.437,0.036,149.897,1,5,0.04,4,74,8100252
+Piriti Aru Bimurto Mur,Bhupen Hazarika,/artist/bhupen-hazarika,02:15,Assamese,03-10-2002,0.06,0.038,0.205,0.55,-6.615,0.047,150.602,1,1,0.081,4,52,1251003
+Pani Pai Badile,Dijen Kakati|Kalpana Bhuiya,/artist/dijen-kakati-4|/artist/kalpana-bhuiya,03:11,Assamese,12-04-2004,0.09,0,0.591,0.842,-8.007,0.04,147.949,1,6,0.076,4,27,4050392
+Bisarilo Sunarkhani,Sagarika Barua,/artist/sagarika-barua,03:15,Assamese,12-03-2022,0.76,0.686,0.647,0.285,-2.354,0.033,149.932,0,8,0.0174,4,66,5198351
+Anor Karone Jiyan,Prasanta Baruah|Bhupen Hazarika,/artist/prasanta-baruah|/artist/dr-bhupen-hazarika-2,03:08,Assamese,06-04-2021,0.71,0.27,0.336,0.637,-12.732,0.08,155.062,1,7,0.0902,4,36,344601
+Ujaya Ahile,Anima Choudhury,/artist/anima-choudhury,03:07,Assamese,02-07-2013,0.28,0.7,0.751,0.567,-3.102,0.041,150.026,0,9,0.04,4,43,7489692
+Ei Kapaalat,Dwipen Baruah,/artist/dwipen-baruah,03:42,Assamese,04-01-2021,0.81,0.13,0.42,0.533,-7.645,0.0294,149.973,1,7,0.062,4,94,9328956
+Nadi Matho,Monojyostna Mahanta,/artist/monojyostna-mahanta,03:45,Assamese,10-04-2015,0.48,0.225,0.439,0.766,-3.198,0.058,146.013,0,9,0.0122,4,76,8606381
+Asomi Ali,Kalpana Bhuyan,/artist/kalpana-bhuyan,03:14,Assamese,12-04-2022,0.21,0.59,0.221,0.337,-12.423,0.094,149.943,0,1,0.0689,4,86,4604103
+Ogni Jugor Firingoti Moi,Bhupen Hazarika|Samar Hazarika|Monima Saikia,/artist/dr-bhupen-hazarika-2|/artist/samar-hazarika|/artist/monima-saikia,03:42,Assamese,11-03-2017,0.44,0.136,0.468,0.516,-2.541,0.0249,150.416,0,7,0.1,4,79,2938482
+Moi Kio Bia Karaichilo - Parody,Nagen Barman|Pranita Barman,/artist/nagen-barman|/artist/pranita-barman,05:39,Assamese,08-03-2001,0.25,0.96,0.894,0.442,-3.578,0.034,149.99,0,5,0.09,4,96,448289
+Tamosi Raati,Debjani Barua,/artist/debjani-barua,02:56,Assamese,03-11-2014,0.43,0.093,0.927,0.468,-5.046,0,149.972,0,9,0.009,4,67,1425532
+Torar Ganerey,Kalpana Bhuyan|Dijen Kakati,/artist/kalpana-bhuyan|/artist/dijen-kakati-4,03:00,Assamese,03-11-2022,0.8,0.73,0.936,0.435,-12.27,0.0974,154.983,0,9,0.05,4,94,8114423
+Aar Najao Jamunarey,Anima Choudhury,/artist/anima-choudhury,02:50,Assamese,09-02-2011,0.26,0.359,0.799,0.457,-7.747,0.0291,149.998,0,9,0.038,4,85,2411346
+Na Kanda Na Kanda - Anup Ghosal,Anup Ghoshal,/artist/anup-ghoshal-1,03:23,Assamese,03-01-2018,0.65,1,0.406,0.296,-7.862,0.0533,150.212,1,8,0.0696,4,83,2454751
+Satyam Shivam Chir Sundar - Suman Kalyanpur,Suman Kalyanpur,/artist/suman-kalyanpur,06:06,Assamese,09-09-2013,0.61,0.236,0.651,0.704,-2.291,0.0539,150.034,0,1,0.016,4,73,4699883
+Banhar Mura Bagarir Ora,Khagen Mahanta,/artist/khagen-mahanta,02:53,Assamese,02-01-2018,0.07,0.17,0.404,0.248,-10.704,0.02,150.026,0,11,0.0271,4,39,217368
+Mayabi Nishare,Mihir Bardaloi,/artist/mihir-bardaloi,03:31,Assamese,09-12-2012,0.45,0.5,0.832,0.467,-4.012,0.08,149.968,0,11,0.041,4,30,4286804
+Jaya Jaya Sankara Guru,Pintoo Bhattacharya|prabhat sharma|Rameshwar Pathak,/artist/pintoo-bhattacharya|/artist/prabhat-sharma|/artist/rameshwar-pathak,03:17,Assamese,11-08-2021,0.83,0.33,0.108,0.417,-3.617,0.067,150,0,9,0.0804,4,58,11176326
+Aya Nahar Phul,Kalpana Bhuyan|Dijen Kakati,/artist/kalpana-bhuyan|/artist/dijen-kakati-4,02:47,Assamese,12-07-2015,0.38,0.958,0.735,0.77,-13.516,0.08,155.03,0,9,0.01,4,68,6821156
+Sangram Jibanar Jodi Eti Naam,Usha Mangeshkar,/artist/usha-mangeshkar-2,02:54,Assamese,08-03-2016,0.99,0.96,0.854,0.683,-12.629,0.08,150.057,1,9,0.06,4,59,9854521
+Manar Majat O,Anima Choudhury,/artist/anima-choudhury,03:00,Assamese,02-03-2017,0.95,0.662,0.4,0.239,-2.523,0.072,149.864,1,1,0.08,4,51,7549415
+Jhiri Jhiri,Suez Bardoloi,/artist/suez-bardoloi,02:54,Assamese,03-02-2006,0.81,0.36,0.707,0.992,-2.218,0.061,151.997,1,0,0.02,4,69,2789741
+Allhaar Bine Key Nai Aan,Bhupen Hazarika|Pranabiram Baruah|Sadananda Gogoi,/artist/dr-bhupen-hazarika-2|/artist/pranabiram-baruah|/artist/sadananda-gogoi,03:40,Assamese,04-12-2017,0.62,0.939,0.067,0.208,-8.358,0.05,150.053,1,7,0.038,4,81,4515153
+Ei Rodali,Dwipen Barua|Mrinalini Dutta Chowdhury,/artist/dwipen-barua|/artist/mrinalini-dutta-chowdhury,04:02,Assamese,09-02-2011,0.31,0.8,0.91,0.803,-7.158,0.02,149.992,0,9,0.051,4,83,9553191
+Toba Toba,Aftab Ahmad,/artist/aftab-ahmad,03:19,Assamese,02-05-2011,0.99,0.525,0.369,0.311,-6.818,0.1,149.969,0,10,0.019,4,36,4230116
+Jatane Sajawa,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,05:54,Assamese,04-07-2009,0.67,0.15,0.658,0.182,-3.124,0.012,149.995,0,5,0.0085,4,45,1353215
+Jonali O Tarali O,Nirmali Das,/artist/nirmali-das,04:01,Assamese,12-02-2012,0.63,0.325,0.217,0.057,-6.762,0.04,150.02,1,7,0.0874,4,86,5476645
+Ki Bar,Jiten Deka|Nirmali Das,/artist/jiten-deka|/artist/nirmali-das,01:51,Assamese,09-01-2013,0.57,0.68,0.723,0.655,-3.467,0.05,149.862,0,9,0.07,4,87,7808372
+Bhaiti Bhonti,Namita Goswami,/artist/namita-goswami,02:48,Assamese,10-03-2018,0.98,0.998,0.357,0.466,-8.363,0.034,150.085,1,11,0.07,4,81,2504658
+Bihure Kothia,Dwipen Barua,/artist/dwipen-barua-12,02:05,Assamese,12-07-2015,0.17,0.75,0.675,0.778,-6.871,0.04,149.975,1,8,0.054,4,38,11398703
+Aay Ja Mor,Anima Choudhury,/artist/anima-choudhury,03:20,Assamese,12-04-2015,0.44,0.136,0.771,0.931,-9.396,0.048,154.85,0,10,0.04,4,35,4364223
+A Aji Baular Biha,Rameshwar Pathak|Dhanada Pathak,/artist/rameshwar-pathak|/artist/dhanada-pathak,02:49,Assamese,04-01-2009,0.57,1,0.361,0.112,-4.427,0.04,150.312,1,2,0.093,4,30,6563663
+Sahariya Jibonor,Nami Gaen|Dijen Kakati|Heman Kakati,/artist/nami-gaen|/artist/dijen-kakati-8|/artist/heman-kakati-1,02:47,Assamese,02-10-2009,0.1,0.281,0.598,0.386,-7.276,0.075,150.013,1,9,0.02,4,45,1919895
+Radhai Bole Dekha Dekha,Romen Barua,/artist/romen-barua,02:44,Assamese,01-04-2012,0.95,0.43,0.164,0.431,-5.718,0.07,149.935,0,6,0.0828,4,60,8315757
+Ki Je Holo Din Kaal - Parody,Nagen Barman,/artist/nagen-barman,03:27,Assamese,09-05-2010,0.98,0.07,0.892,0.975,-11.139,0.096,149.935,0,5,0.001,4,76,9790291
+Korunamai Hey Biswanath,Namita Bhattacharya|Dwipen Baruah,/artist/namita-bhattacharya|/artist/dwipen-baruah,03:27,Assamese,04-05-2016,0.47,0.98,0.131,0.973,-5.805,0.086,148.043,0,4,0.008,4,73,8758750
+Mone Mone Aaji Kak,Banasree Sengupta|Dwipen Baruah,/artist/banasree-sengupta|/artist/dwipen-baruah,03:19,Assamese,03-04-2008,0.22,0.233,0.003,0.841,-5.646,0.003,149.963,1,5,0.091,4,27,1470739
+Kor Para Ahili,Dhanada Pathak,/artist/dhanada-pathak,02:52,Assamese,05-06-2016,0.7,0.97,0.071,0.782,-12.107,0.06,154.997,1,9,0.0486,4,37,4170291
+Ei Barashate Mor,Mitali Chowdhury,/artist/mitali-chowdhury,03:28,Assamese,11-08-2010,0.71,0.718,0.373,0.124,-9.341,0.0442,149.889,0,4,0.069,4,85,9495456
+Haate Banchi Niye Xokhi (Introduction),Samar Hazarika,/artist/samar-hazarika,01:06,Assamese,03-01-2017,0.38,0.67,0.33,0.045,-11.24,0.09,155.012,0,1,0.08,4,51,1149384
+Moina Charaiti,Nirmal Mishra|Sagarika Barua,/artist/nirmal-mishra|/artist/sagarika-barua,03:06,Assamese,12-04-2007,0.51,0.272,0.67,0.033,-13.732,0.02,149.928,0,10,0.093,4,78,9510742
+Maldar Habaloi - Parody,Nagen Barman,/artist/nagen-barman,05:53,Assamese,03-02-2018,0.38,0.71,0.229,0.841,-7.969,0.0902,150.092,1,8,0.09,4,65,8419810
+Joubaney Anga Porey,Malabika Bora,/artist/malabika-bora,02:45,Assamese,07-04-2012,0.96,0.079,0.237,0.9,-11.355,0.04,149.945,1,9,0.04,4,34,9297432
+Maya Mohe Bhara,Haimanti Shukla|Kula Barua|Namita Bhattacharya,/artist/haimanti-shukla|/artist/kula-barua-5|/artist/namita-bhattacharya,05:14,Assamese,05-04-2005,0.55,0.23,0.508,0.016,-10.165,0.03,149.972,0,6,0.0839,4,98,2657289
+Basanta Boilo Sakhi,sibcharan das|Others,/artist/sibcharan-das|/artist/others,03:36,Assamese,06-02-2011,0.59,0.483,0.294,0.903,-10.076,0.0729,154.822,1,9,0.076,4,55,5829914
+Jak Jak Pakhila Ure,Renuka Barua|Sunil Dev,/artist/renuka-barua|/artist/sunil-dev,03:12,Assamese,04-11-2006,0.53,0.77,0.309,0.24,-12.988,0.031,149.986,0,1,0,4,28,5734410
+Bhatiai Jaota,Rameshwar Pathak|Dhanada Pathak,/artist/rameshwar-pathak|/artist/dhanada-pathak,02:45,Assamese,02-01-2024,0.59,0.7,0.887,0.315,-6.963,0.0391,149.982,1,1,0.09,4,46,11315877
+Oh Choa Choa Angibhangi - Parody,Nagen Barman|Udoy Barman,/artist/nagen-barman|/artist/udoy-barman,03:08,Assamese,12-04-2012,0.44,0.76,0.64,0.984,-10.994,0.0282,150.034,0,10,0.0296,4,26,7784067
+Bail Machhe Kheil Kare,Pranita Barman,/artist/pranita-barman,04:01,Assamese,05-05-2008,0.11,0.348,0.763,0.762,-9.278,0.072,150.062,0,6,0.0739,4,43,642043
+Tumi Heno Karuna Sagar,Archana Mahanta,/artist/archana-mahanta,03:14,Assamese,11-10-2020,0.06,0.28,0.515,1,-5.819,0.097,150.006,0,5,0.0858,4,49,10923338
+Cha Ghosor Arot Lukai,Madhumati Goswami,/artist/madhumati-goswami,03:02,Assamese,01-09-2011,1,0.258,0.732,0.516,-8.943,0.03,154.706,1,4,0.08,4,79,10662717
+Daiyamoyi Paro Karo,Bangshidhar Das,/artist/bangshidhar-das-5,03:06,Assamese,09-07-2005,0.8,0.2,0.732,0.388,-10.649,0.0549,143.803,1,2,0.009,4,58,8378987
+Jibon Sundar,Anju Devi|Bhupen Hazarika,/artist/anju-devi|/artist/dr-bhupen-hazarika-2,02:55,Assamese,09-11-2004,0.49,0.637,0.574,0.274,-7.819,0.038,150.012,0,2,0.096,4,73,9838311
+Hori Jare Dukhkho Lekhe,Anima Choudhury,/artist/anima-choudhury,03:13,Assamese,08-09-2008,0.25,0.2,0.934,0.127,-3.512,0.059,149.946,0,9,0.0811,4,40,3552353
+Aha Bhaiti Aha Bhonti,Jiten Deka,/artist/jiten-deka,02:48,Assamese,08-02-2008,0.02,0.444,0.868,0.088,-7.377,0.0441,150.09,0,6,0.09,4,42,1561824
+Eke Eke Dui Hole,Aarti Mukherji,/artist/aarti-mukherji,03:01,Assamese,03-05-2021,0.43,0.06,0.466,0.335,-6.447,0.08,149.751,0,7,0.052,4,83,6758015
+Aru Nobojabi Bin Batorua (Introduction),Samar Hazarika,/artist/samar-hazarika,00:48,Assamese,11-06-2016,0.11,0.038,0.835,0.481,-13.584,0.09,154.981,0,0,0,4,53,6508181
+Kon Thair Pora Ahila,Rameshwar Pathak|Archana Das,/artist/rameshwar-pathak|/artist/archana-das,03:21,Assamese,09-03-2011,0.64,0.5,0.511,0.067,-5.272,0.071,150.016,0,4,0.02,4,54,1646345
+Anjali,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:51,Assamese,11-09-2017,0.18,0.648,0.988,0.625,-7.969,0.063,149.957,0,5,0.0455,4,54,5978223
+Luitate Mor Ghar,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:28,Assamese,03-01-2011,0.32,0.08,0.64,0.498,-6.954,0.06,150.025,0,0,0.082,4,95,519031
+Ali Kinarey,sibcharan das,/artist/sibcharan-das,02:04,Assamese,03-05-2013,0.08,0.973,0.868,0.837,-10.72,0.042,154.967,1,1,0,4,90,6666755
+Hole Jale Kumliya,Namita Bhattacharya,/artist/namita-bhattacharya,04:08,Assamese,08-11-2021,0.4,0.98,0.166,0.123,-12.652,0.01,155.116,0,11,0.024,4,87,9172920
+Abor Song No.1,Assam singers with percussion from Siluk|Arbor Hills,/artist/assam-singers-with-percussion-from-siluk|/artist/arbor-hills,03:08,Assamese,07-07-2012,0.52,0.797,0.266,0.852,-5.062,0.03,154.997,0,8,0.0389,4,82,4405628
+O Pare Kamrangar Gachh,Pranita Barman,/artist/pranita-barman,04:03,Assamese,01-03-2016,0.66,0.9,0.061,0.234,-10.706,0.0246,149.947,1,4,0.0342,4,35,5394223
+Purbey Bhagabontoi - Bihu,Mahananda Majindar Baruah,/artist/mahananda-majindar-baruah,07:01,Assamese,01-10-2011,0.93,0.291,0.212,0.117,-5.507,0.059,150.212,0,11,0.0417,4,55,1301851
+Ek Achhila Raja,Khagen Mahanta,/artist/khagen-mahanta,02:21,Assamese,11-04-2003,0.71,0.06,0.298,0.667,-2.947,0.0417,149.96,1,0,0.06,4,95,940506
+Prochondo Dhumuhai,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:17,Assamese,04-06-2021,0.39,0.297,0.284,0.432,-4.11,0,149.852,0,1,0.06,4,99,4073749
+Haate Banchi Niye Xokhi (Traditional Folk Song),Ram Sasoni,/artist/ram-sasoni,05:23,Assamese,10-10-2018,0.96,0.83,0.926,0.571,-9.118,0.0848,152.655,0,1,0.06,4,76,7074323
+Bahoba Agloi,Rameshwar Pathak|Dhanada Pathak,/artist/rameshwar-pathak|/artist/dhanada-pathak,03:15,Assamese,06-03-2016,0.27,0.929,0.934,0.909,-5.974,0.065,149.977,0,6,0.08,4,95,7287654
+Aru Nobojabi Bin Batorua,Usha Mangeshkar|Bhupen Hazarika,/artist/usha-mangeshkar-2|/artist/bhupen-hazarika,04:41,Assamese,09-01-2018,0.67,0.54,0.548,0.264,-8.014,0.01,150.053,0,1,0.012,4,57,8319984
+Dichang Mukhar Nishati,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:15,Assamese,03-02-2012,0.55,0.976,0.755,0.046,-5.157,0.0506,154.868,0,5,0.0152,4,78,8302651
+Ghar Bhaagileon,Apurba Das,/artist/apurba-das,03:19,Assamese,06-02-2009,0.24,0.19,0.283,0.8,-13.645,0.0538,149.989,0,1,0.0059,4,33,3716767
+Kino Kapalat Sadhi,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,05:28,Assamese,06-01-2006,0.62,0.713,0.369,0.078,-9.635,0.05,149.926,1,11,0.03,4,77,8525491
+Duru Duru Kapichhe,Kalpana Bhuyan,/artist/kalpana-bhuyan,02:56,Assamese,06-09-2007,0.29,0.3,0.08,0.336,-2.315,0.05,150.03,1,1,0.1,4,71,5458046
+Moi Kon,Dwipen Baruah,/artist/dwipen-baruah,03:24,Assamese,05-03-2008,0.03,0.308,0.794,0.241,-5.082,0.01,154.949,1,6,0.021,4,47,4470439
+Abhimani Bandhu,Asha Bhosle,/artist/asha-bhosle-1,03:26,Assamese,09-04-2008,0.94,0.54,0.592,0.163,-11.791,0.051,147.357,1,1,0.1,4,41,10950262
+Jaunsari Song No.1,Uttar Pradesh soloist|parties of male|female singers from Mohana|Jaunsar Bower,/artist/uttar-pradesh-soloist|/artist/parties-of-male|/artist/female-singers-from-mohana|/artist/jaunsar-bower,02:55,Assamese,06-04-2020,0.83,0.024,0.921,0.472,-11.613,0.0904,148.015,0,4,0.07,4,59,8914725
+Bhang Bhang Bhang,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:45,Assamese,05-01-2013,0.8,0.37,0.624,0.869,-13.782,0.087,149.988,0,6,0.0555,4,56,1283480
+Kiyo No Phoole,Dwipen Barua|Pahari Saikia,/artist/dwipen-barua-16|/artist/pahari-saikia,02:52,Assamese,08-12-2023,0.47,0.282,0.377,0.621,-6.308,0.0987,149.909,1,5,0.0896,4,44,11200010
+Kon Kot Loti Ghoti,Geeta Das|Bhupen Hazarika|Anil Dutta,/artist/geeta-das|/artist/dr-bhupen-hazarika-2|/artist/anil-dutta,03:24,Assamese,03-01-2020,0.63,0.73,0.582,0.287,-13.763,0.08,149.997,1,2,0.09,4,94,4874017
+Pohare Ki Jane,Pahari Saikia,/artist/pahari-saikia,03:14,Assamese,01-11-2016,0.53,0.687,0.67,0.06,-12.266,0.0995,149.96,1,0,0.0859,4,61,7099462
+Mone Uthe Monosta,Samar Hazarika,/artist/samar-hazarika,02:23,Assamese,06-03-2008,0.95,0.61,0.031,0.127,-10.598,0.0534,150.028,0,0,0.01,4,28,2780762
+Moina O,Dijen Kakati,/artist/dijen-kakati-4,02:35,Assamese,12-04-2012,0.19,0.754,0.865,0.908,-11.919,0.0212,155.008,1,11,0.055,4,97,9714030
+Bihu Anandiya Bihu Binandiya,Khagen Phukan|Maheshwar Barua|Meena Chakraborty|Pushpa Fukan Dubra,/artist/khagen-phukan|/artist/maheshwar-barua-1|/artist/meena-chakraborty-2|/artist/pushpa-fukan-dubra-1,11:55,Assamese,11-07-2000,0.33,0.87,0.075,0.48,-13.176,0.09,154.867,1,4,0.0373,4,47,8050020
+Radha Muk Diora Biday,Bangshidhar Das,/artist/bangshidhar-das-5,03:18,Assamese,06-12-2020,0.42,0.403,0.214,0.036,-7.336,0.0288,154.912,1,11,0.06,4,97,6796291
+Bianaam - Part - 2,Nikunjalata Mahanta|Runumi Bhattacharya|Archana Mahanta,/artist/nikunjalata-mahanta|/artist/runumi-bhattacharya|/artist/archana-mahanta,05:29,Assamese,08-12-2011,0.84,0.06,0.237,0.051,-7.873,0.09,149.941,0,11,0.0407,4,43,8244753
+Prabhu Mor,Aarti Mukherji,/artist/aarti-mukherji,03:27,Assamese,01-04-2012,0.1,0.279,0.006,0.247,-6.903,0.082,149.987,1,6,0.052,4,74,3060435
+Ogni Jugor Firingoti Moi (Introduction),Samar Hazarika,/artist/samar-hazarika,00:32,Assamese,04-01-2011,0.93,0.25,0.917,0.906,-12.281,0.026,149.837,0,11,0.0835,4,72,3183285
+Nidanar Sangeetar,Khagen Mahanta,/artist/khagen-mahanta,03:24,Assamese,04-09-2011,0.66,0.307,0.884,0.536,-6.176,0.0433,149.971,1,2,0.0511,4,72,360960
+Sali Mari Nasoni (Bihu Geet),Parag Chaliha|Bihu Group,/artist/parag-chaliha|/artist/bihu-group,00:37,Assamese,09-08-2023,0.5,0.12,0.067,0.009,-5.344,0.03,146.963,0,7,0.03,4,98,4746810
+Tumi Ahichhila,Madhumati Goswami,/artist/madhumati-goswami,04:16,Assamese,06-02-2021,0.19,0.378,0.556,0.836,-7.572,0.085,147.998,1,6,0.006,4,32,8854794
+Kapalate Pindhilo,Anju Devi|Bhupen Hazarika,/artist/anju-devi|/artist/dr-bhupen-hazarika-2,03:08,Assamese,10-01-2006,0.32,0.89,0.928,0.418,-6.461,0.01,155.038,1,2,0.05,4,81,3145102
+Aeir Lata,Kalyani Das|sibcharan das,/artist/kalyani-das|/artist/sibcharan-das,02:54,Assamese,12-10-2013,0.89,0.806,0.781,0.074,-6.593,0.044,149.368,0,6,0.038,4,67,1101938
+O Phool Paha Halichha Jalichha,Archana Mohanty,/artist/archana-mohanty,03:58,Assamese,05-03-2000,0.09,0.4,0.791,0.055,-13.722,0.023,150.093,0,5,0.0505,4,95,2029145
+Nahibi O Sonwarani Bare Bare,Manisha Hazarika,/artist/manisha-hazarika,02:59,Assamese,11-08-2019,0.65,0.346,0.726,0.834,-4.567,0.094,155.051,0,8,0.07,4,67,3339326
+Linda Linda,Aftab Ahmad,/artist/aftab-ahmad,04:17,Assamese,09-11-2012,0.43,0.7,0.212,0.398,-10.324,0.0607,152.068,0,1,0.054,4,43,7599548
+Aei Mitha,Aftab Ahmad,/artist/aftab-ahmad,04:31,Assamese,06-05-2003,0.72,0.274,0.473,0.522,-10.21,0.0469,150.086,0,7,0.057,4,88,2392147
+Asta Akashate,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,43:06:00,Assamese,12-11-2007,0.59,0.64,0.498,0.065,-6.023,0.024,150.23,0,10,0.08,4,32,1797939
+Dunia Amar,Khagen Mahanta|Manjari Barua,/artist/khagen-mahanta|/artist/manjari-barua,03:36,Assamese,05-03-2023,0.21,0.084,0.314,0.986,-13.074,0.07,149.761,0,9,0.07,4,67,5312498
+Aiso Kanai Aiso,Anima Choudhury,/artist/anima-choudhury,03:16,Assamese,11-08-2017,0.91,0.32,0.674,0.795,-2.24,0.09,150.072,0,10,0.026,4,73,6031692
+Purba Bharatir,Shyamal Mitra,/artist/shyamal-mitra,03:26,Assamese,02-05-2004,0.11,0.652,0.479,0.04,-2.496,0.0113,150.167,1,5,0.015,4,67,8766045
+Allhaar Bine Key Nai Aan (Introduction),Samar Hazarika,/artist/samar-hazarika,01:23,Assamese,05-12-2019,0.88,0.71,0.819,0.352,-12.115,0.04,149.553,0,1,0.075,4,42,2892541
+Tu Tu Tu Tu Tupi,Samar Hazarika,/artist/samar-hazarika,03:43,Assamese,07-10-2012,0.03,0.926,0.023,0.95,-4.142,0.013,149.946,0,8,0.02,4,79,3972601
+Thamaki Chamak,Namita Bhattacharya|Dwipen Baruah,/artist/namita-bhattacharya|/artist/dwipen-baruah,03:28,Assamese,08-03-2013,0.22,0.67,0.545,0.775,-4.156,0.0346,149.957,0,0,0.064,4,83,4144683
+O Aji Mor Mon Pakhiti,Aarti Mukherji,/artist/aarti-mukherji,03:02,Assamese,09-08-2006,0.82,0.787,0.34,0.307,-11.037,0.06,149.962,0,7,0.075,4,96,6163659
+Mastarey Koichhilo - Parody,Nagen Barman|Udoy Barman,/artist/nagen-barman|/artist/udoy-barman,05:09,Assamese,03-03-2010,0.07,0.56,0.231,0.855,-12.61,0.068,150.024,0,9,0.098,4,79,8981763
+Jidina Manar,Dwipen Barua,/artist/dwipen-barua-17,03:34,Assamese,12-12-2017,0.39,0.908,0.167,0.886,-11.586,0.05,149.893,0,4,0.0113,4,80,9655618
+Kino Abhaga Kapal,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,04:58,Assamese,09-02-2010,0.7,0.66,0.072,0.538,-2.666,0.016,154.996,1,7,0.0339,4,81,5320883
+Nayanmani Nayanmani,Bhupinder Singh|Suman Kalyanpur,/artist/bhupinder-singh|/artist/suman-kalyanpur,04:16,Assamese,05-06-2011,0.11,0.873,0.58,0.539,-8.594,0.07,150.029,1,7,0.05,4,42,4819194
+Moi Aru Mor Chaan,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,04:00,Assamese,02-04-2022,0.57,0.08,0.599,0.558,-2.254,0.02,150.036,0,6,0.003,4,83,2492810
+Ujaya Chalo Hut,Khagen Mahanta,/artist/khagen-mahanta,03:08,Assamese,04-04-2020,0.17,0.152,0.917,0.097,-6.568,0.04,149.987,0,9,0.007,4,94,6638857
+Songs of Assam - Abor Song No. 3,Unspecified,/artist/unspecified,01:53,Assamese,10-07-2015,0.19,0.25,0.467,0.777,-2.454,0.01,150.026,0,3,0.0068,4,57,2178142
+Ahinor,Aftab Ahmad,/artist/aftab-ahmad,03:47,Assamese,02-01-2003,0.02,0.081,0.849,0.919,-2.241,0.0074,149.777,1,8,0.043,4,72,6407920
+Nijake Dekhi Ajikali,Anju Devi,/artist/anju-devi,03:49,Assamese,04-12-2011,0.58,0.99,0.013,0.74,-2.468,0.0089,149.993,0,6,0.035,4,38,3976446
+Kon Sei Jane,Dijen Kakati,/artist/dijen-kakati-4,03:02,Assamese,01-01-2023,0.62,0.439,0.399,0.506,-8.429,0.0702,150.069,0,5,0.031,4,83,5621691
+Tu Shree Nayan Kakati,Dwipen Barua,/artist/dwipen-barua-15,02:27,Assamese,12-01-2018,0.03,0.73,0.089,0.659,-6.284,0.04,149.987,0,5,0.01,4,30,65057
+Sali Mari Nasoni (Bihu Geet) (Introduction),Samar Hazarika,/artist/samar-hazarika,00:46,Assamese,07-12-2003,0.15,0.845,0.948,0.176,-11.427,0.04,149.982,0,6,0.03,4,83,2971456
+Mina Kara Gam Kharu,Namita Bhattacharya,/artist/namita-bhattacharya,03:01,Assamese,11-07-2013,0.3,0.63,0.711,0.843,-13.699,0.0004,153.042,1,7,0.09,4,69,5871072
+Purna Gharat,Santa Sharma,/artist/santa-sharma,04:08,Assamese,12-06-2004,0.4,0.767,0.858,0.189,-3.396,0.05,152.946,0,9,0.048,4,72,11061697
+Hey Narayan,Jiten Deka|Nirmali Das,/artist/jiten-deka|/artist/nirmali-das,03:51,Assamese,08-02-2002,0.02,0.36,0.047,0.092,-5.939,0.02,149.935,1,9,0.02,4,74,2250100
+Nidarun Sham,Bangshidhar Das,/artist/bangshidhar-das-5,03:12,Assamese,02-09-2023,0.84,0.001,0.116,0.341,-8.757,0.0216,150.051,0,1,0,4,65,8811526
+Jai Arijai,Dwipen Baruah,/artist/dwipen-baruah,04:14,Assamese,11-05-2018,0.45,0.19,0.848,0.87,-13.969,0.056,149.872,0,9,0.04,4,90,7747150
+Mok Alap Asru Diya,Madhumati Goswami,/artist/madhumati-goswami,04:08,Assamese,09-07-2010,0.79,0.127,0.731,0.002,-5.941,0.0673,150.144,1,0,0.06,4,51,7249412
+Dehai Amoni Korichhe,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:43,Assamese,01-06-2003,0.05,0.18,0.742,0.523,-8.885,0.0332,149.981,1,1,0.0389,4,29,11141871
+Rup Jwale Jalmal,Banasree Sengupta|Dwipen Baruah,/artist/banasree-sengupta|/artist/dwipen-baruah,03:04,Assamese,10-03-2016,0.03,0.983,0.304,0.633,-5.402,0.077,154.969,1,7,0.0044,4,91,4090166
+Chira Bidrohi - Recitation,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:13,Assamese,06-09-2017,0.56,0.37,0.29,0.746,-5.922,0.078,150.009,0,5,0.08,4,66,1780662
+Boby Ruby Dipa Rupa,Jiten Deka|Dipen Lahkar,/artist/jiten-deka|/artist/dipen-lahkar,04:28,Assamese,07-04-2015,0.16,0.127,0.638,0.972,-12.253,0.0905,149.955,0,4,0.0468,4,77,709423
+Sakhiyati Jilmil Pakhi - Parveen Sultana,Parveen Sultana,/artist/parveen-sultana,03:14,Assamese,12-09-2004,0.34,0.05,0.733,0.151,-13.208,0.095,150.009,1,7,0.015,4,86,7781207
+Jauban Maney,Dilip Chowdhury|Rijuwana Sultana,/artist/dilip-chowdhury|/artist/rijuwana-sultana,03:55,Assamese,09-10-2019,0.05,0.946,0.168,0.697,-11.623,0.004,149.989,1,0,0,4,45,2159389
+Ghumati Jao Re,Anju Devi|Bhupen Hazarika,/artist/anju-devi|/artist/dr-bhupen-hazarika-2,05:05,Assamese,03-09-2017,0.66,0.34,0.753,0.95,-9.915,0.0279,149.969,1,2,0.011,4,62,10835636
+Bar Dusta Bhaiti Amar,Nirmali Das,/artist/nirmali-das,03:19,Assamese,04-05-2012,0.63,0.024,0.734,0.676,-3.248,0.07,150.066,0,1,0.094,4,62,10096561
+Rode Didi,Jiten Deka|Nirmali Das,/artist/jiten-deka|/artist/nirmali-das,04:42,Assamese,07-08-2011,0.27,0.05,0.474,0.004,-11.412,0.0256,155.055,1,10,0.033,4,47,4340040
+Sua Ghane Ghane,Madhumati Goswami,/artist/madhumati-goswami,04:01,Assamese,09-06-2023,0.85,0.648,0.969,0.376,-9.89,0.014,149.84,0,6,0.085,4,67,2423925
+Matir Pradip Hoi,Dwipen Baruah,/artist/dwipen-baruah,03:06,Assamese,07-05-2008,0.63,0.63,0.16,0.173,-10.237,0.0366,150.039,0,2,0.013,4,44,10675105
+Tumi Uzanir Ney Namonir,Dijen Kakati,/artist/dijen-kakati-4,03:15,Assamese,06-04-2002,0.53,0.926,0.672,0.069,-4.09,0.09,150.052,1,0,0.027,4,81,10447877
+Jibon Juri,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,05:56,Assamese,12-06-2008,0.85,0.31,0.997,0.097,-10.089,0.076,149.983,0,7,0.0521,4,80,8113818
+Aji Kino Pulakate,Aarti Mukherji,/artist/aarti-mukherji,02:59,Assamese,04-02-2002,0.99,0.557,0.455,0.901,-4.8,0.019,149.939,0,11,0.05,4,53,641653
+Kichumaan Achhey Gan,Shahnaj Begum,/artist/shahnaj-begum,04:14,Assamese,07-02-2008,0.5,0.34,0.342,0.368,-6.798,0.077,155.088,0,5,0.0588,4,89,8461708
+Aruno Kiman,Archana Das,/artist/archana-das,03:34,Assamese,08-10-2017,0.22,0.915,0.123,0.532,-4.41,0.0569,150.043,1,7,0.002,4,89,8722106
+Bhukhut Khabuti Lai,Aftab Ahmad,/artist/aftab-ahmad,05:04,Assamese,11-12-2003,0.44,0.99,0.496,0.105,-5.467,0.0766,150.044,1,9,0.0618,4,100,1687185
+Luitar Bali,Kalpana Bhuyan,/artist/kalpana-bhuyan,03:24,Assamese,02-06-2022,0.73,0.988,0.176,0.052,-8.295,0.0645,156.422,1,8,0.075,4,57,538206
+Tumi Nai Jadi,Monojyostna Mahanta,/artist/monojyostna-mahanta,05:04,Assamese,12-08-2022,0.96,0.68,0.149,0.835,-8.983,0.03,149.981,1,7,0.0976,4,67,10409099
+Mon Kia Sapon Rangin,Dwipen Baruah,/artist/dwipen-baruah,02:33,Assamese,03-12-2013,0.87,0.03,0.814,0.698,-13.722,0.0443,152.044,0,1,0.0469,4,64,1908629
+Hari Hey Ahare,Rameshwar Pathak,/artist/rameshwar-pathak,05:21,Assamese,07-08-2001,0.33,0.61,0.762,0.842,-11.676,0.08,150.072,1,11,0.0334,4,71,9951523
+Majoni Mor Akanimani,Mridula Das Dewan,/artist/mridula-das-dewan,03:00,Assamese,06-05-2007,0.49,0.815,0.723,0.092,-13.672,0.02,146.986,0,9,0.022,4,74,5851432
+Shilmil Toponite,Aftab Ahmad,/artist/aftab-ahmad,03:23,Assamese,11-05-2019,0.66,0.88,0.457,0.824,-3.235,0.0666,149.671,0,5,0.027,4,55,2065203
+Ei Raati,Madhumati Goswami,/artist/madhumati-goswami,02:51,Assamese,10-01-2016,0.59,0.667,0.796,0.732,-8.53,0.09,149.948,1,1,0.082,4,69,9894419
+Karo Jorey Mango Prabhu,Shanta Sharma,/artist/shanta-sharma,04:19,Assamese,11-03-2020,0.4,0.82,0.837,0.589,-5.962,0.04,150.23,0,5,0.07,4,77,7045431
+Samsun Salito Jora,Anima Choudhury,/artist/anima-choudhury,03:12,Assamese,12-06-2001,0.39,0.992,0.336,0.94,-12.769,0.09,149.963,1,8,0.06,4,79,883933
+Hame Je Janam Lele,sibcharan das,/artist/sibcharan-das,02:49,Assamese,12-04-2009,0.47,0.59,0.462,0.544,-9.612,0.0639,150.017,0,3,0.04,4,93,5548990
+Kaar Gharar,Bhupen Hazarika|Bhaskar Das,/artist/dr-bhupen-hazarika-2|/artist/bhaskar-das,03:55,Assamese,11-07-2014,0.34,0.142,0.371,0.378,-3.399,0.0918,147.969,0,6,0.05,4,41,8991018
+Bhog Do Naita,Lokeswar Deka,/artist/lokeswar-deka,04:45,Assamese,03-09-2011,0.71,0.8,0.968,0.275,-9.955,0.0633,151.288,1,11,0.08,4,59,2306543
+Hindu Ki Musolmaan (Introduction),Samar Hazarika,/artist/samar-hazarika,01:00,Assamese,06-08-2011,0.74,0.846,0.556,0.9,-9.014,0.072,150.083,1,0,0.0621,4,90,5242632
+Bikkhubdha Biswakanthei,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:00,Assamese,05-12-2006,0.84,0.85,0.629,0.712,-11.257,0.012,150.372,0,9,0.02,4,85,2768872
+Aru Ki Rakhla,Kokila Goswami,/artist/kokila-goswami,04:42,Assamese,01-10-2015,0,0.816,0.999,0.544,-7.403,0.07,149.988,0,11,0.0645,4,50,334406
+Gupute Gupute Kiman Khelim - Guiter,Sunil Ganguly,/artist/sunil-ganguly,03:16,Assamese,01-02-2021,0.68,0.09,0.637,0.162,-9.651,0.012,149.962,0,11,0.1,4,47,1312873
+Jakoiha Chohali Moi,Sibani Dutta,/artist/sibani-dutta,03:08,Assamese,06-01-2013,0.61,0.923,0.015,0.773,-3.751,0.0547,149.429,1,2,0.02,4,67,1299106
+Jamunaloi O Radha,Madhumati Goswami,/artist/madhumati-goswami,02:36,Assamese,12-11-2022,0.76,0.02,0.23,0.691,-11.683,0.0351,154.094,1,3,0.01,4,99,2020343
+Devata Kowa Mor,Aarti Mukherji,/artist/aarti-mukherji,03:02,Assamese,07-07-2005,0.74,0.915,0.146,0.804,-8.285,0.079,150.02,0,2,0.015,4,88,6926956
+Nayan Dila Tumi,Monojyostna Mahanta,/artist/monojyostna-mahanta,05:27,Assamese,12-07-2011,0.1,0.55,0.313,0.694,-12.762,0,150.066,1,1,0.04,4,86,9358657
+Madhab Madhab Dukh Taphari,Mitraa Phukan|Namita Bhattacharya,/artist/mitraa-phukan|/artist/namita-bhattacharya,04:35,Assamese,12-06-2001,0.5,0.847,0.628,0.663,-2.899,0.0011,150.021,0,10,0.08,4,69,7938705
+Bahor Kathi Tulai,Khagen Mahanta,/artist/khagen-mahanta,03:05,Assamese,05-05-2021,0.17,0.23,0.291,0.893,-5.002,0.04,147.656,0,9,0.049,4,35,11175294
+Dheere Dheere Kowa Radha,Sibani Dutta,/artist/sibani-dutta,03:23,Assamese,07-06-2001,0.94,0.471,0.82,0.199,-2.71,0.015,150.157,0,7,0.097,4,32,2684819
+Jwalalo Nite Moi,Manisha Hazarika,/artist/manisha-hazarika,03:21,Assamese,03-02-2016,0.32,0.52,0.732,0.702,-6.727,0.0321,149.744,0,1,0.08,4,75,9423297
+Ram Gosai,Late Girikanta Mohanto,/artist/late-girikanta-mohanto,02:11,Assamese,04-06-2023,0.7,0.335,0.306,0.781,-6.812,0.0455,150.07,0,2,0.0312,4,56,888067
+O May Diyoka Laynu More,Rameshwar Pathak,/artist/rameshwar-pathak,02:57,Assamese,02-11-2015,0.77,0.39,0.659,0.192,-10.161,0.021,150.026,0,2,0.09,4,75,4811912
+Sahashra Jone Mok Proshna Kore,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:24,Assamese,10-01-2005,0.26,0.803,0.936,0.408,-6.15,0.1,150.001,0,3,0.05,4,64,6173284
+Sirish Gachher,sibcharan das|Others,/artist/sibcharan-das|/artist/others,02:03,Assamese,01-01-2010,0.73,0.3,0.774,0.503,-13.255,0.08,149.958,0,8,0.0172,4,32,10043194
+Sagar Dekhi,Madhumati Goswami,/artist/madhumati-goswami,03:47,Assamese,01-02-2004,0.75,0.312,0.496,0.646,-12.916,0.04,149.902,0,11,0.007,4,40,4701590
+Saja Eri Pakhi Urila,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,02:46,Assamese,02-03-2019,0.44,0.99,0.726,0.363,-12.345,0.019,149.862,0,1,0.001,4,64,11054701
+Bahagar Suriya,Madhumati Goswami,/artist/madhumati-goswami,03:38,Assamese,11-05-2006,0.91,0.507,0.759,0.995,-7.471,0.0777,150.071,0,8,0.0346,4,92,10806752
+Khela Gharloi,Mridula Das Dewan,/artist/mridula-das-dewan,02:55,Assamese,08-11-2018,0.99,0.93,0.89,0.401,-11.751,0.035,150.09,1,0,0.08,4,61,8749456
+Ghit Mit Endharar,Bhupinder Singh,/artist/bhupinder-singh,05:05,Assamese,04-11-2013,0.91,0.312,0.37,0.36,-4.25,0.0875,150.001,0,6,0.07,4,51,102906
+Tritiya Shrenir Jatri,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,04:33,Assamese,12-02-2001,0.92,0.1,0.633,0.907,-11.146,0.0313,157.021,0,7,0.0337,4,66,1547658
+O Dada Bolai O,Rameshwar Pathak,/artist/rameshwar-pathak,02:57,Assamese,01-09-2006,0.87,0.662,0.487,0.076,-11.352,0.03,150.089,0,0,0.0673,4,80,802257
+Ei Chakulobhara Jibante8,Dwipen Baruah,/artist/dwipen-baruah,03:05,Assamese,02-05-2022,0.46,0.4,0.328,0.564,-7.074,0.05,149.938,0,4,0.07,4,38,1040093
+Jaaji Noi Saaturi,Lokeswar Deka,/artist/lokeswar-deka,04:43,Assamese,09-05-2016,0.67,0.714,0.434,0.428,-6.242,0.03,150.146,0,7,0.061,4,30,6990268
+Koa Na Kar Ma Tumi,Pampa Gagai,/artist/pampa-gagai,02:56,Assamese,09-03-2023,0.45,0.32,0.949,0.665,-9.145,0.0883,150.011,0,9,0.041,4,86,350507
+Tumi Usha,Aftab Ahmad,/artist/aftab-ahmad,06:10,Assamese,05-08-2020,0.67,0.672,0.053,0.331,-5.346,0.0316,145.985,0,1,0.0717,4,53,1473880
+Girip Garap,Anima Talukdar|Archana Mahanta,/artist/anima-talukdar|/artist/archana-mahanta,03:14,Assamese,02-05-2002,0.21,0.06,0.494,0.865,-10.115,0.021,149.904,0,9,0.0287,4,64,7712812
+Pahari Jiyari,Madhumati Goswami,/artist/madhumati-goswami,02:51,Assamese,11-10-2017,0.36,0.837,0.158,0.759,-2.523,0.009,152.964,1,6,0.0446,4,54,8798482
+Moi Ati Muramati,Mitali Choudhury,/artist/mitali-choudhry,03:28,Assamese,02-01-2015,0.94,0.7,0.096,0.502,-10.801,0.0575,149.838,1,7,0.0163,4,36,9483851
+Luitore Khoot,Aftab Ahmad,/artist/aftab-ahmad,05:00,Assamese,12-07-2019,0.82,0.174,0.07,0.695,-11.212,0.015,153.001,0,11,0.098,4,50,325044
+Jiwan Sundar Maram Sundar,Anju Devi|Bhupen Hazarika,/artist/anju-devi|/artist/dr-bhupen-hazarika-2,02:51,Assamese,04-07-2002,0.69,0.76,0.609,0.9,-6.877,0.07,149.841,0,7,0.02,4,62,4550136
+Jan Oi Lihiri Dubari Bon,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,07:14,Assamese,03-05-2008,0.05,0.367,0.589,0.948,-11.126,0.083,149.981,0,3,0.011,4,28,3609791
+Simahin Monor Asha,Madhumati Goswami,/artist/madhumati-goswami,02:52,Assamese,04-12-2017,0.33,0.29,0.902,0.157,-3.017,0,149.831,1,2,0.0664,4,60,10564991
+O Natun Manar,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,04:21,Assamese,12-09-2018,0.02,0.984,0.903,0.214,-7.925,0.0197,152.996,1,6,0.01,4,77,9377898
+Jiban Nadir,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:04,Assamese,09-05-2010,0.93,0.93,0.463,0.844,-9.162,0.03,150.019,1,1,0.072,4,53,708436
+He Ravatalit Bahichhey,Asoke Saikia,/artist/asoke-saikia,04:35,Assamese,06-10-2008,0.11,0.778,0.144,0.638,-4.047,0.0373,149.876,0,1,0.071,4,37,8117508
+Nidra Dhale Aha Pampai,Bangshidhar Das,/artist/bangshidhar-das-5,03:19,Assamese,04-11-2008,0.01,0.94,0.255,0.539,-3.908,0.05,150.051,0,1,0.061,4,56,2140533
+Man Daponat,Manna Dey,/artist/manna-dey,02:52,Assamese,08-01-2020,0.56,0.022,0.35,0.647,-3.151,0.09,150.083,0,6,0.07,4,39,6814912
+Bhabichhila E Buku Bharai,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,04:01,Assamese,07-12-2010,0.15,0.82,0.129,0.852,-7.978,0.0299,154.872,0,7,0.064,4,86,1718636
+Ranaklanta Nahao,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,03:04,Assamese,07-05-2009,0.73,0.924,0.295,0.817,-3.618,0.03,149.977,1,9,0.0085,4,69,2332560
+Jorpati Uriley,Dwipen Barua,/artist/dwipen-barua-18,04:17,Assamese,09-03-2009,0.24,0.44,0.45,0.995,-6.248,0.077,150.052,0,5,0.01,4,72,3985603
+Abor Song No.2,Female Assam soloist|singers from Siluk|Arbor Hills,/artist/female-assam-soloist|/artist/singers-from-siluk|/artist/arbor-hills,02:34,Assamese,03-06-2004,0.08,0.376,0.15,0.676,-8.039,0.0607,150.049,1,0,0.051,4,99,10938315
+Ma Tumi Khelibane,Bhupinder Singh|Suman Kalyanpur,/artist/bhupinder-singh|/artist/suman-kalyanpur,04:07,Assamese,06-09-2003,0.55,0.85,0.344,0.919,-13.494,0.02,150.403,0,9,0.08,4,97,8247391
+Kar Garavey,sibcharan das|Others,/artist/sibcharan-das|/artist/others,03:55,Assamese,04-08-2006,0.73,0.657,0.279,0.343,-4.788,0.09,150.002,0,0,0.0517,4,38,11331366
+Kino Tor Maatere,Lokeswar Deka,/artist/lokeswar-deka,04:34,Assamese,06-07-2015,0.31,0.37,0.833,0.419,-6.595,0.092,150.012,1,1,0.097,4,32,3492152
+Gokul Chalre,Parama Mahanta,/artist/parama-mahanta,11:05,Assamese,09-01-2009,0.94,0.543,0.243,0.611,-3.424,0.08,149.952,0,7,0.021,4,46,10793290
+Batash Bohiche Jhirjhiriya,Parveen Sultana|Khagen Mahanta,/artist/parveen-sultana|/artist/khagen-mahanta,03:31,Assamese,07-03-2007,0.78,0.48,0.694,0.073,-12.761,0.0668,154.984,1,7,0.031,4,74,8345348
+Khitir Khitire Kari,Lokeswar Deka,/artist/lokeswar-deka,03:18,Assamese,12-01-2012,0,0.036,0.442,0.683,-5.248,0.09,150.021,0,9,0.0464,4,87,8390200
+Soru Hoi Aachhili,Lokeswar Deka,/artist/lokeswar-deka,05:49,Assamese,05-07-2020,0.64,0.93,0.034,0.698,-12.874,0.05,150.031,0,9,0.06,4,64,6258445
+Melidilihi Nao,Aftab Ahmad,/artist/aftab-ahmad,04:16,Assamese,06-07-2016,0.99,0.608,0.034,0.34,-2.207,0.02,149.922,0,9,0.012,4,100,8988441
+Meghnathar Saktishel,sibcharan das|Others,/artist/sibcharan-das|/artist/others,02:31,Assamese,11-12-2003,0.43,0.86,0.456,0.022,-7.575,0.0654,149.996,0,10,0.051,4,55,7253906
+Haley Jaley Kumliya,Mitraa Phukan,/artist/mitraa-phukan,04:08,Assamese,02-02-2001,0.19,0.973,0.019,0.442,-8.174,0.09,154.004,1,10,0.097,4,38,9360603
+Aru Kato Dukh Diya Prabhu,Suman Kalyanpur,/artist/suman-kalyanpur,05:21,Assamese,10-05-2005,0.05,0.99,0.069,0.176,-11.494,0.0042,149.953,1,7,0.006,4,99,2522763
+Dikdari Dikdari,Khagen Mahanta,/artist/khagen-mahanta,02:42,Assamese,02-05-2018,0.22,0.351,0.519,0.838,-10.111,0.02,150,0,5,0.087,4,68,7206032
+Dukhi Moi Asahai,Anju Devi,/artist/anju-devi,03:06,Assamese,02-11-2007,0.24,0.69,0.476,0.99,-12.61,0.0733,149.857,1,5,0.051,4,82,4275271
+O Malti,Sibani Dutta,/artist/sibani-dutta,03:02,Assamese,02-01-2015,0.06,0.525,0.612,0.961,-6.425,0.04,155.021,0,6,0.015,4,43,6355477
+Ram Gossain,Debajani Borah|Pintoo Bhattacharya,/artist/debajani-borah|/artist/pintoo-bhattacharya,03:23,Assamese,03-03-2015,0.81,0.39,0.728,0.219,-9.369,0.051,155.067,0,11,0.0348,4,50,953588
+Shaadi Karobai Lauk,Tarun Banerjee,/artist/tarun-banerjee,03:17,Assamese,10-02-2010,0.24,0.233,0.181,0.235,-10.706,0.06,149.856,0,8,0.06,4,82,1220658
+Bartokola,Jiten Deka|Nirmali Das,/artist/jiten-deka|/artist/nirmali-das,03:28,Assamese,06-01-2008,0.19,0.25,0.165,0.099,-13.968,0.07,150.024,0,0,0.08,4,51,6193673
+Shaal Bhangi Oilale,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,06:37,Assamese,08-08-2022,0.02,0.647,0.514,0.513,-4.972,0.058,155.02,1,4,0.09,4,94,10668675
+Bahag Ahile,Kalpana Bhuyan,/artist/kalpana-bhuyan,02:58,Assamese,08-12-2022,0.99,0.53,0.589,0.291,-5.232,0.0321,149.998,0,6,0.028,4,88,10007264
+O' Ai Mor Ai,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,06:13,Assamese,09-02-2008,0.88,0.808,0.021,0.855,-8.401,0.0371,154.941,0,2,0.08,4,46,5313293
+Angami Naga Song No.1,Assam mixed chorus from Kohima|Naga Hills,/artist/assam-mixed-chorus-from-kohima|/artist/naga-hills,03:03,Assamese,05-02-2018,0.41,0.67,0.935,0.206,-6.963,0.04,149.841,1,0,0.0454,4,41,7790869
+Tumi Ujanir Ne Namanir,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,05:50,Assamese,09-02-2008,0.48,0.275,0.513,0.29,-7.519,0.02,150.049,0,5,0.0579,4,80,680262
+Jibon Nadir,Dijen Kakati,/artist/dijen-kakati-4,03:31,Assamese,10-04-2007,0.18,0,0.299,0.833,-6.506,0.067,150.068,1,5,0.04,4,37,3300831
+Konjani Bhaniti,Mitali Choudhury,/artist/mitali-choudhry,03:13,Assamese,06-08-2021,0.31,0.177,0.055,0.285,-10.682,0.0406,147.985,0,6,0.0806,4,90,2606549
+Bheem Kal Badadi,Lokeswar Deka,/artist/lokeswar-deka,04:03,Assamese,03-10-2004,0.58,0.51,0.307,0.136,-6.979,0.04,150.052,0,5,0.049,4,55,11123740
+Sapon Rangin Palash,Parveen Sultana,/artist/parveen-sultana,03:43,Assamese,01-12-2006,0.69,0.662,0.413,0.164,-6.441,0.084,149.939,0,9,0.0878,4,56,6231126
+Nilim Gagan Dhoray Dhoray,Parveen Sultana,/artist/parveen-sultana,03:35,Assamese,09-01-2020,0.64,0.89,0.471,0.464,-5.743,0.059,149.868,1,3,0.06,4,36,1114986
+Abor Song No.6,Male Assam soloist|singers with percussion from Damroh|Arbor Hills,/artist/male-assam-soloist|/artist/singers-with-percussion-from-damroh|/artist/arbor-hills,03:41,Assamese,12-10-2014,0.14,0.685,0.303,0.294,-9.058,0.07,154.922,1,5,0.07,4,90,1390063
+Andamanese Song,Young mixed chorus from Port Blair|Andaman Islands,/artist/young-mixed-chorus-from-port-blair|/artist/andaman-islands,02:47,Assamese,12-07-2011,0.2,0.79,0.819,0.644,-3.7,0.037,150.02,0,9,0.021,4,37,8244713
+Gobinda Chintahu,Punyabrata Deb Goswami,/artist/punyabrata-deb-goswami,14:24,Assamese,02-06-2012,0.82,0.006,0.914,0.409,-3.658,0.0849,153.024,0,6,0.0533,4,63,10087818
+Ga Chenai Behure Geet,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,05:51,Assamese,04-09-2014,0.91,0.41,0.827,0.622,-2.654,0.02,149.956,1,9,0.0854,4,60,6566363
+Abor Song No.4,Male Assam soloist|singers with percussion from Mebo|Arbor Hills,/artist/male-assam-soloist|/artist/singers-with-percussion-from-mebo|/artist/arbor-hills,03:02,Assamese,10-06-2021,0.25,0.788,0.861,0.98,-12.49,0.024,148.019,0,0,0.08,4,73,10270160
+Abor Song No.3,Male Assam soloist|singers with percussion from Mebo|Arbor Hills,/artist/male-assam-soloist|/artist/singers-with-percussion-from-mebo|/artist/arbor-hills,03:09,Assamese,05-03-2018,0.24,0.43,0.362,0.167,-2.91,0.0801,150.09,0,3,0.082,4,48,3080291
+Bohag Mahar Ene Dinat,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,05:16,Assamese,03-08-2016,0.99,0.665,0.932,0.575,-3.36,0.0875,150.069,1,1,0.1,4,90,10311549
+Seuji Banar Suriya Kahini - Part 1,Unknown,/artist/unknown,22:32,Assamese,02-04-2001,0.02,0.45,0.441,0.701,-6.506,0.03,150.07,1,4,0.08,4,89,10820994
+Satam Purushia Amar Bihutali,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,05:30,Assamese,03-08-2017,0.12,0.542,0.217,0.315,-10.696,0.09,155.072,1,1,0.015,4,97,1275364
+Angami Naga Song No.2,Assam singers with percussion from Kohima|Naga Hills,/artist/assam-singers-with-percussion-from-kohima|/artist/naga-hills,03:04,Assamese,12-02-2013,0.66,0.23,0.305,0.638,-6.479,0.077,150.018,1,4,0.001,4,57,2269300
+Tomak Dekhilo,Dijen Kakati,/artist/dijen-kakati-4,03:16,Assamese,06-02-2020,0.62,0.971,0.934,0.873,-9.415,0,149.969,1,7,0.074,4,52,9474474
+Malita,Late Gahan Goswami,/artist/late-gahan-goswami,06:44,Assamese,03-07-2004,0.88,0.68,0.333,0.577,-12.292,0.078,150.259,0,11,0.09,4,91,6157449
+Arundhati Aparup Tumi,Shyamal Mitra,/artist/shyamal-mitra,03:24,Assamese,12-10-2021,0.24,0.244,0.074,0.038,-5.453,0.03,149.92,1,3,0.029,4,49,8379206
+Hari Mor,Chorus,/artist/chorus,08:39,Assamese,09-02-2013,0.96,0.33,0.653,0.452,-4.271,0.026,149.949,0,9,0.0261,4,40,2552604
+Noire Leteraa Baandhoi,Lokeswar Deka,/artist/lokeswar-deka,04:22,Assamese,09-10-2005,0.91,0.984,0.104,0.459,-13.69,0.0004,150.044,0,3,0.075,4,31,7526262
+Abor Song No.5,Male Assam soloist|singers with percussion from Balek|Arbor Hills,/artist/male-assam-soloist|/artist/singers-with-percussion-from-balek|/artist/arbor-hills,03:14,Assamese,01-02-2019,0.8,0.04,0.19,0.82,-3.408,0.011,150.402,0,7,0.09,4,40,10217637
+Murati Mariloi,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,06:02,Assamese,07-03-2021,0.38,0.691,0.416,0.791,-8.214,0.079,149.927,1,4,0.09,4,47,8626634
+Hari Hari Hamar,Durgamoyee Bara,/artist/durgamoyee-bara,09:18,Assamese,09-10-2014,0.14,0.96,0.069,0.47,-5.59,0.03,150.005,0,6,0.097,4,80,8954903
+Dayamoyee Hey Ma,Mitali Chowdhury,/artist/mitali-chowdhury,03:23,Assamese,05-07-2002,0.28,0.181,0.297,0.199,-8.67,0.0444,150.019,1,4,0.063,4,47,2610286
+Purati Kiono Ahili,Mitali Choudhury,/artist/mitali-choudhry,03:05,Assamese,11-12-2016,0.26,0.96,0.068,0.393,-12.83,0.0548,151.848,1,9,0.02,4,100,1155915
+Abor Song No.6A,Male Assam soloist|singers with percussion from Damroh|Arbor Hills,/artist/male-assam-soloist|/artist/singers-with-percussion-from-damroh|/artist/arbor-hills,02:41,Assamese,07-10-2002,0.65,0.203,0.097,0.866,-2.673,0.0014,150.053,0,0,0.0565,4,62,9646243
+Seuji Banar Suriya Kahini - Part 2,Unknown,/artist/unknown,25:39:00,Assamese,12-04-2024,0.52,0.68,0.691,0.473,-6.032,0.0773,149.988,0,8,0.026,4,47,3229455
+Uthre Uth,Chatulal Bachhfore,/artist/chatulal-bachhfore,06:39,Assamese,05-01-2021,0.61,0.543,0.339,0.333,-10.492,0.0992,149.909,0,7,0.004,4,36,2406540
+Hari Herre,Sadar Mahanta,/artist/sadar-mahanta,10:33,Assamese,04-02-2011,0.48,0.54,0.663,0.114,-6.481,0.04,150.051,0,11,0.089,4,42,5593912
+Narayan Ke Gun,Late Maniram Gayon,/artist/late-maniram-gayon,02:01,Assamese,10-05-2020,0.51,0.092,0.227,0.035,-9.039,0.0358,149.96,1,3,0.05,4,42,1974207
+Kamal Nayanke,Naren Das,/artist/naren-das,08:44,Assamese,09-10-2018,0.82,0.86,0.092,0.17,-12.738,0.01,150.2,1,10,0.0432,4,92,575626
+Gopal Chale,Bani Das,/artist/bani-das,10:09,Assamese,09-10-2021,0.21,0.91,0.93,0.008,-11.152,0.014,150,0,1,0.0937,4,71,2039013
+Madhab Aru Kayali,Late Dayal Sutradhar,/artist/late-dayal-sutradhar,02:26,Assamese,06-12-2008,0.16,0.05,0.178,0.979,-10.52,0.0838,150.023,1,1,0.06,4,95,5481568

@@ -1,0 +1,941 @@
+song_name,singer,singer_id,duration,language,released_date,danceability,acousticness,energy,liveness,loudness,speechiness,tempo,mode,key,Valence,time_signature,popularity,Stream,instrumentalness,liveliness,valence,predicted_mood
+Kemiti Kahibi Tate,Sushree Sangeeta Mahapatra,/artist/sushree-sangeeta-mahapatra-4,0.0,Odia,2000-01-04,0.4,0.275,0.538,0.059,-10.767,0.0878,171.994,1,1,0.05,4,45,7219817,0,0,0,Sad
+Kalia Tu Mohania,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2000-01-07,0.73,0.72,0.784,0.472,-11.512,0.06,174.0,0,8,0.086,4,60,10794468,0,0,0,Happy
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2000-02-06,0.29,0.2,0.241,0.454,-5.795,0.051,174.046,1,0,0.03,4,88,2197863,0,0,0,Sad
+Niramala Bhaba,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2000-03-06,0.61,0.943,0.109,0.229,-7.008,0.01,174.009,1,2,0.1,4,98,8905330,0,0,0,Sad
+Ajana Ei Naee,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2000-03-11,0.01,0.225,0.291,0.363,-9.496,0.072,175.175,0,4,0.07,4,95,10550332,0,0,0,Sad
+Aeba Bali,Babloo|Sasmita,/artist/babloo|/artist/sasmita,0.0,Odia,2000-04-08,0.07,0.725,0.197,0.239,-11.43,0.08,174.011,1,8,0.048,4,76,7582315,0,0,0,Sad
+Nindita Chandana Bindu,Bhubaneswari Mishra,/artist/bhubaneswari-mishra,0.0,Odia,2000-04-09,0.71,0.51,0.404,0.151,-5.008,0.0442,173.966,1,1,0.05,4,37,3783448,0,0,0,Sad
+Andhara Khanjani,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2000-05-03,0.99,0.861,0.162,0.86,-3.077,0.0195,172.021,0,1,0.0443,4,86,1522126,0,0,0,Sad
+Nilamaya Hey,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2000-05-10,0.47,0.629,0.532,0.236,-7.317,0.078,170.008,0,10,0.009,4,86,10524872,0,0,0,Sad
+Mora Joga Puri Khe,Swagatika,/artist/swagatika,0.0,Odia,2000-05-12,0.46,0.341,0.162,0.104,-10.354,0.088,175.835,0,11,0.0513,4,83,3224741,0,0,0,Sad
+Gopapura Chhadi Kanhu,Srikanta Das,/artist/srikanta-das,0.0,Odia,2000-07-03,0.35,0.34,0.067,0.433,-10.202,0.069,174.021,0,5,0.02,4,88,8897469,0,0,0,Sad
+E Priyatama,Sekhar Ghosh|Subash Das|Kumudini Mishra,/artist/sekhar-ghosh|/artist/subash-das-1|/artist/kumudini-mishra-2,0.0,Odia,2000-07-06,0.94,0.492,0.81,0.787,-4.5,0.01,174.982,1,0,0.027,4,67,6308377,0,0,0,Happy
+Sri Suka Ubacha,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2000-08-06,0.4,0.4,0.24,0.309,-3.491,0.058,175.128,1,0,0.026,4,34,811594,0,0,0,Sad
+Tuhi Ma Biraja,Bhubaneshwari Mishra,/artist/bhubaneshwari-mishra-36,0.0,Odia,2000-08-10,0.06,0.03,0.379,0.572,-9.855,0.038,175.003,0,5,0.034,4,85,10590987,0,0,0,Sad
+Bagichhara Na Tini Konia,Akshaya Mohanty|Geeta Das,/artist/akshaya-mohanty|/artist/geeta-das,0.0,Odia,2000-08-11,0.21,0.451,0.601,0.41,-3.942,0.0586,174.992,1,2,0.025,4,91,4387886,0,0,0,Energetic
+Gharatie Vadha Neba,Mohd. Amjad|Jostna Das,/artist/mohd-amjad|/artist/jostna-das,0.0,Odia,2000-09-08,0.03,0.8,0.09,0.813,-12.653,0.0393,174.022,0,6,0.045,4,72,4623057,0,0,0,Sad
+Suna Bainshi,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,0.0,Odia,2000-09-12,0.67,0.37,0.006,0.533,-13.31,0.0894,174.019,0,8,0.01,4,63,4999185,0,0,0,Sad
+Asa Pura Kamini,P. Susheela,/artist/p-suseela-2,0.0,Odia,2000-10-06,0.76,0.726,0.705,0.335,-2.278,0.014,173.898,1,1,0.0137,4,90,11258061,0,0,0,Energetic
+Patita Pabana Bana,Sikander Alam,/artist/sikander-alam,0.0,Odia,2000-10-06,0.24,0.89,0.958,0.891,-9.539,0.04,176.087,0,7,0.082,4,42,1972443,0,0,0,Energetic
+Priye Chare Sile,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2000-11-11,0.1,0.42,0.144,0.459,-4.163,0.088,174.02,1,9,0.09,4,65,7866852,0,0,0,Sad
+Dum Dum Dum Bajere,Arun Ingle,/artist/arun-ingle,0.0,Odia,2000-12-05,0.36,0.47,0.707,0.526,-4.665,0.0856,174.045,0,9,0.02,4,72,11077400,0,0,0,Energetic
+Bhamara Nachi Ja Re,Subash Das,/artist/subash-das-1,0.0,Odia,2001-01-07,0.61,0.15,0.54,0.878,-13.409,0.03,173.964,1,6,0.04,4,47,4266686,0,0,0,Sad
+Barijakhi Manaru,Vani Jairam|Sudha Rama,/artist/vani-jayaram|/artist/sudha-rama,0.0,Odia,2001-01-09,0.06,0.22,0.07,0.994,-2.267,0.06,171.052,1,1,0.029,4,55,6205381,0,0,0,Sad
+Chahata Malli Lo,Srikanta Das,/artist/srikanta-das,0.0,Odia,2001-02-05,0.29,0.5,0.41,0.567,-3.309,0.068,173.972,0,10,0.0414,4,71,5269946,0,0,0,Sad
+Michha Maya Bhara,Arjun Charan Samal,/artist/arjun-charan-samal,0.0,Odia,2001-02-10,0.11,0.91,0.365,0.451,-5.469,0.0059,174.056,0,10,0.012,4,33,5591013,0,0,0,Sad
+Jhenata Kukundari,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2001-03-06,0.81,0.98,0.444,0.558,-10.657,0.0245,175.015,1,6,0.01,4,85,2775852,0,0,0,Sad
+Nahire Nahire Kalia,Laxmikant,/artist/laxmikant-1,0.0,Odia,2001-03-08,0.02,0.7,0.771,0.621,-9.937,0.072,174.012,1,0,0.07,4,98,1399905,0,0,0,Happy
+Sei Jhiaku Mun Baha Hebi,Arun Bose,/artist/arun-bose,0.0,Odia,2001-03-12,0.4,0.505,0.279,0.004,-2.652,0.082,173.918,1,5,0.0088,4,35,9370124,0,0,0,Sad
+Se Ye Shil Mil Sapana Chhuana Re,Nirmal Mishra,/artist/nirmal-mishra,0.0,Odia,2001-04-03,0.33,0.733,0.672,0.123,-3.029,0.049,174.008,1,2,0.08,4,60,3264176,0,0,0,Energetic
+Mangala Maya Bhakata Bandhaba,Amit Kumar|Uttara Kelkar|Mohammad Aziz,/artist/amit-kumar|/artist/uttara-kelkar|/artist/mohammad-aziz,0.0,Odia,2001-04-12,0.15,0.188,0.083,0.735,-11.821,0.0621,175.014,0,0,0.0156,4,51,107947,0,0,0,Sad
+Ahe Moha Bahu,Swagatika,/artist/swagatika,0.0,Odia,2001-05-02,0.22,0.34,0.095,0.056,-3.888,0.0547,175.128,0,9,0.065,4,41,755910,0,0,0,Sad
+Mangle Aila Usha,Indira Nanda|Sikandar Alam,/artist/indira-nanda|/artist/sikandar-alam,0.0,Odia,2001-05-02,0.32,0.34,0.524,0.399,-13.86,0.09,170.25,0,10,0.078,4,96,9998804,0,0,0,Sad
+Kalia Goswain,Subash Das,/artist/subash-das-1,0.0,Odia,2001-05-04,0.89,0.22,0.923,0.697,-11.939,0.03,174.985,1,8,0.0683,4,79,3115611,0,0,0,Happy
+Jochhana Luchana,Akshaya Mohanty|Nirmal Mishra,/artist/akshaya-mohanty|/artist/nirmal-mishra,0.0,Odia,2001-05-05,0.85,0.32,0.616,0.607,-12.337,0.07,173.418,0,5,0.053,4,57,7656801,0,0,0,Happy
+Kalia Mahaguru,Unknown,/artist/unknown,0.0,Odia,2001-05-12,0.47,0.63,0.745,0.314,-6.978,0.02,175.074,0,10,0.0184,4,75,7651436,0,0,0,Energetic
+Dinabandhu Daitari,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2001-06-02,0.34,0.16,0.438,0.834,-9.071,0.01,174.947,0,4,0.079,4,78,5614663,0,0,0,Sad
+Dilo Khola,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2001-06-03,0.07,0.694,0.337,0.306,-6.967,0.086,173.744,1,7,0.038,4,51,3700333,0,0,0,Sad
+Nama Bighnaraja,Radhakrushna Bhanja,/artist/radhakrushna-bhanja-1,0.0,Odia,2001-06-09,0.01,0.42,0.578,0.146,-5.551,0.038,173.973,1,7,0.0808,4,97,6142619,0,0,0,Sad
+Barijakhi Manaru,Vani Jairam|Sudha Rama,/artist/vani-jayaram|/artist/sudha-rama,0.0,Odia,2001-06-12,0.04,0.69,0.327,0.479,-10.657,0.05,173.974,0,8,0.0526,4,28,1730607,0,0,0,Sad
+Badasi Jadi Kinchidapi,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2001-07-01,0.36,0.74,0.295,0.364,-13.121,0.05,173.02,0,2,0.009,4,68,8249361,0,0,0,Sad
+Durei Gale,Leela Ghosh,/artist/leela-ghosh,0.0,Odia,2001-07-04,0.2,0.5,0.026,0.96,-13.768,0.055,174.985,0,11,0.01,4,36,7347843,0,0,0,Sad
+Kride Karide Mote,Dibakar Mohanty,/artist/dibakar-mohanty,0.0,Odia,2001-07-05,0.24,0.96,0.042,0.629,-13.144,0.07,174.007,0,10,0.004,4,31,2937562,0,0,0,Sad
+Nadi eko phula bana,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2001-07-10,0.31,0.417,0.637,0.334,-7.862,0.08,174.042,0,3,0.0416,4,31,3318545,0,0,0,Sad
+E Jibana Mane Nuhen Aaha,Bhupinder Singh|Suresh Wadkar,/artist/bhupinder-singh|/artist/suresh-wadkar,0.0,Odia,2001-08-05,0.08,0.68,0.027,0.123,-5.332,0.037,174.09,1,2,0.0671,4,88,9512444,0,0,0,Sad
+Age Bada Sina,Mitali Chinara,/artist/mitali-chinara,0.0,Odia,2001-08-09,0.87,0.87,0.186,0.187,-6.651,0.075,174.071,0,11,0.04,4,60,8064676,0,0,0,Sad
+Amiti Kete Dinaasiba - Sad,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2001-08-11,0.12,0.15,0.346,0.273,-8.387,0.077,174.994,0,10,0.042,4,93,5360927,0,0,0,Sad
+Dhula Pare Baja Bajania,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2001-09-01,0.54,0.713,0.891,0.051,-2.615,0.003,173.996,1,0,0.03,4,56,8413465,0,0,0,Energetic
+He Govinda,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2001-09-04,0.31,0.58,0.494,0.627,-13.48,0.081,174.008,1,1,0.082,4,50,6375766,0,0,0,Sad
+Mo Phata Phatia Babu,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,0.0,Odia,2001-09-10,0.94,0.224,0.172,0.403,-3.513,0.0,175.999,0,0,0.0744,4,52,4265240,0,0,0,Sad
+Jagabandhu He Gosain,Balakrishna Das,/artist/balakrishna-das,0.0,Odia,2001-09-10,0.7,0.296,0.628,0.532,-12.948,0.05,173.992,0,11,0.0204,4,28,7939303,0,0,0,Sad
+Pacharibu Jadi,Bandita Roy,/artist/bandita-roy,0.0,Odia,2001-09-11,0.11,0.489,0.421,0.574,-2.871,0.019,175.003,0,5,0.0112,4,85,8059663,0,0,0,Sad
+Jibanara Mane,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2001-11-10,0.07,0.878,0.837,0.094,-7.1,0.01,172.027,1,0,0.0902,4,72,3681209,0,0,0,Energetic
+Kahin Achha Natha,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2001-12-03,0.1,0.64,0.646,0.771,-2.655,0.01,170.084,0,10,0.055,4,71,8375402,0,0,0,Sad
+Kaili Lo,Unknown,/artist/unknown,0.0,Odia,2001-12-04,0.86,0.61,0.954,0.001,-5.294,0.05,171.981,1,0,0.08,4,80,7160812,0,0,0,Happy
+Ahe Ramahari,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2001-12-07,0.27,0.419,0.06,0.178,-3.43,0.0631,174.02,1,11,0.0537,4,26,8198863,0,0,0,Sad
+Dekh Dekh Dekh,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2001-12-10,0.57,0.825,0.277,0.378,-10.979,0.05,176.994,1,11,0.0611,4,42,9268305,0,0,0,Sad
+Ajhato Nohoi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2002-01-02,0.05,0.579,0.644,0.503,-12.501,0.0303,172.071,1,1,0.0886,4,89,3993585,0,0,0,Sad
+Mu Danda Balunga,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2002-01-03,0.91,0.41,0.867,0.119,-10.633,0.07,174.943,1,6,0.03,4,84,11306868,0,0,0,Happy
+Baby O Baby,Akshaya Mohanty|MaYan,/artist/akshaya-mohanty|/artist/mayan,0.0,Odia,2002-01-04,0.78,0.33,0.707,0.253,-2.591,0.055,173.993,0,10,0.014,4,31,10359060,0,0,0,Energetic
+Danei Das Kahere Bhai,Akshaya Mohanty|Geeta Patnaik,/artist/akshaya-mohanty|/artist/geeta-patnaik,0.0,Odia,2002-01-08,0.06,0.29,0.468,0.137,-13.175,0.023,173.051,0,8,0.05,4,44,6853306,0,0,0,Sad
+Mote Gote Bottle De,Mohammed Aabid,/artist/mohammed-aabid,0.0,Odia,2002-01-10,0.8,0.05,0.041,0.33,-4.585,0.044,174.003,0,7,0.081,4,51,585516,0,0,0,Sad
+Kaudi Khaira Khela,Unknown,/artist/unknown,0.0,Odia,2002-01-11,0.69,0.7,0.723,0.185,-10.702,0.0825,174.058,0,9,0.0938,4,64,9986290,0,0,0,Happy
+Ei champa kali,Jugal Kishore Mishra,/artist/jugal-kishore-mishra,0.0,Odia,2002-02-03,0.19,0.07,0.89,0.872,-3.371,0.08,174.057,0,11,0.04,4,64,11211284,0,0,0,Energetic
+Mun Dekhuchi Neeti,Mohammed Aabid,/artist/mohammed-aabid,0.0,Odia,2002-02-04,0.74,0.38,0.491,0.656,-6.574,0.02,174.046,0,10,0.042,4,64,4167763,0,0,0,Happy
+Jagannatha Hey,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2002-02-06,0.17,0.49,0.046,0.524,-11.791,0.01,175.023,0,5,0.013,4,38,9167443,0,0,0,Sad
+Jagata Mohana,S. Janaki|Swagatika Rath,/artist/s-janaki|/artist/swagatika-rath,0.0,Odia,2002-02-11,0.81,0.7,0.426,0.987,-3.969,0.0864,174.002,1,6,0.06,4,60,277529,0,0,0,Sad
+Kahin Gala Jibanara,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2002-03-01,0.86,0.25,0.662,0.791,-3.525,0.0412,174.931,0,9,0.0974,4,83,1153053,0,0,0,Happy
+Rajani Pahila,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,0.0,Odia,2002-03-02,0.03,0.88,0.588,0.484,-10.792,0.057,173.999,0,4,0.03,4,63,8879834,0,0,0,Sad
+Saiji Saiji,Kudrat|Mina,/artist/kudrat|/artist/mina-2,0.0,Odia,2002-03-04,0.02,0.419,0.782,0.117,-4.671,0.06,172.998,0,10,0.076,4,65,7976322,0,0,0,Energetic
+Amiti Kete Kete Dinaasiba,Akshaya Mohanty|Etishre Das,/artist/akshaya-mohanty|/artist/etishre-das,0.0,Odia,2002-03-07,0.9,0.76,0.243,0.03,-9.586,0.0524,174.997,1,8,0.09,4,86,7987142,0,0,0,Sad
+Phul Gajra Kala Mote Bai,Fakir Patnaik,/artist/fakir-patnaik-26,0.0,Odia,2002-03-08,0.69,0.597,0.365,0.774,-3.454,0.0649,173.927,1,5,0.07,4,30,3494145,0,0,0,Sad
+Sri Raghaban,S. Janaki|Swagatika Rath,/artist/s-janaki|/artist/swagatika-rath,0.0,Odia,2002-03-10,0.65,0.54,0.877,0.021,-5.372,0.07,174.007,0,11,0.09,4,35,1762766,0,0,0,Energetic
+Kripasindhu Badana,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2002-04-03,0.27,0.272,0.472,0.174,-10.126,0.0528,174.021,0,2,0.0726,4,46,11090154,0,0,0,Sad
+Baajare Mohan Murali,Hrushi Meher|Ramesh Kumar,/artist/hrushi-meher|/artist/ramesh-kumar,0.0,Odia,2002-04-05,0.43,0.85,0.603,0.916,-6.672,0.034,172.983,0,5,0.087,4,55,5914598,0,0,0,Energetic
+Shasyashalini Palli Malini,Jamuna|Bhikari Bal|Geeta Patnaik,/artist/jamuna|/artist/bhikari-bal-1|/artist/geeta-patnaik,0.0,Odia,2002-05-03,0.1,0.62,0.062,0.395,-8.449,0.0383,175.019,0,5,0.0628,4,66,2440824,0,0,0,Sad
+Udi Udi Gala Saradhabali,Swagtika Mohapatra,/artist/swagtika-mohapatra,0.0,Odia,2002-05-05,0.24,0.158,0.384,0.647,-3.916,0.0946,174.097,1,0,0.0348,4,66,1661582,0,0,0,Sad
+Bhauja Go,Subhalaxmi Dash,/artist/subhalaxmi-dash-1,0.0,Odia,2002-05-09,0.56,0.35,0.518,0.872,-3.281,0.0578,172.021,1,11,0.0678,4,95,6176002,0,0,0,Sad
+Holi holire holi,Debasish Mohapatra,/artist/debasish-mohapatra,0.0,Odia,2002-06-08,0.6,0.22,0.787,0.302,-11.535,0.0043,173.998,0,1,0.07,4,74,5475915,0,0,0,Happy
+Govind Govind Gosain,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2002-06-10,0.46,0.32,0.645,0.485,-10.349,0.03,170.033,0,1,0.1,4,87,11307673,0,0,0,Sad
+Tu Mo Padisha,Arun Bose,/artist/arun-bose,0.0,Odia,2002-06-10,0.83,0.35,0.018,0.662,-4.372,0.0261,173.985,1,0,0.03,4,96,10319925,0,0,0,Sad
+Dia Dia Mangala,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2002-07-10,0.9,0.362,0.146,0.516,-3.4,0.05,174.02,1,5,0.0097,4,74,9230835,0,0,0,Sad
+Ma Jashoda,Unknown,/artist/unknown,0.0,Odia,2002-07-11,0.49,0.48,0.044,0.513,-3.436,0.036,174.065,1,1,0.0043,4,62,10535272,0,0,0,Sad
+Gotie Singha Duaara,Sourav Nayak,/artist/sourav-nayak,0.0,Odia,2002-08-07,0.81,0.14,0.318,0.331,-13.713,0.01,173.977,1,0,0.068,4,99,10075075,0,0,0,Sad
+Agare Balia Bhai Pachhare Kalia,Fakir Patnaik,/artist/fakir-patnaik-49,0.0,Odia,2002-09-03,0.64,0.697,0.425,0.789,-12.158,0.052,174.027,1,4,0.0894,4,99,8299073,0,0,0,Sad
+Jadi Dariba,Bibhu Das|Etishre Das,/artist/bibhu-das|/artist/etishre-das,0.0,Odia,2002-09-06,0.35,0.922,0.545,0.606,-4.305,0.0325,171.985,1,1,0.067,4,69,5788965,0,0,0,Sad
+Dukha Dei Haschhure,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2002-10-04,0.85,0.13,0.056,0.691,-7.125,0.0598,173.961,1,1,0.0173,4,31,7118329,0,0,0,Sad
+Mukuda Murari,Vani Jairam|Sudha Rama,/artist/vani-jayaram|/artist/sudha-rama,0.0,Odia,2002-10-10,0.8,0.81,0.297,0.704,-5.262,0.0045,174.009,1,2,0.0786,4,85,3912278,0,0,0,Sad
+Dheu Pare Dheu,Bibhu Das|Geeta Das,/artist/bibhu-das|/artist/geeta-das,0.0,Odia,2002-10-11,0.97,0.867,0.329,0.518,-8.751,0.09,174.023,1,1,0.0225,4,36,659543,0,0,0,Sad
+Tiki Mora Naa,Bhubaneswari Mishra,/artist/bhubaneswari-mishra,0.0,Odia,2002-10-12,0.75,0.684,0.256,0.691,-2.212,0.071,174.039,0,5,0.0598,4,93,8259903,0,0,0,Sad
+Pahili Ushara,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,0.0,Odia,2002-11-04,0.7,0.607,0.64,0.758,-2.582,0.0179,174.013,0,5,0.02,4,90,8313336,0,0,0,Sad
+Sathi Tume,Sourav Nayak|Lopita Mishra,/artist/sourav-nayak|/artist/lopita-mishra,0.0,Odia,2002-11-04,0.27,0.484,0.092,0.445,-6.659,0.0802,173.993,0,5,0.0527,4,46,5941110,0,0,0,Sad
+Ahe Ramahari,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2002-11-12,1.0,0.41,0.376,0.834,-12.44,0.088,174.032,0,7,0.1,4,36,5045409,0,0,0,Sad
+Pathara Deule,Luli Sarangi,/artist/luli-sarangi,0.0,Odia,2002-12-03,0.12,0.57,0.285,0.917,-4.014,0.06,173.991,0,11,0.04,4,95,725874,0,0,0,Sad
+Sunata Para Mo,Arati Basu,/artist/arati-basu-5,0.0,Odia,2002-12-09,0.43,0.117,0.925,0.1,-11.769,0.092,175.135,1,8,0.01,4,26,935706,0,0,0,Energetic
+Bahare Baha Paana,Sushree Sangeeta Mahapatra,/artist/sushree-sangeeta-mahapatra-4,0.0,Odia,2003-01-02,0.93,0.24,0.322,0.931,-8.51,0.0505,173.999,0,7,0.0244,4,88,8364947,0,0,0,Sad
+Patent Medicine - Part - Ii,Geeta Patnaik|Sekhar Ghosh,/artist/geeta-patnaik|/artist/sekhar-ghosh,0.0,Odia,2003-01-03,0.72,0.723,0.982,0.395,-8.608,0.047,172.004,0,3,0.0924,4,30,7960451,0,0,0,Happy
+Bhagya Milejasa,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2003-01-06,0.49,0.45,0.711,0.46,-8.032,0.0344,173.996,1,1,0.01,4,68,10479167,0,0,0,Energetic
+Samaya Ra Dhara Kahin Jaye,Badal Kumar,/artist/badal-kumar,0.0,Odia,2003-02-02,0.64,0.6,0.797,0.528,-6.993,0.02,174.012,0,1,0.06,4,72,4235815,0,0,0,Happy
+Gelo Basarara Dina Sarigala,Manna Dey,/artist/manna-dey,0.0,Odia,2003-03-01,0.81,0.76,0.057,0.457,-8.719,0.016,174.994,0,11,0.08,4,95,9502360,0,0,0,Sad
+Ei Mane Sete Phula Phute,Bhupinder Singh|Suresh Wadkar|Aarti Mukherji,/artist/bhupinder-singh|/artist/suresh-wadkar|/artist/aarti-mukherji,0.0,Odia,2003-03-03,0.1,0.92,0.55,0.832,-6.058,0.01,172.015,0,4,0.0035,4,67,457030,0,0,0,Sad
+Pithabali Pithabali,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2003-03-10,0.34,0.39,0.229,0.774,-12.606,0.001,173.979,0,8,0.0212,4,46,9071728,0,0,0,Sad
+Ahe Ramahari,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2003-03-11,0.7,0.296,0.35,0.464,-3.489,0.055,175.021,0,10,0.07,4,71,5348472,0,0,0,Sad
+Phool Jhari Lo Mo Phool Jhari,Suresh Wadkar|Swagatika Rath,/artist/suresh-wadkar|/artist/swagatika-rath,0.0,Odia,2003-04-04,0.62,0.93,0.72,0.254,-9.536,0.058,174.054,1,7,0.01,4,86,9921532,0,0,0,Happy
+Mahabhav,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2003-04-10,0.61,0.66,0.633,0.511,-4.346,0.05,171.965,1,0,0.0012,4,63,5073614,0,0,0,Sad
+Kada Chit Kalindi,Anuradha Paudwal|Prafulla Kar,/artist/anuradha-paudwal-2|/artist/prafulla-kar,0.0,Odia,2003-05-05,0.61,0.349,0.929,0.765,-4.189,0.03,173.96,0,4,0.05,4,32,10891060,0,0,0,Energetic
+Ahe Ramahari,Balakrishna Das,/artist/balakrishna-das,0.0,Odia,2003-05-06,0.06,0.836,0.839,0.793,-10.501,0.01,174.017,1,1,0.0005,4,31,346936,0,0,0,Sad
+Andha Mote,Raghu Sahoo,/artist/raghu-sahoo,0.0,Odia,2003-05-10,0.35,0.562,0.098,0.648,-5.879,0.0063,172.106,0,5,0.07,4,48,7104115,0,0,0,Sad
+Alo Kala Sari,Trupti|JAYASHREE|Geetha|Meerabai,/artist/trupti|/artist/jayashree|/artist/geetha|/artist/meerabai,0.0,Odia,2003-05-10,0.09,0.452,0.842,0.938,-7.201,0.0329,173.035,0,6,0.092,4,50,9038561,0,0,0,Energetic
+Nani Dekh Chena Cake,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2003-06-01,0.33,0.803,0.036,0.204,-3.248,0.004,173.96,1,1,0.0036,4,68,7498759,0,0,0,Sad
+Re Mita Aa Sangata,Pranab Kishore Patnaik|Sikandar Alam,/artist/pranab-kishore-patnaik|/artist/sikandar-alam,0.0,Odia,2003-06-07,0.44,0.86,0.929,0.228,-4.911,0.1,173.965,0,9,0.0899,4,49,5727634,0,0,0,Energetic
+A Rickshaw Wala,Gopi Patnayak,/artist/gopi-patnayak,0.0,Odia,2003-06-09,0.47,0.72,0.161,0.577,-12.376,0.0618,174.016,0,8,0.058,4,31,9526840,0,0,0,Sad
+Aau Se Janha Ku Na Khojibi,Vani Jairam|Laxmikant Palit,/artist/vani-jayaram|/artist/laxmikant-palit,0.0,Odia,2003-07-03,0.34,0.32,0.761,0.93,-9.866,0.011,174.022,0,8,0.0302,4,85,5919746,0,0,0,Happy
+Chha Kaudia Chhaka,Fakir Patnaik|Susama Mishra,/artist/fakir-patnaik-26|/artist/susama-mishra,0.0,Odia,2003-07-09,0.54,0.848,0.775,0.935,-11.061,0.0878,173.996,1,8,0.009,4,49,9854386,0,0,0,Energetic
+Kie Daba Tate Gori Kanya,Mohammad Aziz,/artist/mohammad-aziz,0.0,Odia,2003-08-01,0.01,0.571,0.186,0.142,-5.75,0.0142,175.078,0,6,0.075,4,47,9350651,0,0,0,Sad
+Sarav Sahini Maa,Fakir Patnaik,/artist/fakir-patnaik-29,0.0,Odia,2003-08-06,0.09,0.44,0.13,0.133,-11.77,0.05,174.031,0,5,0.034,4,84,3802323,0,0,0,Sad
+Prabhu Jagannath,Sujan,/artist/sujan,0.0,Odia,2003-08-08,0.97,0.66,0.456,0.905,-11.921,0.088,173.978,0,10,0.042,4,36,11389582,0,0,0,Sad
+Nali Chaha Chaha Sindoor Gori,Kavita Krishnamurthy|Uttara Kelkar|Udit Narayan|Chorus,/artist/kavita-subramaniam|/artist/uttara-kelkar|/artist/udit-narayan|/artist/chorus,0.0,Odia,2003-09-01,0.94,0.49,0.179,0.639,-10.991,0.037,173.969,1,1,0.04,4,77,9392613,0,0,0,Sad
+Tata Mata Karuchhanti Rodana,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2003-09-01,0.09,0.736,0.838,0.756,-9.676,0.06,174.032,1,1,0.024,4,75,10403179,0,0,0,Energetic
+Krupasindhu Badana,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2003-10-11,0.23,0.05,0.55,0.264,-2.328,0.09,174.998,0,1,0.04,4,57,7917795,0,0,0,Energetic
+Joy Ma Mangala,Bhubaneswari Mishra,/artist/bhubaneswari-mishra,0.0,Odia,2003-10-12,0.1,0.622,0.306,0.469,-11.733,0.055,174.005,1,1,0.0082,4,100,9992402,0,0,0,Sad
+Bhidedere Kalia,Bikahs,/artist/bikahs,0.0,Odia,2003-11-02,0.07,0.4,0.343,0.646,-4.641,0.08,173.969,1,7,0.0837,4,57,9400332,0,0,0,Sad
+Chhaila Rama Ratana,Subash Das,/artist/subash-das-1,0.0,Odia,2003-11-10,0.05,0.8,0.511,0.49,-11.685,0.05,175.225,0,5,0.08,4,72,1830034,0,0,0,Sad
+Kala Srimukha Disiba,Subash Das,/artist/subash-das-1,0.0,Odia,2003-12-08,0.36,0.62,0.127,0.525,-6.28,0.073,174.99,1,7,0.0145,4,52,9146128,0,0,0,Sad
+Howle Howle Kariba Prema,Santanu Mohapatra,/artist/santanu-mohapatra,0.0,Odia,2003-12-08,0.28,0.798,0.549,0.275,-8.458,0.042,174.033,1,8,0.0822,4,41,11077612,0,0,0,Sad
+Udijae Pakhi,Ghanashyam Panda,/artist/ghanashyam-panda,0.0,Odia,2004-01-06,0.91,0.66,0.983,0.324,-7.326,0.052,174.084,0,5,0.03,4,55,6175971,0,0,0,Happy
+Jagannath,Sujan,/artist/sujan,0.0,Odia,2004-01-10,0.35,0.77,0.305,0.396,-8.656,0.02,174.026,1,1,0.066,4,98,6493797,0,0,0,Sad
+Puri Dhama Shreekhetra,Arun Ingle,/artist/arun-ingle,0.0,Odia,2004-02-01,0.58,0.487,0.48,0.333,-4.66,0.0964,176.016,0,10,0.0338,4,39,6754494,0,0,0,Sad
+Kethi Jadi Mo Bapa,Swagtika Mohapatra,/artist/swagtika-mohapatra,0.0,Odia,2004-02-01,0.48,0.44,0.774,0.254,-5.536,0.084,173.881,0,10,0.062,4,42,7088723,0,0,0,Energetic
+Nabaghana Barana,P. Susheela,/artist/p-suseela-2,0.0,Odia,2004-02-02,0.22,0.62,0.716,0.857,-12.874,0.0639,172.962,0,11,0.08,4,47,3167213,0,0,0,Energetic
+Maa Tume Mamatara,Suresh Wadkar,/artist/suresh-wadkar,0.0,Odia,2004-02-11,0.28,0.704,0.764,0.467,-10.591,0.077,173.007,1,1,0.067,4,58,8129232,0,0,0,Energetic
+E Milana Kahani Ama Jibanara,Kavita Krishnamurthy|Udit Narayan,/artist/kavita-subramaniam|/artist/udit-narayan,0.0,Odia,2004-03-01,0.74,0.52,0.896,0.996,-8.685,0.005,172.075,0,7,0.09,4,93,5871095,0,0,0,Happy
+Mu Ta Purana Nachila Bali,Kavita Krishnamurthy,/artist/kavita-subramaniam,0.0,Odia,2004-03-01,0.36,0.7,0.113,0.501,-11.444,0.09,174.01,1,1,0.099,4,99,6644965,0,0,0,Sad
+Tu Eka Niriha Phula,Suresh Wadkar,/artist/suresh-wadkar,0.0,Odia,2004-03-01,0.06,0.04,0.225,0.221,-5.327,0.066,173.998,1,4,0.01,4,98,8249642,0,0,0,Sad
+Duniare Sabu Dine,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2004-03-03,0.04,0.865,0.39,0.966,-3.654,0.09,174.002,1,1,0.042,4,77,2347726,0,0,0,Sad
+Goda Jod Ka,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2004-03-03,0.93,0.255,0.376,0.312,-8.18,0.0727,174.006,0,7,0.0011,4,69,2190645,0,0,0,Sad
+Kahin Gale Shama Ghana,Chittaranjan Jena,/artist/chittaranjan-jena-13,0.0,Odia,2004-03-04,0.89,0.085,0.043,0.076,-11.416,0.0847,173.795,1,6,0.0021,4,95,4343246,0,0,0,Sad
+Go Radhe Bansiti,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2004-03-07,0.58,0.387,0.523,0.906,-2.67,0.06,174.978,0,8,0.08,4,51,2176121,0,0,0,Sad
+Bhasa Megha,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2004-03-11,0.53,0.98,0.18,0.443,-3.019,0.07,174.026,1,11,0.0059,4,62,10245783,0,0,0,Sad
+Kalia Mo Dehe,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2004-04-02,0.08,0.35,0.464,0.26,-8.363,0.001,172.017,0,9,0.0708,4,48,9156621,0,0,0,Sad
+Sabuthu Bhala,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2004-04-03,0.0,0.571,0.833,0.047,-13.837,0.05,173.998,0,5,0.0508,4,68,8313158,0,0,0,Happy
+Mahu Machi Mahu Chahini,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2004-04-04,0.15,0.89,0.903,0.923,-2.521,0.0821,175.046,1,5,0.0616,4,90,4466187,0,0,0,Energetic
+Tu Hun Jagannath,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2004-04-08,0.32,0.13,0.992,0.232,-8.367,0.068,174.056,0,11,0.0213,4,47,740796,0,0,0,Energetic
+Boiley Radhika Sunago Duti,Fakir Patnaik,/artist/fakir-patnaik-26,0.0,Odia,2004-04-09,0.15,0.584,0.504,0.169,-5.255,0.04,173.966,0,5,0.076,4,35,5783646,0,0,0,Sad
+Chal Mani,Srikanta|Lopita Mishra,/artist/srikanta|/artist/lopita-mishra,0.0,Odia,2004-05-02,0.98,0.563,0.166,0.072,-2.895,0.058,174.031,1,5,0.1,4,85,11008151,0,0,0,Sad
+Kalia Re Bada Gumana,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2004-05-06,0.83,0.35,0.116,0.157,-9.124,0.0567,173.985,1,7,0.028,4,50,766431,0,0,0,Sad
+Om Namah Bhagabate,Sikandar Alam|Vani Jairam,/artist/sikandar-alam|/artist/vani-jayaram,0.0,Odia,2004-06-01,0.56,0.868,0.47,0.256,-2.629,0.0499,171.976,1,2,0.097,4,42,1548194,0,0,0,Sad
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2004-06-01,0.5,0.39,0.445,0.176,-8.832,0.028,170.062,1,11,0.092,4,49,8995578,0,0,0,Sad
+Aakuchi Bakuchi Kia,Prabhasini Rath,/artist/prabhasini-rath,0.0,Odia,2004-06-05,0.39,0.186,0.686,0.801,-7.728,0.013,174.0,1,1,0.0142,4,74,8874375,0,0,0,Sad
+A Jibana Nuhe Mora,Sujan,/artist/sujan,0.0,Odia,2004-06-06,0.83,0.003,0.534,0.393,-11.34,0.065,173.999,1,0,0.0341,4,60,1518975,0,0,0,Happy
+Shyamaku Juhara,Shyamamani Devi,/artist/shyamamani-devi-7,0.0,Odia,2004-07-04,0.72,0.99,0.92,0.093,-7.906,0.001,171.934,0,10,0.017,4,98,8225983,0,0,0,Happy
+Keteje Deula Dekhichi,Swagtika Mohapatra,/artist/swagtika-mohapatra,0.0,Odia,2004-07-08,0.63,0.071,0.354,0.201,-4.208,0.0503,174.057,1,7,0.0987,4,44,8261052,0,0,0,Sad
+Brundabane Banshi,Sikander Alam,/artist/sikander-alam,0.0,Odia,2004-07-09,0.22,0.948,0.556,0.424,-2.842,0.08,173.97,1,1,0.0882,4,78,1859719,0,0,0,Sad
+Nadi Fere Sagaraku,Geeta Patnaik,/artist/geeta-patnaik,0.0,Odia,2004-07-09,0.48,0.82,0.172,0.899,-2.249,0.0923,174.013,1,5,0.06,4,55,7820707,0,0,0,Sad
+Sakhi Go,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,0.0,Odia,2004-08-03,0.26,0.78,0.428,0.833,-11.025,0.0238,174.002,0,9,0.0384,4,68,2139777,0,0,0,Sad
+Mahapuru Ho,Raghu Sahoo,/artist/raghu-sahoo,0.0,Odia,2004-08-04,0.73,0.085,0.408,0.741,-6.003,0.03,175.015,0,9,0.04,4,77,8731855,0,0,0,Sad
+Kalia Tu Kapatia,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2004-08-05,0.3,0.72,0.983,0.581,-7.636,0.0273,175.0,1,1,0.0034,4,86,8570218,0,0,0,Energetic
+Haire Mote,Sipra Basu|Chittaranjan Jena,/artist/sipra-basu|/artist/chittaranjan-jena-20,0.0,Odia,2004-08-06,0.11,0.982,0.243,0.137,-7.552,0.03,174.025,0,8,0.05,4,73,5393904,0,0,0,Sad
+Mu Jebe Mantri Hebi,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2004-08-08,0.54,0.03,0.702,0.229,-4.522,0.064,173.968,1,7,0.0419,4,70,1471579,0,0,0,Energetic
+Srikrushnanka Koli Khiya (Part 1),Bhimsen Satapathi|Baidyanath Gayak Ratna Sharma,/artist/bhimsen-satapathi-3|/artist/baidyanath-gayak-ratna-sarma,0.0,Odia,2004-08-09,0.61,0.68,0.926,0.312,-9.007,0.069,172.012,0,11,0.08,4,97,5510768,0,0,0,Happy
+Govind Govind Gosain,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2004-09-02,0.59,0.495,0.327,0.557,-13.271,0.01,175.051,1,4,0.064,4,90,3039020,0,0,0,Sad
+Kemiti Rahibi,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,0.0,Odia,2004-09-02,0.9,0.84,0.016,0.83,-9.157,0.0836,172.083,0,9,0.034,4,82,5257401,0,0,0,Sad
+Tu Mo Pani Jahaja,Pushpa Panda,/artist/pushpa-panda,0.0,Odia,2004-09-06,0.76,0.45,0.114,0.995,-13.695,0.01,173.974,0,10,0.0954,4,52,9908362,0,0,0,Sad
+Mar Mar Goli Mar,Akshaya Mohanty|Bibhu Das,/artist/akshaya-mohanty|/artist/bibhu-das,0.0,Odia,2004-09-10,0.56,0.13,0.067,0.38,-7.33,0.064,174.976,1,1,0.0355,4,86,2780844,0,0,0,Sad
+Bahuthara Pacharile Jie,Mina Mohanty|Snigdha Nayaik,/artist/mina-mohanty-1|/artist/snigdha-nayaik-1,0.0,Odia,2004-10-02,0.73,0.001,0.871,0.018,-3.94,0.043,174.982,1,1,0.07,4,59,9878783,0,0,0,Energetic
+Guruji O Guruji,Anuradha Paudwal|Subhash Das|Raghu Pradhan,/artist/anuradha-paudwal-2|/artist/subhash-das|/artist/raghu-pradhan,0.0,Odia,2004-10-06,0.43,0.39,0.973,0.881,-10.279,0.0048,170.015,1,9,0.03,4,50,5245695,0,0,0,Sad
+Sriramanka Charita Suna,S. Janaki|Swagatika Rath,/artist/s-janaki|/artist/swagatika-rath,0.0,Odia,2004-10-07,0.8,0.96,0.11,0.195,-12.968,0.05,172.047,0,5,0.0824,4,64,5633189,0,0,0,Sad
+Chakadola Tuem,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2004-10-08,0.61,0.892,0.657,0.273,-2.24,0.01,174.026,0,10,0.02,4,94,4067252,0,0,0,Sad
+Roshni Neli Jameikari,Mohd. Amjad,/artist/mohd-amjad,0.0,Odia,2004-10-08,0.39,0.747,0.565,0.647,-12.474,0.097,174.931,0,6,0.066,4,79,9288416,0,0,0,Sad
+Hai Hony,Prafulla Kar|Vani Jairam,/artist/prafulla-kar|/artist/vani-jayaram,0.0,Odia,2004-10-09,0.34,0.126,0.573,0.894,-4.478,0.051,175.036,1,1,0.1,4,36,1558286,0,0,0,Sad
+Mahabahu - Prafulla Kar,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2004-10-10,0.45,0.42,0.465,0.854,-8.967,0.0996,172.024,0,8,0.097,4,54,11280193,0,0,0,Sad
+Baya Mana Michhe Ete Bandhu Chhu Asa,Mohammad Aziz,/artist/mohammad-aziz,0.0,Odia,2004-11-03,0.78,0.488,0.575,0.556,-3.654,0.07,174.975,1,0,0.0785,4,55,1249962,0,0,0,Energetic
+Chandana Charchita Nila Kalebara,Nirmal Mishra,/artist/nirmal-mishra,0.0,Odia,2004-11-04,0.63,0.215,0.463,0.706,-3.593,0.092,173.958,0,9,0.02,4,66,2357468,0,0,0,Sad
+Banya Sahajya Geet,Various Artist,/artist/various-artist,0.0,Odia,2004-11-04,0.4,0.82,0.572,0.765,-2.015,0.016,172.087,0,0,0.09,4,66,7459739,0,0,0,Sad
+Tor Bina,Babu|Sasmita,/artist/babu|/artist/sasmita,0.0,Odia,2004-11-05,0.96,0.118,0.431,0.353,-5.898,0.032,171.928,1,0,0.1,4,60,9397782,0,0,0,Sad
+Sephali Jaana Jhari,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2004-11-12,0.02,0.78,0.659,0.148,-8.641,0.03,174.003,0,4,0.08,4,63,470142,0,0,0,Sad
+Maa Nahin,Raghu Sahoo,/artist/raghu-sahoo,0.0,Odia,2004-12-01,0.67,0.133,0.517,0.859,-10.948,0.046,172.973,0,5,0.034,4,54,10813720,0,0,0,Sad
+Kali Ma Ne Bali Maa,Kavita Krishnamurthy|Chorus,/artist/kavita-subramaniam|/artist/chorus,0.0,Odia,2004-12-05,0.66,0.437,0.343,0.577,-4.163,0.095,173.997,1,0,0.0499,4,77,4877244,0,0,0,Sad
+Itikili Mitikili,Bhubaneswari Mishra,/artist/bhubaneswari-mishra,0.0,Odia,2004-12-11,0.78,0.496,0.38,0.491,-4.65,0.0113,173.993,1,7,0.0,4,61,6838136,0,0,0,Sad
+Ahe Ramahari,Banikantha Nimai Charan Harichandan,/artist/banikantha-nimai-charan-harichandan,0.0,Odia,2005-01-03,0.41,0.386,0.091,0.38,-2.309,0.01,174.995,0,2,0.0199,4,80,3299369,0,0,0,Sad
+Tike de,Priti Sagar,/artist/priti-sagar,0.0,Odia,2005-01-03,0.26,0.603,0.01,0.824,-11.349,0.0407,174.014,0,7,0.0148,4,45,7264384,0,0,0,Sad
+Jajabara Mana Mora,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,0.0,Odia,2005-01-09,0.35,0.36,0.034,1.0,-6.159,0.027,173.953,1,6,0.0089,4,44,7518878,0,0,0,Sad
+Kadachit Kalindi - Prafulla Kar,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2005-01-10,0.55,0.1,0.58,0.839,-4.798,0.038,172.059,1,1,0.0009,4,73,4262438,0,0,0,Sad
+Tu Mora Swapanara,Mohammad Aziz,/artist/mohammad-aziz,0.0,Odia,2005-01-11,0.5,0.762,0.142,0.917,-5.199,0.057,173.955,0,2,0.013,4,66,1910549,0,0,0,Sad
+A mahabharata kahani,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2005-01-12,0.11,0.991,0.465,0.788,-2.474,0.01,173.995,0,8,0.0093,4,56,208432,0,0,0,Sad
+Tume Ago Pahanti,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2005-02-01,0.14,0.838,0.025,0.543,-8.013,0.07,173.035,0,0,0.03,4,66,5077005,0,0,0,Sad
+Subha Lagane Bara Kale,Hrushi Meher|Manoj,/artist/hrushi-meher|/artist/manoj,0.0,Odia,2005-02-03,0.72,0.411,0.611,0.826,-10.126,0.0784,174.012,0,5,0.0617,4,79,3898903,0,0,0,Happy
+Khabar Achchi,Kavita Krishnamurthy|Surjit Das,/artist/kavita-subramaniam|/artist/surjit-das,0.0,Odia,2005-02-06,0.78,0.704,0.28,0.286,-13.499,0.04,175.037,0,9,0.09,4,42,1124628,0,0,0,Sad
+Nisabada Sarada Prate,sunanda patnaik,/artist/sunanda-patnaik,0.0,Odia,2005-02-10,0.72,0.272,0.994,0.085,-6.992,0.03,171.99,1,1,0.02,4,49,457266,0,0,0,Energetic
+To Ratha Dandi,Naba Mahattam,/artist/naba-mahattam,0.0,Odia,2005-02-10,0.84,0.556,0.202,0.63,-12.94,0.0916,172.038,0,8,0.05,4,96,10130235,0,0,0,Sad
+Hrudayara Sun Saan Ghare,Mohammed Aabid|Nandita Bhanja,/artist/mohammed-aabid|/artist/nandita-bhanja,0.0,Odia,2005-03-01,0.65,0.112,0.805,0.856,-7.889,0.07,174.086,1,11,0.058,4,61,3462588,0,0,0,Happy
+Bhuli Nahin,Subhash Das,/artist/subhash-das,0.0,Odia,2005-03-08,0.73,0.897,0.071,0.76,-12.283,0.03,174.991,0,7,0.026,4,78,4844039,0,0,0,Sad
+Chaka Akhiaku,Bandita Roy,/artist/bandita-roy,0.0,Odia,2005-04-01,0.15,0.99,0.075,0.162,-9.88,0.0859,172.07,0,9,0.068,4,93,662260,0,0,0,Sad
+Seemahina Dariya,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2005-04-08,0.48,0.958,0.548,0.351,-10.958,0.006,172.001,0,6,0.0856,4,64,617052,0,0,0,Sad
+Ja Ja Jare Nagara,S. Janaki,/artist/s-janaki,0.0,Odia,2005-04-09,0.52,0.966,0.009,0.546,-8.392,0.0505,174.005,0,5,0.016,4,93,1928860,0,0,0,Sad
+Sei Neea Parideshe,Nirmal Mishra|Sikandar Alam,/artist/nirmal-mishra|/artist/sikandar-alam,0.0,Odia,2005-04-12,0.35,0.54,0.682,0.585,-13.706,0.031,173.092,1,5,0.0226,4,51,6925570,0,0,0,Sad
+Pit Dengura Pit,mushir,/artist/mushir,0.0,Odia,2005-05-03,0.91,0.449,0.35,0.019,-4.092,0.0527,170.027,0,9,0.03,4,96,5668512,0,0,0,Sad
+Na Jaa And Radhika,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2005-05-03,0.01,0.96,0.758,0.23,-5.319,0.064,174.066,0,4,0.06,4,80,2231268,0,0,0,Energetic
+Utha Utha Maha,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2005-05-11,0.98,0.16,0.09,0.844,-9.89,0.0007,174.0,0,10,0.085,4,83,2039889,0,0,0,Sad
+Chaka Akhi,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2005-06-04,0.79,0.15,0.924,0.341,-10.559,0.0694,174.002,0,11,0.051,4,97,3213426,0,0,0,Happy
+Shyama Apabada Mote,Shyamamani Devi,/artist/shyamamani-devi-8,0.0,Odia,2005-06-04,0.03,0.613,0.043,0.173,-4.011,0.0603,174.955,0,0,0.0111,4,33,122768,0,0,0,Sad
+Om Namah Bhagabate,Sikandar Alam|Vani Jairam,/artist/sikandar-alam|/artist/vani-jayaram,0.0,Odia,2005-06-06,0.89,0.793,0.705,0.616,-8.234,0.02,174.026,0,7,0.0769,4,56,1680398,0,0,0,Happy
+E Jhilmil Jhilmil,Nirmal Mishra,/artist/nirmal-mishra,0.0,Odia,2005-07-02,0.19,0.435,0.755,0.646,-4.375,0.0177,173.991,0,5,0.0875,4,85,404098,0,0,0,Energetic
+O Bhaina,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2005-07-08,0.93,0.46,0.857,0.364,-3.767,0.08,175.017,1,0,0.042,4,28,6542171,0,0,0,Energetic
+Darsana Delu,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2005-07-08,0.78,0.66,0.251,0.861,-13.401,0.082,172.013,1,11,0.01,4,87,3319828,0,0,0,Sad
+Hayre Kanhu Paye Bandhu,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2005-07-09,0.7,0.98,0.163,0.463,-11.693,0.0387,174.987,1,7,0.0634,4,58,8523188,0,0,0,Sad
+Kalia Re,Gopal Samantaray,/artist/gopal-samantaray-1,0.0,Odia,2005-07-10,0.34,0.77,0.128,0.837,-7.236,0.046,174.059,1,8,0.09,4,41,6088480,0,0,0,Sad
+E Lina Tu Dine,Kudrat,/artist/kudrat,0.0,Odia,2005-07-11,0.79,0.24,0.049,0.152,-5.139,0.0372,173.898,0,1,0.09,4,68,5577826,0,0,0,Sad
+Tate Kie Kala Banachari,S. Janaki,/artist/s-janaki,0.0,Odia,2005-07-12,0.51,0.94,0.068,0.483,-5.791,0.0522,174.01,0,1,0.0889,4,64,4257641,0,0,0,Sad
+Kalia To Lagi Nupura Gadhili,Swagatika,/artist/swagatika,0.0,Odia,2005-09-01,0.26,0.36,0.308,0.527,-5.277,0.0317,175.985,0,11,0.05,4,80,6604646,0,0,0,Sad
+Rupa Nai Kule Eka Chhota,Chandrani Mukherjee|Uttara Kelkar,/artist/chandrani-mukherjee|/artist/uttara-kelkar,0.0,Odia,2005-09-04,0.57,0.79,0.726,0.768,-6.439,0.078,173.029,0,4,0.0345,4,87,4018718,0,0,0,Happy
+Garibaku Babu Daya,Anuradha Paudwal|Swagatika Rath,/artist/anuradha-paudwal-2|/artist/swagatika-rath,0.0,Odia,2005-09-05,0.05,0.24,0.887,0.288,-6.068,0.078,173.018,1,6,0.01,4,89,6417769,0,0,0,Energetic
+Gotie Rajara,Baby Kum Kum|Pranab Kishore Patnaik,/artist/baby-kum-kum|/artist/pranab-kishore-patnaik,0.0,Odia,2005-09-12,0.56,0.21,0.455,0.302,-4.998,0.04,175.012,0,9,0.01,4,64,1731126,0,0,0,Sad
+Dine Basei Nele Nagara,Hemanti Shukla,/artist/hemanti-shukla,0.0,Odia,2005-10-04,0.06,0.09,0.855,0.88,-13.382,0.027,174.011,0,10,0.0668,4,40,4992980,0,0,0,Sad
+Olata Brukshe Kheluchhi,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2005-10-04,0.84,0.232,0.584,0.073,-2.771,0.047,173.998,0,7,0.03,4,68,3770075,0,0,0,Sad
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2005-10-08,0.25,0.72,0.15,0.983,-12.78,0.093,174.009,0,1,0.07,4,97,10170700,0,0,0,Sad
+Chaka Akhi,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2005-11-01,0.6,0.904,0.303,0.087,-9.135,0.06,175.01,1,1,0.056,4,39,5461268,0,0,0,Sad
+Shree Radha Batuli,Banikantha Nimai Charan Harichandan,/artist/banikantha-nimai-charan-harichandan,0.0,Odia,2005-11-03,0.16,0.54,0.564,0.115,-4.93,0.0696,174.069,0,6,0.031,4,26,8938686,0,0,0,Energetic
+Mu Ea Sahara Romeeo,Debasis Mahapatro|Chorus,/artist/debasis-mahapatro|/artist/chorus,0.0,Odia,2005-11-03,0.18,0.68,0.594,0.884,-7.428,0.084,173.999,0,10,0.013,4,76,8427168,0,0,0,Sad
+Deba Deba Mahadeba,Debasis Mahapatro|Trupti Das|Chorus,/artist/debasis-mahapatro|/artist/trupti-das|/artist/chorus,0.0,Odia,2005-11-05,0.58,0.763,0.693,0.439,-8.611,0.0165,174.012,1,10,0.0631,4,63,3194083,0,0,0,Sad
+Ki Heba Sua Posile,Banikantha Nimai Charan Harichandan,/artist/banikantha-nimai-charan-harichandan,0.0,Odia,2005-11-08,0.07,0.459,0.741,0.327,-5.972,0.07,172.991,0,8,0.0622,4,94,8004167,0,0,0,Energetic
+Aa Mo Pakhakuaa,Geeta Das,/artist/geeta-das,0.0,Odia,2005-11-11,0.69,0.41,0.7,0.303,-3.011,0.099,174.03,1,8,0.02,4,41,9602186,0,0,0,Energetic
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2005-11-12,0.48,0.928,0.124,0.791,-3.753,0.0643,174.0,1,0,0.058,4,45,2386928,0,0,0,Sad
+Swapna Aneka,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,0.0,Odia,2005-12-02,0.96,0.03,0.296,0.219,-11.591,0.075,173.01,0,2,0.0325,4,35,7462481,0,0,0,Sad
+Jishura Nama,Geeta Das|Others,/artist/geeta-das|/artist/others,0.0,Odia,2005-12-04,0.31,0.77,0.412,0.911,-6.841,0.0125,169.952,1,8,0.04,4,51,6830377,0,0,0,Sad
+Rati Je Khoje,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,0.0,Odia,2006-01-04,0.28,0.372,0.243,0.386,-4.525,0.015,173.974,1,7,0.0538,4,84,10963822,0,0,0,Sad
+He He Miss,Mohammed Aabid,/artist/mohammed-aabid,0.0,Odia,2006-01-07,0.99,0.975,0.29,0.199,-4.805,0.081,174.024,1,1,0.067,4,84,2693554,0,0,0,Sad
+Smruti Tora Pherey,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2006-01-08,0.34,0.741,0.805,0.464,-3.107,0.014,174.039,1,6,0.0452,4,46,11324724,0,0,0,Energetic
+Mu Ta Manisha Marini,Sikandar Alam,/artist/sikandar-alam,0.0,Odia,2006-01-10,0.41,0.639,0.574,0.959,-2.503,0.0082,173.979,1,1,0.086,4,38,2363809,0,0,0,Sad
+Kali Kali,Sankar Ghosh,/artist/sankar-ghosh,0.0,Odia,2006-02-03,1.0,0.47,0.821,0.896,-9.682,0.0591,173.99,0,10,0.077,4,79,3423554,0,0,0,Happy
+Dharmara Punyara,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2006-02-08,0.04,0.46,0.774,0.197,-9.355,0.058,174.007,1,2,0.0016,4,60,7154485,0,0,0,Happy
+He Bhagate,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2006-02-11,0.11,0.616,0.806,0.167,-2.22,0.0652,172.028,0,0,0.04,4,43,1741331,0,0,0,Energetic
+Pada Prante Mote Rakha,Geeta Das,/artist/geeta-das,0.0,Odia,2006-02-12,0.51,0.01,0.791,0.078,-12.242,0.04,173.96,1,7,0.03,4,64,6340201,0,0,0,Energetic
+Nila Chakre Bana,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2006-02-12,0.85,0.531,0.741,0.759,-3.566,0.0262,174.005,0,8,0.069,4,87,9589795,0,0,0,Happy
+Raakhi Re Riakhi,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2006-03-02,0.36,0.417,0.035,0.963,-2.203,0.051,174.102,0,5,0.01,4,79,3572292,0,0,0,Sad
+Nacha Nacha Sajani,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2006-03-02,0.35,0.582,0.64,0.466,-9.049,0.0396,174.029,1,0,0.1,4,67,8837860,0,0,0,Sad
+Ghumura,Various Artist,/artist/various-artist,0.0,Odia,2006-03-04,0.5,0.45,0.573,0.809,-5.918,0.0803,173.963,1,5,0.0776,4,42,1197843,0,0,0,Energetic
+Mori Jidoku Ma Lchha,Swagatika,/artist/swagatika,0.0,Odia,2006-03-07,0.34,0.872,0.456,0.436,-7.804,0.02,172.035,1,0,0.02,4,35,795475,0,0,0,Sad
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2006-03-09,0.77,0.11,0.591,0.345,-4.773,0.001,172.018,1,1,0.01,4,33,3044494,0,0,0,Sad
+Gory To Gaanre,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,0.0,Odia,2006-03-11,0.54,0.061,0.195,0.552,-11.743,0.014,174.028,1,5,0.016,4,92,548595,0,0,0,Sad
+Kahide Sasanilo,Nirmal Mishra,/artist/nirmal-mishra,0.0,Odia,2006-04-03,0.39,0.46,0.939,0.746,-8.469,0.07,174.035,0,6,0.026,4,59,7917328,0,0,0,Happy
+Ae Ae Ae Kuade,Geeta Rani Das|Prafulla Kar,/artist/geeta-rani-das|/artist/prafulla-kar,0.0,Odia,2006-04-03,0.42,0.62,0.129,0.667,-13.781,0.055,174.976,0,1,0.07,4,48,9483579,0,0,0,Sad
+Chaka Nayanaku,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2006-04-10,0.37,0.788,0.603,0.275,-5.313,0.1,173.969,1,6,0.046,4,42,8640900,0,0,0,Energetic
+Kanhi Se Ramya Nagari,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2006-05-11,0.66,0.833,0.054,0.57,-3.812,0.0013,173.9,0,0,0.093,4,92,7689570,0,0,0,Sad
+Jebe Nabaghana,Bhubaneshwari Mishra,/artist/bhubaneshwari-mishra-25,0.0,Odia,2006-06-02,0.2,0.93,0.589,0.716,-5.08,0.09,174.999,1,1,0.066,4,47,7369615,0,0,0,Energetic
+Mahabahu Mahabahu,Trupti Das|Minati Bhanja,/artist/trupti-das|/artist/minati-bhanja-2,0.0,Odia,2006-06-08,0.74,0.76,0.269,0.932,-6.259,0.072,174.014,1,9,0.0146,4,81,7980786,0,0,0,Sad
+Jai Jai Rama,Swagatika Rath,/artist/swagatika-rath,0.0,Odia,2006-07-01,0.55,0.25,0.252,0.233,-3.516,0.05,174.024,1,1,0.006,4,28,444151,0,0,0,Sad
+Ahe Ramahari,Geeta Das,/artist/geeta-das,0.0,Odia,2006-07-03,0.26,0.13,0.559,0.424,-8.991,0.049,175.995,1,0,0.0752,4,40,8958941,0,0,0,Sad
+Kede Sati Lo Kede Sati,Sankar Ghosh,/artist/sankar-ghosh,0.0,Odia,2006-07-07,0.01,0.296,0.207,0.949,-9.302,0.04,174.979,0,10,0.05,4,55,8063417,0,0,0,Sad
+Chandramallika,Vani Jairam|Pranab Kishore Patnaik,/artist/vani-jayaram|/artist/pranab-kishore-patnaik,0.0,Odia,2006-07-09,0.42,0.36,0.334,0.26,-10.281,0.03,173.888,1,2,0.06,4,31,2289938,0,0,0,Sad
+Mandira Bada Puri,Arun Ingle,/artist/arun-ingle,0.0,Odia,2006-07-09,0.52,0.41,0.523,0.24,-3.931,0.034,172.149,0,1,0.0,4,26,10311130,0,0,0,Sad
+Mu Hajichhi Tumari Sapanl,Swarupa Chakravarty|Sikandar Alam,/artist/swarupa-chakravarty|/artist/sikandar-alam,0.0,Odia,2006-07-09,0.19,0.77,0.924,0.989,-3.662,0.0005,173.976,1,10,0.0895,4,84,6199231,0,0,0,Energetic
+Mote Bhulibaku,Subhash Das,/artist/subhash-das,0.0,Odia,2006-07-11,0.06,0.92,0.828,0.29,-9.629,0.077,174.004,1,6,0.076,4,88,11175030,0,0,0,Happy
+Manika Alo Alo Manika,Chittaranjan Jena|Mohd. Habib,/artist/chittaranjan-jena-13|/artist/mohd-habib,0.0,Odia,2006-07-12,0.2,0.233,0.988,0.912,-7.31,0.02,174.087,0,9,0.07,4,73,11352419,0,0,0,Happy
+Juge Juge,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,0.0,Odia,2006-08-02,0.51,0.158,0.407,0.208,-6.432,0.05,172.024,0,11,0.03,4,32,4761303,0,0,0,Sad
+Kiese Muhin Janunaki,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2006-08-08,0.17,0.07,0.245,0.902,-8.126,0.04,173.968,1,7,0.0489,4,41,6725359,0,0,0,Sad
+Chandana Charchita,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2006-08-12,0.08,0.506,0.871,0.818,-2.034,0.059,174.016,1,1,0.0418,4,70,2282331,0,0,0,Energetic
+Tumaku Dekhi,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2006-08-12,0.32,0.45,0.538,0.423,-11.184,0.0,173.97,0,10,0.03,4,68,2411568,0,0,0,Sad
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2006-09-03,0.18,0.814,0.493,0.095,-8.87,0.0977,174.01,1,8,0.0472,4,89,1040840,0,0,0,Sad
+Chup Kari Sina,Hemanti Shukla,/artist/hemanti-shukla,0.0,Odia,2006-09-08,0.07,0.46,0.514,0.882,-3.074,0.02,171.934,1,1,0.05,4,37,6868172,0,0,0,Sad
+Dekhila Maane Hasucha,Sheikh Aazad,/artist/sheikh-aazad,0.0,Odia,2006-10-04,0.85,0.935,0.835,0.769,-4.733,0.092,173.969,1,1,0.047,4,31,5015933,0,0,0,Energetic
+Dekha Jhuli Jhuli,Srikanta Das,/artist/srikanta-das,0.0,Odia,2006-10-09,0.17,0.43,0.925,0.324,-10.13,0.0212,173.952,1,7,0.07,4,31,5109551,0,0,0,Sad
+Mathia Re Gote Kana,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,0.0,Odia,2006-10-11,0.18,0.624,0.168,0.659,-2.517,0.0817,174.072,1,2,0.0017,4,29,7840344,0,0,0,Sad
+To Paadey Mu Chakradola,Aarati Goswami,/artist/aarati-goswami,0.0,Odia,2006-11-02,0.99,0.719,0.917,0.433,-4.669,0.044,173.975,0,7,0.04,4,98,8881252,0,0,0,Happy
+Kahai Mana Are,Chittaranjan Jena,/artist/chittaranjan-jena-19,0.0,Odia,2006-11-03,0.81,0.753,0.176,0.442,-2.618,0.04,175.006,0,10,0.0548,4,44,4017640,0,0,0,Sad
+Jibane Luha Bina,Mahendra Kapoor,/artist/mahendra-kapoor,0.0,Odia,2006-11-12,0.73,0.945,0.66,0.771,-12.215,0.085,175.004,1,1,0.05,4,93,7586751,0,0,0,Happy
+E Pahada Se Pakhey,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2006-12-01,0.54,0.94,0.2,0.644,-13.39,0.042,174.012,0,8,0.094,4,60,2793317,0,0,0,Sad
+Neta Ude Pharphar,Swagatika,/artist/swagatika,0.0,Odia,2006-12-02,0.91,0.44,0.224,0.331,-3.571,0.07,174.012,1,7,0.0091,4,30,5431976,0,0,0,Sad
+Badhila Jani Khyama,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2006-12-02,0.07,0.41,0.459,0.003,-6.663,0.08,176.027,0,8,0.075,4,39,510943,0,0,0,Sad
+Bhoji Khaili,Baidyanath Gayak Ratna Sharma|Bhimsen Satapathi,/artist/baidyanath-gayak-ratna-sarma|/artist/bhimsen-satapathi-7,0.0,Odia,2006-12-03,0.36,0.26,0.026,0.933,-3.41,0.01,174.082,0,1,0.0758,4,47,8141218,0,0,0,Sad
+Barsha Re Bhiji,Kavita Krishnamurthy,/artist/kavita-subramaniam,0.0,Odia,2006-12-08,0.36,0.636,0.774,0.327,-13.563,0.09,173.96,0,9,0.008,4,31,82626,0,0,0,Energetic
+To Sathey Jibinee Mun,Pranab Kishore Patnaik|Aarti Mukherji,/artist/pranab-kishore-patnaik|/artist/aarti-mukherji,0.0,Odia,2006-12-11,0.09,0.215,0.549,0.505,-9.464,0.065,174.988,1,0,0.023,4,27,96670,0,0,0,Sad
+Nirmala Bhaba Murati,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2007-01-02,0.13,0.614,0.971,0.924,-9.119,0.037,173.874,1,1,0.06,4,61,402484,0,0,0,Energetic
+Bhujatale Mote,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2007-01-06,0.4,0.04,0.914,0.339,-2.642,0.075,174.007,0,4,0.013,4,37,4543489,0,0,0,Energetic
+Ekato Bhakata Jibana,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2007-01-08,0.22,0.87,0.047,0.383,-10.583,0.0989,174.043,0,2,0.05,4,30,10274507,0,0,0,Sad
+Aasa Kie Khaiba Ho,Tansen Singh,/artist/tansen-singh,0.0,Odia,2007-01-12,0.86,0.62,0.192,0.477,-12.946,0.1,174.176,1,0,0.05,4,80,8614715,0,0,0,Sad
+Sinduka Bhitare,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,0.0,Odia,2007-03-02,0.05,0.97,0.582,0.664,-12.542,0.0624,173.97,0,9,0.069,4,66,9588347,0,0,0,Sad
+Mu Jane Na Tume Janena,Aarti Mukherji|Debashish Mohapatra,/artist/aarti-mukherji|/artist/debashish-mohapatra,0.0,Odia,2007-03-07,0.97,0.799,0.391,0.201,-9.828,0.024,174.998,0,1,0.08,4,87,6010241,0,0,0,Sad
+Kaudi Khaira Khela,Unknown,/artist/unknown,0.0,Odia,2007-04-04,0.1,0.844,0.975,0.462,-4.166,0.07,174.028,1,0,0.06,4,52,8347945,0,0,0,Energetic
+Maninee Kane Mana,Subhash Das,/artist/subhash-das,0.0,Odia,2007-06-01,0.09,0.739,0.563,0.24,-7.337,0.0482,174.072,0,10,0.052,4,65,7619806,0,0,0,Sad
+Mo Akhira Kete Katha,Sandhya Mukherjee,/artist/sandhya-mukherjee,0.0,Odia,2007-06-07,0.5,0.19,0.435,0.537,-9.991,0.0585,172.054,1,4,0.04,4,94,8878113,0,0,0,Sad
+Mahabahu Mahabahu,Tripti Das|Minati Bhanja,/artist/tripti-das|/artist/minati-bhanja,0.0,Odia,2007-06-10,0.23,0.51,0.068,0.637,-7.399,0.09,170.066,0,8,0.0735,4,61,7803417,0,0,0,Sad
+Aaji Mun Shrabani Luhara Harini Jeun Rajani,Lata Mangeshkar,/artist/lata-mangeshkar,0.0,Odia,2007-07-03,0.4,0.78,0.908,0.709,-11.64,0.04,174.998,1,2,0.0648,4,36,9715958,0,0,0,Energetic
+Dukhe Tumari Utsava Deepa,sunanda patnaik,/artist/sunanda-patnaik,0.0,Odia,2007-07-05,0.6,0.633,0.266,0.983,-13.463,0.01,174.05,1,0,0.09,4,78,4170314,0,0,0,Sad
+Kete Banka Dei Bahi Jae Nai,Hemanti Shukla,/artist/hemanti-shukla,0.0,Odia,2007-07-06,0.65,0.08,0.042,0.553,-3.143,0.0765,174.091,0,10,0.0516,4,51,2455574,0,0,0,Sad
+Jaga Kaliare,Chitta Jena,/artist/chitta-jena,0.0,Odia,2007-07-07,0.16,0.957,0.315,0.033,-7.471,0.0476,173.991,1,9,0.016,4,64,9230439,0,0,0,Sad
+Baala Boli Gote Nahin,Sheikh Aazad,/artist/sheikh-aazad,0.0,Odia,2007-08-01,0.12,0.06,0.656,0.091,-12.276,0.0735,173.941,1,3,0.02,4,62,4112548,0,0,0,Sad
+Music,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2007-08-11,0.95,0.426,0.191,0.313,-7.087,0.08,174.973,0,11,0.0,4,60,5543890,0,0,0,Sad
+Kain Mana Mote,Badal Kumar,/artist/badal-kumar,0.0,Odia,2007-08-12,0.26,0.47,0.652,0.722,-7.079,0.0281,173.998,0,2,0.015,4,43,11025393,0,0,0,Sad
+Swapna Bilashi Ame Milana Peasi Part - I,Nirmal Mishra|Shyamal Mitra,/artist/nirmal-mishra|/artist/shyamal-mitra,0.0,Odia,2007-09-02,0.7,0.22,0.236,0.803,-5.484,0.07,172.126,0,7,0.087,4,86,10557328,0,0,0,Sad
+Jai Jai Jagannatha,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2007-10-02,0.34,0.851,0.955,0.344,-12.513,0.03,173.998,0,10,0.07,4,60,9805293,0,0,0,Happy
+Mu pau na thili,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2007-10-04,0.77,0.812,0.899,0.698,-10.599,0.065,175.988,0,7,0.06,4,76,2448732,0,0,0,Happy
+Jaya Jadu Nandan,Suman Kalyanpur,/artist/suman-kalyanpur,0.0,Odia,2007-10-05,0.03,0.477,0.657,0.535,-5.559,0.075,174.095,0,9,0.002,4,46,560292,0,0,0,Energetic
+Akhi Pau Nahin,B. Souri,/artist/b-souri,0.0,Odia,2007-10-06,0.7,0.742,0.87,0.52,-8.629,0.0901,174.068,0,11,0.09,4,49,1770661,0,0,0,Happy
+Aasa Jeeba Aago Sulochana,Geeta Rani Das|Debashish Mohapatra,/artist/geeta-rani-das|/artist/debashish-mohapatra,0.0,Odia,2007-10-07,0.07,0.751,0.747,0.998,-9.204,0.037,171.968,0,4,0.0542,4,85,6420962,0,0,0,Happy
+Nida Bhara Rati,Nirmal Mishra,/artist/nirmal-mishra,0.0,Odia,2007-10-07,0.84,0.33,0.911,0.586,-5.307,0.068,174.123,0,3,0.0371,4,50,8287080,0,0,0,Energetic
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2007-10-09,0.2,0.092,0.062,0.146,-3.235,0.0784,176.002,1,2,0.0817,4,38,1808402,0,0,0,Sad
+E Gramara Chasabhai,Pranab Kishore Patnaik|Chittaranjan Jena,/artist/pranab-kishore-patnaik|/artist/chittaranjan-jena-13,0.0,Odia,2007-10-10,0.68,0.362,0.245,0.551,-9.421,0.01,173.981,0,1,0.0344,4,39,9119663,0,0,0,Sad
+Chahat Champe Gori,Subash Das|Subhalaxmi Dash,/artist/subash-das-1|/artist/subhalaxmi-dash-2,0.0,Odia,2007-10-12,0.76,0.03,0.244,0.297,-12.215,0.02,173.986,1,1,0.0136,4,51,7488137,0,0,0,Sad
+Thaka Mana Chala Jiba,Balakrishna Das,/artist/balakrishna-das,0.0,Odia,2007-11-06,0.02,0.8,0.741,0.098,-11.14,0.024,174.032,1,1,0.0963,4,81,5266636,0,0,0,Happy
+Dhana Kheta Dhane Ho,Badal Kumar,/artist/badal-kumar,0.0,Odia,2007-11-10,0.8,0.281,0.44,0.893,-6.642,0.0664,174.097,1,1,0.055,4,67,939622,0,0,0,Sad
+Aasadhe Gundicha,Debashish Dasgupta|Lopita Mishra,/artist/debashish-dasgupta-1|/artist/lopita-mishra,0.0,Odia,2007-11-11,0.01,0.364,0.609,0.754,-13.823,0.02,171.994,0,9,0.089,4,92,7444509,0,0,0,Sad
+Alo Suna,Prafulla Kar|Swagatika Rath,/artist/prafulla-kar|/artist/swagatika-rath,0.0,Odia,2007-12-02,0.14,0.642,0.854,0.916,-10.517,0.09,174.99,0,6,0.0837,4,47,8814154,0,0,0,Energetic
+Maha Maha Basa Mahula,Chandrani Mukherjee,/artist/chandrani-mukherjee,0.0,Odia,2007-12-02,0.06,0.946,0.271,0.315,-4.345,0.02,174.054,1,1,0.064,4,37,3586799,0,0,0,Sad
+Jaubanaru Aparadha,Pranab Kishore Patnaik|Sudha Rama,/artist/pranab-kishore-patnaik|/artist/sudha-rama,0.0,Odia,2007-12-04,0.75,0.202,0.146,0.416,-11.328,0.0,173.948,0,10,0.08,4,40,3215022,0,0,0,Sad
+Sathire Sathire,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2007-12-08,0.32,0.588,0.137,0.991,-12.743,0.0144,173.964,1,1,0.047,4,38,5161135,0,0,0,Sad
+Giridhari giridhari,Bani Joyram,/artist/bani-joyram,0.0,Odia,2007-12-09,0.07,0.71,0.192,0.405,-3.136,0.0213,173.976,0,1,0.07,4,91,1520048,0,0,0,Sad
+Emiti Katha Han Thiba,Anuradha Paudwal|Akshaya Mohanty,/artist/anuradha-paudwal-2|/artist/akshaya-mohanty,0.0,Odia,2008-01-01,0.77,0.573,0.569,0.496,-10.059,0.0851,174.007,0,10,0.0503,4,42,9359882,0,0,0,Sad
+Kalia Re Kalia,Sajid,/artist/sajid,0.0,Odia,2008-01-03,0.63,0.591,0.955,0.327,-9.304,0.0098,173.977,1,11,0.0688,4,98,7662032,0,0,0,Happy
+Kebhe Aela,Babu|Sasmita,/artist/babu|/artist/sasmita,0.0,Odia,2008-01-11,0.42,0.21,0.057,0.821,-3.408,0.04,174.023,1,7,0.08,4,99,8048201,0,0,0,Sad
+Khanjani Bhajan,Sikandar Alam,/artist/sikandar-alam,0.0,Odia,2008-01-12,0.26,0.358,0.589,0.037,-7.068,0.0986,174.062,1,1,0.0462,4,25,4960651,0,0,0,Sad
+Maa Go Mamatamayi,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2008-01-12,0.83,0.74,0.371,0.76,-7.436,0.03,175.453,0,9,0.0703,4,60,8609824,0,0,0,Sad
+Rai Go,Minati Bhanja,/artist/minati-bhanja-1,0.0,Odia,2008-02-03,0.64,0.849,0.813,0.621,-7.815,0.05,173.966,1,1,0.0213,4,27,1749726,0,0,0,Happy
+Kankan Dashi,Mohd Aavid|Rajendra Sahani|Jagannatha Mohanty|Arun|Bandita Das|Manashi Nayak|Dr.Tarak Prashan Tripathi|Radhakanta Nanda,/artist/mohd-aavid|/artist/rajendra-sahani|/artist/jagannatha-mohanty|/artist/arun|/artist/bandita-das|/artist/manashi-nayak|/artist/drtarak-prashan-tripathi|/artist/radhakanta-nanda,0.0,Odia,2008-02-04,0.38,0.89,0.054,0.614,-10.89,0.099,172.022,0,4,0.079,4,97,6455329,0,0,0,Sad
+Jaya Jadu Nandan,Suman Kalyanpur,/artist/suman-kalyanpur,0.0,Odia,2008-02-05,0.99,0.97,0.206,0.013,-3.895,0.05,175.907,0,5,0.0156,4,51,5566805,0,0,0,Sad
+Kalia Kalia Tuhi Tulsi Mali,Anuradha Paudwal|Mohammad Aziz|Mahendra Kapoor|Akhyay Mohanty|Rabindra Sathe,/artist/anuradha-paudwal-2|/artist/mohammad-aziz|/artist/mahendra-kapoor|/artist/akhyay-mohanty|/artist/rabindra-sathe,0.0,Odia,2008-02-10,0.58,0.32,0.06,0.562,-12.606,0.0324,174.026,1,1,0.05,4,38,7722500,0,0,0,Sad
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2008-02-11,0.42,0.038,0.311,0.138,-7.682,0.07,174.991,1,1,0.088,4,69,7172631,0,0,0,Sad
+Rama Charita Ehi Gatha,S. Janaki|Swagatika Rath,/artist/s-janaki|/artist/swagatika-rath,0.0,Odia,2008-02-12,0.41,0.36,0.877,0.916,-4.367,0.02,174.008,0,10,0.06,4,30,9131661,0,0,0,Energetic
+Sabu Prema Aji Khola Khola,Pushpa Panda,/artist/pushpa-panda,0.0,Odia,2008-03-09,0.9,0.28,0.623,0.981,-13.9,0.072,174.06,1,0,0.0398,4,73,6827584,0,0,0,Happy
+He Dukha Hari,Pranab Kishore Patnaik|Swarupa Chakravarty,/artist/pranab-kishore-patnaik|/artist/swarupa-chakravarty,0.0,Odia,2008-04-02,0.01,0.708,0.067,0.208,-2.491,0.01,174.026,0,9,0.01,4,95,2572877,0,0,0,Sad
+Siri Siri Sita,Pushpa Panda,/artist/pushpa-panda,0.0,Odia,2008-04-03,0.03,0.78,0.719,0.456,-13.703,0.025,173.997,1,1,0.07,4,34,8528990,0,0,0,Sad
+E Ki Bichar,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2008-04-07,0.11,0.44,0.931,0.088,-5.019,0.018,174.05,1,7,0.02,4,48,2298005,0,0,0,Energetic
+Chetanara Rupakara,Bhikari Bal|K. Bhanumati|J. Adeni,/artist/bhikari-bal-1|/artist/k-bhanumati|/artist/j-adeni-1,0.0,Odia,2008-05-01,0.86,0.55,0.413,0.239,-8.876,0.047,171.868,1,1,0.009,4,58,2613888,0,0,0,Sad
+Sara Dunia Re,Manas Kumar,/artist/manas-kumar,0.0,Odia,2008-05-01,0.76,0.467,0.747,0.325,-7.06,0.091,173.998,1,9,0.05,4,49,11194286,0,0,0,Energetic
+Torathila Dipatle,Mohd. Amjad,/artist/mohd-amjad,0.0,Odia,2008-05-07,0.97,0.01,0.367,0.74,-9.305,0.03,172.89,0,10,0.04,4,98,10424559,0,0,0,Sad
+Kichi Shadhi Kichi Beni,Smita Dass|Srikanta Das,/artist/smita-dass|/artist/srikanta-das,0.0,Odia,2008-06-01,0.23,0.701,0.83,0.045,-3.378,0.0798,174.016,0,1,0.0231,4,74,5219087,0,0,0,Energetic
+Hrudayara Ei Sunyataku,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2008-06-03,0.35,0.553,0.746,0.516,-9.886,0.01,174.001,1,9,0.032,4,26,1432475,0,0,0,Sad
+Pataka Udri Nandi Ghosha Rathai,Swagatika,/artist/swagatika,0.0,Odia,2008-06-05,0.02,0.198,0.803,0.289,-4.988,0.0884,173.964,1,5,0.0662,4,35,7206129,0,0,0,Energetic
+Mu Ta Jhia Nuhen,Kavita Krishnamurthy,/artist/kavita-subramaniam,0.0,Odia,2008-06-09,0.15,0.304,0.016,0.283,-12.504,0.02,173.988,1,5,0.04,4,60,10519561,0,0,0,Sad
+Ma Lo Ma,Leela Ghosh,/artist/leela-ghosh,0.0,Odia,2008-07-04,0.01,0.89,0.566,0.114,-8.339,0.0897,172.974,0,6,0.03,4,70,9229156,0,0,0,Sad
+Dhana Mora Dhana Mora,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2008-07-05,0.17,0.196,0.528,0.022,-4.793,0.059,173.986,1,1,0.04,4,32,10786872,0,0,0,Energetic
+Manima Shunima Heyu,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2008-07-08,0.97,0.6,0.62,0.932,-3.785,0.0347,173.001,1,4,0.06,4,90,3696466,0,0,0,Energetic
+Kahiki Bhabu Basi,S. Janaki,/artist/s-janaki,0.0,Odia,2008-07-11,0.2,0.436,0.698,0.342,-3.495,0.04,170.009,1,8,0.0421,4,85,5644084,0,0,0,Energetic
+Aau Tote Chinhibaki,Subash Das,/artist/subash-das-1,0.0,Odia,2008-07-11,0.44,0.03,0.047,0.38,-10.048,0.03,173.996,1,0,0.086,4,37,5561534,0,0,0,Sad
+Ei Preeti Phoola Jhapa,Devashish Mahapatra|Swarupa Chakravarty,/artist/devashish-mahapatra|/artist/swarupa-chakravarty,0.0,Odia,2008-08-01,0.98,0.99,0.268,0.622,-7.874,0.05,174.058,1,6,0.099,4,46,10426508,0,0,0,Sad
+Tume Aasi Gala Neyee,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,0.0,Odia,2008-09-05,0.58,0.59,0.65,0.786,-12.298,0.0493,172.964,1,9,0.05,4,66,8969353,0,0,0,Sad
+Asuchhi Kalia,Jhula Tripathy,/artist/jhula-tripathy,0.0,Odia,2008-10-01,0.65,0.51,0.294,0.38,-2.35,0.027,173.964,1,8,0.0667,4,43,5652624,0,0,0,Sad
+Sukha Bitila,Akshya,/artist/akshya,0.0,Odia,2008-10-02,0.1,0.714,0.481,0.692,-3.844,0.005,171.92,0,10,0.0284,4,81,7848665,0,0,0,Sad
+Mun Keun Saharey,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2008-10-04,0.9,0.99,0.493,0.048,-11.575,0.07,174.023,0,9,0.068,4,79,7323646,0,0,0,Happy
+Gadi Chale Pachhei,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,0.0,Odia,2008-10-08,0.93,0.18,0.661,0.933,-9.793,0.05,173.981,0,10,0.0265,4,51,3447217,0,0,0,Happy
+Dheu Dheuka,Nirmal Mishra,/artist/nirmal-mishra,0.0,Odia,2008-10-11,0.17,0.88,0.44,0.584,-13.862,0.022,173.966,0,4,0.008,4,43,1588991,0,0,0,Sad
+Chik Mik Chik Mik,Akshaya Mohanty|Swarupa Chakravarty,/artist/akshaya-mohanty|/artist/swarupa-chakravarty,0.0,Odia,2008-11-05,0.96,0.63,0.85,0.758,-6.919,0.0957,173.983,1,7,0.06,4,44,10169889,0,0,0,Energetic
+Rubi Rubi Rubi,H. P. Geeta|Sikandar Alam,/artist/h-p-geeta-1|/artist/sikandar-alam,0.0,Odia,2008-11-08,0.94,0.49,0.101,0.596,-3.95,0.032,173.953,1,1,0.099,4,67,7711457,0,0,0,Sad
+Rupa Sagadirey Suna Kaniya,Mohammad Aziz,/artist/mohammad-aziz,0.0,Odia,2008-12-07,0.97,0.88,0.953,0.254,-8.461,0.07,174.013,1,2,0.016,4,71,9784097,0,0,0,Happy
+Mo Naan Ti Lily,Kavita Krishnamurthy,/artist/kavita-subramaniam,0.0,Odia,2009-01-01,0.84,0.227,0.971,0.663,-8.205,0.01,175.052,1,8,0.04,4,41,2138838,0,0,0,Happy
+Kasturi Tikalam,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2009-01-08,0.44,0.502,0.032,0.886,-13.39,0.045,174.0,1,7,0.07,4,31,2626740,0,0,0,Sad
+Dekhalo Sangata,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2009-02-02,0.86,0.381,0.476,0.273,-7.079,0.085,172.058,0,4,0.0041,4,46,5344028,0,0,0,Sad
+Lekhide Lo,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,0.0,Odia,2009-02-04,0.32,0.447,0.547,0.58,-9.42,0.0737,173.94,0,11,0.073,4,69,5135697,0,0,0,Sad
+Koilee Lo Keshhaba Je,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2009-02-05,0.15,0.72,0.776,0.326,-6.996,0.04,172.071,1,8,0.04,4,49,7658730,0,0,0,Energetic
+Chhanda Charana,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2009-02-09,0.22,0.787,0.887,0.225,-10.253,0.042,173.985,1,0,0.0414,4,84,9170287,0,0,0,Energetic
+Jagannatha Mahaprabhu,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2009-03-03,0.07,0.31,0.673,0.189,-6.907,0.0647,171.998,1,5,0.0748,4,98,11219530,0,0,0,Energetic
+Swapna Bilashi Ame Milana Peasi Part - Ii,Nirmal Mishra|Shyamal Mitra,/artist/nirmal-mishra|/artist/shyamal-mitra,0.0,Odia,2009-03-03,0.81,0.83,0.954,0.577,-4.584,0.016,174.0,1,5,0.04,4,46,1893619,0,0,0,Energetic
+Bedanara Hemantare,H. P. Geeta,/artist/h-p-geeta-1,0.0,Odia,2009-03-03,0.3,0.044,0.051,0.219,-2.151,0.07,172.977,0,5,0.005,4,44,9670661,0,0,0,Sad
+Ima Imma,Babu|Sasmita,/artist/babu|/artist/sasmita,0.0,Odia,2009-03-03,0.66,0.85,0.616,0.033,-3.881,0.0337,174.016,1,1,0.0342,4,53,9652954,0,0,0,Sad
+Piya Bina Raina,Miss Lipi,/artist/miss-lipi,0.0,Odia,2009-03-05,0.58,0.374,0.675,0.379,-12.234,0.0986,173.035,0,11,0.013,4,90,9687874,0,0,0,Happy
+Jogire Khoju Kahin,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2009-03-08,0.4,0.752,0.626,0.568,-12.431,0.08,175.074,1,11,0.09,4,36,9433375,0,0,0,Sad
+Khola Kholi Prema Heu Aaji Bahare,Akshya Mohanty|Haimanti Shukla,/artist/akshya-mohanty|/artist/haimanti-shukla,0.0,Odia,2009-03-12,0.32,0.66,0.857,0.39,-3.922,0.08,173.972,0,6,0.05,4,79,3127348,0,0,0,Energetic
+Athala Sagare,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2009-04-01,0.31,0.319,0.564,0.006,-3.355,0.0154,174.008,0,0,0.022,4,70,2154805,0,0,0,Sad
+Sukhara Sapana,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2009-04-01,0.45,0.732,0.975,0.575,-13.489,0.0988,174.019,1,0,0.03,4,69,9357317,0,0,0,Energetic
+Manima Pade Mo,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2009-04-03,0.09,0.107,0.913,0.108,-8.046,0.0898,173.778,0,9,0.013,4,47,10892129,0,0,0,Energetic
+Mali Mala Shyam Ku Devi,Indira Nanda,/artist/indira-nanda,0.0,Odia,2009-04-04,0.36,0.07,0.82,0.284,-2.578,0.039,173.201,0,7,0.033,4,82,4826842,0,0,0,Energetic
+To Atharanala Dein,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2009-04-06,0.63,0.55,0.221,0.489,-5.611,0.09,175.977,0,8,0.076,4,44,10981969,0,0,0,Sad
+Sapana Nayeeka,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,0.0,Odia,2009-04-07,0.13,0.77,0.398,0.366,-4.675,0.01,174.022,0,10,0.06,4,44,1885955,0,0,0,Sad
+Nilachale Asi,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2009-04-09,0.49,0.528,0.273,0.111,-4.58,0.035,173.962,0,5,0.012,4,91,9192928,0,0,0,Sad
+Janha Oothi Thiba,Trupti Das|Debasis Mahapatro,/artist/trupti-das|/artist/debasis-mahapatro,0.0,Odia,2009-05-03,0.62,0.501,0.232,0.414,-7.256,0.028,174.824,1,5,0.063,4,56,8034553,0,0,0,Sad
+Bhim Bhai Prema Kali,Subhash Das|Chorus,/artist/subhash-das|/artist/chorus,0.0,Odia,2009-05-10,0.97,0.26,0.315,0.085,-4.458,0.002,173.984,0,10,0.02,4,97,5781804,0,0,0,Sad
+Taru Khoje Khara (Sad),Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2009-06-04,0.74,0.155,0.673,0.957,-11.014,0.001,174.036,0,11,0.0507,4,83,2411445,0,0,0,Happy
+Kame Balau Mati,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2009-06-06,0.6,0.699,0.071,0.44,-10.81,0.02,174.007,1,5,0.02,4,63,8808672,0,0,0,Sad
+Ei Rimjhim Phula Jhara Barasare,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2009-07-01,0.62,0.74,0.899,0.54,-8.394,0.055,174.022,0,5,0.0763,4,95,1144059,0,0,0,Happy
+Jamuna Kulia,BANALAXMI KANUNGO,/artist/banalaxmi-kanungo,0.0,Odia,2009-07-01,0.51,0.973,0.929,0.23,-5.478,0.0397,174.064,0,8,0.05,4,64,7671692,0,0,0,Energetic
+To Mali Kadhi Ashe,Mohd. Amjad,/artist/mohd-amjad,0.0,Odia,2009-07-04,0.51,0.99,0.095,0.356,-12.189,0.056,173.97,0,10,0.084,4,54,6238964,0,0,0,Sad
+Smita Dass,Srikanta Das,/artist/srikanta-das,0.0,Odia,2009-08-05,0.88,0.24,0.169,0.034,-13.339,0.034,173.985,1,8,0.04,4,89,9208423,0,0,0,Sad
+Alo Alo Ghara Bali,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2009-09-01,0.66,0.34,0.474,0.4,-6.495,0.0519,174.004,1,11,0.0224,4,58,9105218,0,0,0,Sad
+Bhajutha Mala,Atish Majumder,/artist/atish-majumder,0.0,Odia,2009-09-06,0.17,0.65,0.151,0.974,-12.42,0.0498,173.995,1,2,0.078,4,66,478869,0,0,0,Sad
+Thaka Mana Chala Jiba,Balakrishna Das,/artist/balakrishna-das,0.0,Odia,2009-09-06,0.12,0.203,0.825,0.144,-12.7,0.0766,174.992,1,2,0.097,4,42,8396386,0,0,0,Happy
+Tame Mo Jivana,Sheikh Aazad,/artist/sheikh-aazad,0.0,Odia,2009-09-11,0.12,0.01,0.132,0.242,-8.03,0.0941,173.979,1,11,0.0552,4,70,7303503,0,0,0,Sad
+Pirati Chore Chore,Chitaranjan Pani,/artist/chitaranjan-pani,0.0,Odia,2009-10-01,0.66,0.6,0.963,0.337,-13.632,0.01,171.97,0,11,0.058,4,42,7231348,0,0,0,Happy
+Jete Jahin Achha,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2009-10-02,0.94,0.05,0.311,0.074,-5.104,0.0,173.894,0,8,0.09,4,95,2902248,0,0,0,Sad
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2009-10-02,0.48,0.92,0.792,0.079,-11.176,0.05,174.094,1,8,0.0442,4,76,3893785,0,0,0,Happy
+Ahe Ramahari,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2009-10-03,0.32,0.92,0.567,0.586,-6.853,0.019,173.978,0,9,0.003,4,34,9271204,0,0,0,Sad
+Eka Sangey,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2009-10-06,0.97,0.44,0.894,0.84,-12.44,0.04,173.984,1,8,0.0791,4,94,7602990,0,0,0,Happy
+Lo Champi,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2009-10-08,0.8,0.106,0.647,0.364,-8.007,0.06,172.873,0,0,0.0525,4,57,5919890,0,0,0,Happy
+Je Dinu Paichhi,Trupti Das,/artist/trupti-das,0.0,Odia,2009-10-09,0.01,0.973,0.687,0.083,-5.621,0.0296,175.079,0,8,0.0022,4,63,6176709,0,0,0,Sad
+Hakim Jadi Chamcha Haba,Mohammed Aabid,/artist/mohammed-aabid,0.0,Odia,2009-10-09,0.95,0.461,0.098,0.046,-9.079,0.015,174.962,1,6,0.017,4,82,7184519,0,0,0,Sad
+Asami Mushir,mushir,/artist/mushir,0.0,Odia,2009-10-11,0.46,0.817,0.269,0.502,-8.346,0.099,175.025,0,8,0.02,4,27,11296670,0,0,0,Sad
+Piyichi Mun Piyichi,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,0.0,Odia,2009-10-12,0.79,0.965,0.347,0.399,-3.991,0.02,173.916,1,6,0.0,4,35,140786,0,0,0,Sad
+E Je Bichheda,Subhash Das,/artist/subhash-das,0.0,Odia,2009-11-01,0.63,0.95,0.725,0.624,-4.345,0.1,173.982,0,6,0.01,4,66,1062604,0,0,0,Energetic
+Olei Bharija,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2009-11-02,0.07,0.059,0.21,0.292,-7.852,0.037,172.057,1,1,0.046,4,34,3913870,0,0,0,Sad
+Adine Malli Mahaka,Sudha Rama|Vani Jairam,/artist/sudha-rama|/artist/vani-jayaram,0.0,Odia,2009-11-02,0.69,0.95,0.23,0.246,-6.949,0.09,173.964,1,8,0.08,4,45,1605990,0,0,0,Sad
+Majhi Re,Debashish Dasgupta,/artist/debashish-dasgupta-1,0.0,Odia,2009-11-02,0.04,0.792,0.124,0.665,-13.572,0.01,173.978,0,2,0.0909,4,97,1104570,0,0,0,Sad
+Nilachale Asi,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2009-11-03,0.32,0.082,0.549,0.21,-9.704,0.03,172.998,1,1,0.069,4,30,5381214,0,0,0,Sad
+Katha Dio Matha Chhuin,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,0.0,Odia,2009-11-07,0.97,0.9,0.974,0.719,-12.612,0.08,174.023,1,0,0.09,4,86,2068723,0,0,0,Happy
+Muhen Tor Kanya Mahani,Fakir Patnaik,/artist/fakir-patnaik-50,0.0,Odia,2009-11-12,0.04,0.45,0.479,0.703,-5.089,0.046,175.089,0,8,0.055,4,89,5143834,0,0,0,Sad
+Sulsulia Chulbulia,Nirmal Mishra|Basanta Das,/artist/nirmal-mishra|/artist/basanta-das,0.0,Odia,2009-12-01,0.09,0.22,0.266,0.509,-12.025,0.0494,175.042,0,4,0.0567,4,65,7043336,0,0,0,Sad
+More Ehi Anugraha Kara,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2010-01-06,0.77,0.055,0.028,0.062,-5.712,0.02,174.0,1,9,0.08,4,28,6796128,0,0,0,Sad
+Sun Sun Natia Pilla,Fakir Patnaik,/artist/fakir-patnaik-26,0.0,Odia,2010-02-04,0.14,0.56,0.266,0.29,-10.202,0.092,174.022,1,5,0.091,4,55,1333925,0,0,0,Sad
+Preama Tini Jaati,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2010-03-02,0.46,0.69,0.572,0.648,-8.789,0.0545,173.964,0,9,0.02,4,92,9187649,0,0,0,Sad
+Sathi Saji,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,0.0,Odia,2010-03-02,0.09,0.726,0.827,0.398,-12.076,0.06,175.018,0,4,0.048,4,81,5376701,0,0,0,Happy
+Aakhi Buji Dele Kian,Pranab Kishore Patnaik|Aarti Mukherji,/artist/pranab-kishore-patnaik|/artist/aarti-mukherji,0.0,Odia,2010-03-02,0.4,0.902,0.383,0.533,-13.207,0.0306,176.002,1,3,0.02,4,87,7590765,0,0,0,Sad
+Ea Agana Ea Ghara,Trupti Das|Swaroop Naik,/artist/trupti-das|/artist/swaroop-naik,0.0,Odia,2010-03-07,0.67,0.3,0.15,0.465,-2.615,0.04,172.118,1,7,0.0072,4,77,10545010,0,0,0,Sad
+Mana Lova Aakhi,Sujan,/artist/sujan,0.0,Odia,2010-03-08,0.58,0.403,0.77,0.678,-10.656,0.095,174.027,1,0,0.0779,4,46,4379212,0,0,0,Energetic
+Liti Udey Phuru Phuru,Fakir Patnaik,/artist/fakir-patnaik-48,0.0,Odia,2010-03-09,0.81,0.06,0.167,0.598,-2.485,0.038,175.016,1,2,0.0411,4,63,9019168,0,0,0,Sad
+Chaal Aame Palei Jiba Shahara,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2010-03-09,0.37,0.748,0.396,0.151,-10.855,0.063,175.065,1,10,0.03,4,34,1051696,0,0,0,Sad
+Kichi Shadhi Kichi Beni,Srikanta Das,/artist/srikanta-das,0.0,Odia,2010-04-04,0.46,0.12,0.821,0.406,-5.718,0.056,175.016,1,0,0.074,4,95,2079982,0,0,0,Energetic
+Sadhu Jan Bandhu,Ira Mohanty|Krushna Chandra Mohanty,/artist/ira-mohanty|/artist/krushna-chandra-mohanty,0.0,Odia,2010-04-05,0.09,0.057,0.94,0.578,-11.79,0.093,175.003,0,10,0.031,4,74,10840194,0,0,0,Happy
+Thare Hari Namo - Prafulla Kar,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2010-04-09,0.72,0.14,0.804,0.838,-2.966,0.002,172.097,0,5,0.069,4,72,9089244,0,0,0,Happy
+Sunahe Sunahe Ramayana Gatha,S. Janaki|Swagatika Rath,/artist/s-janaki|/artist/swagatika-rath,0.0,Odia,2010-04-10,0.84,0.39,0.566,0.787,-4.426,0.03,173.983,0,11,0.064,4,52,3338310,0,0,0,Sad
+Baha Baha Baha Dhabola,Mohammad Aziz|Akshaya Mohanty,/artist/mohammad-aziz|/artist/akshaya-mohanty,0.0,Odia,2010-04-12,0.6,0.619,0.54,0.327,-7.654,0.057,173.99,1,5,0.048,4,85,8934265,0,0,0,Happy
+Mote Guli Maro,Usha Uthup,/artist/usha-uthup,0.0,Odia,2010-04-12,0.88,0.92,0.939,0.446,-3.7,0.05,173.99,0,0,0.0224,4,61,7687273,0,0,0,Energetic
+Nachi Nachi Jhnli,Naba Mahattam,/artist/naba-mahattam,0.0,Odia,2010-05-01,0.12,0.508,0.737,0.516,-9.181,0.03,173.044,1,6,0.08,4,78,1681968,0,0,0,Happy
+Upadi Debi To Kalapa Bata,Shakti Mishra,/artist/shakti-mishra,0.0,Odia,2010-05-02,0.06,0.73,0.99,0.831,-11.097,0.03,170.013,0,2,0.1,4,93,8702711,0,0,0,Happy
+Bali Re Bali,Raghu Sahoo,/artist/raghu-sahoo,0.0,Odia,2010-05-09,0.65,0.15,0.461,0.846,-13.61,0.1,172.017,0,10,0.04,4,91,5831394,0,0,0,Sad
+Mo Bhale Thilaki Lihi,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2010-05-09,0.73,0.52,0.768,0.876,-3.475,0.06,174.034,0,8,0.0496,4,60,2418689,0,0,0,Energetic
+Jala Aani Jai Kali,Bhubaneshwari Mishra,/artist/bhubaneshwari-mishra-28,0.0,Odia,2010-05-10,0.71,0.005,0.403,0.483,-10.611,0.0,173.992,0,11,0.045,4,32,3129005,0,0,0,Sad
+Aahe Nila Sreela,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2010-06-01,0.62,0.15,0.686,0.682,-2.823,0.081,173.992,1,6,0.01,4,76,10481272,0,0,0,Energetic
+Dukha Ete,Bani Joyram,/artist/bani-joyram,0.0,Odia,2010-06-12,0.76,0.58,0.552,0.628,-6.991,0.09,177.1,1,1,0.01,4,60,4660861,0,0,0,Happy
+Jaga Hatey Pagha Achhi,Anuradha Paudwal|Akshaya Mohanty,/artist/anuradha-paudwal-2|/artist/akshaya-mohanty,0.0,Odia,2010-07-04,0.65,0.255,0.114,0.17,-13.472,0.026,173.972,0,4,0.0142,4,38,4252104,0,0,0,Sad
+Kene Gheni,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2010-07-04,0.43,0.675,0.829,0.756,-3.656,0.05,175.011,1,1,0.017,4,72,10539395,0,0,0,Energetic
+He Bandhu,Binapani Nayak,/artist/binapani-nayak-1,0.0,Odia,2010-07-08,0.22,0.55,0.32,0.125,-5.838,0.0238,172.036,1,1,0.0407,4,68,5696679,0,0,0,Sad
+Nachi uthey re,S. Janaki,/artist/s-janaki,0.0,Odia,2010-07-09,0.13,0.2,0.147,0.193,-11.7,0.0,174.013,1,1,0.07,4,71,9994272,0,0,0,Sad
+Kahin Gale Bandhure,Ghanashyam Panda,/artist/ghanashyam-panda,0.0,Odia,2010-07-09,0.86,0.736,0.163,0.55,-10.22,0.02,172.952,0,4,0.0338,4,75,5128707,0,0,0,Sad
+Hata Dei Kaliare,Bikahs,/artist/bikahs,0.0,Odia,2010-07-11,0.48,0.98,0.41,0.35,-2.932,0.036,174.01,0,5,0.056,4,59,4035633,0,0,0,Sad
+Prabhata Sikhare,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2010-08-01,0.13,0.877,0.899,0.167,-2.096,0.053,175.09,1,7,0.01,4,89,922415,0,0,0,Energetic
+Bah Bah Baha Majedar,Geeta Rani Das,/artist/geeta-rani-das,0.0,Odia,2010-08-01,0.9,0.53,0.789,0.781,-4.626,0.05,173.952,1,2,0.048,4,36,2982723,0,0,0,Energetic
+Kahin Gale Shama Ghana,Chittaranjan Jena,/artist/chittaranjan-jena-13,0.0,Odia,2010-08-02,0.74,0.03,0.66,0.812,-13.442,0.08,174.031,0,0,0.008,4,62,5763223,0,0,0,Happy
+Chham Chham Noopura Baje,Nandita Bhanja,/artist/nandita-bhanja,0.0,Odia,2010-08-04,0.04,0.75,0.814,0.185,-13.539,0.031,175.019,1,1,0.0653,4,42,351211,0,0,0,Sad
+Chaala Sakhi Aambhe,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2010-08-04,0.39,0.452,0.551,0.996,-12.987,0.09,174.052,1,9,0.0962,4,25,3360394,0,0,0,Sad
+Nainlo Nain,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,0.0,Odia,2010-08-05,0.5,0.57,0.919,0.318,-10.127,0.06,174.004,0,2,0.06,4,38,5235674,0,0,0,Energetic
+Mayurigo Tama Akash Mun,Mohammed Rafi,/artist/mohammad-rafi,0.0,Odia,2010-08-06,0.22,0.657,0.686,0.114,-9.86,0.08,175.013,1,8,0.0886,4,37,508114,0,0,0,Sad
+Mote Jana Aou Tumaku Jana (Solo),Mitali Chinera,/artist/mitali-chinera,0.0,Odia,2010-09-02,0.2,0.79,0.27,0.749,-2.521,0.071,174.057,0,11,0.022,4,71,5922518,0,0,0,Sad
+Gala Rati Jhumrarsure,Fakir Patnaik,/artist/fakir-patnaik-53,0.0,Odia,2010-09-02,0.7,0.47,0.62,0.035,-12.74,0.0019,172.042,1,7,0.06,4,52,7791879,0,0,0,Sad
+Janam Dine Sabaothu Basi,Udit Narayan|Chorus,/artist/udit-narayan|/artist/chorus,0.0,Odia,2010-09-03,0.32,0.61,0.916,0.333,-11.332,0.07,174.031,0,10,0.0406,4,65,9023182,0,0,0,Energetic
+Oh Aaji Kahako Jadima Diyachhi,Geeta Dash,/artist/geeta-dash,0.0,Odia,2010-09-07,0.05,0.36,0.009,0.898,-13.162,0.019,174.984,1,1,0.04,4,52,10006106,0,0,0,Sad
+Saki Aji Tu,Subhash Das,/artist/subhash-das,0.0,Odia,2010-09-10,0.68,0.523,0.765,0.168,-2.552,0.05,170.013,0,5,0.0477,4,39,9078283,0,0,0,Energetic
+Ae Nadi E Akasha,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2010-10-02,0.49,0.92,0.764,0.713,-8.353,0.046,174.999,0,6,0.08,4,86,6912059,0,0,0,Happy
+Ahe Dukha Hari,Bhikari Bal|Vani Jairam,/artist/bhikari-bal-1|/artist/vani-jayaram,0.0,Odia,2010-10-06,0.68,0.334,0.24,0.366,-13.315,0.01,174.055,0,9,0.036,4,42,1592772,0,0,0,Sad
+Ei Chikimiki Hase To,Nirmal Mishra,/artist/nirmal-mishra,0.0,Odia,2010-10-08,0.41,0.815,0.077,0.278,-9.574,0.0996,174.976,0,7,0.07,4,61,2312646,0,0,0,Sad
+Dharichi Jebe,Manna Dey,/artist/manna-dey,0.0,Odia,2010-10-09,0.33,0.81,0.21,0.044,-6.358,0.0518,173.994,0,5,0.0993,4,91,10673972,0,0,0,Sad
+Joi Bhaina Mo Nebo Olikhi,Mohd. Amjad,/artist/mohd-amjad,0.0,Odia,2010-10-11,0.6,0.44,0.8,0.069,-12.699,0.013,173.955,0,11,0.01,4,28,8892822,0,0,0,Sad
+Gobinda Bicharanti - Prafulla Kar,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2010-11-03,0.0,0.68,0.913,0.255,-11.024,0.022,173.09,0,10,0.06,4,44,8926198,0,0,0,Sad
+Baby Tora,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2010-11-03,0.12,0.25,0.308,0.364,-9.714,0.04,172.012,0,4,0.031,4,77,3778911,0,0,0,Sad
+Jibanarey Hasa Name,K J Yesudas,/artist/k-j-yesudas,0.0,Odia,2010-11-11,0.42,0.72,0.259,0.207,-4.456,0.04,171.995,0,5,0.082,4,35,11142232,0,0,0,Sad
+Boita Bandan,Bhikari Bal|Indira Nanda|Sikandar Alam,/artist/bhikari-bal-1|/artist/indira-nanda|/artist/sikandar-alam,0.0,Odia,2010-11-12,0.31,0.673,0.767,0.179,-12.58,0.0957,172.973,0,11,0.05,4,58,3967799,0,0,0,Happy
+Mummy Tara Motha Hera,Kavita Krishnamurthy|Chandrani Mukherjee|Kadambari,/artist/kavita-subramaniam|/artist/chandrani-mukherjee|/artist/kadambari,0.0,Odia,2010-11-12,0.58,0.14,0.768,0.425,-11.249,0.042,173.994,1,0,0.05,4,25,50971,0,0,0,Happy
+Dholare Pasichi Musha,Subhash Das|Raghu Pradhan|P . Sarangi,/artist/subhash-das|/artist/raghu-pradhan|/artist/p-sarangi,0.0,Odia,2011-01-07,0.1,0.51,0.811,0.341,-12.979,0.09,173.99,0,6,0.092,4,82,4332002,0,0,0,Happy
+Haa Ram Haa Ram,Chittaranjan Jena,/artist/chittaranjan-jena-13,0.0,Odia,2011-01-10,0.38,0.51,0.591,0.191,-13.991,0.0867,174.98,1,1,0.023,4,58,1641874,0,0,0,Sad
+Gili Gili Gulu Gulu,Tansen Singh|Vani Jairam,/artist/tansen-singh|/artist/vani-jayaram,0.0,Odia,2011-02-03,0.68,0.51,0.992,0.817,-10.842,0.0241,175.024,1,8,0.045,4,75,8282662,0,0,0,Happy
+Naba Janbani Ya,Balakrishna Das,/artist/balakrishna-das,0.0,Odia,2011-02-03,0.27,0.88,0.652,0.651,-8.532,0.01,172.019,1,7,0.0557,4,67,3154530,0,0,0,Sad
+Sanja Sakale,Nirmal Mishra,/artist/nirmal-mishra,0.0,Odia,2011-02-07,0.82,0.28,0.857,0.723,-4.074,0.04,175.035,1,7,0.082,4,67,7329439,0,0,0,Happy
+Muhan Muhin Kishora,Indira Pratihari,/artist/indira-pratihari-1,0.0,Odia,2011-02-11,0.72,0.73,0.798,0.23,-8.531,0.088,174.078,1,1,0.09,4,43,9286692,0,0,0,Happy
+Amiti Mo Bhagya,BANALAXMI KANUNGO,/artist/banalaxmi-kanungo,0.0,Odia,2011-03-06,0.09,0.26,0.198,0.356,-11.791,0.0991,174.007,0,9,0.0,4,98,5809182,0,0,0,Sad
+Badhila Jani Khyama,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2011-03-11,0.88,0.53,0.556,0.903,-13.972,0.002,174.018,1,0,0.0915,4,70,11018779,0,0,0,Sad
+Gul Guli And Gul Guli,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2011-06-07,0.07,0.87,0.358,0.96,-11.913,0.0,172.046,0,0,0.048,4,90,9796026,0,0,0,Sad
+Janame Rahichi,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2011-06-08,0.8,0.11,0.452,0.907,-2.322,0.05,174.056,1,6,0.0336,4,71,2168950,0,0,0,Sad
+Tume Ta Dayalu Date,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2011-07-01,0.45,0.79,0.332,0.022,-7.126,0.0801,172.96,1,1,0.0,4,57,5144670,0,0,0,Sad
+Manaku Mo Delakiye,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,0.0,Odia,2011-07-03,0.31,0.267,0.57,0.314,-2.833,0.081,173.954,1,2,0.061,4,86,5576233,0,0,0,Sad
+E Mone Naa,Aarti Mukherji,/artist/aarti-mukherji,0.0,Odia,2011-07-07,0.07,0.873,0.921,0.634,-10.289,0.0805,174.9,0,8,0.0468,4,77,1467829,0,0,0,Happy
+Hrudayaku Karidia,Geeta Patnaik,/artist/geeta-patnaik,0.0,Odia,2011-07-11,0.48,0.75,0.616,0.809,-3.606,0.054,173.94,1,1,0.09,4,57,476007,0,0,0,Energetic
+Bhakta Jane Pacharuchhi Kahare Kalia,Swagtika Mohapatra,/artist/swagtika-mohapatra,0.0,Odia,2011-08-04,0.03,0.41,0.028,0.186,-12.38,0.0389,173.975,1,1,0.0308,4,46,3013950,0,0,0,Sad
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2011-08-05,0.88,0.873,0.365,0.556,-4.856,0.024,174.02,0,2,0.0309,4,55,10928964,0,0,0,Sad
+Nacha Nacha Sajani,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2011-09-01,0.51,0.153,0.266,0.079,-8.631,0.0477,174.953,0,1,0.052,4,49,6412940,0,0,0,Sad
+Megha Barasila - Vani Jairam,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2011-09-02,0.71,0.27,0.841,0.611,-4.125,0.009,174.037,0,6,0.097,4,38,2902944,0,0,0,Energetic
+Jhure Sathi Bina Mana,Lopita Mishra,/artist/lopita-mishra,0.0,Odia,2011-09-09,0.74,0.902,0.351,0.513,-4.874,0.0,171.981,1,4,0.01,4,65,8519588,0,0,0,Sad
+Jaya Jaya Jagannath,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2011-09-10,0.11,0.13,0.829,0.971,-13.314,0.09,174.025,0,10,0.06,4,76,4491505,0,0,0,Happy
+Ye Rang Nua Nua,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,0.0,Odia,2011-09-11,0.74,0.941,0.41,0.52,-11.779,0.0869,173.981,1,1,0.0776,4,36,3528137,0,0,0,Sad
+Purba Janmare Kana,Kudrat,/artist/kudrat,0.0,Odia,2011-10-01,0.31,0.87,0.988,0.354,-13.102,0.0716,173.858,1,1,0.01,4,100,11189566,0,0,0,Energetic
+Arata Tarini Go,Fakira Pattnaik,/artist/fakira-pattnaik,0.0,Odia,2011-10-05,0.34,0.86,0.131,0.299,-11.197,0.0844,174.021,0,3,0.0504,4,30,709294,0,0,0,Sad
+Mun Riksabala,Sikandar Alam,/artist/sikandar-alam,0.0,Odia,2011-11-08,0.83,0.916,0.819,0.749,-12.828,0.0731,173.96,0,2,0.06,4,63,8227766,0,0,0,Happy
+Lagai Deichha,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,0.0,Odia,2011-11-09,0.34,0.339,0.536,0.838,-11.389,0.02,174.08,1,1,0.07,4,55,1253719,0,0,0,Sad
+Kala Kanhu,Anita Goswami,/artist/anita-goswami,0.0,Odia,2012-01-03,0.84,0.325,0.179,0.8,-4.968,0.0682,171.976,0,5,0.0165,4,27,9437354,0,0,0,Sad
+Hai Se Harini Akhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2012-01-03,0.42,0.438,0.016,0.003,-10.763,0.09,174.073,0,5,0.0276,4,56,7397381,0,0,0,Sad
+Sahararey Lagejiba,Akshaya Mohanty|Anuradha Paudwal,/artist/akshaya-mohanty|/artist/anuradha-paudwal-2,0.0,Odia,2012-01-05,0.85,0.553,0.549,0.304,-12.607,0.02,174.955,0,7,0.0653,4,82,7920988,0,0,0,Happy
+Dhana Mora,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2012-01-09,0.36,0.85,0.527,0.338,-10.083,0.0,174.005,1,5,0.059,4,68,4790569,0,0,0,Sad
+Majhunu Re Majunu,Lopita Mishra,/artist/lopita-mishra,0.0,Odia,2012-02-01,0.41,0.9,0.924,0.875,-4.816,0.091,173.98,0,5,0.059,4,96,2341730,0,0,0,Energetic
+Jaga Kaliya,Naba Mahattam,/artist/naba-mahattam,0.0,Odia,2012-02-01,0.57,0.451,0.128,0.961,-8.372,0.0332,173.914,0,6,0.061,4,95,9952951,0,0,0,Sad
+Ekeun Sahara Kemiti Sahara,Amit Kumar|Uttara Kelkar,/artist/amit-kumar|/artist/uttara-kelkar,0.0,Odia,2012-02-03,0.38,0.77,0.445,0.024,-9.573,0.07,171.966,1,1,0.09,4,61,10145194,0,0,0,Sad
+Priya Priya Nera Priya,Badal Kumar,/artist/badal-kumar,0.0,Odia,2012-02-05,0.3,0.183,0.998,0.056,-9.853,0.075,171.905,0,10,0.02,4,58,11043355,0,0,0,Happy
+Mu Chalichhi,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,0.0,Odia,2012-02-05,0.76,0.69,0.519,0.26,-10.997,0.01,173.982,0,4,0.07,4,56,6182759,0,0,0,Happy
+Bhagya Mile Jasa,Trupti Das,/artist/trupti-das,0.0,Odia,2012-02-05,0.07,0.22,0.277,0.49,-3.446,0.01,174.014,1,1,0.02,4,60,2460407,0,0,0,Sad
+Mo Chaka Nayan Na,Swagtika Mohapatra,/artist/swagtika-mohapatra,0.0,Odia,2012-03-01,0.74,0.064,0.019,0.949,-4.793,0.03,175.933,1,0,0.0428,4,35,7181859,0,0,0,Sad
+Jaya Jadu Nandan,Suman Kalyanpur,/artist/suman-kalyanpur,0.0,Odia,2012-03-03,0.44,0.009,0.104,0.812,-10.71,0.036,172.212,1,9,0.082,4,85,3508491,0,0,0,Sad
+Ajib Kalia,Subash Das,/artist/subash-das-1,0.0,Odia,2012-03-03,0.5,0.962,0.516,0.413,-11.288,0.0931,175.095,0,9,0.0774,4,97,529347,0,0,0,Sad
+Paisa Tia Dia He Babu,Laxmikant Palit|Vani Jairam,/artist/laxmikant-palit|/artist/vani-jayaram,0.0,Odia,2012-03-04,0.07,0.41,0.763,0.56,-3.066,0.075,175.024,0,5,0.0583,4,46,3971645,0,0,0,Energetic
+Tora Uri Uri Jaye Kani,Kanak Mohapatra|Subash Das,/artist/kanak-mohapatra|/artist/subash-das-1,0.0,Odia,2012-03-05,0.13,0.19,0.29,0.193,-2.496,0.0725,174.102,0,4,0.021,4,46,6173445,0,0,0,Sad
+A Janha Tara,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2012-03-08,0.84,0.685,0.477,0.139,-12.372,0.052,171.979,0,1,0.01,4,79,4258927,0,0,0,Sad
+Rujhum Rumjhum Nachere,Trupti Das|Akshya Mohanty Baboo,/artist/trupti-das|/artist/akshya-mohanty-baboo,0.0,Odia,2012-04-02,0.31,0.347,0.013,0.02,-13.292,0.051,175.079,0,1,0.089,4,45,2170559,0,0,0,Sad
+Kathata Ta Atike,Anuradha Paudwal|Mohammad Aziz|Mahendra Kapoor|Akhyay Mohanty|Rabindra Sathe,/artist/anuradha-paudwal-2|/artist/mohammad-aziz|/artist/mahendra-kapoor|/artist/akhyay-mohanty|/artist/rabindra-sathe,0.0,Odia,2012-04-06,0.73,0.04,0.952,0.466,-11.121,0.0877,174.007,1,5,0.06,4,32,3838856,0,0,0,Happy
+Tate Ki,Sushree Sangeeta Mahapatra,/artist/sushree-sangeeta-mahapatra-4,0.0,Odia,2012-04-08,0.43,0.331,0.981,0.153,-5.084,0.02,175.018,0,1,0.04,4,97,11281812,0,0,0,Energetic
+Ho Khilaji Janha,Vani Jairam|Chittaranjan Jena,/artist/vani-jayaram|/artist/chittaranjan-jena-17,0.0,Odia,2012-04-12,0.91,0.105,0.016,0.195,-8.676,0.03,174.032,0,10,0.058,4,84,4334595,0,0,0,Sad
+Badala Sina Kalaa,Sushree Sangeeta Mahapatra,/artist/sushree-sangeeta-mahapatra-4,0.0,Odia,2012-05-08,0.99,0.427,0.635,0.894,-9.446,0.07,175.009,1,7,0.04,4,91,8327844,0,0,0,Happy
+Babu Ta Babu Danei Babu,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2012-05-09,0.73,0.912,0.836,0.166,-3.177,0.05,173.914,1,11,0.0602,4,42,1145473,0,0,0,Energetic
+Mukuda Murari,Vani Jairam|Sudha Rama,/artist/vani-jayaram|/artist/sudha-rama,0.0,Odia,2012-06-02,0.59,0.848,0.421,0.104,-7.481,0.06,173.998,0,5,0.0355,4,90,4068873,0,0,0,Sad
+Dekhili Aja,Subhalaxmi Dash,/artist/subhalaxmi-dash,0.0,Odia,2012-06-07,0.71,0.952,0.682,0.443,-8.476,0.076,173.971,0,5,0.02,4,39,4354675,0,0,0,Happy
+Nishi Bijane,Akshya Mohanty,/artist/akshya-mohanty,0.0,Odia,2012-06-07,0.53,0.86,0.098,0.72,-7.016,0.0564,173.78,0,1,0.07,4,78,6647780,0,0,0,Sad
+Sansara Sagare,Subash Das,/artist/subash-das-1,0.0,Odia,2012-06-09,0.31,0.91,0.159,0.585,-7.247,0.0618,175.018,1,9,0.01,4,76,3122376,0,0,0,Sad
+Suvadra Sundari,Geeta Das,/artist/geeta-das,0.0,Odia,2012-06-12,0.38,0.74,0.354,0.199,-9.732,0.051,174.076,0,9,0.078,4,79,1460785,0,0,0,Sad
+Manare Manare,Ghanashyam Panda,/artist/ghanashyam-panda,0.0,Odia,2012-06-12,0.72,0.84,0.901,0.298,-11.208,0.035,174.002,0,8,0.029,4,27,810473,0,0,0,Happy
+Krishna He Murari,Sikandar Alam,/artist/sikandar-alam,0.0,Odia,2012-07-12,0.17,0.01,0.059,0.25,-4.334,0.1,174.022,0,4,0.0499,4,73,8644895,0,0,0,Sad
+Bhola Re Bhola,Arati Misra,/artist/arati-misra,0.0,Odia,2012-08-01,0.84,0.063,0.55,0.883,-11.951,0.005,177.071,1,8,0.0,4,84,8193605,0,0,0,Happy
+Chhota Mora E Ghar,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2012-08-09,0.25,0.55,0.412,0.862,-12.978,0.01,173.948,1,1,0.094,4,81,10156905,0,0,0,Sad
+Aaji Kholia,Prafulla Kar|S. Janaki,/artist/prafulla-kar|/artist/s-janaki,0.0,Odia,2012-09-03,0.25,0.72,0.063,0.812,-13.939,0.0779,172.005,0,4,0.04,4,90,37987,0,0,0,Sad
+Aahe Nila Sreela,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2012-09-04,0.18,0.079,0.093,0.512,-9.035,0.023,173.995,1,1,0.082,4,38,4568724,0,0,0,Sad
+Fatai Khaili Bela,Vijayalaxmi|Prabhasini Rath|Noor Begum|Jagyaseni,/artist/vijayalaxmi|/artist/prabhasini-rath|/artist/noor-begum|/artist/jagyaseni,0.0,Odia,2012-09-08,0.28,0.83,0.863,0.114,-7.286,0.068,173.937,0,7,0.0419,4,84,5659113,0,0,0,Happy
+Manasija Mana Mohana,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2012-09-08,0.56,0.79,0.705,0.209,-12.558,0.052,174.028,0,8,0.03,4,61,727105,0,0,0,Happy
+Kala Phula,Geeta Das,/artist/geeta-das,0.0,Odia,2012-09-12,0.19,0.973,0.792,0.943,-6.891,0.06,173.019,0,3,0.053,4,94,7393808,0,0,0,Energetic
+Keti Dina Dekhibu Tu,Siddhartha Mishra,/artist/siddhartha-mishra,0.0,Odia,2012-10-01,0.61,0.14,0.484,0.044,-12.651,0.0173,174.043,1,0,0.07,4,64,11331341,0,0,0,Sad
+Jaa Jaarey Bhaasi Jaa,Nirmal Mishra,/artist/nirmal-mishra,0.0,Odia,2012-10-02,0.12,0.79,0.611,0.664,-4.556,0.019,171.951,1,6,0.013,4,78,7811993,0,0,0,Sad
+Raat Sarabi Prita Gulabi,Sravanti Mazumder,/artist/sravanti-mazumder,0.0,Odia,2012-10-02,0.64,0.057,0.941,0.418,-5.577,0.04,173.989,1,11,0.071,4,93,10014909,0,0,0,Happy
+Tara Gela Basaria Deha,Subhasish,/artist/subhasish-1,0.0,Odia,2012-10-03,0.91,0.82,0.652,0.82,-6.16,0.058,173.999,0,5,0.0424,4,30,3816467,0,0,0,Happy
+Sandhanani Sun,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2012-10-05,0.22,0.473,0.22,0.947,-9.386,0.071,173.988,0,9,0.1,4,55,4959707,0,0,0,Sad
+A Patha Sariba,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2012-10-12,0.45,0.439,0.407,0.278,-5.326,0.067,173.989,0,7,0.0824,4,94,7478775,0,0,0,Sad
+Ahe Ramahari,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2012-11-02,0.08,0.62,0.875,0.187,-2.443,0.0595,174.004,0,10,0.09,4,58,8645041,0,0,0,Energetic
+To Bada Deule,Laxmikant,/artist/laxmikant-1,0.0,Odia,2012-11-04,1.0,0.697,0.606,0.923,-12.513,0.049,173.971,0,11,0.0596,4,48,9791350,0,0,0,Sad
+Bairee Re Bairee,Trupti Das|Anuradha Paudwal,/artist/trupti-das|/artist/anuradha-paudwal-2,0.0,Odia,2012-11-05,0.57,0.634,0.999,0.988,-5.856,0.043,173.967,1,7,0.01,4,96,2039487,0,0,0,Happy
+Bele Bele Ichha Hue,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2012-11-10,0.33,0.063,0.115,0.031,-12.48,0.03,174.058,1,2,0.07,4,91,9816553,0,0,0,Sad
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2012-12-01,0.19,0.95,0.563,0.207,-2.326,0.0001,174.988,1,11,0.09,4,97,2156511,0,0,0,Sad
+Jibana Bandhu Jaya Jaya He,sunanda patnaik,/artist/sunanda-patnaik,0.0,Odia,2012-12-03,0.56,0.996,0.205,0.938,-8.473,0.02,170.033,0,11,0.012,4,37,4495364,0,0,0,Sad
+Tumeita Jagannatha Sunibamo Guhari,Swagtika Mohapatra,/artist/swagtika-mohapatra,0.0,Odia,2013-01-02,0.76,0.095,0.863,0.439,-6.687,0.04,172.015,0,10,0.07,4,57,10249444,0,0,0,Happy
+Kete nadi ja bahi,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2013-01-08,0.57,0.07,0.627,0.543,-3.079,0.05,172.02,0,1,0.0715,4,74,10525913,0,0,0,Sad
+Nabaghana Barana,P. Susheela,/artist/p-suseela-2,0.0,Odia,2013-01-10,0.14,0.968,0.015,0.757,-13.909,0.0639,173.973,0,3,0.041,4,46,3434308,0,0,0,Sad
+Are Are Guri,Babloo|Sangeeta,/artist/babloo|/artist/sangeeta,0.0,Odia,2013-02-02,0.55,0.364,0.556,0.984,-3.447,0.03,174.008,1,10,0.072,4,90,2633051,0,0,0,Sad
+Shri Guru Charan - Hanuman Chalisha,Subash Das,/artist/subash-das-1,0.0,Odia,2013-02-03,0.63,0.69,0.18,0.15,-8.827,0.057,175.102,0,10,0.1,4,34,1228916,0,0,0,Sad
+Mohabbat Ki Ye Rit Sikho Saian Jee,Geeta Rani Das,/artist/geeta-rani-das,0.0,Odia,2013-02-04,0.46,0.854,0.794,0.541,-13.308,0.0,175.453,0,4,0.036,4,54,317122,0,0,0,Sad
+Prathame Banduchhe Sri Ganeswar,Fakir Patnaik,/artist/fakir-patnaik-55,0.0,Odia,2013-02-07,0.3,0.313,0.547,0.991,-2.508,0.1,173.948,0,11,0.086,4,88,4149911,0,0,0,Sad
+Ahe Dukha Hari,Vani Jairam|Bhikari Bal,/artist/vani-jayaram|/artist/bhikari-bal-1,0.0,Odia,2013-03-02,0.05,0.895,0.187,0.567,-5.711,0.02,172.026,0,5,0.0351,4,53,1280098,0,0,0,Sad
+Tu Kiyan Karuchhu Dukha,Anindita Das,/artist/anindita-das,0.0,Odia,2013-03-02,0.41,0.605,0.932,0.725,-13.078,0.0189,174.045,1,10,0.0372,4,94,10143989,0,0,0,Happy
+Suna Chinhe Banian,Fakir Patnaik,/artist/fakir-patnaik-26,0.0,Odia,2013-03-04,0.36,0.81,0.244,0.773,-9.548,0.0367,172.0,0,9,0.05,4,94,927571,0,0,0,Sad
+Shree Jagannathanku,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,0.0,Odia,2013-03-07,0.27,0.443,0.187,0.93,-12.031,0.086,174.04,0,1,0.013,4,82,10068198,0,0,0,Sad
+Niladrau Sankha Madhye,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2013-04-05,0.17,0.75,0.749,0.883,-13.843,0.03,173.932,0,6,0.059,4,54,1793973,0,0,0,Energetic
+Uri Uri Uri,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2013-04-07,0.55,0.368,0.659,0.069,-8.84,0.0891,172.998,0,1,0.01,4,65,9723991,0,0,0,Energetic
+Nagari Janaku Sina,S. Janaki,/artist/s-janaki,0.0,Odia,2013-05-04,0.89,0.887,0.682,0.42,-8.216,0.04,174.032,0,0,0.03,4,87,7689988,0,0,0,Happy
+Bhakati Rasire,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2013-05-05,0.19,0.84,0.933,0.162,-3.032,0.06,172.008,0,11,0.067,4,31,8244182,0,0,0,Energetic
+Shyamaku Juhara,Mohan Sunder Deb Goswami,/artist/mohan-sunder-deb-goswami-1,0.0,Odia,2013-06-01,0.67,0.442,0.901,0.134,-6.639,0.025,173.874,0,10,0.013,4,73,8069429,0,0,0,Happy
+Asara Kalash Phurna Kari Sakala Ase,Mitali Chinera,/artist/mitali-chinera,0.0,Odia,2013-06-01,0.88,0.37,0.886,0.273,-12.609,0.009,173.985,0,8,0.0407,4,90,6096486,0,0,0,Happy
+Mina To Chehara Bhala,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2013-06-03,0.83,0.863,0.604,0.818,-3.291,0.0877,177.002,0,8,0.0573,4,70,4768725,0,0,0,Happy
+Pindhi Pata Shadhi,Trupti Das|Debasis Mahapatro,/artist/trupti-das|/artist/debasis-mahapatro,0.0,Odia,2013-06-07,0.01,0.21,0.311,0.542,-11.344,0.0932,174.003,1,1,0.0009,4,70,6867952,0,0,0,Sad
+Bhujatale Mote,Bhubaneshwari Mishra,/artist/bhubaneshwari-mishra-21,0.0,Odia,2013-06-08,0.35,0.15,0.196,0.428,-3.734,0.0639,171.999,0,8,0.0879,4,100,3059378,0,0,0,Sad
+Kaicho Mali Aha,Arundhuti,/artist/arundhuti,0.0,Odia,2013-06-11,0.77,0.396,0.864,0.451,-13.905,0.071,174.968,1,7,0.033,4,52,8491858,0,0,0,Happy
+Champakali Tote,Tansen Singh,/artist/tansen-singh,0.0,Odia,2013-07-02,0.97,0.85,0.013,0.01,-11.83,0.07,174.02,0,9,0.0623,4,77,9841694,0,0,0,Sad
+Jaha Mun Khojichhi,Pranab Kishore Patnaik|H. P. Gita,/artist/pranab-kishore-patnaik|/artist/h-p-gita,0.0,Odia,2013-07-03,0.26,0.192,0.706,0.813,-12.117,0.0751,172.021,1,0,0.07,4,58,2646572,0,0,0,Energetic
+Chhadanahe Chhadana,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2013-07-04,0.58,0.561,0.423,0.104,-12.214,0.1,174.988,0,10,0.07,4,66,10636456,0,0,0,Sad
+Mu Priyatama Se To,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2013-07-09,0.12,0.02,0.187,0.936,-9.954,0.04,174.013,0,9,0.09,4,41,10045024,0,0,0,Sad
+Monar Desare,Anuradha Paudwal|Mohammad Aziz|Mahendra Kapoor|Akhyay Mohanty|Rabindra Sathe,/artist/anuradha-paudwal-2|/artist/mohammad-aziz|/artist/mahendra-kapoor|/artist/akhyay-mohanty|/artist/rabindra-sathe,0.0,Odia,2013-07-10,0.99,0.84,0.58,0.086,-11.148,0.08,174.058,0,5,0.02,4,73,11201853,0,0,0,Happy
+Kali Rati Re,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2013-08-01,0.1,0.937,0.546,0.258,-12.25,0.0195,173.003,1,2,0.07,4,95,6794682,0,0,0,Sad
+Chhadila Puriru Gadi,Mamta Sahu|Mohammad Sazid,/artist/mamta-sahu|/artist/mohammad-sazid,0.0,Odia,2013-08-07,0.43,0.668,0.182,0.396,-2.682,0.021,174.043,1,5,0.0616,4,89,9752691,0,0,0,Sad
+Basanta Bahi Gala,Arati Misra,/artist/arati-misra,0.0,Odia,2013-09-05,0.82,0.68,0.305,0.628,-4.306,0.02,174.002,1,2,0.1,4,50,6723625,0,0,0,Sad
+Chikolika bambalika,Chitta Jana,/artist/chitta-jana,0.0,Odia,2013-09-10,0.65,0.811,0.76,0.887,-11.608,0.0841,173.898,0,5,0.061,4,45,2271005,0,0,0,Happy
+Aji Mahuri Baje,Nirmal Mishra|Sangeeta Mahapatra,/artist/nirmal-mishra|/artist/sangeeta-mahapatra,0.0,Odia,2013-09-11,0.43,0.95,0.79,0.902,-13.395,0.061,174.0,1,11,0.09,4,88,5101418,0,0,0,Happy
+Chhati Dhak Khak,Leela Ghosh,/artist/leela-ghosh,0.0,Odia,2013-09-11,0.6,0.69,0.961,0.89,-7.457,0.02,170.023,1,1,0.0944,4,37,7246039,0,0,0,Energetic
+Tiki tiki tiki hue mo,Bani Joyram,/artist/bani-joyram,0.0,Odia,2013-10-04,0.33,0.71,0.032,0.426,-11.616,0.0042,174.005,0,9,0.08,4,43,9110469,0,0,0,Sad
+Re Priya Mora,Mukesh,/artist/mukesh,0.0,Odia,2013-10-04,0.42,0.63,0.293,0.2,-11.081,0.052,173.96,0,7,0.004,4,51,9652493,0,0,0,Sad
+Tumaku Nijara Karibaa Bhagya,Swarupa Chakravarty,/artist/swarupa-chakravarty,0.0,Odia,2013-10-10,0.86,0.48,0.347,0.09,-4.586,0.07,174.02,0,4,0.077,4,32,5011047,0,0,0,Sad
+Tume Jaliachha,Dibakar Mohanty,/artist/dibakar-mohanty,0.0,Odia,2013-11-01,0.92,0.43,0.491,0.976,-11.735,0.0245,174.014,0,10,0.04,4,70,10699702,0,0,0,Sad
+Aaja Eki Gumanare,Balakrishna Das,/artist/balakrishna-das,0.0,Odia,2013-11-01,0.56,0.958,0.464,0.028,-3.39,0.074,175.081,0,11,0.024,4,45,7571388,0,0,0,Sad
+Asadha Asila,Leela Ghosh,/artist/leela-ghosh,0.0,Odia,2013-11-07,0.34,0.09,0.659,0.798,-13.033,0.0318,174.025,1,2,0.04,4,73,4143585,0,0,0,Sad
+Kare Kankan Kati,Subhash Das,/artist/subhash-das,0.0,Odia,2013-11-09,0.09,0.77,0.189,0.891,-3.799,0.07,174.042,1,8,0.03,4,97,5623175,0,0,0,Sad
+Aaha Sita,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2013-11-10,0.08,0.75,0.251,0.67,-7.088,0.063,176.977,0,11,0.02,4,49,4971046,0,0,0,Sad
+Patent Medicine - Part - I,Geeta Patnaik|Sekhar Ghosh|Fakir Pattanaik,/artist/geeta-patnaik|/artist/sekhar-ghosh|/artist/fakir-pattanaik,0.0,Odia,2013-11-11,0.86,0.526,0.069,0.916,-2.609,0.07,174.111,1,8,0.1,4,39,6444393,0,0,0,Sad
+Surabalire,Fakir Patnaik,/artist/fakir-patnaik-52,0.0,Odia,2013-12-02,0.97,0.67,0.436,0.951,-2.523,0.036,173.986,1,1,0.03,4,93,11093646,0,0,0,Sad
+Eyi Je Pahad Separe,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,0.0,Odia,2013-12-03,0.7,0.292,0.935,0.902,-13.487,0.087,174.124,0,3,0.0911,4,28,6116152,0,0,0,Happy
+Dhara Dhara Hoi,P. Susheela,/artist/p-suseela-2,0.0,Odia,2013-12-04,0.74,0.32,0.072,0.341,-2.142,0.01,174.018,0,1,0.1,4,93,3543754,0,0,0,Sad
+Jogi Get,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2013-12-05,0.08,0.73,0.58,0.15,-12.798,0.0745,174.017,0,4,0.048,4,90,4266573,0,0,0,Sad
+Thik Tumari Pari Jhiatie,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,0.0,Odia,2013-12-11,0.94,0.448,0.077,0.39,-12.391,0.06,172.028,1,6,0.0622,4,75,5895799,0,0,0,Sad
+Chalare Chala Jiba,Laxmikant,/artist/laxmikant-1,0.0,Odia,2014-01-01,0.96,0.12,0.275,0.47,-10.786,0.0006,173.984,1,7,0.03,4,98,9259558,0,0,0,Sad
+Tora Bada Danda Dhuli,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2014-01-01,0.54,0.005,0.327,0.363,-4.82,0.02,174.03,0,5,0.058,4,38,6277836,0,0,0,Sad
+Bada Dande Galu,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2014-01-01,0.58,0.99,0.402,0.75,-8.495,0.0169,174.006,0,5,0.0728,4,41,6937794,0,0,0,Sad
+Chaka Ghuruachhi,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,0.0,Odia,2014-01-04,0.81,0.71,0.92,0.518,-11.939,0.013,173.004,0,5,0.062,4,73,2091499,0,0,0,Happy
+E Priyatama With Dialogue,Sekhar Ghosh|Sailajananda Nayak|Subash Das|Kumudini Mishra,/artist/sekhar-ghosh|/artist/sailajananda-nayak|/artist/subash-das-1|/artist/kumudini-mishra-1,0.0,Odia,2014-01-05,0.47,0.2,0.702,0.099,-3.588,0.02,173.999,0,4,0.003,4,60,6412332,0,0,0,Energetic
+Jogire Khoju Kahin,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2014-01-09,0.68,0.577,0.419,0.87,-9.329,0.006,173.984,1,0,0.07,4,38,4886092,0,0,0,Sad
+Bhagya Thile Dhara Dhara,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2014-02-02,0.51,0.17,0.562,0.542,-8.761,0.1,174.553,1,0,0.02,4,50,5508590,0,0,0,Sad
+Kali Je Ratire,Vani Jairam|Arati Mishra,/artist/vani-jayaram|/artist/arati-mishra,0.0,Odia,2014-02-07,0.27,0.66,0.322,0.259,-10.15,0.01,174.109,0,5,0.0633,4,55,2707732,0,0,0,Sad
+Haiho Dhoti Kana Emiti,Akshaya Mohanty|Bibhu Das,/artist/akshaya-mohanty|/artist/bibhu-das,0.0,Odia,2014-02-10,0.84,0.46,0.777,0.251,-8.723,0.03,175.017,0,4,0.074,4,76,8987067,0,0,0,Happy
+Muha Kholi Thare,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2014-03-02,0.12,0.013,0.652,0.971,-5.175,0.0626,175.02,0,8,0.0295,4,50,7289551,0,0,0,Energetic
+E Mana Khoje Jaha,S. Janaki|Vani Jairam,/artist/s-janaki|/artist/vani-jayaram,0.0,Odia,2014-03-02,0.31,0.41,0.395,0.084,-6.205,0.022,175.013,0,5,0.01,4,71,5317235,0,0,0,Sad
+Chikana Chikana,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,0.0,Odia,2014-03-02,0.97,0.73,0.805,0.335,-9.496,0.03,174.028,1,1,0.09,4,51,3869987,0,0,0,Happy
+Aja Mur Dekhili Ganashyamaku Go,Banikantha Nimai Charan Harichandan,/artist/banikantha-nimai-charan-harichandan,0.0,Odia,2014-03-03,0.08,0.91,0.551,0.782,-11.98,0.064,174.136,1,1,0.035,4,67,10875494,0,0,0,Sad
+Shyama Pirati,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2014-03-07,0.66,0.326,0.143,0.148,-9.768,0.06,174.015,1,1,0.08,4,75,4853254,0,0,0,Sad
+Kiss a miss,Anupama Deshapande,/artist/anupama,0.0,Odia,2014-04-12,0.72,0.58,0.135,0.066,-11.709,0.01,174.018,1,6,0.091,4,44,9123160,0,0,0,Sad
+Bata Chhada Bata Chhadi Diya,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2014-05-03,0.81,0.257,0.534,0.895,-8.332,0.02,173.986,0,7,0.089,4,37,2308264,0,0,0,Sad
+Mukuda Murari,Vani Jairam|Sudha Rama,/artist/vani-jayaram|/artist/sudha-rama,0.0,Odia,2014-05-05,0.74,0.478,0.27,0.55,-6.928,0.077,173.994,0,11,0.022,4,82,11039366,0,0,0,Sad
+Mathare Mo Deli Boli,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,0.0,Odia,2014-05-11,0.03,0.91,0.282,0.433,-10.557,0.0497,174.068,1,0,0.059,4,26,944616,0,0,0,Sad
+Haule Haule,Chittaranjan Jena,/artist/chittaranjan-jena-24,0.0,Odia,2014-06-02,0.52,0.27,0.706,0.527,-6.429,0.05,173.964,1,1,0.06,4,27,6186146,0,0,0,Energetic
+Music,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2014-06-08,0.19,0.62,0.361,0.773,-6.0,0.05,174.115,0,10,0.009,4,51,7988414,0,0,0,Sad
+Satta kuho sathi moro,Radharani Mishra,/artist/radharani-mishra,0.0,Odia,2014-06-10,0.02,0.12,0.47,0.407,-3.246,0.031,175.103,0,6,0.046,4,40,2866910,0,0,0,Sad
+Asiba Asiba Jane Dine Ta,Kavita Krishnamurthy|Udit Narayan,/artist/kavita-subramaniam|/artist/udit-narayan,0.0,Odia,2014-07-02,0.62,0.67,0.099,0.442,-13.442,0.041,174.068,1,1,0.092,4,72,4423759,0,0,0,Sad
+Ketebele Kanta Tume,Geeta Patnaik|Gopi Patnaik|Jamuna|Kalpana|Tansen|Subash Das|Srikanta|Jyotsna,/artist/geeta-patnaik|/artist/gopi-patnaik|/artist/jamuna|/artist/kalpana|/artist/tansen|/artist/subash-das-1|/artist/srikanta|/artist/jyotsna,0.0,Odia,2014-07-04,0.12,0.36,0.107,0.965,-9.801,0.028,173.975,1,7,0.0124,4,61,4110550,0,0,0,Sad
+Jibanare Jebe,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,0.0,Odia,2014-08-09,0.82,0.898,0.985,0.271,-9.553,0.065,173.957,1,0,0.02,4,83,3241531,0,0,0,Happy
+Rasika Aneka Thibe,Subhash Das,/artist/subhash-das,0.0,Odia,2014-09-03,0.13,0.573,0.461,0.506,-7.04,0.0425,174.02,0,5,0.07,4,35,9980245,0,0,0,Sad
+Chhai Chai O,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2014-10-12,0.72,0.255,0.272,0.624,-5.782,0.08,175.005,1,6,0.001,4,69,2091239,0,0,0,Sad
+Golapa Bane Bula,Hemanti Shukla|Bibhu Das,/artist/hemanti-shukla|/artist/bibhu-das,0.0,Odia,2014-11-02,0.16,0.416,0.903,0.586,-8.618,0.06,173.928,0,11,0.068,4,99,9840539,0,0,0,Happy
+Bhajamana Brajamana,Banikantha Nimai Charan Harichandan,/artist/banikantha-nimai-charan-harichandan,0.0,Odia,2014-11-02,0.08,0.42,0.794,0.561,-4.062,0.088,174.018,0,9,0.058,4,82,7445538,0,0,0,Energetic
+Agaru Kahuthile,mushir,/artist/mushir,0.0,Odia,2014-11-06,0.48,0.57,0.225,0.177,-4.547,0.06,173.998,0,4,0.0253,4,56,9295094,0,0,0,Sad
+Dara Nahi Bhaya Nahi,Arun Ingle,/artist/arun-ingle,0.0,Odia,2014-11-08,0.86,0.121,0.939,0.853,-9.459,0.06,173.962,1,8,0.029,4,29,2732180,0,0,0,Happy
+Chaka Nayan,Raghu Sahoo,/artist/raghu-sahoo,0.0,Odia,2014-11-11,0.76,0.968,0.522,0.35,-7.561,0.04,173.998,1,1,0.09,4,57,6394780,0,0,0,Happy
+Eai Subah Dina Ashe Hasa Khushi,Amit Kumar|Mohammad Aziz|Chandrani Mukherjee,/artist/amit-kumar|/artist/mohammad-aziz|/artist/chandrani-mukherjee,0.0,Odia,2014-12-02,0.23,0.321,0.523,0.885,-11.2,0.04,173.983,1,7,0.065,4,61,2654668,0,0,0,Sad
+Mun Jauthili Rastare Eka,Mamta Sahu|Manas Kumar,/artist/mamta-sahu|/artist/manas-kumar,0.0,Odia,2014-12-05,0.48,0.62,0.985,0.127,-10.558,0.06,174.057,1,1,0.08,4,81,6167587,0,0,0,Energetic
+Akhila Bramhnda Pati,Vani Jairam|Ramona,/artist/vani-jayaram|/artist/ramona,0.0,Odia,2014-12-07,0.28,0.64,0.376,0.342,-10.215,0.029,174.002,1,0,0.039,4,80,6433043,0,0,0,Sad
+E Banara Chai,Amit Kumar|Suman Kalyanpur,/artist/amit-kumar|/artist/suman-kalyanpur,0.0,Odia,2014-12-09,0.97,0.56,0.832,0.196,-6.042,0.0489,173.968,1,2,0.099,4,32,7224307,0,0,0,Happy
+Tume Ago Pahanti,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2014-12-12,0.14,0.35,0.482,0.099,-6.044,0.049,173.986,0,9,0.097,4,39,1450166,0,0,0,Sad
+Hai Lo Mora Berinigi Chithhi,Anuradha Paudwal|Mohammad Aziz|Mahendra Kapoor|Akhyay Mohanty|Rabindra Sathe,/artist/anuradha-paudwal-2|/artist/mohammad-aziz|/artist/mahendra-kapoor|/artist/akhyay-mohanty|/artist/rabindra-sathe,0.0,Odia,2015-01-02,0.06,0.09,0.39,0.726,-4.449,0.01,173.962,1,1,0.088,4,58,2384815,0,0,0,Sad
+Duniya Jibata Ta Jali,Mohammad Aziz|Chorus,/artist/mohammad-aziz|/artist/chorus,0.0,Odia,2015-01-03,0.89,0.66,0.747,0.054,-7.122,0.01,174.041,0,2,0.01,4,77,10823896,0,0,0,Happy
+Tumaku Paruni Ta Bhuli,Mohammed Rafi,/artist/mohammad-rafi,0.0,Odia,2015-01-04,0.75,0.5,0.67,0.265,-7.449,0.0085,173.986,0,8,0.0836,4,46,3294078,0,0,0,Happy
+Kemiti Heba Aamara Baahaa,Debashish Mahapatra,/artist/debashish-mahapatra,0.0,Odia,2015-01-06,0.3,0.52,0.617,0.657,-3.109,0.032,174.002,1,1,0.02,4,99,9338517,0,0,0,Sad
+Mo Ghara Aage Thila,Mamta Sahu|Manas Kumar,/artist/mamta-sahu|/artist/manas-kumar,0.0,Odia,2015-02-05,0.89,0.63,0.279,0.344,-9.718,0.0432,174.031,0,10,0.005,4,81,3215277,0,0,0,Sad
+Jete Rati,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,0.0,Odia,2015-02-08,0.18,0.189,0.234,0.17,-7.472,0.044,173.461,0,5,0.02,4,84,9778764,0,0,0,Sad
+Guhari Suno,Suman Kalyanpur,/artist/suman-kalyanpur,0.0,Odia,2015-02-12,0.96,0.371,0.003,0.681,-13.046,0.0919,174.004,1,8,0.049,4,72,5559209,0,0,0,Sad
+Kooili Re Kooili,Prabhasini Rath,/artist/prabhasini-rath,0.0,Odia,2015-03-08,0.64,0.52,0.586,0.927,-10.32,0.0383,172.027,0,11,0.03,4,69,4009653,0,0,0,Sad
+Phula Rasiyare Mon Mor,Sandhya Mukherjee,/artist/sandhya-mukherjee,0.0,Odia,2015-03-08,0.94,0.56,0.402,0.633,-11.543,0.02,175.001,0,3,0.029,4,43,4811727,0,0,0,Sad
+Om Hring And Khring And Khring,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2015-03-10,0.71,0.87,0.542,0.314,-12.953,0.0908,172.019,0,10,0.04,4,83,7749256,0,0,0,Happy
+Satte Gajamuga Kasi Gazara,Fakir Patnaik,/artist/fakir-patnaik-26,0.0,Odia,2015-03-10,0.2,0.476,0.254,0.022,-10.189,0.0157,174.022,0,5,0.077,4,96,1608704,0,0,0,Sad
+Kahinki Asichhu Mana,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2015-03-12,0.06,0.76,0.523,0.32,-12.37,0.024,174.0,0,9,0.0,4,92,11239574,0,0,0,Sad
+Age Age Bada Nana Jautiba,Swagtika Mohapatra,/artist/swagtika-mohapatra,0.0,Odia,2015-04-08,0.18,0.06,0.73,0.649,-13.146,0.037,174.033,1,1,0.0324,4,98,4190359,0,0,0,Energetic
+Jharaona Maa Luha,S. Janaki|Swagatika Rath,/artist/s-janaki|/artist/swagatika-rath,0.0,Odia,2015-04-10,0.33,0.535,0.301,0.302,-13.222,0.0286,175.035,1,11,0.0572,4,84,2032625,0,0,0,Sad
+Inqlab Zindabad,Gopi|Jamuna|Kalpana|Tansen|Bhikari Bal|Subash Das|Jyotsna,/artist/gopi|/artist/jamuna|/artist/kalpana|/artist/tansen|/artist/bhikari-bal-1|/artist/subash-das-1|/artist/jyotsna,0.0,Odia,2015-05-01,0.65,0.56,0.13,0.72,-3.837,0.07,174.042,0,4,0.0884,4,54,5757189,0,0,0,Sad
+Brundabane Banshi,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2015-05-03,0.82,0.235,0.74,0.847,-11.862,0.0,174.967,1,2,0.04,4,65,1902307,0,0,0,Happy
+Papare Bharichhi,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,0.0,Odia,2015-05-09,0.53,0.904,0.303,0.322,-12.947,0.0925,175.006,0,2,0.0491,4,49,4401206,0,0,0,Sad
+Jibali Aamha Babu Jodi Nahche Gaare,Anuradha Paudwal|Leela|Chorus,/artist/anuradha-paudwal-2|/artist/leela|/artist/chorus,0.0,Odia,2015-05-11,0.28,0.442,0.986,0.635,-9.135,0.01,173.952,1,2,0.0533,4,99,6419227,0,0,0,Happy
+Eka Deshe Thile Eka,Sikandar Alam,/artist/sikandar-alam,0.0,Odia,2015-05-12,0.8,0.57,0.427,0.187,-6.681,0.09,174.97,0,4,0.0253,4,40,5824632,0,0,0,Sad
+Kamala Pasara Baliki,Bhimsen Satapathi|Baidyanath Gayak Ratna Sharma,/artist/bhimsen-satapathi-3|/artist/baidyanath-gayak-ratna-sarma,0.0,Odia,2015-06-11,0.98,0.512,0.391,0.803,-8.124,0.03,174.986,1,1,0.06,4,69,3048680,0,0,0,Sad
+Phoor Kina Udigala Bani,Trupti Das|Geeta Patnaik,/artist/trupti-das|/artist/geeta-patnaik,0.0,Odia,2015-07-11,0.06,1.0,0.712,0.02,-2.1,0.02,173.942,1,10,0.0813,4,44,736013,0,0,0,Energetic
+Naba Nirada Sundara,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2015-07-12,0.7,0.59,0.425,0.403,-7.846,0.01,174.067,1,1,0.03,4,29,672852,0,0,0,Sad
+Bande Premamayee Radha,S. Janaki|balakrushna das,/artist/s-janaki|/artist/balakrushna-das,0.0,Odia,2015-08-04,0.57,0.95,0.137,0.499,-9.036,0.038,174.003,0,1,0.06,4,93,5459234,0,0,0,Sad
+Jibana Gale,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2015-08-04,0.44,0.966,0.093,0.046,-4.889,0.0343,172.038,0,4,0.053,4,79,6073412,0,0,0,Sad
+Muna Babu Raja,Chittaranjan Jena,/artist/chittaranjan-jena-13,0.0,Odia,2015-08-05,0.49,0.226,0.23,0.451,-12.871,0.05,171.981,0,5,0.015,4,48,1473835,0,0,0,Sad
+Govind Govin Gosain,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2015-08-06,0.1,0.605,0.157,0.586,-6.841,0.0969,172.892,0,7,0.067,4,35,8484430,0,0,0,Sad
+Kathatie Kahoon,Raghunath Pradhan,/artist/raghunath-pradhan,0.0,Odia,2015-09-01,0.06,0.391,0.264,0.628,-11.522,0.071,172.104,0,8,0.007,4,40,11061193,0,0,0,Sad
+Biswa Jibana He,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2015-09-01,0.26,0.829,0.664,0.826,-3.849,0.04,176.016,0,11,0.024,4,47,10102473,0,0,0,Energetic
+Keon Nama Dhari,Pranab Kishore Patnaik|Vani Jairam,/artist/pranab-kishore-patnaik|/artist/vani-jayaram,0.0,Odia,2015-09-05,0.68,0.839,0.484,0.095,-8.138,0.0751,172.015,0,0,0.01,4,93,9124812,0,0,0,Sad
+Patita Jananku Uddhariba Pain,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2015-09-11,0.88,0.939,0.429,0.368,-2.098,0.0,174.068,1,3,0.0031,4,95,5404752,0,0,0,Sad
+Snehara Basanti,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2015-10-02,0.81,0.37,0.927,0.849,-4.95,0.03,175.019,0,7,0.0538,4,70,10609830,0,0,0,Happy
+Hansuchhi Abala Khai,Unknown,/artist/unknown,0.0,Odia,2015-10-03,0.96,0.129,0.329,0.278,-13.164,0.07,174.014,1,0,0.014,4,98,7466694,0,0,0,Sad
+Jebe Tuhe Dekha Hula,Akshya Mohanty,/artist/akshya-mohanty,0.0,Odia,2015-10-06,0.15,0.22,0.494,0.604,-12.853,0.03,175.054,1,1,0.05,4,41,8492419,0,0,0,Sad
+Aja Mur Dekhili Ganashyamaku Go,Banikantha Nimai Charan Harichandan,/artist/banikantha-nimai-charan-harichandan,0.0,Odia,2015-10-07,0.19,0.953,0.756,0.297,-3.65,0.043,174.974,0,4,0.06,4,80,1026313,0,0,0,Energetic
+Prabhu Parama Brahama,Subash Das,/artist/subash-das-1,0.0,Odia,2015-10-07,0.12,0.25,0.478,0.608,-8.483,0.0499,174.999,0,8,0.057,4,36,4155550,0,0,0,Sad
+Chakadola Chakanayana,Sujan,/artist/sujan,0.0,Odia,2015-10-12,0.24,0.3,0.281,0.514,-3.288,0.026,173.97,0,10,0.09,4,51,5346080,0,0,0,Sad
+Tume Jete Dure,Laxmikant Palit|Vani Jairam,/artist/laxmikant-palit|/artist/vani-jayaram,0.0,Odia,2015-11-03,0.82,0.33,0.771,0.378,-7.331,0.019,175.043,0,10,0.086,4,76,4096706,0,0,0,Happy
+Dasta Bele Chala,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2015-11-10,0.51,0.09,0.034,0.414,-12.439,0.046,175.06,0,6,0.058,4,50,11248326,0,0,0,Sad
+Dekha Dekha Uduchi,Arun Ingle,/artist/arun-ingle,0.0,Odia,2015-11-12,0.21,0.78,0.884,0.266,-13.639,0.06,174.023,1,1,0.02,4,92,1534293,0,0,0,Energetic
+Kotha Upare Dekhili,Mohammed Aabid,/artist/mohammed-aabid,0.0,Odia,2015-12-11,0.9,0.18,0.151,0.66,-9.947,0.07,172.95,1,7,0.059,4,71,6936159,0,0,0,Sad
+Jauchhi Aji,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,0.0,Odia,2016-01-01,0.25,0.109,0.835,0.299,-2.584,0.1,173.933,0,4,0.04,4,59,9449103,0,0,0,Energetic
+Rajani Jaani To Guru,K J Yesudas|Prabhakar Samal,/artist/k-j-yesudas|/artist/prabhakar-samal,0.0,Odia,2016-01-02,0.69,0.285,0.48,0.956,-8.78,0.06,172.028,1,7,0.089,4,64,9020634,0,0,0,Sad
+Guhari Suno,Suman Kalyanpur,/artist/suman-kalyanpur,0.0,Odia,2016-01-03,0.06,0.01,0.829,0.919,-9.736,0.091,173.965,0,1,0.099,4,36,5681091,0,0,0,Energetic
+Srikrushnanka Koli Khiya (Part 2),Baidyanath Gayak Ratna Sharma|Bhimsen Satapathi,/artist/baidyanath-gayak-ratna-sarma|/artist/bhimsen-satapathi-3,0.0,Odia,2016-01-06,0.3,0.561,0.519,0.165,-4.441,0.05,174.006,0,10,0.063,4,55,9586629,0,0,0,Sad
+Tume Jadi Sathi Mor,Nirmal Mishra,/artist/nirmal-mishra,0.0,Odia,2016-02-01,0.77,0.44,0.197,0.046,-7.726,0.0251,173.867,1,5,0.0237,4,68,1140375,0,0,0,Sad
+Jaa Jaa Tumbhe,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2016-02-02,0.12,0.16,0.568,0.892,-5.737,0.0819,173.023,0,9,0.058,4,27,10402141,0,0,0,Sad
+Duba Deyi Sukha Tora Manashibu Jain (Sad),Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2016-02-05,0.14,0.107,0.948,0.595,-10.314,0.044,173.962,1,7,0.051,4,99,8978399,0,0,0,Happy
+Jibana Khojuchhi Hata Badhei,Anuradha Paudwal|Mohammad Aziz|Mahendra Kapoor|Akhyay Mohanty|Rabindra Sathe,/artist/anuradha-paudwal-2|/artist/mohammad-aziz|/artist/mahendra-kapoor|/artist/akhyay-mohanty|/artist/rabindra-sathe,0.0,Odia,2016-02-12,0.61,0.707,0.508,0.263,-13.326,0.07,175.014,1,4,0.0447,4,85,7814835,0,0,0,Happy
+Krishna He Murari,Sikandar Alam,/artist/sikandar-alam,0.0,Odia,2016-04-07,0.25,0.03,0.652,0.331,-4.965,0.02,175.0,0,11,0.08,4,68,8149127,0,0,0,Sad
+Dhira Samire Yamuna Tire,Sikandar Alam,/artist/sikandar-alam,0.0,Odia,2016-05-01,0.59,0.79,0.998,0.732,-10.894,0.06,173.964,1,10,0.03,4,66,2203862,0,0,0,Happy
+Tumi Sadhira Ranga,Prafulla Kar|Vani Jairam|Chittaranjan Jena,/artist/prafulla-kar|/artist/vani-jayaram|/artist/chittaranjan-jena-15,0.0,Odia,2016-05-02,0.57,0.17,0.187,0.489,-12.212,0.0433,173.967,1,1,0.072,4,95,10033246,0,0,0,Sad
+Besura Loka Ku Ishara Dei,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,0.0,Odia,2016-05-02,0.5,0.47,0.877,0.011,-11.976,0.09,173.991,0,4,0.003,4,81,3100936,0,0,0,Happy
+Mote Dekhile,Swagatika Mahapatra,/artist/swagatika-mahapatra,0.0,Odia,2016-05-03,0.2,0.31,0.508,0.271,-5.352,0.041,172.038,1,6,0.015,4,65,3496320,0,0,0,Sad
+Kshyamanu Kampa Dhara He,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2016-05-11,0.98,0.011,0.525,0.716,-2.116,0.05,174.03,0,10,0.069,4,37,8876686,0,0,0,Sad
+Ago Mata Basumati,Archana Das|Others|Binapani Nayak|Sadhana Das,/artist/archana-das|/artist/others|/artist/binapani-nayak-2|/artist/sadhana-das-1,0.0,Odia,2016-05-12,0.75,0.08,0.776,0.426,-13.368,0.07,172.034,1,0,0.07,4,44,1939620,0,0,0,Happy
+Kahichhanti,mushir,/artist/mushir,0.0,Odia,2016-06-03,0.29,0.987,0.084,0.923,-10.857,0.0189,173.95,1,1,0.03,4,55,11192161,0,0,0,Sad
+Mun Je Nisanga Aakashe,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2016-06-04,0.56,0.73,0.452,0.874,-9.596,0.098,172.085,0,0,0.07,4,82,11141120,0,0,0,Sad
+Sahi Nana Ama Sahi Nana,Mamta Sahu|Manas Kumar,/artist/mamta-sahu|/artist/manas-kumar,0.0,Odia,2016-06-04,0.71,0.83,0.923,0.349,-7.511,0.0311,172.987,0,5,0.02,4,57,10172798,0,0,0,Happy
+Chapi Chapi Basanti Raati,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2016-06-11,0.36,0.413,0.115,0.817,-9.026,0.0,173.992,0,2,0.06,4,88,5424925,0,0,0,Sad
+Kangsara Gharani Padmabati,Fakir Patnaik,/artist/fakir-patnaik-47,0.0,Odia,2016-07-03,0.56,0.978,0.601,0.918,-3.932,0.0976,174.029,0,4,0.05,4,76,5960473,0,0,0,Energetic
+Boita Bandana,Sikandar Alam|Bhikari Bal|Indira Nanda,/artist/sikandar-alam|/artist/bhikari-bal-1|/artist/indira-nanda,0.0,Odia,2016-07-03,0.57,0.15,0.498,0.252,-3.069,0.01,173.033,1,9,0.09,4,85,8321591,0,0,0,Sad
+Raatirey Aama Ghara Loka Sabu,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2016-07-06,0.57,0.69,0.522,0.701,-4.09,0.02,174.037,0,5,0.0574,4,48,6708382,0,0,0,Sad
+Bhasija Bhasija,Tripti Das,/artist/tripti-das,0.0,Odia,2016-07-11,0.46,0.43,0.157,0.927,-4.96,0.0757,171.98,0,4,0.0239,4,34,4100667,0,0,0,Sad
+Kahana Auta Katha,Kumudini Mishra|K. Bhanumati,/artist/kumudini-mishra|/artist/k-bhanumati,0.0,Odia,2016-08-02,0.91,0.093,0.393,0.866,-7.56,0.0018,173.943,0,10,0.0948,4,26,10956290,0,0,0,Sad
+Mote Fashire Jhulei,Jalli Mishra,/artist/jalli-mishra,0.0,Odia,2016-08-05,0.48,0.41,0.925,0.119,-3.877,0.09,175.008,0,11,0.04,4,95,2445133,0,0,0,Energetic
+He Bishnu,Unknown,/artist/unknown,0.0,Odia,2016-08-11,0.03,0.896,0.214,0.751,-2.763,0.0981,174.068,1,0,0.019,4,89,9245867,0,0,0,Sad
+Adharam Madhuram,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2016-09-01,0.64,0.508,0.119,0.763,-11.606,0.0765,173.932,1,1,0.0448,4,69,4056120,0,0,0,Sad
+Suni Thaa Mohini,Debashish Mohapatra,/artist/debashish-mohapatra,0.0,Odia,2016-09-03,0.25,0.47,0.512,0.448,-12.598,0.07,173.972,0,6,0.087,4,72,6104393,0,0,0,Sad
+Kali Kapali - Prafulla Kar,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2016-09-06,0.84,0.41,0.053,0.312,-4.921,0.07,174.99,1,11,0.09,4,68,5498002,0,0,0,Sad
+Sri Purushottama,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2016-09-07,0.46,0.08,0.122,0.815,-4.701,0.0257,174.016,0,10,0.0052,4,47,3753688,0,0,0,Sad
+Ekare Aneka,Sikandar Alam,/artist/sikandar-alam,0.0,Odia,2016-10-05,0.53,0.61,0.449,0.952,-11.241,0.1,174.997,1,8,0.06,4,78,6037249,0,0,0,Sad
+Tume Mora Mu Tumara,Rani Varma|Swarupa Chakravarty,/artist/rani-varma|/artist/swarupa-chakravarty,0.0,Odia,2016-10-10,0.51,0.556,0.665,0.829,-4.168,0.005,175.069,1,6,0.003,4,50,7863639,0,0,0,Energetic
+Jogi Geet,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2016-10-12,0.04,0.31,0.099,0.726,-6.04,0.018,172.736,0,10,0.0319,4,48,6158831,0,0,0,Sad
+Mo Akhire Luha Mahin,Swagtika Mohapatra,/artist/swagtika-mohapatra,0.0,Odia,2016-11-01,0.61,0.515,0.631,0.683,-11.923,0.07,173.931,1,5,0.01,4,93,6446513,0,0,0,Happy
+Mu Abhimaanini Boli,Swarupa Chakravarty,/artist/swarupa-chakravarty,0.0,Odia,2016-11-05,0.37,0.446,0.179,0.384,-3.239,0.01,174.068,1,1,0.02,4,79,8990255,0,0,0,Sad
+Bandhure Shyamsundar,Ghanashyam Panda,/artist/ghanashyam-panda,0.0,Odia,2016-11-07,0.05,0.784,0.108,0.994,-12.493,0.0019,171.983,0,9,0.071,4,64,10916738,0,0,0,Sad
+Dekha Bhida Hu Dekha,Swagatika,/artist/swagatika,0.0,Odia,2016-11-07,0.89,0.632,0.068,0.351,-10.044,0.06,174.943,1,1,0.0246,4,64,3044270,0,0,0,Sad
+Mu Jhuruchhi,Naba Mahattam,/artist/naba-mahattam,0.0,Odia,2016-11-12,0.33,0.66,0.748,0.961,-9.667,0.069,174.05,0,10,0.094,4,90,384928,0,0,0,Happy
+Mafasali Boli Mote,Sushree Sangeeta Mahapatra,/artist/sushree-sangeeta-mahapatra-4,0.0,Odia,2016-12-04,0.06,0.611,0.43,0.106,-9.686,0.08,171.987,1,9,0.09,4,48,3956220,0,0,0,Sad
+To Lagi Bada Danda,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2016-12-05,0.82,0.56,0.952,0.546,-7.804,0.038,173.988,0,0,0.0845,4,75,8149769,0,0,0,Happy
+Konaraka Gatha - Akhshay Mohanty,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2016-12-07,0.28,0.964,0.419,0.87,-8.185,0.017,174.013,0,7,0.1,4,70,875087,0,0,0,Sad
+Madhure Manda Manda,Balakrishna Das,/artist/balakrishna-das,0.0,Odia,2016-12-10,0.94,0.514,0.095,0.127,-3.643,0.0,174.012,0,10,0.061,4,54,5140610,0,0,0,Sad
+Sumara Chadli Rakhi Baku Rupara,Badal Kumar|Tripti Das,/artist/badal-kumar|/artist/tripti-das,0.0,Odia,2017-01-02,0.94,0.97,0.334,0.927,-7.341,0.0496,174.043,1,1,0.048,4,62,1861800,0,0,0,Sad
+Rumjhum Tora Chaliki,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,0.0,Odia,2017-01-07,0.37,0.27,0.163,0.094,-11.872,0.0428,174.026,0,8,0.0394,4,89,9118756,0,0,0,Sad
+Ei Rum Jhum Jhum Barasha,Geeta Patnaik,/artist/geeta-patnaik,0.0,Odia,2017-01-09,0.2,0.54,0.678,0.762,-3.214,0.051,174.036,0,10,0.051,4,43,1553568,0,0,0,Energetic
+Namo Niranjana Nikhila Nidhana,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2017-01-10,0.83,0.88,0.591,0.645,-6.799,0.016,174.008,1,9,0.06,4,50,6195549,0,0,0,Happy
+Tora Ei Khilikhili,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2017-01-11,0.09,0.677,0.682,0.76,-3.377,0.0647,174.033,0,10,0.08,4,39,3867682,0,0,0,Energetic
+Kumbha Jodi Jodi,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2017-02-06,0.4,0.48,0.391,0.634,-5.31,0.01,173.978,0,4,0.02,4,43,4639231,0,0,0,Sad
+Ame to bhai,Akshya Mohanty,/artist/akshya-mohanty,0.0,Odia,2017-02-10,0.53,0.97,0.407,0.847,-2.007,0.09,173.996,0,5,0.05,4,38,7950408,0,0,0,Sad
+E Gumsum Rati,Swarupa Chakravarty,/artist/swarupa-chakravarty,0.0,Odia,2017-03-11,0.25,0.51,0.695,0.122,-8.901,0.0561,174.84,1,8,0.06,4,86,9792983,0,0,0,Happy
+To Jeebana Lnhoi,Pranab Kishore Pattnayak,/artist/pranab-kishore-pattnayak,0.0,Odia,2017-04-03,0.71,0.13,1.0,0.942,-3.843,0.0045,173.998,1,1,0.027,4,57,9611927,0,0,0,Energetic
+Aare Kalakar Kalia,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2017-04-03,0.79,0.267,0.134,0.644,-11.559,0.0709,173.969,0,11,0.07,4,42,8593092,0,0,0,Sad
+Devjani,Subash Das|Arati Mishra,/artist/subash-das-1|/artist/arati-mishra,0.0,Odia,2017-04-05,0.35,0.016,0.995,0.826,-13.364,0.0472,173.99,1,6,0.0323,4,82,614686,0,0,0,Happy
+Hazoor Mora,Geeta Patnaik,/artist/geeta-patnaik,0.0,Odia,2017-04-10,0.73,0.361,0.034,0.113,-10.405,0.01,174.977,0,2,0.031,4,71,7828283,0,0,0,Sad
+Mistiry O Mistiry,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2017-05-09,0.36,0.55,0.519,0.976,-3.108,0.072,174.038,0,10,0.08,4,91,5070582,0,0,0,Sad
+Bahu Shastra,Archana Das|Balakrishna Das,/artist/archana-das|/artist/balakrishna-das,0.0,Odia,2017-05-12,0.37,0.975,0.064,0.707,-8.261,0.07,174.008,0,10,0.0,4,76,2760507,0,0,0,Sad
+Bhoji Khaili,Baidyanath Gayak Ratna Sharma|Bhimsen Satapathi,/artist/baidyanath-gayak-ratna-sarma|/artist/bhimsen-satapathi-4,0.0,Odia,2017-06-01,0.77,0.55,0.754,0.502,-8.063,0.085,174.987,0,9,0.0,4,32,3154478,0,0,0,Happy
+Hrudaya Bhari Mora,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2017-06-01,0.24,0.483,0.651,0.745,-13.546,0.055,169.98,1,9,0.077,4,31,10521709,0,0,0,Sad
+Naba Keli,Baidyanath Gayak Ratna Sharma|Bhimsen Satapathi,/artist/baidyanath-gayak-ratna-sarma|/artist/bhimsen-satapathi-6,0.0,Odia,2017-06-01,0.87,0.15,0.012,0.382,-11.875,0.052,175.026,1,6,0.0579,4,60,5086159,0,0,0,Sad
+Shamaku Juhara,Pranab Kishore Patnaik|P. Susheela,/artist/pranab-kishore-patnaik|/artist/p-suseela-2,0.0,Odia,2017-06-02,0.51,0.15,0.376,0.542,-3.909,0.05,173.813,1,2,0.077,4,60,5965062,0,0,0,Sad
+Jeebana Kalasa Purna Karicha,Uttara Kelkar,/artist/uttara-kelkar,0.0,Odia,2017-06-07,0.87,0.687,0.577,0.554,-9.711,0.007,173.999,0,11,0.0957,4,76,10336233,0,0,0,Happy
+Aemitika Dihn,Raghu Sahoo,/artist/raghu-sahoo,0.0,Odia,2017-06-08,0.03,0.47,0.945,0.688,-2.857,0.018,173.984,1,6,0.07,4,99,7885575,0,0,0,Energetic
+Akhi Nain Kana Nain,Km. Adyasa Roy,/artist/km-adyasa-roy,0.0,Odia,2017-06-11,0.55,0.11,0.499,0.585,-5.63,0.091,172.017,0,7,0.052,4,37,8570764,0,0,0,Sad
+Aalo Aalo Moro Aleicha,Geeta Rani Das,/artist/geeta-rani-das,0.0,Odia,2017-06-12,0.4,0.5,0.23,0.777,-13.988,0.0333,174.976,0,8,0.078,4,69,614840,0,0,0,Sad
+Mukhoji Buley Jaarey,Swarupa Chakravarty,/artist/swarupa-chakravarty,0.0,Odia,2017-07-02,0.01,0.6,0.087,0.637,-8.774,0.0872,175.002,0,10,0.013,4,80,1890026,0,0,0,Sad
+Shrikrushnara Banshi,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2017-07-04,0.52,0.855,0.357,0.499,-8.115,0.06,173.995,0,5,0.1,4,88,1038087,0,0,0,Sad
+Olli Olli,Bani Joyram,/artist/bani-joyram,0.0,Odia,2017-07-07,0.32,0.082,0.859,0.197,-8.286,0.03,174.031,1,1,0.084,4,65,9750344,0,0,0,Energetic
+Nadi Nadi Alo Nadi,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,0.0,Odia,2017-07-08,0.9,0.66,0.037,0.598,-7.799,0.0289,171.824,1,8,0.0074,4,90,10686031,0,0,0,Sad
+Shyamaku Juhara,Bhubaneshwari Mishra,/artist/bhubaneshwari-mishra-27,0.0,Odia,2017-07-09,0.16,0.25,0.168,0.67,-7.337,0.007,174.013,1,8,0.0114,4,46,757401,0,0,0,Sad
+Odia Jhia Ku Prema Mu Kali,Sankar Ghosh,/artist/sankar-ghosh,0.0,Odia,2017-07-09,0.69,0.872,0.809,0.258,-6.021,0.007,173.903,0,11,0.0197,4,80,11177921,0,0,0,Happy
+Jiba Mathura Mohana,Naba Mahattam,/artist/naba-mahattam,0.0,Odia,2017-07-10,0.17,0.572,0.863,0.494,-2.313,0.0102,172.029,1,1,0.1,4,63,479922,0,0,0,Energetic
+Rakha Rakhidia Gadita,Debashish Mahapatra,/artist/debashish-mahapatra,0.0,Odia,2017-07-12,0.34,0.35,0.046,0.399,-5.154,0.005,174.004,1,1,0.08,4,72,4131870,0,0,0,Sad
+Kiti Kiti Kitika,Mamta Sahu|Kumar Dilu|Baby Arpita,/artist/mamta-sahu|/artist/kumar-dilu|/artist/baby-arpita,0.0,Odia,2017-08-07,0.24,0.112,0.051,0.43,-2.384,0.0,173.996,0,0,0.063,4,78,8047445,0,0,0,Sad
+Are E Jhia Mane,Prafulla Kar|Pranab Kishore Patnaik,/artist/prafulla-kar|/artist/pranab-kishore-patnaik,0.0,Odia,2017-10-02,0.9,0.94,0.605,0.798,-2.213,0.06,174.015,0,5,0.087,4,99,7200599,0,0,0,Energetic
+Chiki Chiki Chikei,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,0.0,Odia,2017-10-06,0.88,0.229,0.057,0.881,-5.39,0.04,175.942,0,11,0.0541,4,45,7082487,0,0,0,Sad
+Garv Anthem - An Anthem Created By Espn For The League,Unknown,/artist/unknown,0.0,Odia,2017-10-09,0.33,0.617,0.208,0.796,-9.578,0.0337,174.034,1,2,0.016,4,100,9373900,0,0,0,Sad
+Ashila Ratha Jatara,Swagtika Mohapatra,/artist/swagtika-mohapatra,0.0,Odia,2017-10-10,0.99,0.865,0.726,0.018,-9.886,0.034,175.001,1,0,0.04,4,70,6047287,0,0,0,Happy
+Dheere Dheere Ooth,Naba Mahattam,/artist/naba-mahattam,0.0,Odia,2017-11-02,0.17,0.45,0.735,0.559,-7.162,0.099,174.056,0,3,0.0534,4,78,9026548,0,0,0,Happy
+Abhimani Bandhure,Debasish Mohapatra,/artist/debasish-mohapatra,0.0,Odia,2017-11-02,0.11,0.713,0.025,0.337,-6.269,0.01,172.059,0,11,0.0735,4,71,5663369,0,0,0,Sad
+Jaare Toka Jaa,Mohammed Aabid|Nandita Bhanja,/artist/mohammed-aabid|/artist/nandita-bhanja,0.0,Odia,2017-11-07,0.11,0.2,0.73,0.726,-3.952,0.066,174.037,1,8,0.057,4,62,4631982,0,0,0,Energetic
+Jhimi Jhimi Ta Maza,Asha Bhosle,/artist/asha-bhosle-1,0.0,Odia,2017-11-08,0.32,0.4,0.473,0.295,-5.35,0.098,174.982,0,1,0.0236,4,88,7014501,0,0,0,Sad
+Janichhi Mu,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2017-11-10,0.47,0.305,0.639,0.054,-11.786,0.0404,174.059,1,11,0.01,4,44,4501170,0,0,0,Sad
+Kalapabata Mule,Raghu Sahoo,/artist/raghu-sahoo,0.0,Odia,2017-11-12,0.02,0.97,0.637,0.078,-11.847,0.09,174.037,1,11,0.074,4,60,7447090,0,0,0,Sad
+Kara Kshama Re,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2017-12-05,0.63,0.74,0.41,0.834,-8.265,0.09,174.95,1,8,0.029,4,34,2569708,0,0,0,Sad
+Jagata Karaja Natha,Naba Mahattam,/artist/naba-mahattam,0.0,Odia,2017-12-09,0.59,0.372,0.811,0.49,-3.242,0.06,173.999,0,5,0.0496,4,93,9442910,0,0,0,Energetic
+Mo Manara Chadhei,Vani Jairam|Chittaranjan Jena,/artist/vani-jayaram|/artist/chittaranjan-jena-18,0.0,Odia,2018-01-02,0.24,0.274,0.732,0.664,-9.603,0.0195,173.987,1,11,0.03,4,94,4702544,0,0,0,Happy
+Damora Kaure,Arati Basu,/artist/arati-basu-5,0.0,Odia,2018-01-04,0.08,0.94,0.806,0.027,-7.104,0.053,175.011,0,3,0.0818,4,74,849273,0,0,0,Energetic
+Dura Parabata,Sangeeta,/artist/sangeeta,0.0,Odia,2018-01-05,0.9,0.129,0.959,0.033,-9.858,0.02,171.952,0,7,0.04,4,63,358748,0,0,0,Happy
+Abhimaninee Amaniya Dehu,Aarti Mukherji,/artist/aarti-mukherji,0.0,Odia,2018-01-12,0.64,0.24,0.47,0.765,-13.821,0.03,174.002,1,2,0.0492,4,99,1483748,0,0,0,Sad
+Tumari Duaru Khali Hatha Nei,Mohammad Aziz|Chorus,/artist/mohammad-aziz|/artist/chorus,0.0,Odia,2018-02-05,0.69,0.24,0.962,0.111,-4.874,0.091,174.027,1,1,0.023,4,63,1736593,0,0,0,Energetic
+Kali Rati Rey,Mohapatro Minati Bha,/artist/mohapatro-minati-bha,0.0,Odia,2018-02-08,0.11,0.818,0.967,0.101,-10.426,0.01,174.969,1,2,0.01,4,89,8189240,0,0,0,Happy
+Saje Mu,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,0.0,Odia,2018-03-01,0.9,0.6,0.561,0.004,-12.116,0.092,175.052,0,10,0.03,4,61,7923546,0,0,0,Sad
+Malli Phooti Mahaki,Noor Begum,/artist/noor-begum,0.0,Odia,2018-03-03,0.2,0.964,0.133,0.725,-10.557,0.077,174.03,1,5,0.1,4,58,11313376,0,0,0,Sad
+Tame Deithila Katha,Sourav Nayak,/artist/sourav-nayak,0.0,Odia,2018-03-03,0.12,0.08,0.72,0.353,-12.503,0.05,173.96,0,8,0.065,4,94,3629169,0,0,0,Happy
+Akha Banda Chaka Banda,Leela Ghosh,/artist/leela-ghosh,0.0,Odia,2018-03-07,0.98,0.59,0.124,0.911,-8.674,0.09,175.004,1,5,0.01,4,92,2210894,0,0,0,Sad
+Bata Chada,Kumar Sanu,/artist/kumar-sanu,0.0,Odia,2018-04-02,0.86,0.61,0.093,0.966,-11.802,0.0479,171.83,1,1,0.05,4,69,5007249,0,0,0,Sad
+Kia Kahe Tote,Bandita Roy,/artist/bandita-roy,0.0,Odia,2018-04-03,0.35,0.461,0.86,0.977,-6.334,0.076,174.002,0,11,0.04,4,96,6972375,0,0,0,Energetic
+Nanda Goura,Unknown,/artist/unknown,0.0,Odia,2018-04-03,0.1,0.837,0.944,0.456,-5.914,0.04,173.987,1,6,0.02,4,45,2290201,0,0,0,Energetic
+Manua Re Hari Nama Kara Bhajan,Swagatika,/artist/swagatika,0.0,Odia,2018-05-02,0.04,0.15,0.604,0.617,-8.361,0.0671,174.033,0,10,0.0,4,72,7149449,0,0,0,Sad
+Rahila Jai,Swagatika Mahapatra,/artist/swagatika-mahapatra,0.0,Odia,2018-05-02,0.51,0.511,0.053,0.729,-11.682,0.0285,173.944,0,1,0.05,4,26,10247256,0,0,0,Sad
+Ase Usha Bhari,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2018-05-07,0.79,0.45,0.523,0.696,-11.508,0.057,175.0,0,10,0.0919,4,64,1955153,0,0,0,Sad
+Bata Bhooli Asila Ki,S. Janaki,/artist/s-janaki,0.0,Odia,2018-05-07,0.52,0.99,0.284,0.48,-3.599,0.0926,173.885,1,2,0.0156,4,51,4944676,0,0,0,Sad
+Baisi Puri Tejsi,Kavita Krishnamurthy,/artist/kavita-subramaniam,0.0,Odia,2018-05-07,0.56,0.13,0.894,0.582,-2.84,0.056,173.969,1,1,0.0243,4,42,5996458,0,0,0,Energetic
+Kahai Mana Are,Chitta Jena,/artist/chitta-jena,0.0,Odia,2018-05-08,0.44,0.14,0.123,0.575,-7.092,0.0074,174.029,0,11,0.02,4,30,10897915,0,0,0,Sad
+Kemiti Prema,Amjad|Swagatika Mahapatra,/artist/amjad|/artist/swagatika-mahapatra,0.0,Odia,2018-06-01,0.82,0.01,0.281,0.905,-13.3,0.0988,172.021,0,5,0.087,4,29,3996022,0,0,0,Sad
+Amora Manasi Asa,Sikandar Alam|S. Vidyarani,/artist/sikandar-alam|/artist/s-vidyarani-1,0.0,Odia,2018-06-03,0.33,0.495,0.342,0.352,-10.004,0.001,174.031,0,9,0.0416,4,73,773965,0,0,0,Sad
+Saa Gaa Paa,Santanu Mohapatra,/artist/santanu-mohapatra,0.0,Odia,2018-06-04,0.14,0.47,0.123,0.187,-12.446,0.064,172.014,1,6,0.063,4,52,6120091,0,0,0,Sad
+Tora Saja Phuta Dehaku,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2018-06-04,0.81,0.686,0.724,0.084,-2.521,0.0003,175.029,0,5,0.084,4,45,7621412,0,0,0,Energetic
+Lekha He Bako Jauchi Eko Nua Kahani,Anuradha Paudwal|Udit Narayan|Chorus,/artist/anuradha-paudwal-2|/artist/udit-narayan|/artist/chorus,0.0,Odia,2018-06-09,0.39,0.02,0.621,0.064,-5.249,0.0519,173.971,0,10,0.023,4,85,9429448,0,0,0,Sad
+Dhali Dhali Ama Holi Holi,Swagatika,/artist/swagatika,0.0,Odia,2018-06-11,0.57,0.45,0.812,0.661,-4.676,0.016,174.09,0,2,0.0679,4,89,7863580,0,0,0,Happy
+Akhila Bramhnda Pati,Vani Jairam|Ramona,/artist/vani-jayaram|/artist/ramona,0.0,Odia,2018-06-12,0.9,0.74,0.789,0.046,-11.611,0.047,173.996,0,1,0.0106,4,66,2532864,0,0,0,Happy
+Ma Ma Bali,Swagatika,/artist/swagatika,0.0,Odia,2018-07-03,0.32,0.85,0.404,0.857,-10.748,0.01,174.092,0,10,0.09,4,59,1269741,0,0,0,Sad
+Tak Dhina Dhin,BANALAXMI KANUNGO,/artist/banalaxmi-kanungo,0.0,Odia,2018-07-05,0.92,0.66,0.921,0.378,-12.368,0.0276,176.096,0,5,0.004,4,57,1884078,0,0,0,Happy
+Kahare Kiese,Chittaranjan Jena,/artist/chittaranjan-jena-14,0.0,Odia,2018-07-05,0.71,0.472,0.364,0.212,-5.62,0.063,173.992,1,1,0.03,4,35,9584519,0,0,0,Sad
+Aaj Mo Mano,S. Janaki,/artist/s-janaki,0.0,Odia,2018-07-05,0.22,0.06,0.897,0.517,-7.337,0.07,174.002,0,3,0.07,4,43,10436704,0,0,0,Energetic
+Ma Makundi Ki Too Ba Makunda,Mamta Sahu|Mohammad Sazid,/artist/mamta-sahu|/artist/mohammad-sazid,0.0,Odia,2018-07-11,0.33,1.0,0.608,0.677,-10.79,0.088,173.99,0,9,0.064,4,53,1156282,0,0,0,Sad
+Mana Mandire,S. Janaki,/artist/s-janaki,0.0,Odia,2018-08-09,0.81,0.55,0.824,0.809,-13.043,0.09,176.157,0,10,0.0556,4,51,2087674,0,0,0,Happy
+Baasa Mora - Sekhar Ghosh,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2018-08-12,0.19,0.657,0.263,0.321,-6.098,0.004,174.029,0,5,0.0826,4,81,598103,0,0,0,Sad
+Kalaa Kanhure,Swagatika Mahapatra,/artist/swagatika-mahapatra,0.0,Odia,2018-09-03,0.88,0.496,0.131,0.687,-2.231,0.04,173.988,0,2,0.074,4,32,5890839,0,0,0,Sad
+Ekla Ekla,Sasmita,/artist/sasmita,0.0,Odia,2018-10-11,0.36,0.43,0.711,0.313,-12.095,0.06,175.016,0,11,0.031,4,33,9719916,0,0,0,Happy
+Ratna Singhasana,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2018-10-12,0.67,0.32,0.237,0.123,-6.12,0.09,173.969,0,11,0.02,4,67,9635718,0,0,0,Sad
+Ei Chhota Kathatie Bhulo Na,Usha Mangeshkar|Pranab Kishore Patnaik,/artist/usha-mangeshkar-2|/artist/pranab-kishore-patnaik,0.0,Odia,2018-11-02,0.88,0.57,0.989,0.047,-4.833,0.0687,174.026,1,11,0.0118,4,94,2360808,0,0,0,Energetic
+Gadiala Bhai Dharichhi Sura,Arati Misra,/artist/arati-misra,0.0,Odia,2018-11-04,0.59,0.87,0.449,0.115,-12.664,0.06,172.082,0,4,0.0364,4,62,10156320,0,0,0,Sad
+Jibana Patra Mo Bharichha Kete Mate,sunanda patnaik,/artist/sunanda-patnaik,0.0,Odia,2018-11-10,0.07,0.412,0.913,0.838,-8.818,0.057,172.017,0,11,0.079,4,73,5908029,0,0,0,Happy
+Boita Bandana,Sikandar Alam|Indira Nanda|Bhikari Bal,/artist/sikandar-alam|/artist/indira-nanda|/artist/bhikari-bal-1,0.0,Odia,2018-11-11,0.18,0.77,0.128,0.674,-13.432,0.02,171.764,0,7,0.0,4,91,3766268,0,0,0,Sad
+Mandire Tote,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,0.0,Odia,2018-12-01,0.64,0.31,0.916,0.559,-8.367,0.055,175.013,0,10,0.09,4,65,4126559,0,0,0,Happy
+Mu Eka Bhasa Bauda,Chittaranjan Jena,/artist/chittaranjan-jena-26,0.0,Odia,2018-12-05,0.83,0.59,0.608,0.081,-7.151,0.03,171.98,0,5,0.03,4,58,4297707,0,0,0,Happy
+Galuni Sari Sama He,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2018-12-10,0.83,0.71,0.768,0.519,-10.401,0.1,175.084,1,2,0.0283,4,95,7727217,0,0,0,Happy
+Kahinki Asichhu Mana,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2019-01-01,0.98,0.527,0.582,0.717,-2.275,0.01,170.051,0,4,0.058,4,28,378315,0,0,0,Sad
+Kalia Dhana Re,Anindita Das,/artist/anindita-das,0.0,Odia,2019-02-03,0.51,0.32,0.54,0.714,-2.208,0.0184,174.053,1,6,0.06,4,29,176621,0,0,0,Sad
+Dinabandhu Ehi Ali,Balakrishna Das,/artist/balakrishna-das,0.0,Odia,2019-02-09,0.41,0.65,0.451,0.144,-12.325,0.08,174.005,0,10,0.0387,4,83,7341014,0,0,0,Sad
+False Re Dunia,mushir,/artist/mushir,0.0,Odia,2019-02-12,0.67,0.065,0.314,0.814,-12.273,0.03,172.017,1,5,0.01,4,80,4963552,0,0,0,Sad
+Manar Katha,Babu|Sasmita,/artist/babu|/artist/sasmita,0.0,Odia,2019-03-03,0.36,0.11,0.323,0.266,-2.93,0.092,174.031,0,0,0.003,4,26,6826679,0,0,0,Sad
+Niladrau Sankha Madhye,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2019-03-09,0.11,0.94,0.639,0.089,-3.921,0.0155,170.026,0,11,0.01,4,80,5496545,0,0,0,Sad
+Enta Duipaharia,Naba|Sangeeta,/artist/naba|/artist/sangeeta,0.0,Odia,2019-04-01,0.29,0.46,0.017,0.439,-12.394,0.048,174.99,1,1,0.05,4,99,6330556,0,0,0,Sad
+Mo Kolo To,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,0.0,Odia,2019-04-03,0.55,0.843,0.008,0.517,-13.49,0.046,173.989,0,2,0.0242,4,55,836815,0,0,0,Sad
+Janena Kahaku Mu Paichi Paichi,Shabbir Kumar|Anuradha Paudwal,/artist/shabbir-kumar|/artist/anuradha-paudwal-2,0.0,Odia,2019-04-11,0.88,0.122,0.448,0.501,-12.725,0.0137,173.969,1,0,0.0884,4,73,3433757,0,0,0,Sad
+Kaicho Mali,Arundhuti,/artist/arundhuti,0.0,Odia,2019-05-01,0.36,0.639,0.457,0.271,-13.962,0.05,173.998,0,5,0.0614,4,70,10458108,0,0,0,Sad
+Radha Jhuruchhere,Krishna Patel|Bibhuti Patnaik,/artist/krishna-patel|/artist/bibhuti-patnaik-4,0.0,Odia,2019-05-01,0.63,0.39,0.156,0.977,-9.941,0.046,175.005,0,7,0.03,4,60,7466444,0,0,0,Sad
+Ma Tuma Panatare Muharu,Swagtika Mohapatra,/artist/swagtika-mohapatra,0.0,Odia,2019-07-03,0.15,0.918,0.227,0.87,-2.864,0.072,174.035,0,11,0.041,4,77,1932126,0,0,0,Sad
+Niladrau Sankha Madhye,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2019-07-11,0.87,0.11,0.965,0.347,-6.63,0.02,171.994,0,4,0.03,4,44,3144785,0,0,0,Happy
+Kie Ethi Peta Poshe,Santanu Mohapatra,/artist/santanu-mohapatra,0.0,Odia,2019-08-06,0.83,0.52,0.383,0.751,-2.937,0.07,174.077,1,7,0.017,4,89,5803940,0,0,0,Sad
+Gaya Gaya Nanda,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2019-09-01,0.4,0.282,0.737,0.403,-3.906,0.04,174.088,0,6,0.0532,4,60,1274682,0,0,0,Energetic
+Shakati Tikie,Pranab Kishore Pattnayak,/artist/pranab-kishore-pattnayak,0.0,Odia,2019-09-05,0.44,0.848,0.25,0.703,-7.319,0.005,173.993,1,7,0.036,4,91,904999,0,0,0,Sad
+Kahile Ta Kula,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,0.0,Odia,2019-10-01,0.64,0.067,0.067,0.522,-9.49,0.0128,174.984,1,7,0.0434,4,73,7506605,0,0,0,Sad
+Prabhu Pada Tale Pronoti Dhale,Nirmal Mishra|Bhikari Bal,/artist/nirmal-mishra|/artist/bhikari-bal-1,0.0,Odia,2019-10-08,0.12,0.97,0.603,0.619,-6.198,0.008,174.017,0,6,0.02,4,88,9576675,0,0,0,Sad
+Yea Jebana Alum Aa Re Title,Sourav Nayak,/artist/sourav-nayak,0.0,Odia,2019-10-12,0.94,0.85,0.863,0.343,-6.588,0.05,174.03,0,10,0.0351,4,97,3298519,0,0,0,Happy
+Are Gagadia,Subash Das|Nanditha,/artist/subash-das-1|/artist/nanditha,0.0,Odia,2019-11-01,0.9,0.98,0.764,0.204,-5.291,0.03,175.052,1,6,0.066,4,49,11171139,0,0,0,Happy
+Ratha Gadi Gala,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2019-11-03,0.78,0.737,0.716,0.472,-12.242,0.0022,174.841,0,7,0.09,4,57,1858553,0,0,0,Happy
+Jama Ragani,Sourav Nayak,/artist/sourav-nayak,0.0,Odia,2019-11-09,0.38,0.661,0.921,0.722,-9.363,0.07,174.019,0,3,0.0723,4,26,3862746,0,0,0,Energetic
+Kandarpar Mandra,Trupti Das,/artist/trupti-das,0.0,Odia,2019-11-10,0.4,0.162,0.065,0.919,-2.117,0.002,175.008,0,1,0.008,4,69,9108008,0,0,0,Sad
+Chandana Charchita Nila Kalebara,Nirmal Mishra,/artist/nirmal-mishra,0.0,Odia,2019-11-11,0.47,0.54,0.719,0.689,-13.183,0.064,174.036,1,1,0.025,4,46,8961792,0,0,0,Energetic
+Suna Nei Ja,Leela Ghosh,/artist/leela-ghosh,0.0,Odia,2020-01-01,0.33,0.766,0.079,0.967,-6.79,0.0224,172.019,1,8,0.1,4,75,5617252,0,0,0,Sad
+Gan Kaniya Kahi,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2020-01-11,0.97,0.824,0.911,0.089,-6.92,0.0467,174.039,0,9,0.036,4,98,7439943,0,0,0,Happy
+Jagannatha Keun Ade,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2020-01-11,0.43,0.83,0.505,0.336,-11.879,0.0783,169.857,0,9,0.0886,4,51,11367321,0,0,0,Sad
+Mora Kapale Baisi Pancha,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2020-02-01,0.32,0.764,0.571,0.594,-3.164,0.01,172.029,0,10,0.0884,4,40,9359979,0,0,0,Sad
+Jana Asadhu Eta,Lipika Nanda,/artist/lipika-nanda,0.0,Odia,2020-02-04,0.49,0.529,0.552,0.041,-11.982,0.09,174.005,0,5,0.042,4,84,8141133,0,0,0,Sad
+E Bhikhyare,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2020-02-05,0.29,0.396,0.657,0.861,-12.506,0.1,172.992,0,0,0.016,4,93,10276084,0,0,0,Happy
+Nani Nani Tu Tamora,Srikanta Das,/artist/srikanta-das,0.0,Odia,2020-02-05,0.3,0.965,0.765,0.636,-10.643,0.05,174.019,1,9,0.03,4,42,10985610,0,0,0,Happy
+Kalia Re Kalia,Anita Goswami,/artist/anita-goswami,0.0,Odia,2020-02-08,0.55,0.68,0.823,0.143,-12.455,0.0399,173.966,0,5,0.0912,4,40,1435965,0,0,0,Happy
+Au Na Pare Chali,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2020-02-09,0.92,0.01,0.998,0.333,-8.486,0.04,175.114,1,1,0.0208,4,55,6697226,0,0,0,Energetic
+Chher Chhera,Hrushi Meher|Manoj|Satya Mishra,/artist/hrushi-meher|/artist/manoj|/artist/satya-mishra,0.0,Odia,2020-02-09,0.88,0.497,0.33,0.476,-2.05,0.0677,173.947,0,9,0.0529,4,37,2243695,0,0,0,Sad
+Surya Uinle,Chittaranjan Jena,/artist/chittaranjan-jena-21,0.0,Odia,2020-02-10,0.95,0.088,0.97,0.238,-13.748,0.059,175.018,0,4,0.046,4,83,9681668,0,0,0,Happy
+Hayre Hay,Vani Jairam|Chittaranjan Jena,/artist/vani-jayaram|/artist/chittaranjan-jena-13,0.0,Odia,2020-02-11,0.47,0.05,0.361,0.263,-8.422,0.0529,173.958,0,9,0.0875,4,50,537376,0,0,0,Sad
+Janha Dehara Joschna,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2020-03-02,0.89,0.6,0.48,0.564,-2.154,0.06,173.953,0,9,0.09,4,32,653786,0,0,0,Sad
+Kataki Jhia,Leela Ghosh,/artist/leela-ghosh,0.0,Odia,2020-05-01,0.12,0.712,0.541,0.348,-3.339,0.0694,174.021,0,10,0.049,4,98,335746,0,0,0,Sad
+Kala Thakur Pua Mohara,Kavita Krishnamurthy,/artist/kavita-subramaniam,0.0,Odia,2020-05-05,0.53,0.33,0.929,0.102,-7.331,0.09,171.943,0,9,0.061,4,55,2943343,0,0,0,Energetic
+Aau Makhibini Kajal,Ira Mohanty,/artist/ira-mohanty,0.0,Odia,2020-05-05,0.06,0.863,0.634,0.527,-13.42,0.02,174.998,1,8,0.08,4,58,8617626,0,0,0,Sad
+Champa Lo Champa,Gopal Samantaray,/artist/gopal-samantaray,0.0,Odia,2020-05-12,0.26,0.63,0.154,0.724,-3.972,0.0452,173.014,0,6,0.079,4,71,6718255,0,0,0,Sad
+Alekha Anadi Parambrahma,Fakir Patnaik,/artist/fakir-patnaik-45,0.0,Odia,2020-06-01,0.79,0.87,0.965,0.798,-13.174,0.08,171.934,1,1,0.03,4,94,663380,0,0,0,Happy
+Hallo Hallo Haluchi Para,Mohammad Aziz|Usha Mangeshkar,/artist/mohammad-aziz|/artist/usha-mangeshkar-2,0.0,Odia,2020-07-06,0.98,0.563,0.612,0.246,-6.166,0.0468,175.033,0,5,0.0938,4,38,11129725,0,0,0,Happy
+Bhalapae Kete,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,0.0,Odia,2020-07-09,0.53,0.9,0.525,0.289,-5.421,0.03,173.977,0,10,0.0425,4,66,1119243,0,0,0,Sad
+Tame Mo Maan Bana Ra Suna Chadei,Sourav Nayak|Lopita Mishra,/artist/sourav-nayak|/artist/lopita-mishra,0.0,Odia,2020-08-12,0.84,0.75,0.396,0.527,-3.586,0.0227,173.032,0,5,0.017,4,87,6896454,0,0,0,Sad
+Om Santi Om Santi,Sikandar Alam,/artist/sikandar-alam,0.0,Odia,2020-08-12,0.21,0.463,0.426,0.097,-4.852,0.02,174.003,0,1,0.09,4,77,9301817,0,0,0,Sad
+Fata Kapalaku Bharija Mora,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,0.0,Odia,2020-09-07,0.05,0.58,0.525,0.623,-8.579,0.0229,174.034,1,1,0.0987,4,84,9672376,0,0,0,Sad
+Mu Eka Asarani,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2020-09-12,0.96,0.63,0.52,0.618,-4.049,0.011,173.995,0,10,0.0506,4,53,10829071,0,0,0,Sad
+Suno Suga Janamane,Baidyanath Gayak Ratna Sharma|Bhimsen Satapathi,/artist/baidyanath-gayak-ratna-sarma|/artist/bhimsen-satapathi-3,0.0,Odia,2020-10-02,0.54,0.68,0.375,0.36,-10.868,0.022,175.0,0,8,0.047,4,26,3445775,0,0,0,Sad
+Nei jare megho mote,S. Janaki,/artist/s-janaki,0.0,Odia,2020-10-04,0.0,0.02,0.371,0.808,-7.483,0.0761,174.019,0,5,0.03,4,63,8987356,0,0,0,Sad
+Kahuthibi Sahuthibi,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,0.0,Odia,2020-10-04,0.29,0.752,0.187,0.273,-10.045,0.007,172.002,0,9,0.014,4,32,816068,0,0,0,Sad
+Kshyamanu Kampa Dhara He,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2020-10-05,0.81,0.759,0.631,0.395,-6.51,0.017,174.942,1,1,0.0107,4,86,2876338,0,0,0,Happy
+Rama Jai Rama,Naba Mahattam,/artist/naba-mahattam,0.0,Odia,2020-10-06,0.91,0.573,0.181,0.1,-12.218,0.032,173.918,0,5,0.0866,4,45,10397166,0,0,0,Sad
+Rupa Ni Lo,Muni,/artist/muni,0.0,Odia,2020-10-07,0.97,0.12,0.321,0.525,-2.631,0.051,174.002,0,11,0.0823,4,70,6940963,0,0,0,Sad
+Bhoji Khaili,Baidyanath Gayak Ratna Sharma,/artist/baidyanath-gayak-ratna-sarma,0.0,Odia,2020-11-01,0.03,0.349,0.032,0.714,-13.732,0.032,174.016,0,5,0.073,4,64,8867670,0,0,0,Sad
+Ame Athi Panchu Bhai,Subhash Das|Raghu Pradhan|P . Sarangi,/artist/subhash-das|/artist/raghu-pradhan|/artist/p-sarangi,0.0,Odia,2020-11-02,0.93,0.25,0.957,0.196,-7.984,0.017,171.956,1,5,0.097,4,60,10901847,0,0,0,Happy
+Tame Ea Ca Ea Ea Ba,Akshya Mohanty|Haimanti Shukla|Surjit Das,/artist/akshya-mohanty|/artist/haimanti-shukla|/artist/surjit-das,0.0,Odia,2020-11-05,0.85,0.56,0.392,0.523,-3.823,0.07,175.046,1,7,0.0865,4,91,883589,0,0,0,Sad
+To Bedhare Abhada,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2020-12-07,0.43,0.918,0.546,0.883,-4.047,0.05,173.998,1,0,0.02,4,88,5351616,0,0,0,Sad
+A  B  C  D  E  F  G Bhabigee O - Bhabigee,Trupti Das|Debasis Mahapatro|MANOHAR UDASH,/artist/trupti-das|/artist/debasis-mahapatro|/artist/manohar-udash,0.0,Odia,2021-01-04,0.65,0.513,0.098,0.829,-13.728,0.0442,174.095,0,11,0.09,4,72,9242910,0,0,0,Sad
+Jahn Loda Nahi,Jostna Das,/artist/jostna-das,0.0,Odia,2021-02-01,0.31,0.768,0.341,0.341,-3.518,0.034,173.988,0,11,0.07,4,80,7489809,0,0,0,Sad
+He Mora Akhi Luha,Trupti Das,/artist/trupti-das,0.0,Odia,2021-02-04,0.57,0.61,0.702,0.23,-7.73,0.0167,174.001,0,10,0.0822,4,33,4595183,0,0,0,Sad
+Kala Srimukha Bhajan,Arati Misra,/artist/arati-misra,0.0,Odia,2021-02-04,0.7,0.97,0.622,0.384,-13.459,0.02,173.858,1,9,0.035,4,55,1304776,0,0,0,Sad
+Pangu Hue Aba,Vani Jairam,/artist/vani-jayaram,0.0,Odia,2021-03-05,0.64,0.43,0.689,0.929,-9.785,0.01,172.002,0,10,0.082,4,91,4247214,0,0,0,Happy
+Banaste Dakila Gaja,Pushpa Panda,/artist/pushpa-panda,0.0,Odia,2021-03-11,0.61,0.96,0.869,0.048,-10.063,0.0058,174.04,0,4,0.0715,4,76,6512304,0,0,0,Happy
+Suna Bainshi,Shakti Mishra,/artist/shakti-mishra,0.0,Odia,2021-04-01,0.3,0.1,0.072,0.349,-13.677,0.07,174.007,0,11,0.079,4,94,10664182,0,0,0,Sad
+Kati Kati Kati,Mohammad Aziz,/artist/mohammad-aziz,0.0,Odia,2021-04-02,0.75,0.154,0.867,0.551,-12.096,0.078,171.981,0,8,0.04,4,82,7143559,0,0,0,Happy
+Prema Nagar,mushir,/artist/mushir,0.0,Odia,2021-04-03,0.77,0.843,0.168,0.514,-10.205,0.04,173.989,1,6,0.069,4,45,11186084,0,0,0,Sad
+Bhayena Dekha E Sasura,Prafulla Kar|Sikandar Alam,/artist/prafulla-kar|/artist/sikandar-alam,0.0,Odia,2021-04-10,0.64,0.194,0.006,0.102,-10.026,0.0379,173.046,0,6,0.0296,4,25,4554840,0,0,0,Sad
+Kripasindhu Badana,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2021-05-12,0.04,0.082,0.592,0.619,-7.426,0.0886,174.961,1,7,0.0279,4,92,4575408,0,0,0,Sad
+Kicchi Kahibara,Subhash Das,/artist/subhash-das,0.0,Odia,2021-06-01,0.95,0.636,0.249,0.737,-6.28,0.0252,173.941,0,9,0.04,4,83,5584426,0,0,0,Sad
+Baidya Baja Baja,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2021-06-08,0.31,0.011,0.259,0.959,-11.484,0.088,174.028,0,1,0.0361,4,69,7889033,0,0,0,Sad
+Kahide Kahide Sajani Lo,Nirmal Mishra,/artist/nirmal-mishra,0.0,Odia,2021-07-03,0.13,0.618,0.288,0.77,-12.714,0.009,175.023,0,11,0.009,4,84,7873561,0,0,0,Sad
+Ki Rupe Pujibi Mago,Arati Misra,/artist/arati-misra,0.0,Odia,2021-07-07,0.56,0.16,0.435,0.172,-13.856,0.003,170.04,0,5,0.037,4,39,10643436,0,0,0,Sad
+Sanchare Mana,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2021-07-11,0.89,0.09,0.605,0.232,-4.758,0.05,174.986,0,6,0.07,4,35,7365665,0,0,0,Happy
+Bhauja Basi Dekhuthile,Mohd. Amjad,/artist/mohd-amjad,0.0,Odia,2021-08-03,0.72,0.84,0.373,0.913,-8.262,0.04,175.002,1,5,0.068,4,44,5016271,0,0,0,Sad
+Mo Akhi Luhare,Manas Kumar,/artist/manas-kumar,0.0,Odia,2021-08-04,0.13,0.79,0.956,0.997,-6.083,0.0773,174.002,0,7,0.1,4,71,6055166,0,0,0,Energetic
+Hansini Kaha Hansini,Akshaya Mohanty|Trupti Das,/artist/akshaya-mohanty|/artist/trupti-das,0.0,Odia,2021-08-04,0.33,0.888,0.098,0.955,-4.234,0.0379,174.004,1,0,0.08,4,90,10711036,0,0,0,Sad
+Mo Kaliara Chotia,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2021-08-04,0.17,0.809,0.115,0.518,-4.733,0.02,174.553,0,1,0.0871,4,67,147630,0,0,0,Sad
+Bohu Aanu Pahi Pahi Ki,Kavita Krishnamurthy,/artist/kavita-subramaniam,0.0,Odia,2021-08-06,0.09,0.63,0.698,0.785,-10.61,0.07,173.982,0,1,0.014,4,31,2058693,0,0,0,Energetic
+Mutura Muturi,Mamta Sahu|Mohammad Sazid,/artist/mamta-sahu|/artist/mohammad-sazid,0.0,Odia,2021-08-07,0.84,0.2,0.308,0.863,-7.642,0.06,174.023,1,0,0.04,4,28,7855846,0,0,0,Sad
+Ahe Ramahari,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2021-08-10,0.44,0.664,0.104,0.244,-11.244,0.08,173.909,0,0,0.031,4,98,5458133,0,0,0,Sad
+Aahare Kansi Labange,Vijayalaxmi|Mitrabhanu Biswal|Hrushi Meher,/artist/vijayalaxmi|/artist/mitrabhanu-biswal|/artist/hrushi-meher,0.0,Odia,2021-09-01,0.91,0.7,0.055,0.952,-2.4,0.089,170.054,0,8,0.089,4,29,9753505,0,0,0,Sad
+Chhot Eka,Swagatika Mahapatra,/artist/swagatika-mahapatra,0.0,Odia,2021-09-03,0.95,0.965,0.79,0.682,-4.713,0.0969,172.074,1,8,0.055,4,81,6825734,0,0,0,Happy
+Ahe Ramahari,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2021-09-03,0.85,0.54,0.34,0.159,-5.898,0.03,174.03,0,10,0.06,4,85,8836494,0,0,0,Sad
+Mu je jhara fagunara,Radharani Mishra,/artist/radharani-mishra,0.0,Odia,2021-09-06,0.47,0.811,0.01,0.77,-10.434,0.0874,174.003,1,3,0.02,4,31,11029812,0,0,0,Sad
+Subhadra Haran Jatra,Indira Nanda|balakrushna das|Bhikari Bal|Sikandar Alam,/artist/indira-nanda|/artist/balakrushna-das|/artist/bhikari-bal-1|/artist/sikandar-alam,0.0,Odia,2021-09-09,0.41,0.47,0.355,0.253,-6.787,0.01,175.091,0,9,0.01,4,67,2275206,0,0,0,Sad
+Aho Aho Balike,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2021-10-02,0.47,0.947,0.244,0.585,-12.127,0.002,174.012,1,6,0.0334,4,66,5239256,0,0,0,Sad
+Aalo Bengi Kahinki,Mamta Sahu|Mohammad Sazid,/artist/mamta-sahu|/artist/mohammad-sazid,0.0,Odia,2021-10-05,0.98,0.753,0.113,0.743,-3.064,0.0653,174.034,0,5,0.0333,4,44,7234394,0,0,0,Sad
+He Tike Sambhali,Mohd. Amjad|Rupa,/artist/mohd-amjad|/artist/rupa,0.0,Odia,2021-10-07,0.82,0.36,0.47,0.797,-10.53,0.013,174.001,0,8,0.054,4,48,2573949,0,0,0,Sad
+Chulbuli Bhulbuli Chulbul,Anuradha Paudwal|Mohammad Aziz,/artist/anuradha-paudwal-2|/artist/mohammad-aziz,0.0,Odia,2021-10-10,0.88,0.833,0.931,0.08,-3.343,0.063,174.931,0,5,0.065,4,52,5198134,0,0,0,Energetic
+Kadambara Tale,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2021-10-11,0.12,0.512,0.476,0.766,-11.419,0.04,174.94,0,7,0.0025,4,70,4558228,0,0,0,Sad
+Paunjye Mora,Mohammad Aziz,/artist/mohammad-aziz,0.0,Odia,2021-11-05,0.5,0.642,0.598,0.763,-9.041,0.094,174.023,0,2,0.012,4,80,7815639,0,0,0,Happy
+Bhogara Rogo,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2021-11-08,0.2,0.23,0.721,0.227,-3.147,0.0254,172.028,0,9,0.0806,4,27,5545338,0,0,0,Energetic
+Sree Mandira Bedha Ku,Badal Kumar,/artist/badal-kumar,0.0,Odia,2021-12-10,0.19,0.925,0.796,0.914,-2.578,0.019,170.002,0,10,0.089,4,47,7156701,0,0,0,Energetic
+Prema Mitha Mitha Cricket,Akshaya Mohanty|Hemanti Shukla,/artist/akshaya-mohanty|/artist/hemanti-shukla,0.0,Odia,2022-01-01,0.53,0.04,0.602,0.579,-4.359,0.05,172.048,0,5,0.076,4,60,6967319,0,0,0,Sad
+Surya Uinle,Chittaranjan Jena,/artist/chittaranjan-jena-23,0.0,Odia,2022-01-03,0.8,0.96,0.319,0.335,-10.118,0.0306,174.03,1,8,0.06,4,60,268467,0,0,0,Sad
+Jali Podi Deli,Subhash Das,/artist/subhash-das,0.0,Odia,2022-01-04,0.0,0.24,0.78,0.976,-5.296,0.1,173.998,0,10,0.069,4,37,5657201,0,0,0,Energetic
+Rati Rati Rati,Swagatika Rath,/artist/swagatika-rath,0.0,Odia,2022-01-10,0.86,0.258,0.132,0.752,-7.273,0.078,174.006,0,5,0.0087,4,86,6421926,0,0,0,Sad
+Jaya Jaya Mooga,Santanu Mohapatra,/artist/santanu-mohapatra,0.0,Odia,2022-01-12,0.51,0.137,0.772,0.091,-2.929,0.05,174.004,0,8,0.095,4,91,9613135,0,0,0,Energetic
+Odissa Ta Kouthi,Leela Ghosh,/artist/leela-ghosh,0.0,Odia,2022-01-12,0.53,0.134,0.802,0.54,-3.96,0.05,173.992,0,6,0.04,4,36,9679447,0,0,0,Energetic
+To Pain Bandhili,Pritinanda Rout Ray,/artist/pritinanda-rout-ray,0.0,Odia,2022-02-03,0.47,0.52,0.805,0.005,-11.15,0.05,173.017,0,11,0.0086,4,64,3332565,0,0,0,Happy
+A ahey dayamoye,Bani Joyram,/artist/bani-joyram,0.0,Odia,2022-02-05,0.54,0.69,0.225,0.576,-8.839,0.0718,172.003,1,7,0.045,4,70,1919497,0,0,0,Sad
+Manare Bhulijaye Bandhana,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2022-02-07,0.76,0.95,0.317,0.233,-2.481,0.02,173.975,1,4,0.077,4,88,8165631,0,0,0,Sad
+Ki Naadare Prana Sangini,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2022-02-10,0.26,0.4,0.075,0.027,-7.384,0.08,173.986,0,0,0.0521,4,36,7265988,0,0,0,Sad
+Ahe Prabhu Mahabahu,Geeta Das,/artist/geeta-das,0.0,Odia,2022-03-02,0.8,0.844,0.595,0.108,-13.393,0.05,171.986,1,9,0.06,4,78,900543,0,0,0,Sad
+Ahe Ramahari,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2022-03-08,0.5,0.02,0.33,0.021,-13.391,0.0796,174.004,1,7,0.0428,4,38,4090935,0,0,0,Sad
+Thaka Mana Chala Jiba,Balakrishna Das,/artist/balakrishna-das,0.0,Odia,2022-03-11,0.68,0.731,0.183,0.986,-13.481,0.053,173.982,0,11,0.0673,4,91,1151753,0,0,0,Sad
+Ki Kahibi Tara,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,0.0,Odia,2022-04-02,0.62,0.678,0.364,0.284,-11.506,0.014,174.031,0,1,0.024,4,63,8163960,0,0,0,Sad
+Prema Ta Jebe,Trupti Dash|Subas Dash|Subhalaxmi Dash,/artist/trupti-dash|/artist/subas-dash-1|/artist/subhalaxmi-dash,0.0,Odia,2022-04-03,0.26,0.025,0.861,0.721,-11.02,0.1,175.203,0,2,0.04,4,97,7801439,0,0,0,Happy
+Shankara Shankara,Akshaya Mohanty|Anuradha Paudwal,/artist/akshaya-mohanty|/artist/anuradha-paudwal-2,0.0,Odia,2022-04-11,0.72,0.61,0.849,0.518,-6.108,0.002,174.019,0,11,0.01,4,94,7465499,0,0,0,Happy
+Dosta Ae Jia Ko Nai Kuade,Anuradha Paudwal|Akshaya Mohanty|Udit Narayan,/artist/anuradha-paudwal-2|/artist/akshaya-mohanty|/artist/udit-narayan,0.0,Odia,2022-04-12,0.24,0.66,0.446,0.648,-8.828,0.001,173.988,0,6,0.052,4,48,11096346,0,0,0,Sad
+Ie Go Mita Kie,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2022-05-04,0.68,0.441,0.882,0.215,-3.329,0.0397,176.009,1,7,0.046,4,70,9930666,0,0,0,Energetic
+Kanchi Abhijaan,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2022-05-09,0.67,0.6,0.456,0.279,-2.076,0.013,173.009,0,10,0.01,4,36,6324859,0,0,0,Sad
+Raati Sukha Sare,Trupti Das|K J Yesudas,/artist/trupti-das|/artist/k-j-yesudas,0.0,Odia,2022-05-11,0.57,0.009,0.592,0.414,-5.357,0.0292,173.971,0,2,0.027,4,57,9138618,0,0,0,Sad
+Aahey Kalaa Srimukha,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2022-05-12,0.2,0.73,0.236,0.003,-6.53,0.05,172.008,0,4,0.05,4,56,6732179,0,0,0,Sad
+Je Nama Sunile,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2022-06-01,0.62,0.625,0.48,0.889,-8.839,0.045,173.978,0,5,0.0614,4,75,6450173,0,0,0,Sad
+Malli Phula Chahatila,Srikanta Das,/artist/srikanta-das,0.0,Odia,2022-06-03,0.7,0.414,0.149,0.348,-9.099,0.0111,174.029,0,5,0.04,4,50,782714,0,0,0,Sad
+Mun Kahinki Budi Jibi,Geeta Patnaik,/artist/geeta-patnaik,0.0,Odia,2022-06-03,0.88,0.88,0.28,0.314,-5.061,0.0635,175.029,0,5,0.081,4,86,10562093,0,0,0,Sad
+Kala Kalebara Kanhai,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2022-06-05,0.93,0.048,0.915,0.354,-9.32,0.0171,175.025,1,5,0.0643,4,78,667934,0,0,0,Happy
+Basante Basanti,K J Yesudas,/artist/k-j-yesudas,0.0,Odia,2022-06-08,0.53,0.2,0.384,0.415,-2.622,0.06,172.02,0,10,0.03,4,43,1489594,0,0,0,Sad
+Raati Sukha Sare,K J Yesudas|Trupti Das,/artist/k-j-yesudas|/artist/trupti-das,0.0,Odia,2022-06-08,0.04,0.94,0.52,0.197,-5.964,0.0784,173.986,0,9,0.03,4,72,446902,0,0,0,Sad
+Bapa Mote Kahile,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,0.0,Odia,2022-06-12,0.29,0.984,0.217,0.691,-8.327,0.06,171.979,0,3,0.0802,4,79,5015232,0,0,0,Sad
+Calisalakha Najara,Kavita Krishnamurthy,/artist/kavita-subramaniam,0.0,Odia,2022-07-02,0.11,0.69,0.848,0.494,-10.818,0.0274,173.934,0,5,0.091,4,25,10517068,0,0,0,Sad
+Nupur Kahinki Mu,Tansen Singh,/artist/tansen-singh,0.0,Odia,2022-07-04,0.09,0.725,0.434,0.766,-4.778,0.0957,174.001,0,9,0.0256,4,29,2742737,0,0,0,Sad
+Bhauja Nakarey Suna Phasia,Meenakshi Nanda|Aarti Mukherji,/artist/meenakshi-nanda|/artist/aarti-mukherji,0.0,Odia,2022-07-06,0.52,0.569,0.537,0.04,-9.588,0.0018,174.029,0,8,0.0,4,37,6559337,0,0,0,Sad
+Bhala Paye Boli,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,0.0,Odia,2022-07-11,0.87,0.081,0.368,0.092,-8.009,0.0882,174.02,0,9,0.043,4,57,1087514,0,0,0,Sad
+Samarpi Deli,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2022-08-02,0.64,0.3,0.834,0.076,-10.336,0.0613,175.071,0,5,0.001,4,96,4582412,0,0,0,Happy
+Madhaba Hey Madhaba,Ira Mohanty,/artist/ira-mohanty,0.0,Odia,2022-08-06,0.03,0.89,0.758,0.894,-7.564,0.01,173.995,0,8,0.0364,4,41,6980698,0,0,0,Sad
+Haladi Mukhi Sumukhi,Subash Das,/artist/subash-das-1,0.0,Odia,2022-09-01,0.88,0.46,0.437,0.151,-8.091,0.01,173.999,1,1,0.054,4,92,11139940,0,0,0,Sad
+89 I Love You,Sheikh Aazad|Chorus,/artist/sheikh-aazad|/artist/chorus,0.0,Odia,2022-09-02,0.01,0.968,0.024,0.573,-11.433,0.0623,172.074,0,6,0.016,4,94,6782764,0,0,0,Sad
+Tiki Tiki Tiki Ghanta,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2022-09-03,0.82,0.27,0.375,0.246,-9.446,0.05,172.049,1,1,0.039,4,98,6796284,0,0,0,Sad
+Nanda Pacharila,Akshaya Mohanty,/artist/akshaya-mohanty,0.0,Odia,2022-10-01,0.02,0.997,0.894,0.212,-4.068,0.0899,174.01,0,1,0.03,4,73,10095491,0,0,0,Energetic
+Bhati Bala Bhati Bala,Mohd. Sajid|Bikash Das|Sangeeta Mohapatra|Mohd. Abid|Gopi Patnayak|Nandita Bhanja,/artist/mohd-sajid-1|/artist/bikash-das|/artist/sangeeta-mohapatra|/artist/mohd-abid-1|/artist/gopi-patnayak|/artist/nandita-bhanja,0.0,Odia,2022-10-02,0.69,0.82,0.289,0.969,-11.118,0.023,172.001,0,4,0.0305,4,33,10659207,0,0,0,Sad
+Sakhire Goparu Gopinatha,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2022-10-03,0.11,0.2,0.616,0.201,-3.795,0.01,173.979,0,5,0.0779,4,56,7221222,0,0,0,Sad
+Bhoji Khaili,Baidyanath Gayak Ratna Sharma|Bhimsen Satapathi,/artist/baidyanath-gayak-ratna-sarma|/artist/bhimsen-satapathi-5,0.0,Odia,2022-10-04,0.84,0.87,0.038,0.053,-9.444,0.0232,174.007,0,4,0.07,4,48,3089320,0,0,0,Sad
+Ei Je Sagara Pirati Pagala,Sangeeta Mahapatra|Subasa Dash,/artist/sangeeta-mahapatra|/artist/subasa-dash,0.0,Odia,2022-10-04,0.84,0.216,0.03,0.447,-13.456,0.0945,175.157,0,6,0.04,4,93,2164118,0,0,0,Sad
+Mu Kali Raati Sara Jama Soini,Sekhar Ghosh,/artist/sekhar-ghosh,0.0,Odia,2022-10-04,0.03,0.823,0.859,0.78,-9.1,0.02,173.029,0,11,0.0137,4,77,4985778,0,0,0,Happy
+Kama Andhakara,Subhash Das,/artist/subhash-das,0.0,Odia,2022-10-04,0.72,0.055,0.89,0.821,-11.382,0.0147,170.014,0,6,0.0348,4,95,6076757,0,0,0,Happy
+Naali Naali,Amjad|Swagatika Mahapatra,/artist/amjad|/artist/swagatika-mahapatra,0.0,Odia,2022-11-01,0.95,0.19,0.776,0.812,-11.303,0.0095,175.97,0,9,0.072,4,50,9294350,0,0,0,Happy
+Ni Sa Ga Ma Pa Pa,Vani Jairam|K J Yesudas,/artist/vani-jayaram|/artist/k-j-yesudas,0.0,Odia,2022-11-07,0.48,0.465,0.924,0.198,-10.329,0.0681,174.992,1,1,0.01,4,56,8532200,0,0,0,Energetic
+Mote Jana Aou Tumaku Jana (Duet),Akshaya Mohanty|Mitali Chinera,/artist/akshaya-mohanty|/artist/mitali-chinera,0.0,Odia,2022-11-10,0.37,0.27,0.991,0.324,-12.909,0.04,172.056,1,2,0.0235,4,63,7070201,0,0,0,Energetic
+Kala Janha Kala Janha,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2022-11-12,0.77,0.415,0.223,0.677,-3.817,0.06,174.998,0,1,0.08,4,70,5522617,0,0,0,Sad
+Pangu Langha Parabata,Pranab Pattanayak,/artist/pranab-pattanayak,0.0,Odia,2022-12-01,0.7,0.98,0.791,0.15,-13.533,0.0416,174.008,1,9,0.05,4,67,6515357,0,0,0,Happy
+Jogi Geet,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2022-12-08,0.18,0.551,0.769,0.079,-10.778,0.031,174.022,0,6,0.009,4,26,9335973,0,0,0,Sad
+Jyotsna Ane Prajapati,Trupti Das,/artist/trupti-das,0.0,Odia,2022-12-09,0.66,0.732,0.611,0.562,-2.17,0.054,173.858,0,9,0.001,4,30,10055548,0,0,0,Sad
+Bidhira Bidhana,Mohammad Aziz,/artist/mohammad-aziz,0.0,Odia,2022-12-10,0.8,0.68,0.725,0.007,-12.331,0.08,174.014,0,11,0.029,4,35,5505398,0,0,0,Happy
+Na Chui Bone,Arundhuti,/artist/arundhuti,0.0,Odia,2022-12-12,0.75,0.704,0.224,0.605,-9.847,0.001,174.007,0,8,0.072,4,93,8048275,0,0,0,Sad
+Ki Geeta Gaita Gaibi,Suman Kalyanpur,/artist/suman-kalyanpur,0.0,Odia,2023-01-03,0.86,0.931,0.448,0.357,-5.94,0.06,174.073,0,4,0.014,4,54,2069503,0,0,0,Sad
+Biti Jaye Re,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2023-02-06,0.94,0.47,0.092,0.106,-6.797,0.008,172.015,1,0,0.0848,4,74,800174,0,0,0,Sad
+Tume he swarga moro,Anuradha Paudwal,/artist/anuradha-paudwal-2,0.0,Odia,2023-03-01,0.6,0.104,0.912,0.454,-7.9,0.03,174.974,0,5,0.04,4,51,5299876,0,0,0,Happy
+Samalei Ma Go,Fakir Patnaik,/artist/fakir-patnaik-54,0.0,Odia,2023-03-11,0.65,0.866,0.439,0.821,-8.739,0.0,174.03,1,8,0.057,4,36,11002013,0,0,0,Sad
+Nanda Suta - Prafulla Kar,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2023-04-01,0.46,0.316,0.353,0.374,-7.934,0.091,175.025,1,8,0.07,4,91,11010238,0,0,0,Sad
+Chup Chap Andharare,Swagtika Mohapatra,/artist/swagtika-mohapatra,0.0,Odia,2023-05-03,0.94,0.11,0.768,0.569,-8.099,0.0256,171.989,0,6,0.04,4,38,7315190,0,0,0,Happy
+Majhire,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2023-05-04,0.14,0.583,0.534,0.791,-3.962,0.0345,173.98,0,5,0.09,4,79,2334143,0,0,0,Sad
+Tuma Gaan Mahu Machhi,Pranab Kishore Patnaik,/artist/pranab-kishore-patnaik,0.0,Odia,2023-07-06,0.95,0.74,0.296,0.471,-5.556,0.06,169.998,0,9,0.033,4,72,1734954,0,0,0,Sad
+Ei mono tu jare,Bani Joyram,/artist/bani-joyram,0.0,Odia,2023-08-10,0.37,0.83,0.296,0.711,-5.703,0.0458,175.272,0,10,0.02,4,83,2734745,0,0,0,Sad
+Samayara Chaka,Subhash Das,/artist/subhash-das,0.0,Odia,2023-09-08,0.46,0.591,0.068,0.553,-13.37,0.0327,174.015,1,5,0.1,4,74,8474694,0,0,0,Sad
+Kahi Dere Jagannath Pade,Swagtika Mohapatra,/artist/swagtika-mohapatra,0.0,Odia,2023-09-10,0.01,0.61,0.039,0.939,-9.451,0.036,175.036,0,8,0.033,4,64,9050063,0,0,0,Sad
+Bhana Jabi,Prafulla Kar,/artist/prafulla-kar,0.0,Odia,2023-10-04,0.82,0.484,0.121,0.583,-8.486,0.08,174.024,1,8,0.07,4,47,7500002,0,0,0,Sad
+Dei Achha Sina,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,0.0,Odia,2023-10-08,0.67,0.869,0.041,0.764,-12.685,0.0701,173.007,1,6,0.08,4,38,5011288,0,0,0,Sad
+Chupi Chupi Gori Kane,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Odia,2023-11-02,0.79,0.164,0.434,0.077,-4.932,0.05,174.041,0,10,0.018,4,100,10070910,0,0,0,Sad
+Dekhi Se Banamalli,Chittaranjan Jena|P. Susheela,/artist/chittaranjan-jena-13|/artist/p-suseela-2,0.0,Odia,2023-11-02,0.07,0.52,0.713,0.905,-12.858,0.059,174.017,0,4,0.014,4,76,6880502,0,0,0,Happy
+Ki Mantra Kala,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,0.0,Odia,2023-11-12,0.0,0.49,0.082,0.269,-5.125,0.0284,174.007,0,5,0.0242,4,34,5936527,0,0,0,Sad
+Dhira Samire Yamuna Tire,Sikandar Alam,/artist/sikandar-alam,0.0,Odia,2023-11-12,0.39,0.456,0.577,0.555,-4.349,0.026,174.057,1,11,0.013,4,89,9116008,0,0,0,Sad
+To Maha Bahuku,Bandita Roy,/artist/bandita-roy,0.0,Odia,2023-12-04,0.59,0.704,0.573,0.734,-4.192,0.0626,172.007,0,10,0.03,4,33,9274067,0,0,0,Sad
+Ja Pain Bhabi,Trupti Das,/artist/trupti-das,0.0,Odia,2023-12-08,0.79,0.706,0.285,0.399,-10.341,0.084,173.873,0,4,0.059,4,99,9494284,0,0,0,Sad
+Mun Jibi Mun Jibi,Santanu Mohapatra,/artist/santanu-mohapatra,0.0,Odia,2023-12-12,0.81,0.13,0.337,0.363,-6.428,0.011,174.906,0,11,0.0415,4,35,5718363,0,0,0,Sad
+Tuhme Mo Radha,Anuradha Paudwal|Chittaranjan Jena,/artist/anuradha-paudwal-2|/artist/chittaranjan-jena-16,0.0,Odia,2024-01-03,0.29,0.871,0.206,0.395,-2.418,0.0206,174.017,1,7,0.037,4,39,6252611,0,0,0,Sad
+Jamuna Jana,Manna Dey,/artist/manna-dey,0.0,Odia,2024-05-03,0.82,0.851,0.016,0.104,-8.013,0.073,173.945,0,5,0.05,4,50,4550696,0,0,0,Sad
+Ahe Ramahari,Raghunath Panigrahi,/artist/raghunath-panigrahi,0.0,Odia,2024-06-01,0.14,0.86,0.527,0.034,-4.575,0.087,174.026,1,6,0.0783,4,53,275770,0,0,0,Energetic
+Nilachakre Kaha,Raghu Sahoo,/artist/raghu-sahoo,0.0,Odia,2024-07-03,0.72,0.46,0.121,0.948,-6.256,0.01,173.994,0,10,0.08,4,88,9055392,0,0,0,Sad
+E Hama Harini,Bhikari Bal,/artist/bhikari-bal-1,0.0,Odia,2024-09-02,0.61,0.41,0.17,0.292,-5.307,0.0653,174.02,1,9,0.04,4,80,762891,0,0,0,Sad
+Aa Baula,Subash Das|Subhal Axmidash|Minati Bhanja|Nanda Nandan Satpathy,/artist/subash-das-1|/artist/subhal-axmidash|/artist/minati-bhanja|/artist/nanda-nandan-satpathy,0.0,Odia,2024-10-02,0.29,0.69,0.979,0.786,-10.202,0.0878,174.781,0,10,0.081,4,69,2554837,0,0,0,Happy
+Yuge Yuge Bhagabana,balakrushna das,/artist/balakrushna-das,0.0,Odia,2024-11-01,0.53,0.877,0.497,0.814,-4.987,0.0121,173.961,1,1,0.0903,4,48,3684562,0,0,0,Sad

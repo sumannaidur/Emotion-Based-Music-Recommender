@@ -1,0 +1,725 @@
+song_name,singer,singer_id,duration,language,released_date,danceability,acousticness,energy,liveness,loudness,speechiness,tempo,mode,key,Valence,time_signature,popularity,Stream,instrumentalness,liveliness,valence,predicted_mood
+Keteki Nahao Moi,Anima Bhattacharya,/artist/anima-bhattacharya,0.0,Assamese,2000-01-04,0.89,0.058,0.962,0.455,-13.243,0.0242,149.707,0,6,0.07,4,35,3270355,0,0,0,Happy
+Naami Aha Sundare,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2000-01-06,0.11,0.22,0.397,0.408,-10.35,0.058,150.008,1,11,0.05,4,64,9571029,0,0,0,Sad
+A Mynajan,Dwipen Baruah|Debjani Barua,/artist/dwipen-baruah|/artist/debjani-barua,0.0,Assamese,2000-03-08,0.06,0.776,0.584,0.478,-4.797,0.076,150.034,1,1,0.072,4,89,83021,0,0,0,Sad
+Bihu Anandia,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2000-03-10,0.17,0.71,0.018,0.008,-10.665,0.03,150.073,1,4,0.029,4,94,9894203,0,0,0,Sad
+O Phool Paha Halichha Jalichha,Archana Mohanty,/artist/archana-mohanty,0.0,Assamese,2000-05-03,0.09,0.4,0.791,0.055,-13.722,0.023,150.093,0,5,0.0505,4,95,2029145,0,0,0,Happy
+Aaji Eta Daam,Nagen Barman,/artist/nagen-barman,0.0,Assamese,2000-05-05,0.32,0.129,0.467,0.818,-12.699,0.0297,150.015,1,8,0.055,4,31,9609884,0,0,0,Sad
+Phagune Phul Phalale,Samar Hazarika,/artist/samar-hazarika,0.0,Assamese,2000-06-11,0.6,0.379,0.646,0.331,-13.067,0.0608,150.041,0,7,0.01,4,65,148748,0,0,0,Sad
+Ou Kumalia,Khagen Mahanta,/artist/khagen-mahanta,0.0,Assamese,2000-07-07,0.26,0.922,0.255,0.241,-4.331,0.1,150.058,1,5,0.066,4,66,11258952,0,0,0,Sad
+Thuriai Katilo,Digen Mahanta,/artist/digen-mahanta,0.0,Assamese,2000-09-12,0.41,0.618,0.075,0.347,-12.338,0.0,150.1,1,2,0.0249,4,59,4735866,0,0,0,Sad
+O Bapa Harakanta,Nagen Barman,/artist/nagen-barman,0.0,Assamese,2000-10-07,0.25,0.421,0.542,0.871,-2.553,0.07,150.003,0,9,0.023,4,35,8819794,0,0,0,Sad
+Ei Shankar Madhab,Rameswar Pathak,/artist/rameswar-pathak,0.0,Assamese,2000-10-11,0.99,0.72,0.069,0.674,-3.877,0.1,150.032,1,8,0.01,4,51,2387791,0,0,0,Sad
+Bihu Anandiya Bihu Binandiya,Khagen Phukan|Maheshwar Barua|Meena Chakraborty|Pushpa Fukan Dubra,/artist/khagen-phukan|/artist/maheshwar-barua-1|/artist/meena-chakraborty-2|/artist/pushpa-fukan-dubra-1,0.0,Assamese,2000-11-07,0.33,0.87,0.075,0.48,-13.176,0.09,154.867,1,4,0.0373,4,47,8050020,0,0,0,Sad
+E He Narayan,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2000-12-01,0.93,0.158,0.988,0.949,-12.178,0.002,145.046,1,3,0.09,4,40,7537280,0,0,0,Happy
+Mor Naam Radha,Snehalata Das,/artist/snehalata-das,0.0,Assamese,2000-12-03,0.06,0.412,0.261,0.06,-3.697,0.04,149.953,1,10,0.02,4,79,377834,0,0,0,Sad
+O Thuria Tamolkhan,Mahananda Majinder Barua|Santa Sharma,/artist/mahananda-majinder-barua|/artist/santa-sharma,0.0,Assamese,2001-01-06,0.61,0.723,0.642,0.406,-11.669,0.0969,150.019,0,8,0.036,4,91,11009427,0,0,0,Happy
+Dhansiri Parehoi,Khagen Mahanta,/artist/khagen-mahanta,0.0,Assamese,2001-01-12,0.39,0.14,0.981,0.282,-5.667,0.0556,150.001,0,11,0.018,4,56,1410436,0,0,0,Energetic
+Haley Jaley Kumliya,Mitraa Phukan,/artist/mitraa-phukan,0.0,Assamese,2001-02-02,0.19,0.973,0.019,0.442,-8.174,0.09,154.004,1,10,0.097,4,38,9360603,0,0,0,Sad
+Seuji Banar Suriya Kahini - Part 1,Unknown,/artist/unknown,0.0,Assamese,2001-02-04,0.02,0.45,0.441,0.701,-6.506,0.03,150.07,1,4,0.08,4,89,10820994,0,0,0,Sad
+Jaunsari Song No.2,Male Uttar Pradesh singers from Konain|Jaunsar Bower,/artist/male-uttar-pradesh-singers-from-konain|/artist/jaunsar-bower,0.0,Assamese,2001-02-07,0.51,0.359,0.791,0.506,-8.806,0.029,150.043,0,6,0.097,4,79,3426219,0,0,0,Happy
+Bhal Poa Mor,sibcharan das,/artist/sibcharan-das,0.0,Assamese,2001-02-07,0.56,0.66,0.368,0.378,-13.072,0.1,150.009,1,2,0.038,4,89,6985188,0,0,0,Sad
+Moyna Kon Bidhatai,Renu Barua|Dwipen Baruah,/artist/renu-barua|/artist/dwipen-baruah,0.0,Assamese,2001-03-01,0.6,0.409,0.854,0.574,-3.714,0.0845,149.969,0,9,0.09,4,91,8140188,0,0,0,Energetic
+Ali Dhaki Para Saliki,Namita Bhattacharya,/artist/namita-bhattacharya,0.0,Assamese,2001-03-03,0.94,0.92,0.438,0.393,-8.098,0.037,150.009,0,5,0.09,4,60,7852325,0,0,0,Sad
+A Aaji Beular Biya,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2001-03-12,0.83,0.57,0.639,0.688,-10.24,0.0939,154.886,0,5,0.01,4,50,6869108,0,0,0,Happy
+Maram Logai Logai,Lokeswar Deka|Others,/artist/lokeswar-deka|/artist/others,0.0,Assamese,2001-04-11,0.22,0.42,0.064,0.921,-10.338,0.013,149.994,1,9,0.045,4,26,10745058,0,0,0,Sad
+Ei Akash Baro Bishal,Jayanta Hazarika,/artist/jayanta-hazarika,0.0,Assamese,2001-05-12,0.85,0.67,0.641,0.752,-10.402,0.025,154.767,0,8,0.069,4,42,6395998,0,0,0,Sad
+Bhohutake Bhohudio,Ina Mukherjee|Namita Goswami,/artist/ina-mukherjee|/artist/namita-goswami,0.0,Assamese,2001-06-02,0.04,0.37,0.151,0.235,-9.184,0.027,149.971,1,6,0.083,4,75,5251505,0,0,0,Sad
+Shama Thakile,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2001-06-09,0.05,0.44,0.798,0.82,-13.454,0.01,148.018,1,7,0.093,4,29,3909266,0,0,0,Sad
+Dheere Dheere Kowa Radha,Sibani Dutta,/artist/sibani-dutta,0.0,Assamese,2001-07-06,0.94,0.471,0.82,0.199,-2.71,0.015,150.157,0,7,0.097,4,32,2684819,0,0,0,Energetic
+Hari Hey Ahare,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2001-07-08,0.33,0.61,0.762,0.842,-11.676,0.08,150.072,1,11,0.0334,4,71,9951523,0,0,0,Happy
+Bihu Bihu Lagichhe Gaat,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2001-07-11,0.77,0.843,0.432,0.647,-2.853,0.0339,149.89,0,7,0.0869,4,77,4616636,0,0,0,Sad
+Moi Kio Bia Karaichilo - Parody,Nagen Barman|Pranita Barman,/artist/nagen-barman|/artist/pranita-barman,0.0,Assamese,2001-08-03,0.25,0.96,0.894,0.442,-3.578,0.034,149.99,0,5,0.09,4,96,448289,0,0,0,Energetic
+Aea Je Dekhicha,Dwipen Baruah|Runjun Phukan,/artist/dwipen-baruah|/artist/runjun-phukan-1,0.0,Assamese,2001-10-09,0.38,0.18,0.412,0.098,-10.829,0.05,149.983,0,7,0.0561,4,42,5235077,0,0,0,Sad
+Moi Eti Mukali Pakhi,Arun Das,/artist/arun-das,0.0,Assamese,2001-10-12,0.34,0.63,0.3,0.683,-8.537,0.0593,150.04,0,11,0.0306,4,73,10193434,0,0,0,Sad
+A Aaji Beular Biya,Rameshwar Pathak|Dhanada Pathak,/artist/rameshwar-pathak|/artist/dhanada-pathak,0.0,Assamese,2001-11-11,0.84,0.406,0.356,0.297,-8.55,0.0331,155.013,1,5,0.0364,4,56,7609437,0,0,0,Sad
+Tritiya Shrenir Jatri,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2001-12-02,0.92,0.1,0.633,0.907,-11.146,0.0313,157.021,0,7,0.0337,4,66,1547658,0,0,0,Happy
+Alfolia Kopou Phool,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,0.0,Assamese,2001-12-05,0.05,0.98,0.31,0.21,-4.807,0.01,149.982,0,5,0.059,4,32,8296179,0,0,0,Sad
+Madhab Madhab Dukh Taphari,Mitraa Phukan|Namita Bhattacharya,/artist/mitraa-phukan|/artist/namita-bhattacharya,0.0,Assamese,2001-12-06,0.5,0.847,0.628,0.663,-2.899,0.0011,150.021,0,10,0.08,4,69,7938705,0,0,0,Sad
+Samsun Salito Jora,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2001-12-06,0.39,0.992,0.336,0.94,-12.769,0.09,149.963,1,8,0.06,4,79,883933,0,0,0,Sad
+Nai Hoya Sesh,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,0.0,Assamese,2002-01-06,0.29,0.163,0.118,0.132,-2.263,0.07,150.02,0,10,0.081,4,84,6368796,0,0,0,Sad
+Girip Garap,Anima Talukdar|Archana Mahanta,/artist/anima-talukdar|/artist/archana-mahanta,0.0,Assamese,2002-02-05,0.21,0.06,0.494,0.865,-10.115,0.021,149.904,0,9,0.0287,4,64,7712812,0,0,0,Sad
+Jeevan Gharir Pratita Pol Kanchghar,Suman Kalyanpur,/artist/suman-kalyanpur,0.0,Assamese,2002-02-05,0.64,0.436,0.808,0.128,-4.558,0.081,149.92,1,9,0.07,4,31,9745065,0,0,0,Energetic
+Piriti Aru Bimurto Mur,Bhupen Hazarika,/artist/bhupen-hazarika,0.0,Assamese,2002-03-10,0.06,0.038,0.205,0.55,-6.615,0.047,150.602,1,1,0.081,4,52,1251003,0,0,0,Sad
+Aji Kino Pulakate,Aarti Mukherji,/artist/aarti-mukherji,0.0,Assamese,2002-04-02,0.99,0.557,0.455,0.901,-4.8,0.019,149.939,0,11,0.05,4,53,641653,0,0,0,Sad
+Chulat Mad Khopa - Parody,Nagen Barman|Pranita Barman,/artist/nagen-barman|/artist/pranita-barman,0.0,Assamese,2002-04-07,0.09,0.372,0.006,0.513,-10.95,0.044,150.055,0,6,0.098,4,51,9023165,0,0,0,Sad
+Jiwan Sundar Maram Sundar,Anju Devi|Bhupen Hazarika,/artist/anju-devi|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2002-04-07,0.69,0.76,0.609,0.9,-6.877,0.07,149.841,0,7,0.02,4,62,4550136,0,0,0,Happy
+Dekha Nai,Jayanta Hazarika,/artist/jayanta-hazarika,0.0,Assamese,2002-04-08,0.19,0.1,0.899,0.08,-9.077,0.0747,149.827,0,0,0.01,4,25,9460083,0,0,0,Energetic
+Gopini Pran,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2002-05-04,0.64,0.4,0.129,0.76,-13.306,0.001,150.028,0,1,0.04,4,89,11036930,0,0,0,Sad
+Dayamoyee Hey Ma,Mitali Chowdhury,/artist/mitali-chowdhury,0.0,Assamese,2002-05-07,0.28,0.181,0.297,0.199,-8.67,0.0444,150.019,1,4,0.063,4,47,2610286,0,0,0,Sad
+Maati Phuti Olaale,Namita Bhattacharya|Dwipen Baruah,/artist/namita-bhattacharya|/artist/dwipen-baruah,0.0,Assamese,2002-05-07,0.77,0.12,0.269,0.71,-3.121,0.01,155.088,0,1,0.068,4,58,3387906,0,0,0,Sad
+Oi Babitoi Dhulia,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2002-05-12,0.57,0.25,0.639,0.616,-11.563,0.02,149.842,1,11,0.08,4,95,4380345,0,0,0,Happy
+Arey Orey More Bhaber Deora,Pranita Barman,/artist/pranita-barman,0.0,Assamese,2002-06-03,0.18,0.66,0.432,0.067,-8.685,0.041,150.07,1,1,0.069,4,41,2859838,0,0,0,Sad
+Tumi Uzanir Ney Namonir,Dijen Kakati,/artist/dijen-kakati-4,0.0,Assamese,2002-06-04,0.53,0.926,0.672,0.069,-4.09,0.09,150.052,1,0,0.027,4,81,10447877,0,0,0,Energetic
+O Raghupati,Kalpana Bhuyan|Nibha Deka|Siba Prasad Nath|Nomi Gayan,/artist/kalpana-bhuyan|/artist/nibha-deka|/artist/siba-prasad-nath|/artist/nomi-gayan,0.0,Assamese,2002-06-06,0.4,0.15,0.894,0.592,-12.889,0.063,150.047,1,1,0.02,4,97,7565430,0,0,0,Energetic
+Abor Song No.6A,Male Assam soloist|singers with percussion from Damroh|Arbor Hills,/artist/male-assam-soloist|/artist/singers-with-percussion-from-damroh|/artist/arbor-hills,0.0,Assamese,2002-07-10,0.65,0.203,0.097,0.866,-2.673,0.0014,150.053,0,0,0.0565,4,62,9646243,0,0,0,Sad
+Hey Narayan,Jiten Deka|Nirmali Das,/artist/jiten-deka|/artist/nirmali-das,0.0,Assamese,2002-08-02,0.02,0.36,0.047,0.092,-5.939,0.02,149.935,1,9,0.02,4,74,2250100,0,0,0,Sad
+O Dukhiya Man Mara,Digen Mahanta|Khagen Mahanta,/artist/digen-mahanta|/artist/khagen-mahanta,0.0,Assamese,2002-08-05,0.26,0.54,0.921,0.203,-6.773,0.0766,155.026,1,2,0.09,4,27,3388887,0,0,0,Energetic
+A Aaji Beular Biya,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2002-08-11,0.72,0.778,0.752,0.182,-7.496,0.08,150.056,0,9,0.0461,4,63,3159646,0,0,0,Happy
+Dhng Dhari Dhng,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2002-08-12,0.13,0.17,0.101,0.877,-11.703,0.05,150.04,1,0,0.072,4,76,5196618,0,0,0,Sad
+Adite Akale,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2002-09-12,0.6,0.12,0.036,0.114,-4.9,0.054,149.935,0,5,0.0544,4,91,81347,0,0,0,Sad
+Maanuhe Maanuhara,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2002-09-12,0.1,0.521,0.899,0.405,-3.875,0.0458,150.05,0,9,0.004,4,61,634185,0,0,0,Energetic
+Banda Debnarayan,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2002-10-02,0.72,0.918,0.144,0.687,-11.424,0.0313,149.843,0,5,0.08,4,78,10792316,0,0,0,Sad
+Seujaya,Biman|Chorus,/artist/biman-8|/artist/chorus,0.0,Assamese,2002-10-03,0.73,0.56,0.303,0.266,-12.835,0.0739,149.748,1,8,0.0285,4,29,1570748,0,0,0,Sad
+Radhar Aoasher Majhey,Pranita Barman,/artist/pranita-barman,0.0,Assamese,2002-10-10,0.22,0.531,0.098,0.69,-10.959,0.081,150.008,0,4,0.1,4,81,5216396,0,0,0,Sad
+Aamare Moina,Malabika Bora|Samar Hazarika,/artist/malabika-bora|/artist/samar-hazarika,0.0,Assamese,2002-11-01,0.46,0.255,0.372,0.486,-6.442,0.01,149.916,0,0,0.0552,4,75,59701,0,0,0,Sad
+Ei Nadikhani,Dwipen Baruah|Debjani Barua,/artist/dwipen-baruah|/artist/debjani-barua,0.0,Assamese,2002-11-02,0.41,0.18,0.425,0.621,-12.942,0.0066,150.144,1,0,0.07,4,96,8076,0,0,0,Sad
+Dolani Lagiche,Mridula Das Dewan,/artist/mridula-das-dewan,0.0,Assamese,2002-11-10,0.21,0.52,0.413,0.327,-3.549,0.05,150.099,0,11,0.04,4,100,2003716,0,0,0,Sad
+Mor Haon Phaon Dhar Phar Korey,Nagen Barman,/artist/nagen-barman,0.0,Assamese,2002-12-02,0.18,0.97,0.857,0.124,-3.219,0.0058,153.997,1,8,0.022,4,83,9895424,0,0,0,Energetic
+Akou Ubhati Jadi Aha,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2002-12-04,0.33,0.05,0.3,0.505,-10.291,0.0745,150.017,1,6,0.067,4,36,11187188,0,0,0,Sad
+Ukhakoi Gara Oi,Lokeswar Deka|Lakshmi Bordoloi|Sibprasad Nath|Iru Saika|Puna Saika,/artist/lokeswar-deka|/artist/lakshmi-bordoloi|/artist/sibprasad-nath-2|/artist/iru-saika-2|/artist/puna-saika-2,0.0,Assamese,2002-12-08,0.77,0.973,0.608,0.727,-11.312,0.0161,150.05,1,1,0.0926,4,93,2346634,0,0,0,Happy
+Ei Son Barania,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,0.0,Assamese,2002-12-11,0.62,0.521,0.928,0.599,-3.471,0.0442,149.983,0,10,0.0985,4,76,3373912,0,0,0,Energetic
+Jal Anibake Jnao,Dhanada Pathak,/artist/dhanada-pathak,0.0,Assamese,2003-01-01,0.1,0.771,0.222,0.648,-13.709,0.073,150.016,0,1,0.03,4,32,5420019,0,0,0,Sad
+Ki Rang Dila Halo Utala,Namita Bhattacharya|Dwipen Barua,/artist/namita-bhattacharya|/artist/dwipen-barua-10,0.0,Assamese,2003-01-02,0.1,0.64,0.375,0.036,-11.115,0.1,149.996,1,1,0.1,4,66,4451749,0,0,0,Sad
+Dehai Amoni Korichhe,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2003-01-06,0.05,0.18,0.742,0.523,-8.885,0.0332,149.981,1,1,0.0389,4,29,11141871,0,0,0,Sad
+Moi Geet Rachina,sibcharan das,/artist/sibcharan-das,0.0,Assamese,2003-01-11,0.91,0.92,0.601,0.95,-3.843,0.028,155.199,0,11,0.09,4,54,4243506,0,0,0,Sad
+Ahinor,Aftab Ahmad,/artist/aftab-ahmad,0.0,Assamese,2003-02-01,0.02,0.081,0.849,0.919,-2.241,0.0074,149.777,1,8,0.043,4,72,6407920,0,0,0,Energetic
+Nakanda Nakanda Monai O,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2003-02-07,0.02,0.643,0.085,0.2,-8.976,0.0883,150.024,0,11,0.06,4,45,6632956,0,0,0,Sad
+Kamalakoi Bahanre Oi,Khagen Mahanta|Archana Mahanta|Nikunjalata Mohanta|Digen Mohanta,/artist/khagen-mahanta|/artist/archana-mahanta|/artist/nikunjalata-mohanta|/artist/digen-mohanta,0.0,Assamese,2003-02-12,0.57,0.836,0.153,0.391,-6.204,0.01,149.962,0,10,0.008,4,91,9481956,0,0,0,Sad
+O Sham Kaliyara,Pranita Barman,/artist/pranita-barman,0.0,Assamese,2003-03-04,0.05,0.35,0.169,0.674,-13.952,0.011,149.995,0,9,0.036,4,26,4620201,0,0,0,Sad
+Tomar Hatera Roba,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2003-04-10,0.12,0.664,0.689,0.636,-9.245,0.0873,149.876,0,9,0.03,4,89,9128500,0,0,0,Happy
+Loilase Tneo,Rituparna Sharma,/artist/rituparna-sharma,0.0,Assamese,2003-05-02,0.57,0.59,0.652,0.923,-10.158,0.0418,148.008,1,2,0.025,4,85,1516214,0,0,0,Happy
+Aghunare Pathare Aai,Sarat Sharma|Lakshmi Bordoloi|Others|Bibha Barua|Anu Barkakati,/artist/sarat-sharma|/artist/lakshmi-bordoloi|/artist/others|/artist/bibha-barua-2|/artist/anu-barkakati-2,0.0,Assamese,2003-05-05,0.51,0.86,0.298,0.204,-11.967,0.029,150.031,1,7,0.071,4,64,9103316,0,0,0,Sad
+Aei Mitha,Aftab Ahmad,/artist/aftab-ahmad,0.0,Assamese,2003-06-05,0.72,0.274,0.473,0.522,-10.21,0.0469,150.086,0,7,0.057,4,88,2392147,0,0,0,Sad
+Joy Joy Srimanta Shankar,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2003-06-07,0.94,0.31,0.821,0.793,-8.345,0.0652,150.026,0,7,0.016,4,40,8065538,0,0,0,Happy
+Ma Tumi Khelibane,Bhupinder Singh|Suman Kalyanpur,/artist/bhupinder-singh|/artist/suman-kalyanpur,0.0,Assamese,2003-06-09,0.55,0.85,0.344,0.919,-13.494,0.02,150.403,0,9,0.08,4,97,8247391,0,0,0,Sad
+Saraju Kande Re,Naren Das,/artist/naren-das,0.0,Assamese,2003-07-02,0.01,0.799,0.735,0.364,-10.749,0.0799,150.028,0,7,0.07,4,82,10583167,0,0,0,Happy
+Sali Mari Nasoni (Bihu Geet) (Introduction),Samar Hazarika,/artist/samar-hazarika,0.0,Assamese,2003-07-12,0.15,0.845,0.948,0.176,-11.427,0.04,149.982,0,6,0.03,4,83,2971456,0,0,0,Happy
+Guwahati Loi Gaichhilo - Parody,Nagen Barman|Udoy Barman,/artist/nagen-barman|/artist/udoy-barman,0.0,Assamese,2003-09-03,0.25,0.684,0.075,0.644,-5.229,0.01,149.977,0,11,0.0447,4,95,2210836,0,0,0,Sad
+A Mayabhara,Khagen Mahanta,/artist/khagen-mahanta,0.0,Assamese,2003-09-11,0.42,0.27,0.934,0.151,-13.501,0.068,154.977,1,6,0.052,4,85,8217669,0,0,0,Happy
+Deha Kola Hole,Khagen Mahanta,/artist/khagen-mahanta,0.0,Assamese,2003-11-02,0.64,0.8,0.683,0.228,-10.631,0.0894,150.014,1,11,0.0201,4,87,2559416,0,0,0,Happy
+Ek Achhila Raja,Khagen Mahanta,/artist/khagen-mahanta,0.0,Assamese,2003-11-04,0.71,0.06,0.298,0.667,-2.947,0.0417,149.96,1,0,0.06,4,95,940506,0,0,0,Sad
+O Aji Bihu Bihu,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,0.0,Assamese,2003-11-10,0.39,0.25,0.011,0.694,-4.128,0.005,149.966,0,5,0.0008,4,80,11384270,0,0,0,Sad
+Meghnathar Saktishel,sibcharan das|Others,/artist/sibcharan-das|/artist/others,0.0,Assamese,2003-11-12,0.43,0.86,0.456,0.022,-7.575,0.0654,149.996,0,10,0.051,4,55,7253906,0,0,0,Sad
+Bhukhut Khabuti Lai,Aftab Ahmad,/artist/aftab-ahmad,0.0,Assamese,2003-11-12,0.44,0.99,0.496,0.105,-5.467,0.0766,150.044,1,9,0.0618,4,100,1687185,0,0,0,Sad
+Sagar Dekhi,Madhumati Goswami,/artist/madhumati-goswami,0.0,Assamese,2004-01-02,0.75,0.312,0.496,0.646,-12.916,0.04,149.902,0,11,0.007,4,40,4701590,0,0,0,Sad
+Ramjanare Roja Galo,Mohammed Rafi|Bhupen Hazarika,/artist/mohammad-rafi|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2004-01-03,0.12,0.36,0.24,0.244,-3.437,0.036,149.897,1,5,0.04,4,74,8100252,0,0,0,Sad
+Natun Natun Sah,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2004-01-04,0.44,0.47,0.095,0.377,-2.869,0.0665,149.985,0,0,0.01,4,44,2542196,0,0,0,Sad
+Purba Bharatir,Shyamal Mitra,/artist/shyamal-mitra,0.0,Assamese,2004-02-05,0.11,0.652,0.479,0.04,-2.496,0.0113,150.167,1,5,0.015,4,67,8766045,0,0,0,Sad
+Shankar Guru,Rameshwar Pathak|Dhanada Pathak,/artist/rameshwar-pathak|/artist/dhanada-pathak,0.0,Assamese,2004-02-06,0.07,0.681,0.056,0.135,-9.201,0.03,150.044,1,8,0.0049,4,49,5062202,0,0,0,Sad
+Palasar Rang Palasar Rang,Bhupen Hazarika|Usha Mangeshkar,/artist/dr-bhupen-hazarika-2|/artist/usha-mangeshkar-2,0.0,Assamese,2004-03-01,0.72,0.7,0.253,0.2,-6.064,0.017,150.021,1,10,0.05,4,60,2095757,0,0,0,Sad
+Agalati Kalapat Lare Ki Chare,Jayanta Hazarika,/artist/jayanta-hazarika,0.0,Assamese,2004-03-05,0.77,0.866,0.377,0.64,-7.527,0.0563,149.961,1,0,0.09,4,94,4809586,0,0,0,Sad
+Abor Song No.2,Female Assam soloist|singers from Siluk|Arbor Hills,/artist/female-assam-soloist|/artist/singers-from-siluk|/artist/arbor-hills,0.0,Assamese,2004-03-06,0.08,0.376,0.15,0.676,-8.039,0.0607,150.049,1,0,0.051,4,99,10938315,0,0,0,Sad
+Malita,Late Gahan Goswami,/artist/late-gahan-goswami,0.0,Assamese,2004-03-07,0.88,0.68,0.333,0.577,-12.292,0.078,150.259,0,11,0.09,4,91,6157449,0,0,0,Sad
+Bheem Kal Badadi,Lokeswar Deka,/artist/lokeswar-deka,0.0,Assamese,2004-03-10,0.58,0.51,0.307,0.136,-6.979,0.04,150.052,0,5,0.049,4,55,11123740,0,0,0,Sad
+Suorani Kuwaliya,Jayanta Hazarika,/artist/jayanta-hazarika,0.0,Assamese,2004-04-05,0.38,0.971,0.883,0.092,-9.364,0.1,150.054,1,8,0.03,4,34,10088739,0,0,0,Energetic
+O He Mon Bhai,Naren Das,/artist/naren-das,0.0,Assamese,2004-04-12,0.0,0.4,0.409,0.398,-13.055,0.0605,149.964,0,10,0.044,4,82,5466773,0,0,0,Sad
+Rati Je Holo Baro,Manisha Hazarika,/artist/manisha-hazarika,0.0,Assamese,2004-05-01,0.54,0.95,0.355,0.311,-13.875,0.08,150.017,0,9,0.0841,4,88,3479195,0,0,0,Sad
+Ashwin Mashe Durga Puja,Mridula Das Dewan|Bhupen Hazarika,/artist/mridula-das-dewan|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2004-05-01,0.96,0.97,0.689,0.004,-4.044,0.038,149.964,0,1,0.002,4,49,9418313,0,0,0,Energetic
+Ki Naam Di Matim,Nirmal Mishra|Dwipen Baruah,/artist/nirmal-mishra|/artist/dwipen-baruah,0.0,Assamese,2004-05-02,0.28,0.46,0.228,0.974,-13.46,0.06,149.553,0,7,0.06,4,53,10203250,0,0,0,Sad
+Aami Pani Ona Ghat,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2004-06-01,0.49,0.08,0.921,0.694,-9.268,0.02,149.982,1,10,0.032,4,69,10412327,0,0,0,Happy
+Asom Amar Desh,Jiten Deka|Nirmali Das,/artist/jiten-deka|/artist/nirmali-das,0.0,Assamese,2004-06-10,0.39,0.024,0.859,0.847,-5.384,0.058,150.031,0,10,0.04,4,98,6471338,0,0,0,Happy
+Ei To Lagan Aji,Anima Bhattacharya|Hemen Das,/artist/anima-bhattacharya|/artist/hemen-das,0.0,Assamese,2004-07-04,0.46,0.53,0.872,0.717,-13.663,0.008,149.946,0,5,0.0611,4,32,5608791,0,0,0,Sad
+Sham Kanu Duraihai Najaba,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Assamese,2004-08-02,0.21,0.25,0.249,0.675,-4.667,0.0319,149.755,0,9,0.039,4,25,8925587,0,0,0,Sad
+Nil Nil Sagn,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2004-08-11,0.19,0.27,0.887,0.95,-11.598,0.1,150.031,1,1,0.036,4,70,3874166,0,0,0,Energetic
+Kerasene Dilane - Parody,Nagen Barman|Pranita Barman,/artist/nagen-barman|/artist/pranita-barman,0.0,Assamese,2004-09-01,0.02,0.883,0.306,0.78,-7.517,0.014,147.827,1,0,0.0858,4,96,10614206,0,0,0,Sad
+Jibon Sundar,Anju Devi|Bhupen Hazarika,/artist/anju-devi|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2004-09-11,0.49,0.637,0.574,0.274,-7.819,0.038,150.012,0,2,0.096,4,73,9838311,0,0,0,Sad
+Nao Chapan Nao Chapan,Dhanada Pathak,/artist/dhanada-pathak,0.0,Assamese,2004-10-01,0.55,0.538,0.865,0.183,-9.099,0.042,150.041,1,7,0.1,4,85,9003320,0,0,0,Happy
+Nahor Phoole,Namita Goswami|Samar Hazarika,/artist/namita-goswami|/artist/samar-hazarika,0.0,Assamese,2004-10-07,0.65,0.02,0.477,0.305,-13.56,0.0335,149.971,0,11,0.066,4,72,9769005,0,0,0,Sad
+Mora Sindhu Kandhe Loia,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2004-10-07,0.07,0.711,0.523,0.557,-8.689,0.09,149.978,0,10,0.091,4,80,5027356,0,0,0,Sad
+Machhi Thoi Jadi,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2004-10-08,0.03,0.959,0.646,0.813,-9.787,0.04,149.953,1,9,0.0355,4,100,396651,0,0,0,Sad
+Moke Gutene,sibcharan das,/artist/sibcharan-das,0.0,Assamese,2004-10-09,0.14,0.93,0.056,0.456,-5.968,0.02,150.033,0,8,0.01,4,51,2230980,0,0,0,Sad
+O Mor Dharitri,Pampa Gagai|Bhupen Hazarika,/artist/pampa-gagai|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2004-11-10,0.75,0.69,0.698,0.976,-7.573,0.08,150.043,0,1,0.0984,4,35,1353833,0,0,0,Happy
+Phool Bhara Phool Niwa,Suman Kalyanpur,/artist/suman-kalyanpur,0.0,Assamese,2004-11-11,0.61,0.13,0.563,0.862,-6.228,0.0856,149.761,1,9,0.0285,4,40,8950048,0,0,0,Sad
+Bijuleer Pohar Mor Nai,Suman Kalyanpur,/artist/suman-kalyanpur,0.0,Assamese,2004-12-01,0.58,0.86,0.701,0.147,-12.262,0.072,151.988,0,0,0.08,4,29,1521244,0,0,0,Energetic
+Ai O Sipini,Khagen Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/archana-mahanta,0.0,Assamese,2004-12-03,0.81,0.183,0.039,0.19,-12.992,0.06,150.013,0,3,0.0264,4,35,11375335,0,0,0,Sad
+Kuli Ketakiya,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2004-12-03,0.66,0.06,0.524,0.346,-4.772,0.04,151.962,0,7,0.02,4,34,1330971,0,0,0,Sad
+Pani Pai Badile,Dijen Kakati|Kalpana Bhuiya,/artist/dijen-kakati-4|/artist/kalpana-bhuiya,0.0,Assamese,2004-12-04,0.09,0.0,0.591,0.842,-8.007,0.04,147.949,1,6,0.076,4,27,4050392,0,0,0,Sad
+Purna Gharat,Santa Sharma,/artist/santa-sharma,0.0,Assamese,2004-12-06,0.4,0.767,0.858,0.189,-3.396,0.05,152.946,0,9,0.048,4,72,11061697,0,0,0,Energetic
+Sakhiyati Jilmil Pakhi - Parveen Sultana,Parveen Sultana,/artist/parveen-sultana,0.0,Assamese,2004-12-09,0.34,0.05,0.733,0.151,-13.208,0.095,150.009,1,7,0.015,4,86,7781207,0,0,0,Happy
+Dneoe Di Sarile,Sharat Sharma|Shiv Prasad Nath,/artist/sharat-sharma|/artist/shiv-prasad-nath,0.0,Assamese,2004-12-11,0.33,0.67,0.779,0.968,-7.081,0.06,154.741,1,4,0.02,4,31,10813143,0,0,0,Energetic
+Oto Dukhe Mor Prabhu,Naren Das,/artist/naren-das,0.0,Assamese,2004-12-12,0.05,0.26,0.952,0.959,-4.268,0.035,150.081,1,7,0.0392,4,37,5950809,0,0,0,Energetic
+Devata Koa Mok Adalat,Aarti Mukherji,/artist/aarti-mukherji,0.0,Assamese,2005-02-02,0.66,0.14,0.088,0.823,-6.161,0.05,155.096,1,8,0.0313,4,64,72598,0,0,0,Sad
+Bianaam - Part - 1,Runumi Bhattacharya|Nikunjalata Mahanta|Archana Mahanta,/artist/runumi-bhattacharya|/artist/nikunjalata-mahanta|/artist/archana-mahanta,0.0,Assamese,2005-02-03,0.13,0.75,0.104,0.698,-6.56,0.0956,150.018,0,9,0.09,4,35,10824494,0,0,0,Sad
+Namore Kothia,Bhupen Hazarika|Anju Devi,/artist/dr-bhupen-hazarika-2|/artist/anju-devi,0.0,Assamese,2005-02-07,0.77,0.67,0.25,0.471,-7.404,0.0152,149.977,0,9,0.07,4,40,9195112,0,0,0,Sad
+Tumi Pradip Hoan,Dilip Sharma|Anima Chowdhury,/artist/dilip-sharma|/artist/anima-chowdhury-1,0.0,Assamese,2005-03-04,0.85,0.52,0.342,0.332,-11.207,0.0443,151.798,1,1,0.0113,4,59,2816324,0,0,0,Sad
+Jai A Kanu,Khagen Mahanta,/artist/khagen-mahanta,0.0,Assamese,2005-03-09,0.17,0.24,0.557,0.906,-6.357,0.01,150.031,0,9,0.0454,4,62,5008223,0,0,0,Sad
+Asha Mor Habaloi,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2005-04-02,0.46,0.984,0.161,0.909,-12.188,0.051,149.759,0,1,0.02,4,78,5220129,0,0,0,Sad
+Maram Buji,Bipul|Chorus,/artist/bipul|/artist/chorus,0.0,Assamese,2005-04-05,0.36,0.82,0.928,0.122,-4.454,0.0102,150.029,1,7,0.07,4,47,8932535,0,0,0,Energetic
+Kanhura Bon,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2005-05-04,0.81,0.16,0.196,0.451,-9.868,0.03,149.982,0,0,0.01,4,35,3916139,0,0,0,Sad
+Maya Mohe Bhara,Haimanti Shukla|Kula Barua|Namita Bhattacharya,/artist/haimanti-shukla|/artist/kula-barua-5|/artist/namita-bhattacharya,0.0,Assamese,2005-05-04,0.55,0.23,0.508,0.016,-10.165,0.03,149.972,0,6,0.0839,4,98,2657289,0,0,0,Sad
+Bihu Geet,Ila Kakoti|Krishna Das|Moni Baruah|Kabita Hazarika|Sudakshina Sharma|Bharati Das,/artist/ila-kakoti|/artist/krishna-das|/artist/moni-baruah|/artist/kabita-hazarika|/artist/sudakshina-sharma|/artist/bharati-das,0.0,Assamese,2005-07-03,0.08,0.0,0.156,0.571,-5.908,0.0462,154.864,0,7,0.0556,4,53,6201515,0,0,0,Sad
+Devata Kowa Mor,Aarti Mukherji,/artist/aarti-mukherji,0.0,Assamese,2005-07-07,0.74,0.915,0.146,0.804,-8.285,0.079,150.02,0,2,0.015,4,88,6926956,0,0,0,Sad
+Bengena Namere,Khagen Mahanta,/artist/khagen-mahanta,0.0,Assamese,2005-08-08,0.21,0.99,0.673,0.655,-5.44,0.067,150.014,0,0,0.0,4,97,8301848,0,0,0,Energetic
+Alap Hanhi Alap,Manisha Hazarika,/artist/manisha-hazarika,0.0,Assamese,2005-08-12,0.78,0.633,0.178,0.833,-7.95,0.0776,150.071,1,4,0.01,4,52,8382725,0,0,0,Sad
+Daiyamoyi Paro Karo,Bangshidhar Das,/artist/bangshidhar-das-5,0.0,Assamese,2005-09-07,0.8,0.2,0.732,0.388,-10.649,0.0549,143.803,1,2,0.009,4,58,8378987,0,0,0,Happy
+Noire Leteraa Baandhoi,Lokeswar Deka,/artist/lokeswar-deka,0.0,Assamese,2005-09-10,0.91,0.984,0.104,0.459,-13.69,0.0004,150.044,0,3,0.075,4,31,7526262,0,0,0,Sad
+Akhan Nadekha Nadir,Dwipen Barua,/artist/dwipen-barua-2,0.0,Assamese,2005-09-11,0.49,0.038,0.972,0.155,-6.97,0.0979,154.979,0,11,0.06,4,86,490379,0,0,0,Happy
+Sahashra Jone Mok Proshna Kore,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2005-10-01,0.26,0.803,0.936,0.408,-6.15,0.1,150.001,0,3,0.05,4,64,6173284,0,0,0,Energetic
+Ak Din Tumi,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2005-10-01,0.2,0.756,0.676,0.943,-10.449,0.0926,150.063,0,9,0.024,4,83,1679294,0,0,0,Happy
+Aru Kato Dukh Diya Prabhu,Suman Kalyanpur,/artist/suman-kalyanpur,0.0,Assamese,2005-10-05,0.05,0.99,0.069,0.176,-11.494,0.0042,149.953,1,7,0.006,4,99,2522763,0,0,0,Sad
+Iman Moram Kiya,Dwipen Barua|Anima Chowdhury,/artist/dwipen-barua-9|/artist/anima-chowdhury-3,0.0,Assamese,2005-10-06,0.29,0.73,0.343,0.717,-9.72,0.0746,150.106,1,2,0.088,4,52,3394167,0,0,0,Sad
+Ek Dui Tini,Jayanta Hazarika,/artist/jayanta-hazarika,0.0,Assamese,2005-11-02,0.89,0.716,0.488,0.848,-10.786,0.058,154.948,0,9,0.07,4,86,2205283,0,0,0,Sad
+Jibon Ghorir Protito Pal,Suman Kalyanpur,/artist/suman-kalyanpur,0.0,Assamese,2005-11-06,0.42,0.765,0.0,0.998,-7.371,0.012,149.988,0,6,0.09,4,98,9757602,0,0,0,Sad
+Ami Bhaiti Bhanti,Bhupinder Singh|Krishna|Utpala|Asomi|Arindam|Nirupama|Mrinalini Dutta Chowdhury|Munin,/artist/bhupinder-singh|/artist/krishna|/artist/utpala|/artist/asomi|/artist/arindam|/artist/nirupama|/artist/mrinalini-dutta-chowdhury-1|/artist/munin,0.0,Assamese,2005-12-02,0.44,0.391,0.996,0.389,-9.545,0.0567,149.945,1,1,0.06,4,81,2041422,0,0,0,Energetic
+Sundari Saon Kino Kalpana,Jayanta Hazarika|Nirmal Mishra,/artist/jayanta-hazarika|/artist/nirmal-mishra,0.0,Assamese,2005-12-02,0.23,0.24,0.847,0.767,-12.465,0.01,149.977,0,8,0.057,4,57,4724890,0,0,0,Sad
+Buku Ham Ham Kore,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2005-12-02,0.95,0.279,0.345,0.332,-8.96,0.053,153.026,0,11,0.0225,4,37,6877852,0,0,0,Sad
+Ai Tai Bahagate,Samar Hazarika,/artist/samar-hazarika,0.0,Assamese,2006-01-06,0.18,0.39,0.314,0.118,-12.471,0.04,149.997,0,6,0.0625,4,86,8647750,0,0,0,Sad
+O Dada Bolai O,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2006-01-09,0.87,0.662,0.487,0.076,-11.352,0.03,150.089,0,0,0.0673,4,80,802257,0,0,0,Sad
+Sapon Rangin Palash,Parveen Sultana,/artist/parveen-sultana,0.0,Assamese,2006-01-12,0.69,0.662,0.413,0.164,-6.441,0.084,149.939,0,9,0.0878,4,56,6231126,0,0,0,Sad
+Marame O Pacha,Santa Sharma|Arun Das,/artist/santa-sharma|/artist/arun-das,0.0,Assamese,2006-02-02,0.24,0.896,0.289,0.953,-10.017,0.05,149.915,0,0,0.0932,4,85,14261,0,0,0,Sad
+Disco Sangeet Amare,Nagen Barman,/artist/nagen-barman,0.0,Assamese,2006-02-04,0.78,0.509,0.401,0.041,-5.196,0.039,151.274,1,1,0.07,4,59,6433142,0,0,0,Sad
+Shun Hero Rupahi Bijoli,Samar Hazarika,/artist/samar-hazarika,0.0,Assamese,2006-02-05,0.96,0.676,0.336,0.206,-11.827,0.0768,150.044,0,7,0.063,4,46,4070368,0,0,0,Sad
+Jhiri Jhiri,Suez Bardoloi,/artist/suez-bardoloi,0.0,Assamese,2006-03-02,0.81,0.36,0.707,0.992,-2.218,0.061,151.997,1,0,0.02,4,69,2789741,0,0,0,Energetic
+Shuni Ki Nushuni O,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2006-03-09,0.8,0.48,0.792,0.634,-8.905,0.071,149.992,0,9,0.05,4,84,10101426,0,0,0,Happy
+Khone Jage Hai,Namita Bhattacharya,/artist/namita-bhattacharya,0.0,Assamese,2006-04-01,0.06,0.11,0.964,0.242,-8.033,0.073,152.983,0,0,0.084,4,59,9278258,0,0,0,Energetic
+Kar Garavey,sibcharan das|Others,/artist/sibcharan-das|/artist/others,0.0,Assamese,2006-04-08,0.73,0.657,0.279,0.343,-4.788,0.09,150.002,0,0,0.0517,4,38,11331366,0,0,0,Sad
+Jak Jak Pakhila Ure,Renuka Barua|Sunil Dev,/artist/renuka-barua|/artist/sunil-dev,0.0,Assamese,2006-04-11,0.53,0.77,0.309,0.24,-12.988,0.031,149.986,0,1,0.0,4,28,5734410,0,0,0,Sad
+Tumi Je Morkalpanaare,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2006-05-02,0.06,0.5,0.219,0.629,-10.657,0.039,149.91,0,7,0.03,4,90,10107162,0,0,0,Sad
+Bhatiai Jaota,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,0.0,Assamese,2006-05-03,0.2,0.809,0.462,0.047,-4.275,0.06,152.84,1,7,0.026,4,96,11125447,0,0,0,Sad
+A Phool Pah Halichha Jalichha,Archana Mahanta,/artist/archana-mahanta,0.0,Assamese,2006-05-10,0.69,0.037,0.491,0.773,-5.431,0.0001,149.981,1,10,0.083,4,76,5741924,0,0,0,Sad
+A Aaji Beular Biya,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2006-05-11,0.89,0.2,0.998,0.122,-2.368,0.084,149.91,0,0,0.042,4,69,1807316,0,0,0,Energetic
+Bikkhubdha Biswakanthei,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2006-05-12,0.84,0.85,0.629,0.712,-11.257,0.012,150.372,0,9,0.02,4,85,2768872,0,0,0,Happy
+Kino Kapalat Sadhi,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2006-06-01,0.62,0.713,0.369,0.078,-9.635,0.05,149.926,1,11,0.03,4,77,8525491,0,0,0,Sad
+Bihu Bihu Lagichhe Gaat,Bhupen Hazarika|Ruby Singha,/artist/dr-bhupen-hazarika-2|/artist/ruby-singha,0.0,Assamese,2006-06-02,0.28,0.604,0.688,0.947,-9.265,0.016,150.147,1,6,0.073,4,68,9183656,0,0,0,Sad
+Mon Mor Urichhey,Samar Hazarika|Rijuwana Sultana,/artist/samar-hazarika|/artist/rijuwana-sultana,0.0,Assamese,2006-06-04,0.02,0.248,0.845,0.76,-6.728,0.07,150.027,0,5,0.0673,4,27,6772225,0,0,0,Energetic
+Basanta Ahil Sakhi,Madhumati Goswami|Mahananda Mazinder Baruah,/artist/madhumati-goswami|/artist/mahananda-mazinder-baruah-3,0.0,Assamese,2006-08-05,0.25,0.282,0.157,0.579,-8.087,0.042,149.992,0,11,0.04,4,53,6883599,0,0,0,Sad
+O Moy Kino Karo,Nilima Khatoon,/artist/nilima-khatoon,0.0,Assamese,2006-08-10,0.64,0.45,0.821,0.589,-8.146,0.0103,155.25,0,11,0.088,4,33,10628074,0,0,0,Sad
+Aahaaho Mahaho,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2006-09-01,0.09,0.536,0.928,0.662,-4.124,0.0593,149.998,0,11,0.067,4,97,10469975,0,0,0,Energetic
+O Aji Mor Mon Pakhiti,Aarti Mukherji,/artist/aarti-mukherji,0.0,Assamese,2006-09-08,0.82,0.787,0.34,0.307,-11.037,0.06,149.962,0,7,0.075,4,96,6163659,0,0,0,Sad
+Nadi Tore Bukute,Manisha Hazarika|Samar Hazarika,/artist/manisha-hazarika|/artist/samar-hazarika,0.0,Assamese,2006-09-12,0.12,0.08,0.686,0.084,-6.34,0.01,149.969,0,7,0.0866,4,90,6726585,0,0,0,Sad
+Kapalate Pindhilo,Anju Devi|Bhupen Hazarika,/artist/anju-devi|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2006-10-01,0.32,0.89,0.928,0.418,-6.461,0.01,155.038,1,2,0.05,4,81,3145102,0,0,0,Energetic
+Aaji Akashar,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2006-11-02,0.64,0.72,0.586,0.889,-10.34,0.012,150.014,1,9,0.08,4,34,2367768,0,0,0,Sad
+Bahagar Suriya,Madhumati Goswami,/artist/madhumati-goswami,0.0,Assamese,2006-11-05,0.91,0.507,0.759,0.995,-7.471,0.0777,150.071,0,8,0.0346,4,92,10806752,0,0,0,Happy
+Betha Kiyo Lagai Gali,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2006-11-05,0.54,0.294,0.434,0.375,-5.231,0.067,149.564,0,7,0.0901,4,99,4270365,0,0,0,Sad
+Dhoi Tnli Tnli,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2006-11-06,0.0,0.43,0.601,0.632,-11.913,0.072,150.009,0,9,0.04,4,96,3784224,0,0,0,Sad
+Kopi Uthe Kio Taj Mahal (Introduction),Samar Hazarika,/artist/samar-hazarika,0.0,Assamese,2006-11-12,0.24,0.211,0.64,0.408,-2.414,0.038,150.004,1,10,0.09,4,92,1186793,0,0,0,Sad
+Rang Rang Nana Rang,Bhupinder Singh|Krishna|Utpala|Asomi|Arindam|Nirupama|Mrinalini Dutta Chowdhury|Munin,/artist/bhupinder-singh|/artist/krishna|/artist/utpala|/artist/asomi|/artist/arindam|/artist/nirupama|/artist/mrinalini-dutta-chowdhury-1|/artist/munin,0.0,Assamese,2006-12-03,0.72,0.08,0.4,0.653,-9.064,0.08,150.066,0,3,0.01,4,61,8365097,0,0,0,Sad
+Gouri Puriya Gavoru Dekhilo,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2006-12-07,0.93,0.85,0.831,0.736,-9.727,0.077,150.01,0,0,0.03,4,46,5403539,0,0,0,Happy
+Kapili Kapili,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2006-12-09,0.79,0.091,0.47,0.619,-6.866,0.0264,150.011,0,6,0.0091,4,74,6001859,0,0,0,Sad
+Suhuri Marili,Barnali Hazarika,/artist/barnali-hazarika,0.0,Assamese,2007-01-03,0.51,0.958,0.317,0.26,-6.774,0.056,149.985,0,9,0.04,4,81,8881417,0,0,0,Sad
+Jhir Jhir Malayar,Dwipen Barua|Mitali Choudhury,/artist/dwipen-barua-5|/artist/mitali-choudhry,0.0,Assamese,2007-01-04,0.63,0.216,0.915,0.176,-9.08,0.079,149.911,0,2,0.0493,4,83,8379281,0,0,0,Happy
+Ei Bristi Ei Bristi,dasarath das|Kula Barua|Minu Saikia,/artist/dasarath-das|/artist/kula-barua|/artist/minu-saikia,0.0,Assamese,2007-02-08,0.6,0.958,0.707,0.845,-7.834,0.0193,154.964,0,3,0.0473,4,81,9318072,0,0,0,Happy
+Dukhi Moi Asahai,Anju Devi,/artist/anju-devi,0.0,Assamese,2007-02-11,0.24,0.69,0.476,0.99,-12.61,0.0733,149.857,1,5,0.051,4,82,4275271,0,0,0,Sad
+Tumi Nisangha Nohoba,Malabika Bora,/artist/malabika-bora,0.0,Assamese,2007-02-12,0.29,0.9,0.803,0.815,-12.433,0.0076,149.803,0,4,0.0431,4,42,2882046,0,0,0,Sad
+Ei Jibon Jadi,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2007-03-08,0.6,0.23,0.562,0.94,-9.754,0.03,150.003,0,6,0.0476,4,31,4300516,0,0,0,Sad
+Aji Tomake Dekhilo,Dilip Sharma|Anima Chowdhury,/artist/dilip-sharma|/artist/anima-chowdhury-1,0.0,Assamese,2007-04-10,0.55,0.875,0.862,0.05,-10.377,0.0398,149.906,1,7,0.07,4,32,2191047,0,0,0,Energetic
+Fashion Tomar Diney Diney,Nagen Barman|Bani Barua,/artist/nagen-barman|/artist/bani-barua,0.0,Assamese,2007-05-02,0.35,0.405,0.533,0.432,-6.538,0.098,149.938,0,10,0.05,4,25,5479527,0,0,0,Sad
+Majoni Mor Akanimani,Mridula Das Dewan,/artist/mridula-das-dewan,0.0,Assamese,2007-06-05,0.49,0.815,0.723,0.092,-13.672,0.02,146.986,0,9,0.022,4,74,5851432,0,0,0,Sad
+Duru Duru Kapichhe,Kalpana Bhuyan,/artist/kalpana-bhuyan,0.0,Assamese,2007-06-09,0.29,0.3,0.08,0.336,-2.315,0.05,150.03,1,1,0.1,4,71,5458046,0,0,0,Sad
+Nahibi A Sowarani,Manisha Hazarika,/artist/manisha-hazarika,0.0,Assamese,2007-07-01,0.73,0.331,0.782,0.061,-2.97,0.09,149.951,0,7,0.07,4,98,9898980,0,0,0,Energetic
+Maati Phuti Olaale,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,0.0,Assamese,2007-07-01,0.38,0.54,0.109,0.683,-9.637,0.042,150.056,0,8,0.0852,4,61,5160239,0,0,0,Sad
+Batash Bohiche Jhirjhiriya,Parveen Sultana|Khagen Mahanta,/artist/parveen-sultana|/artist/khagen-mahanta,0.0,Assamese,2007-07-03,0.78,0.48,0.694,0.073,-12.761,0.0668,154.984,1,7,0.031,4,74,8345348,0,0,0,Happy
+Eito Prahar Shunya Prahar,Samar Hazarika,/artist/samar-hazarika,0.0,Assamese,2007-07-04,0.68,0.156,0.025,0.602,-11.947,0.0938,149.885,0,1,0.04,4,81,750151,0,0,0,Sad
+Phale Phule Bhara,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2007-08-04,0.33,0.02,0.725,0.297,-2.621,0.071,150.317,0,11,0.04,4,56,1605676,0,0,0,Energetic
+Kaak Bulilo,Dwipen Baruah|Runjun Phukan,/artist/dwipen-baruah|/artist/runjun-phukan-1,0.0,Assamese,2007-09-06,0.83,0.139,0.591,0.522,-9.876,0.0638,149.934,0,11,0.01,4,67,6992566,0,0,0,Sad
+A Mai Diok Labon More,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2007-09-07,0.92,0.19,0.348,0.872,-5.603,0.041,149.954,0,5,0.011,4,45,2063968,0,0,0,Sad
+Husara,Unknown,/artist/unknown,0.0,Assamese,2007-09-10,0.65,0.23,0.122,0.541,-7.029,0.038,150.045,1,1,0.099,4,77,5218520,0,0,0,Sad
+Ei Je Amar Janwar Bahini,Dwipen Barua,/artist/dwipen-barua-7,0.0,Assamese,2007-10-02,0.67,0.94,0.247,0.71,-4.995,0.042,149.935,0,11,0.017,4,67,819679,0,0,0,Sad
+Jibon Nadir,Dijen Kakati,/artist/dijen-kakati-4,0.0,Assamese,2007-10-04,0.18,0.0,0.299,0.833,-6.506,0.067,150.068,1,5,0.04,4,37,3300831,0,0,0,Sad
+Nak Dangarer Beta Ta,Naren Das,/artist/naren-das,0.0,Assamese,2007-10-09,0.28,0.24,0.955,0.08,-10.401,0.03,150.009,0,4,0.06,4,84,2857329,0,0,0,Happy
+Kino Maramar,Namita Bhattacharya,/artist/namita-bhattacharya,0.0,Assamese,2007-11-02,0.81,0.52,0.891,0.825,-8.004,0.023,150.036,0,11,0.029,4,78,5368321,0,0,0,Happy
+Shyam Kalia,Dhanada Pathak,/artist/dhanada-pathak,0.0,Assamese,2007-12-02,0.07,0.887,0.279,0.234,-8.658,0.0909,149.995,1,0,0.044,4,46,152006,0,0,0,Sad
+Moina Charaiti,Nirmal Mishra|Sagarika Barua,/artist/nirmal-mishra|/artist/sagarika-barua,0.0,Assamese,2007-12-04,0.51,0.272,0.67,0.033,-13.732,0.02,149.928,0,10,0.093,4,78,9510742,0,0,0,Sad
+Asta Akashate,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2007-12-11,0.59,0.64,0.498,0.065,-6.023,0.024,150.23,0,10,0.08,4,32,1797939,0,0,0,Sad
+Kalir Krishna Duet,Dwipen Barua|Kokila Goswami|Mrinalini Dutta Chowdhury|Lalita Das|Puspa Das,/artist/dwipen-barua-11|/artist/kokila-goswami-2|/artist/mrinalini-dutta-chowdhury-2|/artist/lalita-das|/artist/puspa-das-1,0.0,Assamese,2008-01-06,0.79,0.46,0.189,0.734,-12.571,0.034,150.021,0,5,0.08,4,46,5591046,0,0,0,Sad
+Mone Mone Aaji Kak,Banasree Sengupta|Dwipen Baruah,/artist/banasree-sengupta|/artist/dwipen-baruah,0.0,Assamese,2008-03-04,0.22,0.233,0.003,0.841,-5.646,0.003,149.963,1,5,0.091,4,27,1470739,0,0,0,Sad
+Jan Oi Lihiri Dubari Bon,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,0.0,Assamese,2008-03-05,0.05,0.367,0.589,0.948,-11.126,0.083,149.981,0,3,0.011,4,28,3609791,0,0,0,Sad
+Arey Khulosali,Kalpana Bhuiya|Dijen Kakati,/artist/kalpana-bhuiya|/artist/dijen-kakati-7,0.0,Assamese,2008-03-11,0.78,0.299,0.684,0.493,-6.707,0.0936,147.953,1,1,0.06,4,79,1330688,0,0,0,Happy
+Mor Shona Saragara,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2008-03-11,0.68,0.845,0.236,0.999,-2.497,0.04,149.994,0,6,0.1,4,26,11175484,0,0,0,Sad
+Na Jano Kon,Suez Bardoloi,/artist/suez-bardoloi,0.0,Assamese,2008-03-11,0.62,0.202,0.037,0.518,-4.476,0.077,147.804,0,7,0.08,4,48,3980342,0,0,0,Sad
+Nidra Dhale Aha Pampai,Bangshidhar Das,/artist/bangshidhar-das-5,0.0,Assamese,2008-04-11,0.01,0.94,0.255,0.539,-3.908,0.05,150.051,0,1,0.061,4,56,2140533,0,0,0,Sad
+Moi Kon,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2008-05-03,0.03,0.308,0.794,0.241,-5.082,0.01,154.949,1,6,0.021,4,47,4470439,0,0,0,Sad
+Bail Machhe Kheil Kare,Pranita Barman,/artist/pranita-barman,0.0,Assamese,2008-05-05,0.11,0.348,0.763,0.762,-9.278,0.072,150.062,0,6,0.0739,4,43,642043,0,0,0,Happy
+Bartokola,Jiten Deka|Nirmali Das,/artist/jiten-deka|/artist/nirmali-das,0.0,Assamese,2008-06-01,0.19,0.25,0.165,0.099,-13.968,0.07,150.024,0,0,0.08,4,51,6193673,0,0,0,Sad
+Senai Mor O Manprajapati,Bhupen Hazarika|Usha Mangeshkar,/artist/dr-bhupen-hazarika-2|/artist/usha-mangeshkar-2,0.0,Assamese,2008-06-02,0.89,0.675,0.82,0.78,-11.871,0.081,149.999,0,7,0.099,4,97,2145906,0,0,0,Happy
+Mone Uthe Monosta,Samar Hazarika,/artist/samar-hazarika,0.0,Assamese,2008-06-03,0.95,0.61,0.031,0.127,-10.598,0.0534,150.028,0,0,0.01,4,28,2780762,0,0,0,Sad
+He Ravatalit Bahichhey,Asoke Saikia,/artist/asoke-saikia,0.0,Assamese,2008-06-10,0.11,0.778,0.144,0.638,-4.047,0.0373,149.876,0,1,0.071,4,37,8117508,0,0,0,Sad
+Madhab Aru Kayali,Late Dayal Sutradhar,/artist/late-dayal-sutradhar,0.0,Assamese,2008-06-12,0.16,0.05,0.178,0.979,-10.52,0.0838,150.023,1,1,0.06,4,95,5481568,0,0,0,Sad
+Kichumaan Achhey Gan,Shahnaj Begum,/artist/shahnaj-begum,0.0,Assamese,2008-07-02,0.5,0.34,0.342,0.368,-6.798,0.077,155.088,0,5,0.0588,4,89,8461708,0,0,0,Sad
+Matir Pradip Hoi,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2008-07-05,0.63,0.63,0.16,0.173,-10.237,0.0366,150.039,0,2,0.013,4,44,10675105,0,0,0,Sad
+Aha Bhaiti Aha Bhonti,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2008-08-02,0.02,0.444,0.868,0.088,-7.377,0.0441,150.09,0,6,0.09,4,42,1561824,0,0,0,Sad
+Bramhaputrar Balire,Khagen Mahanta|Nikunjalata Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/nikunjalata-mahanta|/artist/archana-mahanta,0.0,Assamese,2008-08-03,0.21,0.8,0.365,0.589,-3.98,0.057,149.982,1,3,0.0944,4,45,3843386,0,0,0,Sad
+Aaroi Dhan Lochia,Anju Devi|Bhupen Hazarika|Indira Chowdhury,/artist/anju-devi|/artist/dr-bhupen-hazarika-2|/artist/indira-chowdhury-1,0.0,Assamese,2008-08-07,0.53,0.753,0.827,0.675,-7.957,0.02,149.971,1,11,0.0831,4,81,505791,0,0,0,Happy
+Hori Jare Dukhkho Lekhe,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2008-08-09,0.25,0.2,0.934,0.127,-3.512,0.059,149.946,0,9,0.0811,4,40,3552353,0,0,0,Energetic
+Tumi Ujanir Ne Namanir,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,0.0,Assamese,2008-09-02,0.48,0.275,0.513,0.29,-7.519,0.02,150.049,0,5,0.0579,4,80,680262,0,0,0,Sad
+O' Ai Mor Ai,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,0.0,Assamese,2008-09-02,0.88,0.808,0.021,0.855,-8.401,0.0371,154.941,0,2,0.08,4,46,5313293,0,0,0,Sad
+Al Folia Kopou Phool,Namita Bhattacharya|Dwipen Baruah,/artist/namita-bhattacharya|/artist/dwipen-baruah,0.0,Assamese,2008-09-02,0.46,0.62,0.485,0.014,-6.719,0.03,149.899,0,9,0.0976,4,89,3235151,0,0,0,Sad
+Abhimani Bandhu,Asha Bhosle,/artist/asha-bhosle-1,0.0,Assamese,2008-09-04,0.94,0.54,0.592,0.163,-11.791,0.051,147.357,1,1,0.1,4,41,10950262,0,0,0,Sad
+Phulil Azar Phool,Suez Bardoloi,/artist/suez-bardoloi,0.0,Assamese,2008-09-09,0.12,0.98,0.642,0.109,-2.562,0.04,150.224,1,1,0.024,4,72,9920165,0,0,0,Energetic
+Hayre Praner Basa Mor,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Assamese,2008-09-10,0.98,0.73,0.955,0.022,-7.532,0.05,150.015,1,11,0.1,4,52,8680980,0,0,0,Happy
+Katenu Achha Mor,Manisha Hazarika,/artist/manisha-hazarika,0.0,Assamese,2008-10-01,0.05,0.095,0.416,0.927,-10.681,0.014,149.992,0,0,0.08,4,51,6929681,0,0,0,Sad
+Uddhab Sakhi Ahare,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2008-10-05,0.8,0.25,0.614,0.763,-3.92,0.05,149.797,0,9,0.0878,4,70,7319005,0,0,0,Happy
+Rang Rang Rang Bhara,Mitali Choudhury|Dwipen Barua,/artist/mitali-choudhry|/artist/dwipen-barua-6,0.0,Assamese,2008-10-08,0.99,0.23,0.392,0.622,-12.655,0.051,150.063,1,6,0.0,4,67,5223339,0,0,0,Sad
+Tejore Kamalapati,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2008-10-12,0.06,0.8,0.055,0.164,-7.814,0.08,149.117,1,7,0.0,4,37,7000758,0,0,0,Sad
+Pahrar Juriti,Khagen Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/archana-mahanta,0.0,Assamese,2008-11-05,0.95,0.2,0.373,0.613,-9.792,0.07,154.961,0,4,0.001,4,93,6234071,0,0,0,Sad
+Tulashir Tole Tole,Nirmal Mishra,/artist/nirmal-mishra,0.0,Assamese,2008-11-07,0.66,0.74,0.645,0.488,-4.159,0.03,155.01,0,9,0.0596,4,31,9107717,0,0,0,Sad
+Jadi Ketiara Kararat,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2008-11-09,0.15,0.41,0.364,0.973,-12.594,0.0052,150.009,1,10,0.0511,4,67,8369147,0,0,0,Sad
+Jibon Juri,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2008-12-06,0.85,0.31,0.997,0.097,-10.089,0.076,149.983,0,7,0.0521,4,80,8113818,0,0,0,Happy
+Kopi Uthe Kio Taj Mahal,Samar Hazarika|Monima Saikia,/artist/samar-hazarika|/artist/monima-saikia,0.0,Assamese,2008-12-11,0.84,0.26,0.661,0.85,-2.519,0.0493,149.852,0,11,0.023,4,92,6692482,0,0,0,Happy
+Rambha Menaka Kingba Juthika,Jayanta Hazarika|Kula Baruwa,/artist/jayanta-hazarika|/artist/kula-baruwa,0.0,Assamese,2009-01-07,0.22,0.47,0.847,0.959,-10.458,0.08,150.02,0,5,0.06,4,43,2092176,0,0,0,Energetic
+Sarukoi Bakul Phul Lahi,Archana Mahanta,/artist/archana-mahanta,0.0,Assamese,2009-02-02,0.29,0.86,0.169,0.415,-2.177,0.057,148.702,0,8,0.0319,4,74,9835355,0,0,0,Sad
+Beli Lahiyai,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2009-02-05,0.33,0.58,0.719,0.907,-8.678,0.1,153.059,0,9,0.05,4,89,9738072,0,0,0,Happy
+Sahariya Jibonor,Nami Gaen|Dijen Kakati|Heman Kakati,/artist/nami-gaen|/artist/dijen-kakati-8|/artist/heman-kakati-1,0.0,Assamese,2009-02-10,0.1,0.281,0.598,0.386,-7.276,0.075,150.013,1,9,0.02,4,45,1919895,0,0,0,Sad
+O Kajali Pahare Jane,Anup Ghoshal,/artist/anup-ghoshal-1,0.0,Assamese,2009-03-03,0.09,0.55,0.603,0.996,-9.121,0.01,148.025,1,3,0.031,4,80,4428812,0,0,0,Sad
+A Aji Baular Biha,Rameshwar Pathak|Dhanada Pathak,/artist/rameshwar-pathak|/artist/dhanada-pathak,0.0,Assamese,2009-04-01,0.57,1.0,0.361,0.112,-4.427,0.04,150.312,1,2,0.093,4,30,6563663,0,0,0,Sad
+Sonali A Sonali,Dipen Baruah,/artist/dipen-baruah,0.0,Assamese,2009-04-05,0.51,0.01,0.861,0.446,-13.575,0.09,149.927,0,7,0.01,4,93,11253841,0,0,0,Happy
+Jatane Sajawa,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2009-04-07,0.67,0.15,0.658,0.182,-3.124,0.012,149.995,0,5,0.0085,4,45,1353215,0,0,0,Sad
+Abhimani Bandhu,Asha Bhosle,/artist/asha-bhosle-1,0.0,Assamese,2009-05-01,0.33,0.89,0.108,0.807,-4.33,0.02,150.072,0,4,0.0372,4,62,4872891,0,0,0,Sad
+Chenai Mor O,Bhupen Hazarika|Usha Mangeshkar,/artist/dr-bhupen-hazarika-2|/artist/usha-mangeshkar-2,0.0,Assamese,2009-05-01,0.69,0.63,0.467,0.36,-2.425,0.0491,149.98,0,1,0.027,4,70,7912772,0,0,0,Sad
+Boney Se,sibcharan das,/artist/sibcharan-das,0.0,Assamese,2009-05-02,0.7,0.493,0.703,0.849,-13.924,0.0874,149.972,0,10,0.047,4,36,6936610,0,0,0,Happy
+Ghar Bhaagileon,Apurba Das,/artist/apurba-das,0.0,Assamese,2009-06-02,0.24,0.19,0.283,0.8,-13.645,0.0538,149.989,0,1,0.0059,4,33,3716767,0,0,0,Sad
+Jetnkare Bulali,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2009-06-04,0.2,0.912,0.362,0.841,-13.674,0.058,150.046,0,11,0.04,4,52,7331677,0,0,0,Sad
+Asomre O Maina Houta,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2009-07-01,0.02,0.11,0.762,0.451,-11.281,0.069,150.027,1,1,0.049,4,25,9601028,0,0,0,Energetic
+Ranaklanta Nahao,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2009-07-05,0.73,0.924,0.295,0.817,-3.618,0.03,149.977,1,9,0.0085,4,69,2332560,0,0,0,Sad
+Moi Achhon,Dwipen Baruah|Kabita Barthakur,/artist/dwipen-baruah|/artist/kabita-barthakur,0.0,Assamese,2009-08-01,1.0,0.76,0.667,0.13,-4.678,0.03,149.998,0,11,0.06,4,29,2195143,0,0,0,Energetic
+Gokul Chalre,Parama Mahanta,/artist/parama-mahanta,0.0,Assamese,2009-09-01,0.94,0.543,0.243,0.611,-3.424,0.08,149.952,0,7,0.021,4,46,10793290,0,0,0,Sad
+Jorpati Uriley,Dwipen Barua,/artist/dwipen-barua-18,0.0,Assamese,2009-09-03,0.24,0.44,0.45,0.995,-6.248,0.077,150.052,0,5,0.01,4,72,3985603,0,0,0,Sad
+Cholila Shankar Sarba Gunakar,Anima Das|Naren Das,/artist/anima-das|/artist/naren-das,0.0,Assamese,2009-09-04,0.17,0.515,0.644,0.233,-12.359,0.049,152.967,0,2,0.0666,4,28,9819693,0,0,0,Sad
+Mati Phuti Chale,D Pen Baruah|Namita Bhattacharya,/artist/d-pen-baruah|/artist/namita-bhattacharya,0.0,Assamese,2009-09-06,0.08,0.09,0.78,0.743,-5.426,0.09,150.086,1,3,0.0973,4,54,2519088,0,0,0,Energetic
+Eman Dhuniyakoi,Pahari Saikia|Dwipen Barua,/artist/pahari-saikia|/artist/dwipen-barua-13,0.0,Assamese,2009-09-12,0.75,0.107,0.094,0.112,-4.685,0.0914,150.206,0,10,0.09,4,73,3949021,0,0,0,Sad
+Aai Madhur Milanor Mela,Mitali Chowdhury,/artist/mitali-chowdhury,0.0,Assamese,2009-10-03,0.19,0.63,0.499,0.206,-9.497,0.05,150.876,1,1,0.025,4,30,2835275,0,0,0,Sad
+Oliya Holo Moi,Lokeswar Deka|Others,/artist/lokeswar-deka|/artist/others,0.0,Assamese,2009-10-12,0.6,0.63,0.902,0.739,-2.568,0.0415,150.02,0,1,0.03,4,54,7944731,0,0,0,Energetic
+Magilo Biday,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,0.0,Assamese,2009-11-01,0.99,0.059,0.648,0.193,-12.378,0.09,154.897,1,8,0.07,4,35,4859358,0,0,0,Sad
+Baikunthe Chaloy Guru,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,0.0,Assamese,2009-11-03,0.62,0.86,0.816,0.617,-6.231,0.0078,149.827,0,5,0.047,4,30,2611001,0,0,0,Sad
+Achhilo Ba Kino,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2009-11-05,0.97,0.04,0.904,0.9,-13.463,0.0715,149.991,0,10,0.0974,4,65,4552587,0,0,0,Happy
+Hame Je Janam Lele,sibcharan das,/artist/sibcharan-das,0.0,Assamese,2009-12-04,0.47,0.59,0.462,0.544,-9.612,0.0639,150.017,0,3,0.04,4,93,5548990,0,0,0,Sad
+Tuamaki Roana,sibcharan das,/artist/sibcharan-das,0.0,Assamese,2009-12-06,0.88,0.628,0.295,0.257,-2.865,0.01,149.964,0,9,0.01,4,71,662879,0,0,0,Sad
+Sham Kaliya,Rameshwar Pathak|Dhanada Pathak,/artist/rameshwar-pathak|/artist/dhanada-pathak,0.0,Assamese,2009-12-11,0.92,0.051,0.433,0.513,-4.863,0.03,149.998,0,3,0.05,4,86,4430093,0,0,0,Sad
+Sirish Gachher,sibcharan das|Others,/artist/sibcharan-das|/artist/others,0.0,Assamese,2010-01-01,0.73,0.3,0.774,0.503,-13.255,0.08,149.958,0,8,0.0172,4,32,10043194,0,0,0,Happy
+Pitati Oi Pitati Fagooni,Jayanta Hazarika,/artist/jayanta-hazarika,0.0,Assamese,2010-01-02,0.51,0.747,0.588,0.089,-3.644,0.0756,154.983,0,1,0.031,4,66,657189,0,0,0,Sad
+Radhar Nupurar,Chandrani Mukherjee,/artist/chandrani-mukherjee,0.0,Assamese,2010-01-02,0.95,0.47,0.79,0.523,-10.768,0.03,149.991,1,8,0.067,4,93,10843038,0,0,0,Happy
+Silonor Monalisa,Bhupen Hazarika|Jayanta Hazarika,/artist/dr-bhupen-hazarika-2|/artist/jayanta-hazarika,0.0,Assamese,2010-01-06,0.43,0.971,0.815,0.553,-3.492,0.0851,149.872,0,9,0.02,4,100,844383,0,0,0,Energetic
+Choku Meli Nachaba,Runjun Phukan,/artist/runjun-phukan-1,0.0,Assamese,2010-02-01,0.6,0.85,0.232,0.849,-12.457,0.088,150.062,0,6,0.05,4,51,890782,0,0,0,Sad
+Mastarey Koichhilo - Parody,Nagen Barman|Udoy Barman,/artist/nagen-barman|/artist/udoy-barman,0.0,Assamese,2010-03-03,0.07,0.56,0.231,0.855,-12.61,0.068,150.024,0,9,0.098,4,79,8981763,0,0,0,Sad
+Parane Manat,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2010-03-04,0.02,0.7,0.226,0.562,-2.448,0.0755,154.928,0,10,0.096,4,57,10683583,0,0,0,Sad
+Bahagi O Ketiya,Mitali Chowdhury,/artist/mitali-chowdhury,0.0,Assamese,2010-05-03,0.51,0.12,0.269,0.208,-5.162,0.088,149.95,0,9,0.082,4,66,491393,0,0,0,Sad
+Udbab Bondhu - Shankar Dev,Krishna Burman|Bhupen Hazarika,/artist/krishna-burman|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2010-05-04,0.71,0.31,0.297,0.896,-5.291,0.0,150.015,0,1,0.058,4,77,10068619,0,0,0,Sad
+Moyna Kon Bidhatai,Dwipen Baruah|Renu Barua,/artist/dwipen-baruah|/artist/renu-barua,0.0,Assamese,2010-05-08,0.47,0.22,0.526,0.426,-6.129,0.08,150.006,0,6,0.011,4,59,5351893,0,0,0,Sad
+Prantar Pahare,Kula Barua,/artist/kula-barua,0.0,Assamese,2010-07-11,0.6,0.48,0.762,0.033,-8.184,0.08,149.877,0,7,0.0703,4,30,5766131,0,0,0,Happy
+Bhabichhila E Buku Bharai,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2010-07-12,0.15,0.82,0.129,0.852,-7.978,0.0299,154.872,0,7,0.064,4,86,1718636,0,0,0,Sad
+Bihu Bihu Lagichhe Gaat,Bhupen Hazarika|Ruby Singha,/artist/dr-bhupen-hazarika-2|/artist/ruby-singha,0.0,Assamese,2010-08-03,0.27,0.13,0.866,0.735,-10.594,0.04,149.748,0,10,0.0682,4,99,7575194,0,0,0,Happy
+Guahati Loi Nahaibi,Nagen Barman,/artist/nagen-barman,0.0,Assamese,2010-08-06,0.96,0.8,0.291,0.611,-9.576,0.088,149.99,1,7,0.05,4,94,10929714,0,0,0,Sad
+Kino Abhaga Kapal,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2010-09-02,0.7,0.66,0.072,0.538,-2.666,0.016,154.996,1,7,0.0339,4,81,5320883,0,0,0,Sad
+Pohaaniya Charaaity,Dwipen Barua|Kokila Goswami,/artist/dwipen-barua-1|/artist/kokila-goswami-1,0.0,Assamese,2010-09-03,0.19,0.885,0.45,0.754,-4.926,0.05,149.887,0,9,0.041,4,36,7950016,0,0,0,Sad
+Loke Boley,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,0.0,Assamese,2010-09-04,0.25,0.744,0.867,0.282,-3.183,0.07,149.624,1,1,0.0232,4,82,10486459,0,0,0,Energetic
+Jiban Nadir,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2010-09-05,0.93,0.93,0.463,0.844,-9.162,0.03,150.019,1,1,0.072,4,53,708436,0,0,0,Sad
+Ki Je Holo Din Kaal - Parody,Nagen Barman,/artist/nagen-barman,0.0,Assamese,2010-09-05,0.98,0.07,0.892,0.975,-11.139,0.096,149.935,0,5,0.001,4,76,9790291,0,0,0,Happy
+Rhega Dibo Lega Jodi,Dolly Ghosh,/artist/dolly-ghosh,0.0,Assamese,2010-09-06,0.11,0.05,0.954,0.614,-9.712,0.06,150.011,0,11,0.01,4,77,9643289,0,0,0,Happy
+Mok Alap Asru Diya,Madhumati Goswami,/artist/madhumati-goswami,0.0,Assamese,2010-09-07,0.79,0.127,0.731,0.002,-5.941,0.0673,150.144,1,0,0.06,4,51,7249412,0,0,0,Energetic
+Buker Tejare,Suez Bardoloi,/artist/suez-bardoloi,0.0,Assamese,2010-09-12,0.81,0.88,0.539,0.901,-5.184,0.072,149.936,0,0,0.04,4,88,1803630,0,0,0,Happy
+Ka Kha Ga Gha,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Assamese,2010-09-12,0.69,0.29,0.434,0.42,-10.025,0.0704,150.027,0,4,0.01,4,76,4756438,0,0,0,Sad
+Shaadi Karobai Lauk,Tarun Banerjee,/artist/tarun-banerjee,0.0,Assamese,2010-10-02,0.24,0.233,0.181,0.235,-10.706,0.06,149.856,0,8,0.06,4,82,1220658,0,0,0,Sad
+Ei Karunatar,Manisha Hazarika,/artist/manisha-hazarika,0.0,Assamese,2010-10-03,0.91,0.04,0.189,0.709,-3.183,0.0865,150.023,0,5,0.061,4,58,2165253,0,0,0,Sad
+Dada Balai A,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2010-10-05,0.66,0.162,0.184,0.643,-11.085,0.04,149.928,0,5,0.051,4,77,1120636,0,0,0,Sad
+Sakala Duniya - Kamrupi,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2010-11-05,0.47,0.71,0.753,0.74,-4.611,0.06,150.272,0,4,0.08,4,45,4781923,0,0,0,Energetic
+O Kaloi Sanchili Dhar,Naren Das,/artist/naren-das,0.0,Assamese,2010-11-06,0.88,0.72,0.369,0.027,-9.328,0.029,150.044,0,3,0.0194,4,63,2957151,0,0,0,Sad
+Ei Barashate Mor,Mitali Chowdhury,/artist/mitali-chowdhury,0.0,Assamese,2010-11-08,0.71,0.718,0.373,0.124,-9.341,0.0442,149.889,0,4,0.069,4,85,9495456,0,0,0,Sad
+Bharibo Taluar Para,Jayanta Hazarika,/artist/jayanta-hazarika,0.0,Assamese,2011-01-02,0.7,0.02,0.317,0.262,-11.172,0.003,149.964,0,6,0.09,4,98,8027205,0,0,0,Sad
+Beli Olale,Madhumati Goswami,/artist/madhumati-goswami,0.0,Assamese,2011-01-03,0.79,0.04,0.887,0.068,-12.002,0.0188,149.986,1,1,0.0431,4,36,173464,0,0,0,Energetic
+Chenai Tomar Chalukia,Khagen Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/archana-mahanta,0.0,Assamese,2011-01-07,0.5,0.31,0.482,0.091,-3.306,0.005,150.015,0,11,0.08,4,70,6957276,0,0,0,Sad
+Cha Ghosor Arot Lukai,Madhumati Goswami,/artist/madhumati-goswami,0.0,Assamese,2011-01-09,1.0,0.258,0.732,0.516,-8.943,0.03,154.706,1,4,0.08,4,79,10662717,0,0,0,Happy
+Purbey Bhagabontoi - Bihu,Mahananda Majindar Baruah,/artist/mahananda-majindar-baruah,0.0,Assamese,2011-01-10,0.93,0.291,0.212,0.117,-5.507,0.059,150.212,0,11,0.0417,4,55,1301851,0,0,0,Sad
+Joy Baa Parajoy,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2011-02-02,0.08,0.513,0.012,0.142,-4.345,0.04,149.99,1,8,0.0573,4,82,4888723,0,0,0,Sad
+Toba Toba,Aftab Ahmad,/artist/aftab-ahmad,0.0,Assamese,2011-02-05,0.99,0.525,0.369,0.311,-6.818,0.1,149.969,0,10,0.019,4,36,4230116,0,0,0,Sad
+O Deha Bihua,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2011-02-12,0.83,0.557,0.316,0.399,-13.566,0.0184,147.981,0,10,0.03,4,54,8702124,0,0,0,Sad
+Luitate Mor Ghar,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Assamese,2011-03-01,0.32,0.08,0.64,0.498,-6.954,0.06,150.025,0,0,0.082,4,95,519031,0,0,0,Energetic
+Bhog Do Naita,Lokeswar Deka,/artist/lokeswar-deka,0.0,Assamese,2011-03-09,0.71,0.8,0.968,0.275,-9.955,0.0633,151.288,1,11,0.08,4,59,2306543,0,0,0,Happy
+Ogni Jugor Firingoti Moi (Introduction),Samar Hazarika,/artist/samar-hazarika,0.0,Assamese,2011-04-01,0.93,0.25,0.917,0.906,-12.281,0.026,149.837,0,11,0.0835,4,72,3183285,0,0,0,Happy
+Hari Herre,Sadar Mahanta,/artist/sadar-mahanta,0.0,Assamese,2011-04-02,0.48,0.54,0.663,0.114,-6.481,0.04,150.051,0,11,0.089,4,42,5593912,0,0,0,Energetic
+Mor Jibon Ek Ambachedor,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2011-04-07,0.13,0.204,0.412,0.378,-9.383,0.01,150.034,1,7,0.05,4,35,9643897,0,0,0,Sad
+Nidanar Sangeetar,Khagen Mahanta,/artist/khagen-mahanta,0.0,Assamese,2011-04-09,0.66,0.307,0.884,0.536,-6.176,0.0433,149.971,1,2,0.0511,4,72,360960,0,0,0,Happy
+Nijake Dekhi Ajikali,Anju Devi,/artist/anju-devi,0.0,Assamese,2011-04-12,0.58,0.99,0.013,0.74,-2.468,0.0089,149.993,0,6,0.035,4,38,3976446,0,0,0,Sad
+Nayanmani Nayanmani,Bhupinder Singh|Suman Kalyanpur,/artist/bhupinder-singh|/artist/suman-kalyanpur,0.0,Assamese,2011-05-06,0.11,0.873,0.58,0.539,-8.594,0.07,150.029,1,7,0.05,4,42,4819194,0,0,0,Sad
+Oi Kino Maya,Pulak Banerjee,/artist/pulak-banerjee-1,0.0,Assamese,2011-05-08,0.47,0.751,0.953,0.901,-10.699,0.0613,150.099,0,4,0.01,4,90,7348974,0,0,0,Happy
+Basanta Boilo Sakhi,sibcharan das|Others,/artist/sibcharan-das|/artist/others,0.0,Assamese,2011-06-02,0.59,0.483,0.294,0.903,-10.076,0.0729,154.822,1,9,0.076,4,55,5829914,0,0,0,Sad
+Hindu Ki Musolmaan (Introduction),Samar Hazarika,/artist/samar-hazarika,0.0,Assamese,2011-06-08,0.74,0.846,0.556,0.9,-9.014,0.072,150.083,1,0,0.0621,4,90,5242632,0,0,0,Happy
+He He Dole Dagore,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2011-07-02,0.27,0.738,0.604,0.603,-2.573,0.046,149.713,0,10,0.013,4,93,5334058,0,0,0,Sad
+Rode Didi,Jiten Deka|Nirmali Das,/artist/jiten-deka|/artist/nirmali-das,0.0,Assamese,2011-07-08,0.27,0.05,0.474,0.004,-11.412,0.0256,155.055,1,10,0.033,4,47,4340040,0,0,0,Sad
+Dehei Jauban Matir,Malabika Bora|Mahananda Majinder Barua,/artist/malabika-bora|/artist/mahananda-majinder-barua,0.0,Assamese,2011-07-11,0.2,0.78,0.328,0.321,-13.448,0.022,149.992,0,11,0.08,4,93,786273,0,0,0,Sad
+Bianaam - Part - 2,Nikunjalata Mahanta|Runumi Bhattacharya|Archana Mahanta,/artist/nikunjalata-mahanta|/artist/runumi-bhattacharya|/artist/archana-mahanta,0.0,Assamese,2011-08-12,0.84,0.06,0.237,0.051,-7.873,0.09,149.941,0,11,0.0407,4,43,8244753,0,0,0,Sad
+Ei Rodali,Dwipen Barua|Mrinalini Dutta Chowdhury,/artist/dwipen-barua|/artist/mrinalini-dutta-chowdhury,0.0,Assamese,2011-09-02,0.31,0.8,0.91,0.803,-7.158,0.02,149.992,0,9,0.051,4,83,9553191,0,0,0,Happy
+Aar Najao Jamunarey,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2011-09-02,0.26,0.359,0.799,0.457,-7.747,0.0291,149.998,0,9,0.038,4,85,2411346,0,0,0,Happy
+Kon Thair Pora Ahila,Rameshwar Pathak|Archana Das,/artist/rameshwar-pathak|/artist/archana-das,0.0,Assamese,2011-09-03,0.64,0.5,0.511,0.067,-5.272,0.071,150.016,0,4,0.02,4,54,1646345,0,0,0,Sad
+Sakal Duniya Dukkha,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2011-09-05,0.29,0.6,0.98,0.439,-11.126,0.076,149.992,0,2,0.05,4,41,2166104,0,0,0,Energetic
+Luitar Sontot Likha,Jayanta Hazarika,/artist/jayanta-hazarika,0.0,Assamese,2011-09-10,0.36,0.58,0.566,0.557,-13.813,0.022,149.941,0,7,0.03,4,71,9036348,0,0,0,Sad
+Moi Aahichhon - Bhupen Hazarika,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2011-10-03,0.29,0.39,0.711,0.669,-10.45,0.05,149.93,1,9,0.0345,4,88,3174085,0,0,0,Happy
+A Pran Gopal,Anima Chowdhury,/artist/anima-chowdhury,0.0,Assamese,2011-10-03,0.83,0.749,0.722,0.67,-13.665,0.0504,150.011,0,10,0.031,4,97,8088485,0,0,0,Happy
+Hiar Maram Mukuta Hoi,Ina Mukherjee|Ridip Dutta,/artist/ina-mukherjee|/artist/ridip-dutta,0.0,Assamese,2011-11-01,0.22,0.418,0.672,0.552,-4.394,0.02,150.087,1,6,0.0276,4,96,5879477,0,0,0,Energetic
+Pakkhiraj Ghora,Asha Bhosle|Kishore Kumar|Bhupen Hazarika,/artist/asha-bhosle-1|/artist/kishore-kumar|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2011-11-04,0.01,0.346,0.402,0.623,-2.472,0.09,149.933,0,10,0.09,4,81,1072708,0,0,0,Sad
+Kaak Bulilo,Runjun Phukan|Dwipen Baruah,/artist/runjun-phukan-1|/artist/dwipen-baruah,0.0,Assamese,2011-11-09,0.46,0.618,0.33,0.243,-9.741,0.025,149.982,0,0,0.05,4,64,3474642,0,0,0,Sad
+Nayan Dila Tumi,Monojyostna Mahanta,/artist/monojyostna-mahanta,0.0,Assamese,2011-12-07,0.1,0.55,0.313,0.694,-12.762,0.0,150.066,1,1,0.04,4,86,9358657,0,0,0,Sad
+Andamanese Song,Young mixed chorus from Port Blair|Andaman Islands,/artist/young-mixed-chorus-from-port-blair|/artist/andaman-islands,0.0,Assamese,2011-12-07,0.2,0.79,0.819,0.644,-3.7,0.037,150.02,0,9,0.021,4,37,8244713,0,0,0,Energetic
+Thuriai Katilo,Khagen Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/archana-mahanta,0.0,Assamese,2011-12-08,0.21,0.771,0.007,0.64,-7.821,0.1,155.255,1,7,0.08,4,34,9166456,0,0,0,Sad
+Eri Thoi Jaon,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2011-12-11,0.4,0.36,0.147,0.563,-12.441,0.06,149.921,0,7,0.0235,4,54,11234122,0,0,0,Sad
+Radhai Bole Dekha Dekha,Romen Barua,/artist/romen-barua,0.0,Assamese,2012-01-04,0.95,0.43,0.164,0.431,-5.718,0.07,149.935,0,6,0.0828,4,60,8315757,0,0,0,Sad
+Prabhu Mor,Aarti Mukherji,/artist/aarti-mukherji,0.0,Assamese,2012-01-04,0.1,0.279,0.006,0.247,-6.903,0.082,149.987,1,6,0.052,4,74,3060435,0,0,0,Sad
+O Bandhu Bohag Bihu,Dijen Kakati,/artist/dijen-kakati-6,0.0,Assamese,2012-01-07,0.85,0.822,0.781,0.802,-7.204,0.0632,149.912,0,11,0.09,4,61,122280,0,0,0,Happy
+O Mor Sadhure Sadhu,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2012-01-12,0.12,0.23,0.885,0.366,-9.809,0.091,150.013,0,10,0.007,4,58,10037117,0,0,0,Energetic
+Ram Ram Pari Tulibaloi,Kalpana Bhuyan|Nibha Deka|Nomi Gayan,/artist/kalpana-bhuyan|/artist/nibha-deka|/artist/nomi-gayan,0.0,Assamese,2012-02-01,0.86,0.902,0.475,0.366,-7.774,0.07,155.088,0,5,0.0054,4,51,3676411,0,0,0,Sad
+Aay Bihu Re Uruka Nisa,Dolly Ghosh,/artist/dolly-ghosh,0.0,Assamese,2012-02-04,0.37,0.93,0.683,0.698,-11.02,0.09,149.717,0,9,0.018,4,54,1760950,0,0,0,Sad
+Gobinda Chintahu,Punyabrata Deb Goswami,/artist/punyabrata-deb-goswami,0.0,Assamese,2012-02-06,0.82,0.006,0.914,0.409,-3.658,0.0849,153.024,0,6,0.0533,4,63,10087818,0,0,0,Energetic
+Dichang Mukhar Nishati,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2012-03-02,0.55,0.976,0.755,0.046,-5.157,0.0506,154.868,0,5,0.0152,4,78,8302651,0,0,0,Happy
+Aoi Aoi Akash Shuba,Suman Kalyanpur,/artist/suman-kalyanpur,0.0,Assamese,2012-04-03,0.44,0.81,0.869,0.369,-5.117,0.0464,150.067,0,9,0.038,4,25,2811615,0,0,0,Energetic
+Bolia Mor Mon,Kalpana Bhuyan|Dijen Kakati,/artist/kalpana-bhuyan|/artist/dijen-kakati-4,0.0,Assamese,2012-04-05,0.95,0.83,0.299,0.021,-9.663,0.025,150.02,0,9,0.0235,4,68,7974150,0,0,0,Sad
+Bar Dusta Bhaiti Amar,Nirmali Das,/artist/nirmali-das,0.0,Assamese,2012-04-05,0.63,0.024,0.734,0.676,-3.248,0.07,150.066,0,1,0.094,4,62,10096561,0,0,0,Energetic
+O Siparar Baandhu,Manna Dey|Bhupen Hazarika,/artist/manna-dey|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2012-04-11,0.77,0.428,0.271,0.053,-10.298,0.04,145.004,1,1,0.02,4,78,7552691,0,0,0,Sad
+Phool Phool Phool,Nirmal Mishra|Renu Barua|Dwipen Baruah,/artist/nirmal-mishra|/artist/renu-barua|/artist/dwipen-baruah,0.0,Assamese,2012-05-04,0.76,0.09,0.392,0.165,-2.115,0.035,149.902,0,6,0.06,4,29,8394547,0,0,0,Sad
+Baihagar Mahte Sitaru,Naren Das,/artist/naren-das,0.0,Assamese,2012-05-08,0.65,0.05,0.205,0.658,-5.773,0.0473,149.972,1,2,0.02,4,42,6968889,0,0,0,Sad
+Pahhaad Bhoiyaamara,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2012-05-12,0.37,0.14,0.537,0.254,-4.049,0.08,150.066,0,1,0.07,4,94,7382918,0,0,0,Sad
+O Aji Bihu Bihu,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,0.0,Assamese,2012-07-01,0.84,0.977,0.797,0.32,-3.415,0.037,147.867,0,11,0.04,4,71,4378178,0,0,0,Happy
+Lajara Naam Rangin Palash,Manisha Hazarika,/artist/manisha-hazarika,0.0,Assamese,2012-07-01,0.08,0.832,0.274,0.274,-13.74,0.0,149.98,0,11,0.001,4,95,8377586,0,0,0,Sad
+Aami Pani Ana Ghat,Khagen Phukan|Nikunjalata Mahanta|Prahlad Bora|Ranima Devi|Maheshwar Barua,/artist/khagen-phukan|/artist/nikunjalata-mahanta|/artist/prahlad-bora|/artist/ranima-devi|/artist/maheshwar-barua-2,0.0,Assamese,2012-07-02,0.5,0.86,0.145,0.654,-2.105,0.04,149.951,0,11,0.0499,4,88,8089278,0,0,0,Sad
+Na Kanda Na Kanda,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2012-07-04,0.15,0.62,0.106,0.593,-13.301,0.088,147.99,1,1,0.04,4,58,8320148,0,0,0,Sad
+Joubaney Anga Porey,Malabika Bora,/artist/malabika-bora,0.0,Assamese,2012-07-04,0.96,0.079,0.237,0.9,-11.355,0.04,149.945,1,9,0.04,4,34,9297432,0,0,0,Sad
+O Baiamor Dekati Ai,Kumari Dharitri|Lakshmi Bordoloi|Sibaprashad Nath,/artist/kumari-dharitri|/artist/lakshmi-bordoloi|/artist/sibaprashad-nath,0.0,Assamese,2012-07-05,0.62,0.68,0.881,0.468,-2.738,0.0901,155.027,0,5,0.01,4,32,5772054,0,0,0,Energetic
+Abor Song No.1,Assam singers with percussion from Siluk|Arbor Hills,/artist/assam-singers-with-percussion-from-siluk|/artist/arbor-hills,0.0,Assamese,2012-07-07,0.52,0.797,0.266,0.852,-5.062,0.03,154.997,0,8,0.0389,4,82,4405628,0,0,0,Sad
+Tu Tu Tu Tu Tupi,Samar Hazarika,/artist/samar-hazarika,0.0,Assamese,2012-07-10,0.03,0.926,0.023,0.95,-4.142,0.013,149.946,0,8,0.02,4,79,3972601,0,0,0,Sad
+Runu Jun Runu Junu,Namita Bhattacharya,/artist/namita-bhattacharya,0.0,Assamese,2012-07-10,0.1,0.24,0.39,0.969,-12.104,0.045,150.018,0,5,0.0,4,34,1491243,0,0,0,Sad
+Chowahi Chowahi Shile Katha Koy,Namita Bhattacharya,/artist/namita-bhattacharya,0.0,Assamese,2012-07-10,0.87,0.98,0.841,0.632,-11.798,0.0685,149.987,1,1,0.0483,4,88,1808677,0,0,0,Happy
+Natun Nimati Niyarare Nisha,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2012-07-11,0.38,0.85,0.495,0.937,-3.061,0.043,150.008,0,0,0.02,4,40,9415032,0,0,0,Sad
+Jibonor Rangror,Malabika Bora|Samar Hazarika,/artist/malabika-bora|/artist/samar-hazarika,0.0,Assamese,2012-08-02,0.44,0.01,0.611,0.949,-5.55,0.0007,150.12,0,9,0.012,4,44,7761806,0,0,0,Sad
+Thuriai Katilo,Lokeswar Deka|Others,/artist/lokeswar-deka|/artist/others,0.0,Assamese,2012-08-03,0.95,0.855,0.147,0.624,-8.696,0.02,150.062,0,0,0.0973,4,88,9326900,0,0,0,Sad
+Linda Linda,Aftab Ahmad,/artist/aftab-ahmad,0.0,Assamese,2012-09-11,0.43,0.7,0.212,0.398,-10.324,0.0607,152.068,0,1,0.054,4,43,7599548,0,0,0,Sad
+Mayabi Nishare,Mihir Bardaloi,/artist/mihir-bardaloi,0.0,Assamese,2012-09-12,0.45,0.5,0.832,0.467,-4.012,0.08,149.968,0,11,0.041,4,30,4286804,0,0,0,Energetic
+Tan Kanali Mori Jao Laje,Snehalata Das,/artist/snehalata-das,0.0,Assamese,2012-10-04,0.58,0.511,0.419,0.274,-9.886,0.058,150.015,0,9,0.04,4,57,10671618,0,0,0,Sad
+Kajiranga Kajiganga,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2012-10-11,0.7,0.694,0.816,0.921,-7.079,0.07,150.06,1,4,0.0572,4,73,5362564,0,0,0,Happy
+Seuji Seuji Seuji O,Mihir Bardaloi,/artist/mihir-bardaloi,0.0,Assamese,2012-11-01,0.57,0.65,0.917,0.221,-7.936,0.046,149.976,0,10,0.0365,4,80,9513522,0,0,0,Happy
+Khitir Khitire Kari,Lokeswar Deka,/artist/lokeswar-deka,0.0,Assamese,2012-12-01,0.0,0.036,0.442,0.683,-5.248,0.09,150.021,0,9,0.0464,4,87,8390200,0,0,0,Sad
+Jonali O Tarali O,Nirmali Das,/artist/nirmali-das,0.0,Assamese,2012-12-02,0.63,0.325,0.217,0.057,-6.762,0.04,150.02,1,7,0.0874,4,86,5476645,0,0,0,Sad
+Oh Choa Choa Angibhangi - Parody,Nagen Barman|Udoy Barman,/artist/nagen-barman|/artist/udoy-barman,0.0,Assamese,2012-12-04,0.44,0.76,0.64,0.984,-10.994,0.0282,150.034,0,10,0.0296,4,26,7784067,0,0,0,Sad
+Moina O,Dijen Kakati,/artist/dijen-kakati-4,0.0,Assamese,2012-12-04,0.19,0.754,0.865,0.908,-11.919,0.0212,155.008,1,11,0.055,4,97,9714030,0,0,0,Happy
+Hawa Nai Batash Nai,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Assamese,2012-12-07,0.24,0.012,0.013,0.359,-9.312,0.017,150.019,1,5,0.0266,4,60,7226347,0,0,0,Sad
+Moina Kon Bidhatai,Wahidur Rahman,/artist/wahidur-rahman,0.0,Assamese,2012-12-12,0.51,0.7,0.817,0.778,-5.029,0.024,149.994,1,3,0.0884,4,70,9077065,0,0,0,Sad
+Nahar Phula Batara Tey Mor,Dolly Ghosh,/artist/dolly-ghosh,0.0,Assamese,2013-01-04,0.08,0.884,0.035,0.771,-2.38,0.016,150.05,0,0,0.0794,4,41,9034681,0,0,0,Sad
+Dheu Tuli Nachile,Dwipen Baruah|Runjun Phukan,/artist/dwipen-baruah|/artist/runjun-phukan-1,0.0,Assamese,2013-01-11,0.78,0.053,0.228,0.997,-5.886,0.031,149.964,1,1,0.07,4,70,7434782,0,0,0,Sad
+Iyat Rod Olalei Akash,Suez Bardoloi,/artist/suez-bardoloi,0.0,Assamese,2013-02-01,0.46,0.72,0.457,0.956,-7.908,0.071,149.938,1,1,0.0816,4,37,4844403,0,0,0,Sad
+Andhar Raati,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2013-02-01,0.88,0.348,0.992,0.301,-11.507,0.06,149.994,0,5,0.0469,4,92,5135940,0,0,0,Happy
+Ujaya Ahile,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2013-02-07,0.28,0.7,0.751,0.567,-3.102,0.041,150.026,0,9,0.04,4,43,7489692,0,0,0,Energetic
+E Rangin Raat Mein,Haimanti Shukla,/artist/haimanti-shukla,0.0,Assamese,2013-02-09,0.68,0.29,0.321,0.189,-13.168,0.09,150.0,0,4,0.0847,4,96,2759600,0,0,0,Sad
+Ali Kinarey,sibcharan das,/artist/sibcharan-das,0.0,Assamese,2013-03-05,0.08,0.973,0.868,0.837,-10.72,0.042,154.967,1,1,0.0,4,90,6666755,0,0,0,Energetic
+Mon Kia Sapon Rangin,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2013-03-12,0.87,0.03,0.814,0.698,-13.722,0.0443,152.044,0,1,0.0469,4,64,1908629,0,0,0,Happy
+Kelei Shok Karan,Digen Mohanta,/artist/digen-mohanta,0.0,Assamese,2013-03-12,0.83,0.551,0.392,0.826,-2.947,0.092,155.022,0,6,0.001,4,40,5355054,0,0,0,Sad
+Jonak Bhara Nisha,Malabika Bora,/artist/malabika-bora,0.0,Assamese,2013-04-02,0.53,0.57,0.011,0.364,-9.388,0.0314,150.095,0,0,0.0595,4,100,5751695,0,0,0,Sad
+Ghit Mit Endharar,Bhupinder Singh,/artist/bhupinder-singh,0.0,Assamese,2013-04-11,0.91,0.312,0.37,0.36,-4.25,0.0875,150.001,0,6,0.07,4,51,102906,0,0,0,Sad
+Bhang Bhang Bhang,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2013-05-01,0.8,0.37,0.624,0.869,-13.782,0.087,149.988,0,6,0.0555,4,56,1283480,0,0,0,Happy
+Duru Duri Kanpe Hiya,Madhumati Goswami,/artist/madhumati-goswami,0.0,Assamese,2013-05-09,0.53,0.387,0.19,0.473,-3.91,0.0312,149.943,1,0,0.005,4,81,2472054,0,0,0,Sad
+Jakoiha Chohali Moi,Sibani Dutta,/artist/sibani-dutta,0.0,Assamese,2013-06-01,0.61,0.923,0.015,0.773,-3.751,0.0547,149.429,1,2,0.02,4,67,1299106,0,0,0,Sad
+Sialeya Nahibi Rati,Nagen Barman,/artist/nagen-barman,0.0,Assamese,2013-06-08,0.59,0.801,0.686,0.611,-5.226,0.093,150.023,0,1,0.082,4,97,4204868,0,0,0,Energetic
+Sharatare Tumi Jon Jeno,Jayanta Hazarika,/artist/jayanta-hazarika,0.0,Assamese,2013-07-02,0.12,0.715,0.929,0.756,-10.206,0.08,150.017,1,7,0.03,4,44,10182884,0,0,0,Energetic
+Akou Ebar Log,Manna Dey,/artist/manna-dey,0.0,Assamese,2013-07-12,0.79,0.2,0.994,0.129,-3.044,0.07,146.053,0,4,0.0167,4,93,8255238,0,0,0,Energetic
+Thamaki Chamak,Namita Bhattacharya|Dwipen Baruah,/artist/namita-bhattacharya|/artist/dwipen-baruah,0.0,Assamese,2013-08-03,0.22,0.67,0.545,0.775,-4.156,0.0346,149.957,0,0,0.064,4,83,4144683,0,0,0,Sad
+Tomar Hamir Chinaki Suravi,Barnali Hazarika,/artist/barnali-hazarika,0.0,Assamese,2013-08-07,0.67,0.725,0.862,0.314,-3.784,0.07,149.99,0,5,0.057,4,99,2865089,0,0,0,Energetic
+Jiri Jiri Barsun,Namita Bhattacharya|Atul Methi,/artist/namita-bhattacharya|/artist/atul-methi-4,0.0,Assamese,2013-08-11,0.4,0.881,0.569,0.45,-13.938,0.0787,150.03,1,7,0.0724,4,76,4524853,0,0,0,Sad
+Ki Bar,Jiten Deka|Nirmali Das,/artist/jiten-deka|/artist/nirmali-das,0.0,Assamese,2013-09-01,0.57,0.68,0.723,0.655,-3.467,0.05,149.862,0,9,0.07,4,87,7808372,0,0,0,Happy
+Hari Mor,Chorus,/artist/chorus,0.0,Assamese,2013-09-02,0.96,0.33,0.653,0.452,-4.271,0.026,149.949,0,9,0.0261,4,40,2552604,0,0,0,Sad
+A Aaji Beular Biya,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2013-09-03,0.29,0.889,0.2,0.568,-3.574,0.022,149.96,0,7,0.04,4,67,6316384,0,0,0,Sad
+Satyam Shivam Chir Sundar - Suman Kalyanpur,Suman Kalyanpur,/artist/suman-kalyanpur,0.0,Assamese,2013-09-09,0.61,0.236,0.651,0.704,-2.291,0.0539,150.034,0,1,0.016,4,73,4699883,0,0,0,Sad
+Ali Dhaki Par Shaliki,Namita Bhattacharya,/artist/namita-bhattacharya,0.0,Assamese,2013-09-11,0.45,0.744,0.208,0.192,-10.608,0.0719,148.214,1,0,0.039,4,25,7282299,0,0,0,Sad
+Jibon Joba Khatia,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2013-11-05,0.55,0.43,0.85,0.932,-12.003,0.01,149.878,0,9,0.0408,4,43,7400339,0,0,0,Sad
+Rib Ribkoi Batah Bale,Khagen Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/archana-mahanta,0.0,Assamese,2013-11-06,0.67,0.13,0.203,0.824,-4.039,0.07,155.174,0,10,0.0055,4,40,1253249,0,0,0,Sad
+Mina Kara Gam Kharu,Namita Bhattacharya,/artist/namita-bhattacharya,0.0,Assamese,2013-11-07,0.3,0.63,0.711,0.843,-13.699,0.0004,153.042,1,7,0.09,4,69,5871072,0,0,0,Sad
+Angami Naga Song No.2,Assam singers with percussion from Kohima|Naga Hills,/artist/assam-singers-with-percussion-from-kohima|/artist/naga-hills,0.0,Assamese,2013-12-02,0.66,0.23,0.305,0.638,-6.479,0.077,150.018,1,4,0.001,4,57,2269300,0,0,0,Sad
+Aeir Lata,Kalyani Das|sibcharan das,/artist/kalyani-das|/artist/sibcharan-das,0.0,Assamese,2013-12-10,0.89,0.806,0.781,0.074,-6.593,0.044,149.368,0,6,0.038,4,67,1101938,0,0,0,Happy
+Aaji Akashar,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2014-01-02,0.49,0.076,0.969,0.653,-6.942,0.0606,149.907,1,5,0.0729,4,93,1924992,0,0,0,Energetic
+Ai Saraswati A,Bhupen Hazarika|Bandana Boraha,/artist/dr-bhupen-hazarika-2|/artist/bandana-boraha,0.0,Assamese,2014-01-09,0.54,0.74,0.146,0.95,-10.631,0.08,149.984,1,5,0.004,4,82,2505197,0,0,0,Sad
+O Pahar O Dawor,Dilip Sharma|Anima Chowdhury,/artist/dilip-sharma|/artist/anima-chowdhury-1,0.0,Assamese,2014-02-12,0.65,0.355,0.804,0.395,-2.364,0.1,150.042,0,4,0.0652,4,41,9259050,0,0,0,Energetic
+Tamosi Raati,Debjani Barua,/artist/debjani-barua,0.0,Assamese,2014-03-11,0.43,0.093,0.927,0.468,-5.046,0.0,149.972,0,9,0.009,4,67,1425532,0,0,0,Energetic
+Petore Juruni Bhat,Khagen Phukan|Others|Pushpa Fukan Dubra|Bibha Dubra|Maheswar Barua|Meena Chakraborty,/artist/khagen-phukan|/artist/others|/artist/pushpa-fukan-dubra-2|/artist/bibha-dubra-2|/artist/maheswar-barua-2|/artist/meena-chakraborty-4,0.0,Assamese,2014-03-12,0.97,0.66,0.729,0.965,-13.191,0.06,149.827,0,6,0.058,4,77,4281916,0,0,0,Happy
+Ga Chenai Behure Geet,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,0.0,Assamese,2014-04-09,0.91,0.41,0.827,0.622,-2.654,0.02,149.956,1,9,0.0854,4,60,6566363,0,0,0,Happy
+Daley Pari Mayura,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,0.0,Assamese,2014-04-11,0.98,0.711,0.435,0.235,-10.32,0.0356,149.985,0,6,0.02,4,27,6232016,0,0,0,Sad
+Saikel Khon Salaotey,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,0.0,Assamese,2014-05-08,0.03,0.23,0.639,0.64,-13.847,0.05,149.906,1,5,0.03,4,62,4372620,0,0,0,Sad
+O Beulai Kande Re,Naren Das,/artist/naren-das,0.0,Assamese,2014-06-09,0.99,0.18,0.337,0.467,-9.526,0.04,150.039,1,7,0.0255,4,82,3248476,0,0,0,Sad
+Kirtan Dashamar Shankar Guru,Malabika Bora,/artist/malabika-bora,0.0,Assamese,2014-07-04,0.01,0.162,0.4,0.147,-2.734,0.043,149.935,0,9,0.03,4,98,2754250,0,0,0,Sad
+Jibontu Hol,Ridip Dutta,/artist/ridip-dutta,0.0,Assamese,2014-07-12,0.48,0.923,0.333,0.398,-7.423,0.0433,149.983,0,0,0.07,4,57,3850764,0,0,0,Sad
+Phulile Naharar Phul,Aju Barkakati|Lakshmi Bordoloi|Nirmal Kalita|Sarifuddin Ahmed|Sibanath|Bibha Barua|Sharat Sharma,/artist/aju-barkakati|/artist/lakshmi-bordoloi|/artist/nirmal-kalita|/artist/sarifuddin-ahmed|/artist/sibanath|/artist/bibha-barua-1|/artist/sharat-sharma,0.0,Assamese,2014-08-05,0.27,0.18,0.427,0.026,-12.442,0.019,150.028,0,9,0.03,4,93,9645347,0,0,0,Sad
+Hari Hari Hamar,Durgamoyee Bara,/artist/durgamoyee-bara,0.0,Assamese,2014-09-10,0.14,0.96,0.069,0.47,-5.59,0.03,150.005,0,6,0.097,4,80,8954903,0,0,0,Sad
+Sakala Tengati,Archana Mahanta|Khagen Mahanta,/artist/archana-mahanta|/artist/khagen-mahanta,0.0,Assamese,2014-09-11,0.71,0.84,0.174,0.084,-6.825,0.099,155.019,1,9,0.033,4,38,4211626,0,0,0,Sad
+Paar Hoi Gale,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2014-10-01,0.94,0.757,0.876,0.345,-2.981,0.001,147.036,1,7,0.0016,4,73,9100274,0,0,0,Happy
+Konay Aji Aabeli,Riniki Barua|Dwipen Barua|Anima Chowdhury|Bhanti Barua,/artist/riniki-barua|/artist/dwipen-barua-8|/artist/anima-chowdhury-2|/artist/bhanti-barua,0.0,Assamese,2014-10-02,0.06,0.48,0.863,0.203,-2.952,0.05,147.633,1,0,0.02,4,82,4765727,0,0,0,Energetic
+Halaloi Likhile,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,0.0,Assamese,2014-11-01,0.1,0.662,0.568,0.018,-10.266,0.0132,150.045,1,2,0.0789,4,73,8483706,0,0,0,Sad
+Kaar Gharar,Bhupen Hazarika|Bhaskar Das,/artist/dr-bhupen-hazarika-2|/artist/bhaskar-das,0.0,Assamese,2014-11-07,0.34,0.142,0.371,0.378,-3.399,0.0918,147.969,0,6,0.05,4,41,8991018,0,0,0,Sad
+Turen Changar,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2014-12-07,0.58,0.88,0.086,0.338,-11.546,0.01,149.982,1,9,0.059,4,88,1681432,0,0,0,Sad
+Abor Song No.6,Male Assam soloist|singers with percussion from Damroh|Arbor Hills,/artist/male-assam-soloist|/artist/singers-with-percussion-from-damroh|/artist/arbor-hills,0.0,Assamese,2014-12-10,0.14,0.685,0.303,0.294,-9.058,0.07,154.922,1,5,0.07,4,90,1390063,0,0,0,Sad
+Aru Ki Rakhla,Kokila Goswami,/artist/kokila-goswami,0.0,Assamese,2015-01-10,0.0,0.816,0.999,0.544,-7.403,0.07,149.988,0,11,0.0645,4,50,334406,0,0,0,Energetic
+O Malti,Sibani Dutta,/artist/sibani-dutta,0.0,Assamese,2015-02-01,0.06,0.525,0.612,0.961,-6.425,0.04,155.021,0,6,0.015,4,43,6355477,0,0,0,Sad
+Moi Ati Muramati,Mitali Choudhury,/artist/mitali-choudhry,0.0,Assamese,2015-02-01,0.94,0.7,0.096,0.502,-10.801,0.0575,149.838,1,7,0.0163,4,36,9483851,0,0,0,Sad
+Ai Nilaj Pahar,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2015-02-04,0.01,0.24,0.0,0.036,-3.604,0.09,150.111,0,9,0.02,4,71,4684261,0,0,0,Sad
+O May Diyoka Laynu More,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2015-02-11,0.77,0.39,0.659,0.192,-10.161,0.021,150.026,0,2,0.09,4,75,4811912,0,0,0,Happy
+Ram Gossain,Debajani Borah|Pintoo Bhattacharya,/artist/debajani-borah|/artist/pintoo-bhattacharya,0.0,Assamese,2015-03-03,0.81,0.39,0.728,0.219,-9.369,0.051,155.067,0,11,0.0348,4,50,953588,0,0,0,Happy
+Chintare Chataki Mon,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,0.0,Assamese,2015-03-06,0.76,0.886,0.485,0.799,-12.182,0.02,150.037,0,7,0.0738,4,57,10752606,0,0,0,Sad
+Nai Hoya Sesh - Duet,Namita Bhattacharya|Dwipen Baruah,/artist/namita-bhattacharya|/artist/dwipen-baruah,0.0,Assamese,2015-03-08,0.6,0.51,0.748,0.703,-4.871,0.019,150.015,0,11,0.043,4,25,9667414,0,0,0,Energetic
+O Mitha Bohag,Bhupen Hazarika|Ruby Singha,/artist/dr-bhupen-hazarika-2|/artist/ruby-singha,0.0,Assamese,2015-03-12,0.85,0.774,0.792,0.356,-2.376,0.04,154.995,1,7,0.075,4,81,1719421,0,0,0,Happy
+Gorui Machhe,Nagen Barman,/artist/nagen-barman,0.0,Assamese,2015-04-10,0.22,0.822,0.43,0.631,-4.936,0.0745,150.037,0,7,0.07,4,49,9583394,0,0,0,Sad
+Kopi Uthe Kio Taj Mahal,Bhupen Hazarika|Lata Mangeshkar,/artist/dr-bhupen-hazarika-2|/artist/lata-mangeshkar,0.0,Assamese,2015-05-09,0.57,0.974,0.553,0.026,-10.359,0.0097,150.054,1,8,0.038,4,79,10205818,0,0,0,Sad
+Kino Tor Maatere,Lokeswar Deka,/artist/lokeswar-deka,0.0,Assamese,2015-06-07,0.31,0.37,0.833,0.419,-6.595,0.092,150.012,1,1,0.097,4,32,3492152,0,0,0,Energetic
+Chali Palir,Nagen Barman,/artist/nagen-barman,0.0,Assamese,2015-07-03,0.19,0.936,0.959,0.157,-7.879,0.01,149.956,0,11,0.03,4,28,5532052,0,0,0,Sad
+Boby Ruby Dipa Rupa,Jiten Deka|Dipen Lahkar,/artist/jiten-deka|/artist/dipen-lahkar,0.0,Assamese,2015-07-04,0.16,0.127,0.638,0.972,-12.253,0.0905,149.955,0,4,0.0468,4,77,709423,0,0,0,Sad
+Aaruno Kiman Baki,Namita Bhattacharya,/artist/namita-bhattacharya,0.0,Assamese,2015-07-08,0.64,0.74,0.215,0.868,-7.445,0.0755,150.026,0,9,0.063,4,73,9794860,0,0,0,Sad
+Amare Bhonti Subo,Mridula Das Dewan,/artist/mridula-das-dewan,0.0,Assamese,2015-08-03,0.62,0.94,0.096,0.591,-8.395,0.0976,149.907,0,6,0.008,4,64,4075520,0,0,0,Sad
+Tejare Kamalapati,Dwipen Barua,/artist/dwipen-barua-3,0.0,Assamese,2015-08-08,0.26,0.83,0.714,0.883,-6.897,0.065,155.014,0,10,0.0849,4,76,1822138,0,0,0,Energetic
+Nadi Matho,Monojyostna Mahanta,/artist/monojyostna-mahanta,0.0,Assamese,2015-10-04,0.48,0.225,0.439,0.766,-3.198,0.058,146.013,0,9,0.0122,4,76,8606381,0,0,0,Sad
+Songs of Assam - Abor Song No. 3,Unspecified,/artist/unspecified,0.0,Assamese,2015-10-07,0.19,0.25,0.467,0.777,-2.454,0.01,150.026,0,3,0.0068,4,57,2178142,0,0,0,Sad
+Surat Magan Bhayal Rati,Jayanta Hazarika,/artist/jayanta-hazarika,0.0,Assamese,2015-11-04,0.29,0.74,0.288,0.45,-5.943,0.054,149.962,0,1,0.031,4,82,9514268,0,0,0,Sad
+Jai Srimanta Shankara,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2015-11-04,0.24,0.79,0.75,0.718,-13.173,0.0222,150.028,0,2,0.0067,4,68,8383926,0,0,0,Sad
+Aay Ja Mor,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2015-12-04,0.44,0.136,0.771,0.931,-9.396,0.048,154.85,0,10,0.04,4,35,4364223,0,0,0,Sad
+Aya Nahar Phul,Kalpana Bhuyan|Dijen Kakati,/artist/kalpana-bhuyan|/artist/dijen-kakati-4,0.0,Assamese,2015-12-07,0.38,0.958,0.735,0.77,-13.516,0.08,155.03,0,9,0.01,4,68,6821156,0,0,0,Energetic
+Bihure Kothia,Dwipen Barua,/artist/dwipen-barua-12,0.0,Assamese,2015-12-07,0.17,0.75,0.675,0.778,-6.871,0.04,149.975,1,8,0.054,4,38,11398703,0,0,0,Energetic
+Ei Dhuniya Godhuli Lagan,Asha Bhosle,/artist/asha-bhosle-1,0.0,Assamese,2015-12-08,0.41,0.34,0.965,0.908,-13.276,0.0934,149.941,1,2,0.0961,4,99,5327878,0,0,0,Happy
+Tumi Kon Pepare Furate,Jayanta Hazarika|Bhupen Hazarika,/artist/jayanta-hazarika|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2016-01-02,0.37,0.2,0.739,0.757,-7.921,0.0171,150.028,0,9,0.035,4,30,10576261,0,0,0,Sad
+O Pare Kamrangar Gachh,Pranita Barman,/artist/pranita-barman,0.0,Assamese,2016-01-03,0.66,0.9,0.061,0.234,-10.706,0.0246,149.947,1,4,0.0342,4,35,5394223,0,0,0,Sad
+Dur Kata Dur,Rituparna Sharma,/artist/rituparna-sharma,0.0,Assamese,2016-01-07,0.66,0.515,0.952,0.19,-2.85,0.097,153.002,1,6,0.0,4,82,6576410,0,0,0,Energetic
+Mon Aaji Uri Guchi Jai,Namita Bhattacharya,/artist/namita-bhattacharya,0.0,Assamese,2016-01-11,0.19,0.33,0.789,0.145,-2.789,0.0292,149.89,0,10,0.0438,4,51,8554491,0,0,0,Energetic
+Pohare Ki Jane,Pahari Saikia,/artist/pahari-saikia,0.0,Assamese,2016-01-11,0.53,0.687,0.67,0.06,-12.266,0.0995,149.96,1,0,0.0859,4,61,7099462,0,0,0,Energetic
+Alingan Alingan,Aftab Ahmad,/artist/aftab-ahmad,0.0,Assamese,2016-02-06,0.45,0.693,0.277,0.841,-8.123,0.026,150.003,0,5,0.084,4,95,9391521,0,0,0,Sad
+Hanhi Hoi Parimgoi,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,0.0,Assamese,2016-02-06,0.55,0.07,0.962,0.302,-7.164,0.017,149.976,0,5,0.0365,4,66,9371235,0,0,0,Happy
+Oki Radhe Bolre,Dhanada Pathak,/artist/dhanada-pathak,0.0,Assamese,2016-02-07,0.49,0.5,0.304,0.16,-13.39,0.056,152.065,1,7,0.0932,4,74,11276076,0,0,0,Sad
+Mohila Mohila Kaloino Ahila,Jayanta Hazarika,/artist/jayanta-hazarika,0.0,Assamese,2016-02-09,0.97,0.808,0.271,0.759,-11.339,0.0635,149.944,1,5,0.0604,4,56,4207465,0,0,0,Sad
+Jwalalo Nite Moi,Manisha Hazarika,/artist/manisha-hazarika,0.0,Assamese,2016-03-02,0.32,0.52,0.732,0.702,-6.727,0.0321,149.744,0,1,0.08,4,75,9423297,0,0,0,Energetic
+Bohag Mahar Ene Dinat,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,0.0,Assamese,2016-03-08,0.99,0.665,0.932,0.575,-3.36,0.0875,150.069,1,1,0.1,4,90,10311549,0,0,0,Energetic
+Naira Par Hole,Lokeswar Deka,/artist/lokeswar-deka,0.0,Assamese,2016-03-10,0.13,0.55,0.903,0.264,-8.626,0.07,154.972,0,7,0.0101,4,99,8150632,0,0,0,Happy
+Korunamai Hey Biswanath,Namita Bhattacharya|Dwipen Baruah,/artist/namita-bhattacharya|/artist/dwipen-baruah,0.0,Assamese,2016-04-05,0.47,0.98,0.131,0.973,-5.805,0.086,148.043,0,4,0.008,4,73,8758750,0,0,0,Sad
+Uchnpi Nutiba,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2016-04-07,0.86,0.932,0.623,0.593,-12.392,0.057,149.838,0,5,0.0912,4,91,4221871,0,0,0,Happy
+Sokala Tengati,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2016-04-08,0.77,0.723,0.292,0.397,-2.51,0.024,155.03,0,9,0.099,4,51,7968840,0,0,0,Sad
+Bapoi Chengerare,Dhanada Pathak,/artist/dhanada-pathak,0.0,Assamese,2016-04-11,0.27,0.07,0.0,0.602,-10.685,0.0677,155.096,0,11,0.0808,4,48,3830519,0,0,0,Sad
+Kor Para Ahili,Dhanada Pathak,/artist/dhanada-pathak,0.0,Assamese,2016-05-06,0.7,0.97,0.071,0.782,-12.107,0.06,154.997,1,9,0.0486,4,37,4170291,0,0,0,Sad
+Ei Laganat Kolu,Jayanta Hazarika|Nirmal Mishra,/artist/jayanta-hazarika|/artist/nirmal-mishra,0.0,Assamese,2016-05-07,0.82,0.401,0.622,0.31,-7.556,0.0113,150.04,0,5,0.1,4,48,5051239,0,0,0,Happy
+Bahoba Agloi,Rameshwar Pathak|Dhanada Pathak,/artist/rameshwar-pathak|/artist/dhanada-pathak,0.0,Assamese,2016-06-03,0.27,0.929,0.934,0.909,-5.974,0.065,149.977,0,6,0.08,4,95,7287654,0,0,0,Energetic
+Melidilihi Nao,Aftab Ahmad,/artist/aftab-ahmad,0.0,Assamese,2016-06-07,0.99,0.608,0.034,0.34,-2.207,0.02,149.922,0,9,0.012,4,100,8988441,0,0,0,Sad
+Aha Son Aha,Indrani Ganguly|Ridip Dutta,/artist/indrani-ganguly|/artist/ridip-dutta,0.0,Assamese,2016-06-09,0.48,0.56,0.315,0.815,-5.568,0.043,149.951,1,11,0.0284,4,37,6150402,0,0,0,Sad
+Ki Mok Ne Lage,Aarti Mukherji|Dwipen Baruah,/artist/aarti-mukherji|/artist/dwipen-baruah,0.0,Assamese,2016-06-11,0.5,0.502,0.491,0.327,-7.649,0.0,156.345,0,6,0.0379,4,45,2336927,0,0,0,Sad
+Jilimili Jilimili,Aarti Mukherji,/artist/aarti-mukherji,0.0,Assamese,2016-07-04,0.96,0.835,0.049,0.619,-2.185,0.01,155.085,0,1,0.04,4,77,7160060,0,0,0,Sad
+Sangram Jibanar Jodi Eti Naam,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Assamese,2016-08-03,0.99,0.96,0.854,0.683,-12.629,0.08,150.057,1,9,0.06,4,59,9854521,0,0,0,Happy
+Jaaji Noi Saaturi,Lokeswar Deka,/artist/lokeswar-deka,0.0,Assamese,2016-09-05,0.67,0.714,0.434,0.428,-6.242,0.03,150.146,0,7,0.061,4,30,6990268,0,0,0,Sad
+Ei Raati,Madhumati Goswami,/artist/madhumati-goswami,0.0,Assamese,2016-10-01,0.59,0.667,0.796,0.732,-8.53,0.09,149.948,1,1,0.082,4,69,9894419,0,0,0,Happy
+Rup Jwale Jalmal,Banasree Sengupta|Dwipen Baruah,/artist/banasree-sengupta|/artist/dwipen-baruah,0.0,Assamese,2016-10-03,0.03,0.983,0.304,0.633,-5.402,0.077,154.969,1,7,0.0044,4,91,4090166,0,0,0,Sad
+Aru Nobojabi Bin Batorua (Introduction),Samar Hazarika,/artist/samar-hazarika,0.0,Assamese,2016-11-06,0.11,0.038,0.835,0.481,-13.584,0.09,154.981,0,0,0.0,4,53,6508181,0,0,0,Energetic
+Aghunare Pathare Aai,Aju Barkakati|Lakshmi Bordoloi|Nirmal Kalita|Sarifuddin Ahmed|Sibanath|Bibha Barua|Sharat Sharma,/artist/aju-barkakati|/artist/lakshmi-bordoloi|/artist/nirmal-kalita|/artist/sarifuddin-ahmed|/artist/sibanath|/artist/bibha-barua-1|/artist/sharat-sharma,0.0,Assamese,2016-11-08,0.58,0.66,0.829,0.553,-13.651,0.0642,150.083,1,1,0.056,4,54,19312,0,0,0,Energetic
+Purati Kiono Ahili,Mitali Choudhury,/artist/mitali-choudhry,0.0,Assamese,2016-11-12,0.26,0.96,0.068,0.393,-12.83,0.0548,151.848,1,9,0.02,4,100,1155915,0,0,0,Sad
+Tumi Prabhu Anathar Nath,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,0.0,Assamese,2016-12-07,0.93,0.23,0.102,0.443,-3.791,0.0651,150.04,0,6,0.09,4,79,9062614,0,0,0,Sad
+Ahan Ahanchhon,Suman Kalyanpur|Pulak Banerjee,/artist/suman-kalyanpur|/artist/pulak-banerjee-1,0.0,Assamese,2016-12-11,0.46,0.17,0.496,0.475,-11.86,0.033,150.016,0,11,0.0279,4,96,4667485,0,0,0,Sad
+Sarute Sarkakai,Snehalata Das,/artist/snehalata-das,0.0,Assamese,2017-01-05,0.39,1.0,0.492,0.885,-12.689,0.042,149.991,0,5,0.0137,4,85,8457684,0,0,0,Sad
+Jonali A Jonali,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2017-01-06,0.02,0.868,0.462,0.624,-7.48,0.0551,150.038,0,10,0.013,4,86,8234314,0,0,0,Sad
+Tare Nare,Dwipen Baruah|Jayanta,/artist/dwipen-baruah|/artist/jayanta,0.0,Assamese,2017-01-07,0.5,0.09,0.725,0.004,-9.663,0.021,154.749,0,6,0.0746,4,57,3967278,0,0,0,Sad
+Mor Ausir Rati,Jayanta Hazarika,/artist/jayanta-hazarika,0.0,Assamese,2017-01-11,0.22,0.38,0.746,0.399,-8.742,0.04,150.111,0,5,0.08,4,59,1108003,0,0,0,Energetic
+Manar Majat O,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2017-02-03,0.95,0.662,0.4,0.239,-2.523,0.072,149.864,1,1,0.08,4,51,7549415,0,0,0,Sad
+Jni Jni,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2017-02-05,0.81,0.609,0.503,0.673,-9.464,0.09,150.064,0,8,0.06,4,70,3576542,0,0,0,Sad
+Sandur Sandur Phota,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2017-02-12,0.65,0.348,0.854,0.213,-3.377,0.0595,150.099,0,9,0.0633,4,73,6506594,0,0,0,Energetic
+Haate Banchi Niye Xokhi (Introduction),Samar Hazarika,/artist/samar-hazarika,0.0,Assamese,2017-03-01,0.38,0.67,0.33,0.045,-11.24,0.09,155.012,0,1,0.08,4,51,1149384,0,0,0,Sad
+Beb Kaati Jaba Naru,Snehalata Das,/artist/snehalata-das,0.0,Assamese,2017-03-01,0.7,0.503,0.073,0.247,-11.505,0.03,149.913,1,1,0.01,4,31,1324764,0,0,0,Sad
+Bimurto Mur Nixati,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2017-03-03,0.73,0.55,0.686,0.846,-4.875,0.058,147.854,0,11,0.02,4,96,10546577,0,0,0,Happy
+Porilo Barisha Kaalre,Snehalata Das,/artist/snehalata-das,0.0,Assamese,2017-03-04,0.19,0.032,0.993,0.245,-9.138,0.06,155.007,0,5,0.01,4,78,527824,0,0,0,Happy
+Palo Adhikar Tomar Hiyar,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2017-03-06,0.09,0.318,0.237,0.517,-12.169,0.06,150.057,1,3,0.02,4,68,9912190,0,0,0,Sad
+Satam Purushia Amar Bihutali,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,0.0,Assamese,2017-03-08,0.12,0.542,0.217,0.315,-10.696,0.09,155.072,1,1,0.015,4,97,1275364,0,0,0,Sad
+Kirili Suniba,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2017-03-08,0.36,0.112,0.378,0.393,-11.233,0.0591,150.413,0,8,0.056,4,28,5559797,0,0,0,Sad
+Ghumati Jao Re,Anju Devi|Bhupen Hazarika,/artist/anju-devi|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2017-03-09,0.66,0.34,0.753,0.95,-9.915,0.0279,149.969,1,2,0.011,4,62,10835636,0,0,0,Happy
+Kino Pokhiya,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2017-04-01,0.65,0.362,0.571,0.838,-13.923,0.02,150.002,0,1,0.1,4,70,192571,0,0,0,Sad
+Allhaar Bine Key Nai Aan,Bhupen Hazarika|Pranabiram Baruah|Sadananda Gogoi,/artist/dr-bhupen-hazarika-2|/artist/pranabiram-baruah|/artist/sadananda-gogoi,0.0,Assamese,2017-04-12,0.62,0.939,0.067,0.208,-8.358,0.05,150.053,1,7,0.038,4,81,4515153,0,0,0,Sad
+Simahin Monor Asha,Madhumati Goswami,/artist/madhumati-goswami,0.0,Assamese,2017-04-12,0.33,0.29,0.902,0.157,-3.017,0.0,149.831,1,2,0.0664,4,60,10564991,0,0,0,Energetic
+Pran Sakhi Re,Snehalata Das,/artist/snehalata-das,0.0,Assamese,2017-05-01,0.18,0.48,0.59,0.735,-7.974,0.01,150.016,0,4,0.026,4,75,6465559,0,0,0,Sad
+Tumi Hoba Koina,Kalpana Bhuiya|Dijen Kakati,/artist/kalpana-bhuiya|/artist/dijen-kakati-5,0.0,Assamese,2017-05-06,0.54,0.429,0.109,0.877,-2.431,0.017,150.011,0,10,0.02,4,39,4991376,0,0,0,Sad
+Kino Hol Kino Hol,Mahananda Mazinder Baruah,/artist/mahananda-mazinder-baruah-4,0.0,Assamese,2017-05-09,0.82,0.27,0.969,0.685,-4.878,0.1,149.984,0,9,0.0174,4,45,4017307,0,0,0,Energetic
+Ek Doi Tini Chari,Lalita Das|Kokila Goswami|Mrinalini Dutta Chowdhury|Puspa Das,/artist/lalita-das|/artist/kokila-goswami-3|/artist/mrinalini-dutta-chowdhury-3|/artist/puspa-das-2,0.0,Assamese,2017-06-02,0.2,0.916,0.431,0.766,-12.735,0.021,149.804,0,9,0.0363,4,52,2450436,0,0,0,Sad
+Parbator Dhakia,Lokeswar Deka|Party,/artist/lokeswar-deka|/artist/party,0.0,Assamese,2017-06-04,0.4,0.48,0.15,0.376,-13.277,0.088,149.985,0,11,0.04,4,86,1367891,0,0,0,Sad
+O Mor Priyo Janagan,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2017-06-06,0.39,0.676,0.281,0.526,-3.761,0.023,150.017,0,9,0.061,4,68,5307996,0,0,0,Sad
+Radha Chalilora,Snehalata Das,/artist/snehalata-das,0.0,Assamese,2017-06-08,0.75,0.64,0.9,0.027,-4.029,0.006,149.895,1,1,0.0523,4,55,6345210,0,0,0,Energetic
+Chira Bidrohi - Recitation,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2017-06-09,0.56,0.37,0.29,0.746,-5.922,0.078,150.009,0,5,0.08,4,66,1780662,0,0,0,Sad
+More Pran Jeeban,Naren Das|Anima Das,/artist/naren-das|/artist/anima-das,0.0,Assamese,2017-07-08,0.39,0.7,0.154,0.549,-4.127,0.07,149.986,0,0,0.097,4,66,3707423,0,0,0,Sad
+Bon Phuler,sibcharan das,/artist/sibcharan-das,0.0,Assamese,2017-07-12,0.15,0.581,0.639,0.934,-9.38,0.0994,155.25,0,1,0.0802,4,25,2344795,0,0,0,Sad
+Nupore Matiche,Haimanti Shukla|Namita Bhattacharya,/artist/haimanti-shukla|/artist/namita-bhattacharya,0.0,Assamese,2017-08-03,0.26,0.111,0.175,0.273,-5.26,0.069,149.895,0,11,0.052,4,36,10439584,0,0,0,Sad
+Aruno Kiman,Archana Das,/artist/archana-das,0.0,Assamese,2017-08-10,0.22,0.915,0.123,0.532,-4.41,0.0569,150.043,1,7,0.002,4,89,8722106,0,0,0,Sad
+Chenai Mor O,Usha Mangeshkar|Bhupen Hazarika,/artist/usha-mangeshkar-2|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2017-09-01,0.51,0.248,0.697,0.213,-3.775,0.0747,149.892,1,7,0.061,4,36,6395114,0,0,0,Energetic
+Sharadi Rani Tomar,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2017-09-05,0.75,0.166,0.144,0.113,-4.52,0.04,149.887,0,6,0.1,4,97,1856621,0,0,0,Sad
+Maha Moho,Jayanta Das|Dwipen Baruah,/artist/jayanta-das|/artist/dwipen-baruah,0.0,Assamese,2017-09-10,0.04,0.912,0.69,0.375,-13.919,0.008,155.174,0,11,0.0751,4,88,7877060,0,0,0,Sad
+Aa Thunuka Kanchghar,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2017-10-01,0.23,0.375,0.047,0.749,-8.799,0.0005,155.056,0,5,0.07,4,98,581596,0,0,0,Sad
+Naraon Janom Lovilo - Traditional,Biren Deka,/artist/biren-deka,0.0,Assamese,2017-11-02,0.43,0.91,0.164,0.623,-11.376,0.03,150.039,1,6,0.0021,4,92,8923925,0,0,0,Sad
+Ogni Jugor Firingoti Moi,Bhupen Hazarika|Samar Hazarika|Monima Saikia,/artist/dr-bhupen-hazarika-2|/artist/samar-hazarika|/artist/monima-saikia,0.0,Assamese,2017-11-03,0.44,0.136,0.468,0.516,-2.541,0.0249,150.416,0,7,0.1,4,79,2938482,0,0,0,Sad
+Aiso Kanai Aiso,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2017-11-08,0.91,0.32,0.674,0.795,-2.24,0.09,150.072,0,10,0.026,4,73,6031692,0,0,0,Energetic
+Hawa Nai Batash Nai,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Assamese,2017-11-09,0.59,0.03,0.559,0.615,-4.434,0.0512,150.014,0,5,0.0118,4,29,9168337,0,0,0,Sad
+Anjali,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2017-11-09,0.18,0.648,0.988,0.625,-7.969,0.063,149.957,0,5,0.0455,4,54,5978223,0,0,0,Energetic
+Pahari Jiyari,Madhumati Goswami,/artist/madhumati-goswami,0.0,Assamese,2017-11-10,0.36,0.837,0.158,0.759,-2.523,0.009,152.964,1,6,0.0446,4,54,8798482,0,0,0,Sad
+Mugha Riha Mekhelarey,Dijen Kakati,/artist/dijen-kakati-4,0.0,Assamese,2017-11-12,0.93,0.25,0.327,0.658,-2.323,0.0245,150.0,0,1,0.05,4,56,6097992,0,0,0,Sad
+Laj Laj,Namita Bhattacharya|Dwipen Barua,/artist/namita-bhattacharya|/artist/dwipen-barua-4,0.0,Assamese,2017-12-08,0.86,0.59,0.055,0.273,-3.591,0.0134,153.345,0,2,0.0572,4,100,8424018,0,0,0,Sad
+Mrityu Savoti Samadhi,Jayanta Hazarika,/artist/jayanta-hazarika,0.0,Assamese,2017-12-11,0.41,0.37,0.268,0.746,-2.012,0.08,149.87,0,5,0.0,4,81,10862784,0,0,0,Sad
+Jidina Manar,Dwipen Barua,/artist/dwipen-barua-17,0.0,Assamese,2017-12-12,0.39,0.908,0.167,0.886,-11.586,0.05,149.893,0,4,0.0113,4,80,9655618,0,0,0,Sad
+Chinaki Tumi Ne Mor,Namita Bhattacharya,/artist/namita-bhattacharya,0.0,Assamese,2018-01-06,0.59,0.71,0.36,0.72,-11.123,0.003,155.18,1,1,0.052,4,29,9311404,0,0,0,Sad
+Joa Beli Bohagat,Lokeswar Deka,/artist/lokeswar-deka,0.0,Assamese,2018-01-09,0.09,0.344,1.0,0.283,-9.059,0.0153,149.992,0,10,0.0142,4,72,9089186,0,0,0,Happy
+Bihu Ahil Buli,Nagen Barman,/artist/nagen-barman,0.0,Assamese,2018-01-11,0.65,0.216,0.069,0.314,-2.677,0.095,150.088,0,7,0.07,4,53,11173867,0,0,0,Sad
+Banhar Mura Bagarir Ora,Khagen Mahanta,/artist/khagen-mahanta,0.0,Assamese,2018-02-01,0.07,0.17,0.404,0.248,-10.704,0.02,150.026,0,11,0.0271,4,39,217368,0,0,0,Sad
+Nagachaki Heroshima,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2018-02-02,0.29,0.988,0.405,0.185,-3.321,0.0341,150.039,1,7,0.0892,4,85,5592898,0,0,0,Sad
+Dikdari Dikdari,Khagen Mahanta,/artist/khagen-mahanta,0.0,Assamese,2018-02-05,0.22,0.351,0.519,0.838,-10.111,0.02,150.0,0,5,0.087,4,68,7206032,0,0,0,Sad
+Dham Dhama Dham Jibon - Madul Baje,Banasree Sengupta|Jayanta Hazarika|Nirmal Mishra,/artist/banasree-sengupta|/artist/jayanta-hazarika|/artist/nirmal-mishra,0.0,Assamese,2018-02-07,0.66,0.31,0.299,0.667,-4.808,0.06,150.011,1,9,0.09,4,35,6914379,0,0,0,Sad
+Na Kanda Na Kanda - Anup Ghosal,Anup Ghoshal,/artist/anup-ghoshal-1,0.0,Assamese,2018-03-01,0.65,1.0,0.406,0.296,-7.862,0.0533,150.212,1,8,0.0696,4,83,2454751,0,0,0,Sad
+Maldar Habaloi - Parody,Nagen Barman,/artist/nagen-barman,0.0,Assamese,2018-03-02,0.38,0.71,0.229,0.841,-7.969,0.0902,150.092,1,8,0.09,4,65,8419810,0,0,0,Sad
+Madarare Phoolo Heno,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2018-03-08,0.13,0.222,0.452,0.913,-2.671,0.0632,149.945,0,9,0.04,4,48,9770659,0,0,0,Sad
+Atoi Obuj Mon,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2018-03-09,0.02,0.13,0.442,0.405,-8.894,0.021,149.965,0,11,0.0751,4,28,4083196,0,0,0,Sad
+Ma O Ma,Aarti Mukherji,/artist/aarti-mukherji,0.0,Assamese,2018-04-04,0.83,0.01,0.354,0.766,-13.431,0.0186,150.097,0,5,0.0,4,76,10284739,0,0,0,Sad
+Dinor Pohar Rangchangia,Manna Dey,/artist/manna-dey,0.0,Assamese,2018-04-08,0.93,0.134,0.874,0.852,-6.967,0.015,149.943,0,9,0.04,4,38,4555760,0,0,0,Energetic
+Liyeng Makao,Talat Mahmood|Bhupen Hazarika,/artist/talat-mahmood|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2018-04-12,0.03,0.329,0.993,0.087,-10.122,0.0122,149.928,0,1,0.04,4,59,3505313,0,0,0,Energetic
+Angami Naga Song No.1,Assam mixed chorus from Kohima|Naga Hills,/artist/assam-mixed-chorus-from-kohima|/artist/naga-hills,0.0,Assamese,2018-05-02,0.41,0.67,0.935,0.206,-6.963,0.04,149.841,1,0,0.0454,4,41,7790869,0,0,0,Energetic
+Abor Song No.3,Male Assam soloist|singers with percussion from Mebo|Arbor Hills,/artist/male-assam-soloist|/artist/singers-with-percussion-from-mebo|/artist/arbor-hills,0.0,Assamese,2018-05-03,0.24,0.43,0.362,0.167,-2.91,0.0801,150.09,0,3,0.082,4,48,3080291,0,0,0,Sad
+Lagarta Mor Banare Banaphool,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2018-06-11,0.74,0.132,0.381,0.497,-4.137,0.09,150.0,0,10,0.0839,4,67,2105560,0,0,0,Sad
+Kiono Hahili Fagun,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2018-08-04,0.27,0.28,0.832,0.494,-2.443,0.08,149.991,0,9,0.0461,4,35,1808241,0,0,0,Energetic
+Khela Gharloi,Mridula Das Dewan,/artist/mridula-das-dewan,0.0,Assamese,2018-08-11,0.99,0.93,0.89,0.401,-11.751,0.035,150.09,1,0,0.08,4,61,8749456,0,0,0,Energetic
+Aru Nobojabi Bin Batorua,Usha Mangeshkar|Bhupen Hazarika,/artist/usha-mangeshkar-2|/artist/bhupen-hazarika,0.0,Assamese,2018-09-01,0.67,0.54,0.548,0.264,-8.014,0.01,150.053,0,1,0.012,4,57,8319984,0,0,0,Sad
+Aaji O Mon Mor,Suez Bordoloi,/artist/suez-bordoloi,0.0,Assamese,2018-09-05,0.43,0.542,0.495,0.914,-6.9,0.09,149.986,0,8,0.0502,4,27,1126106,0,0,0,Sad
+Ki Naam Di Matim Dr Bezbaruah,Nirmal Mishra,/artist/nirmal-mishra,0.0,Assamese,2018-09-05,0.07,0.397,0.444,0.479,-12.468,0.011,149.975,1,9,0.07,4,75,9109514,0,0,0,Sad
+Kamal Nayanke,Naren Das,/artist/naren-das,0.0,Assamese,2018-09-10,0.82,0.86,0.092,0.17,-12.738,0.01,150.2,1,10,0.0432,4,92,575626,0,0,0,Sad
+Rim Jhim Barashuney,Sangira Singha|Bhupen Hazarika,/artist/sangira-singha|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2018-09-11,0.36,0.001,0.712,0.618,-10.04,0.02,149.987,0,6,0.015,4,89,4921209,0,0,0,Happy
+Bhaiti Bhonti,Namita Goswami,/artist/namita-goswami,0.0,Assamese,2018-10-03,0.98,0.998,0.357,0.466,-8.363,0.034,150.085,1,11,0.07,4,81,2504658,0,0,0,Sad
+Badi Achhe Naderey Jaal,Nagen Barman,/artist/nagen-barman,0.0,Assamese,2018-10-03,0.87,0.92,0.925,0.837,-3.696,0.0391,150.051,0,7,0.07,4,97,4494473,0,0,0,Energetic
+Aay Bihu Re Uruka Nisa,Dolly Ghosh,/artist/dolly-ghosh,0.0,Assamese,2018-10-04,0.05,0.25,0.422,0.252,-2.225,0.043,150.001,0,9,0.077,4,98,3835289,0,0,0,Sad
+Balukate Sharalire Chhan,Manisha Hazarika,/artist/manisha-hazarika,0.0,Assamese,2018-10-10,0.22,0.805,0.872,0.418,-13.816,0.0198,149.967,1,0,0.03,4,55,5756591,0,0,0,Energetic
+Haate Banchi Niye Xokhi (Traditional Folk Song),Ram Sasoni,/artist/ram-sasoni,0.0,Assamese,2018-10-10,0.96,0.83,0.926,0.571,-9.118,0.0848,152.655,0,1,0.06,4,76,7074323,0,0,0,Happy
+Parashi Puaate Tulungaa,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2018-11-04,0.61,0.47,0.931,0.491,-4.069,0.023,150.024,1,7,0.011,4,64,9021426,0,0,0,Energetic
+Jai Arijai,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2018-11-05,0.45,0.19,0.848,0.87,-13.969,0.056,149.872,0,9,0.04,4,90,7747150,0,0,0,Happy
+Bhoy Nai Bhoy Nai,Rituparna Sharma,/artist/rituparna-sharma,0.0,Assamese,2018-11-11,0.93,0.96,0.306,0.732,-9.067,0.01,150.051,0,0,0.068,4,48,6405694,0,0,0,Sad
+Tu Shree Nayan Kakati,Dwipen Barua,/artist/dwipen-barua-15,0.0,Assamese,2018-12-01,0.03,0.73,0.089,0.659,-6.284,0.04,149.987,0,5,0.01,4,30,65057,0,0,0,Sad
+Pitaiti Ei Bhalo Kabili,Jayanta Hazarika|Malabika Bora,/artist/jayanta-hazarika|/artist/malabika-bora,0.0,Assamese,2018-12-02,0.18,0.54,0.363,0.906,-7.519,0.037,149.899,1,1,0.06,4,56,6843351,0,0,0,Sad
+O Natun Manar,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2018-12-09,0.02,0.984,0.903,0.214,-7.925,0.0197,152.996,1,6,0.01,4,77,9377898,0,0,0,Happy
+Abor Song No.5,Male Assam soloist|singers with percussion from Balek|Arbor Hills,/artist/male-assam-soloist|/artist/singers-with-percussion-from-balek|/artist/arbor-hills,0.0,Assamese,2019-01-02,0.8,0.04,0.19,0.82,-3.408,0.011,150.402,0,7,0.09,4,40,10217637,0,0,0,Sad
+Aag Fale Dekhilo,Khagen Mahanta|Others,/artist/khagen-mahanta|/artist/others,0.0,Assamese,2019-01-05,0.81,0.489,0.773,0.809,-7.506,0.0307,149.837,0,11,0.032,4,49,5465292,0,0,0,Happy
+Saja Eri Pakhi Urila,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2019-02-03,0.44,0.99,0.726,0.363,-12.345,0.019,149.862,0,1,0.001,4,64,11054701,0,0,0,Sad
+Hridya Na Hoy,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2019-02-04,0.8,0.007,0.083,0.375,-2.812,0.08,149.713,1,7,0.043,4,56,9411466,0,0,0,Sad
+Tejore Kamalapati - Borgeet,Khagen Mahanta,/artist/khagen-mahanta,0.0,Assamese,2019-03-02,0.79,0.739,0.174,0.875,-9.079,0.0382,150.008,0,10,0.01,4,26,1263168,0,0,0,Sad
+Aakaashee Gangaa,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2019-03-03,0.3,0.667,0.842,0.795,-11.383,0.029,149.983,0,4,0.02,4,100,11030220,0,0,0,Happy
+Uddhar Shaki Ahara,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2019-03-09,0.69,0.99,0.567,0.964,-8.12,0.08,149.983,0,8,0.0349,4,77,8854461,0,0,0,Sad
+Kajiranga Kajiranga,Krishna|Bhupen Hazarika|Arindam|Gogoi Sisters,/artist/krishna|/artist/dr-bhupen-hazarika-2|/artist/arindam|/artist/gogoi-sisters,0.0,Assamese,2019-04-09,0.2,0.241,0.298,0.145,-11.893,0.0654,150.018,0,6,0.0773,4,91,6525198,0,0,0,Sad
+O Bihua Kai,Kumari Dharitri|Lakshmi Bordoloi|Siba Prasad Nath,/artist/kumari-dharitri|/artist/lakshmi-bordoloi|/artist/siba-prasad-nath,0.0,Assamese,2019-05-04,0.52,0.08,0.993,0.942,-9.396,0.03,150.026,0,9,0.0415,4,26,5044622,0,0,0,Sad
+Anurag Tumi,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2019-05-05,0.79,0.5,0.336,0.846,-13.275,0.034,147.998,0,2,0.084,4,54,8368675,0,0,0,Sad
+Na Aat Sath,Jiten Deka|Nirmali Das,/artist/jiten-deka|/artist/nirmali-das,0.0,Assamese,2019-05-07,0.3,0.47,0.348,0.794,-3.435,0.0766,149.968,1,10,0.05,4,92,5418171,0,0,0,Sad
+Khodhura Re Mungate,Kalpana Bordoloi,/artist/kalpana-bordoloi,0.0,Assamese,2019-05-09,0.96,0.47,0.74,0.717,-6.44,0.0783,150.07,1,11,0.065,4,67,8645374,0,0,0,Happy
+Allhaar Bine Key Nai Aan (Introduction),Samar Hazarika,/artist/samar-hazarika,0.0,Assamese,2019-05-12,0.88,0.71,0.819,0.352,-12.115,0.04,149.553,0,1,0.075,4,42,2892541,0,0,0,Happy
+Karnat Kundal Tomar,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,0.0,Assamese,2019-06-01,0.79,0.31,0.999,0.814,-3.897,0.063,150.067,0,11,0.01,4,73,2907326,0,0,0,Energetic
+Akashrey Nilaai,Suman Kalyanpur,/artist/suman-kalyanpur,0.0,Assamese,2019-08-01,0.08,0.66,0.436,0.514,-12.778,0.03,149.945,1,6,0.07,4,59,3961199,0,0,0,Sad
+Moi Aji Sangibihin,Pulak Banerjee,/artist/pulak-banerjee-1,0.0,Assamese,2019-08-06,0.32,0.77,0.644,0.125,-9.313,0.042,155.053,1,7,0.024,4,41,8307961,0,0,0,Sad
+Pani Pai Badile,Dijen Kakati|Siba Prasad Nath|Kalpana Bhuiya|Nibha Deka|Nomi Gayan,/artist/dijen-kakati-4|/artist/siba-prasad-nath|/artist/kalpana-bhuiya|/artist/nibha-deka|/artist/nomi-gayan,0.0,Assamese,2019-08-07,0.08,0.681,0.807,0.278,-7.595,0.0781,156.942,1,1,0.08,4,61,7144422,0,0,0,Energetic
+Aha Jen,Atul Methi|Bonti Borah,/artist/atul-methi|/artist/bonti-borah,0.0,Assamese,2019-09-01,0.79,0.763,0.225,0.415,-10.971,0.0664,150.06,1,1,0.07,4,60,11318266,0,0,0,Sad
+Luitab Sontat Likha Bab,Jayanta Hazarika,/artist/jayanta-hazarika,0.0,Assamese,2019-09-03,0.04,0.013,0.813,0.081,-11.693,0.0234,153.945,0,11,0.047,4,100,10029831,0,0,0,Happy
+A Aaji Beular Biya,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,0.0,Assamese,2019-09-03,0.88,0.116,0.165,0.04,-7.201,0.06,149.967,1,1,0.051,4,58,6081845,0,0,0,Sad
+Dari O Nukhurao,Nagen Barman,/artist/nagen-barman,0.0,Assamese,2019-09-06,0.56,0.253,0.175,0.002,-7.539,0.0154,154.195,1,0,0.078,4,70,10805485,0,0,0,Sad
+O He Budi Ai,Naren Das,/artist/naren-das,0.0,Assamese,2019-09-06,0.86,0.613,0.931,0.737,-4.684,0.0228,149.966,0,7,0.04,4,32,8526653,0,0,0,Energetic
+Jauban Maney,Dilip Chowdhury|Rijuwana Sultana,/artist/dilip-chowdhury|/artist/rijuwana-sultana,0.0,Assamese,2019-09-10,0.05,0.946,0.168,0.697,-11.623,0.004,149.989,1,0,0.0,4,45,2159389,0,0,0,Sad
+Halaloi Likhile,Namita Bhattacharya|Dwipen Baruah,/artist/namita-bhattacharya|/artist/dwipen-baruah,0.0,Assamese,2019-09-11,0.54,0.886,0.298,0.198,-4.476,0.03,149.945,1,8,0.005,4,53,3711850,0,0,0,Sad
+Banhar Kathi Tulai,Khagen Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/archana-mahanta,0.0,Assamese,2019-09-11,0.08,0.892,0.4,0.974,-2.721,0.01,149.903,0,11,0.015,4,33,8698292,0,0,0,Sad
+Buku Ham Ham Kore,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2019-09-11,0.05,0.284,0.692,0.571,-2.519,0.057,153.945,0,10,0.0129,4,54,1580562,0,0,0,Energetic
+Dekh Dekho Re,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2019-11-04,0.7,0.568,0.455,0.142,-9.343,0.0788,150.001,0,5,0.04,4,61,1051794,0,0,0,Sad
+Shilmil Toponite,Aftab Ahmad,/artist/aftab-ahmad,0.0,Assamese,2019-11-05,0.66,0.88,0.457,0.824,-3.235,0.0666,149.671,0,5,0.027,4,55,2065203,0,0,0,Sad
+Amej Bhara,Arun Das,/artist/arun-das,0.0,Assamese,2019-11-08,0.07,0.52,0.523,0.034,-5.794,0.062,150.021,0,11,0.0988,4,62,2856774,0,0,0,Sad
+Nahibi O Sonwarani Bare Bare,Manisha Hazarika,/artist/manisha-hazarika,0.0,Assamese,2019-11-08,0.65,0.346,0.726,0.834,-4.567,0.094,155.051,0,8,0.07,4,67,3339326,0,0,0,Energetic
+Lahoti Khopate Kinu Phool Pindhili,Kalpana Bordoloi,/artist/kalpana-bordoloi,0.0,Assamese,2019-12-03,0.64,0.876,0.088,0.803,-2.678,0.081,152.077,1,1,0.0685,4,85,8342857,0,0,0,Sad
+Luitore Khoot,Aftab Ahmad,/artist/aftab-ahmad,0.0,Assamese,2019-12-07,0.82,0.174,0.07,0.695,-11.212,0.015,153.001,0,11,0.098,4,50,325044,0,0,0,Sad
+Suban Siri Nadi,Kalpana Bhuyan|Nibha Deka|Nomi Gayan,/artist/kalpana-bhuyan|/artist/nibha-deka|/artist/nomi-gayan,0.0,Assamese,2019-12-11,0.43,0.02,0.36,0.695,-7.671,0.059,149.924,1,5,0.0697,4,88,7067641,0,0,0,Sad
+Tumiye Mor Kalpanare,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2020-01-02,0.93,0.895,0.095,0.938,-7.472,0.074,150.111,1,0,0.072,4,27,1769085,0,0,0,Sad
+Moi Sainik Rokhia,Bina Sharma,/artist/bina-sharma,0.0,Assamese,2020-01-11,0.75,0.83,0.678,0.97,-10.468,0.05,149.985,0,9,0.0683,4,63,8892150,0,0,0,Happy
+He Mai Joshowa,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2020-02-01,0.3,0.36,0.414,0.357,-12.612,0.1,155.065,1,8,0.0917,4,54,10765008,0,0,0,Sad
+Enaka Nokba Jaoga Buli,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2020-02-02,0.23,0.05,0.569,0.017,-3.695,0.09,149.987,1,0,0.021,4,59,10495856,0,0,0,Energetic
+Kon Kot Loti Ghoti,Geeta Das|Bhupen Hazarika|Anil Dutta,/artist/geeta-das|/artist/dr-bhupen-hazarika-2|/artist/anil-dutta,0.0,Assamese,2020-03-01,0.63,0.73,0.582,0.287,-13.763,0.08,149.997,1,2,0.09,4,94,4874017,0,0,0,Sad
+Eikhani Gaaon Bukur Aapon,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2020-03-01,0.95,0.406,0.28,0.18,-11.904,0.095,149.993,1,6,0.01,4,46,2954364,0,0,0,Sad
+O Pran Krishna O,Naren Das|Anima Das,/artist/naren-das|/artist/anima-das,0.0,Assamese,2020-03-03,0.13,0.47,0.539,0.813,-13.054,0.0392,149.957,0,11,0.029,4,78,268425,0,0,0,Sad
+Rupahi Kabane,Archana Mahanta,/artist/archana-mahanta,0.0,Assamese,2020-03-11,0.49,0.1,0.53,0.448,-7.172,0.0566,150.014,0,6,0.01,4,77,10585337,0,0,0,Sad
+Ujaya Chalo Hut,Khagen Mahanta,/artist/khagen-mahanta,0.0,Assamese,2020-04-04,0.17,0.152,0.917,0.097,-6.568,0.04,149.987,0,9,0.007,4,94,6638857,0,0,0,Energetic
+Kona Samayata Shui Parilo Moi,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2020-05-04,0.87,1.0,0.922,0.567,-8.196,0.0885,150.009,0,4,0.0557,4,75,11278958,0,0,0,Happy
+Soru Hoi Aachhili,Lokeswar Deka,/artist/lokeswar-deka,0.0,Assamese,2020-05-07,0.64,0.93,0.034,0.698,-12.874,0.05,150.031,0,9,0.06,4,64,6258445,0,0,0,Sad
+Tumi Usha,Aftab Ahmad,/artist/aftab-ahmad,0.0,Assamese,2020-05-08,0.67,0.672,0.053,0.331,-5.346,0.0316,145.985,0,1,0.0717,4,53,1473880,0,0,0,Sad
+Tomak Dekhilo,Dijen Kakati,/artist/dijen-kakati-4,0.0,Assamese,2020-06-02,0.62,0.971,0.934,0.873,-9.415,0.0,149.969,1,7,0.074,4,52,9474474,0,0,0,Happy
+Jaunsari Song No.1,Uttar Pradesh soloist|parties of male|female singers from Mohana|Jaunsar Bower,/artist/uttar-pradesh-soloist|/artist/parties-of-male|/artist/female-singers-from-mohana|/artist/jaunsar-bower,0.0,Assamese,2020-06-04,0.83,0.024,0.921,0.472,-11.613,0.0904,148.015,0,4,0.07,4,59,8914725,0,0,0,Happy
+Radha Muk Diora Biday,Bangshidhar Das,/artist/bangshidhar-das-5,0.0,Assamese,2020-06-12,0.42,0.403,0.214,0.036,-7.336,0.0288,154.912,1,11,0.06,4,97,6796291,0,0,0,Sad
+Jhiri Jhiri Botaha Jakar,Mridula Das Dewan,/artist/mridula-das-dewan,0.0,Assamese,2020-07-02,0.78,0.544,0.029,0.949,-8.962,0.0577,150.07,0,6,0.01,4,89,10499449,0,0,0,Sad
+Riniki Riniki,Namita Bhattacharya|Kula Barua,/artist/namita-bhattacharya|/artist/kula-barua-4,0.0,Assamese,2020-07-03,0.27,0.29,0.12,0.995,-5.655,0.0258,150.037,0,8,0.0672,4,30,1718699,0,0,0,Sad
+Man Daponat,Manna Dey,/artist/manna-dey,0.0,Assamese,2020-08-01,0.56,0.022,0.35,0.647,-3.151,0.09,150.083,0,6,0.07,4,39,6814912,0,0,0,Sad
+Nilim Gagan Dhoray Dhoray,Parveen Sultana,/artist/parveen-sultana,0.0,Assamese,2020-09-01,0.64,0.89,0.471,0.464,-5.743,0.059,149.868,1,3,0.06,4,36,1114986,0,0,0,Sad
+Aaji Ki Je Mukali,Jayanta Das|Dwipen Baruah,/artist/jayanta-das|/artist/dwipen-baruah,0.0,Assamese,2020-09-02,0.97,0.01,0.861,0.935,-12.661,0.037,149.954,0,10,0.04,4,25,3816752,0,0,0,Happy
+Shankare Bolile,Ina Mukherjee|Mahananda Mazinder Baruah,/artist/ina-mukherjee|/artist/mahananda-mazinder-baruah-2,0.0,Assamese,2020-09-06,0.06,0.7,0.271,0.127,-10.543,0.07,149.937,0,1,0.02,4,35,2708892,0,0,0,Sad
+Narayan Ke Gun,Late Maniram Gayon,/artist/late-maniram-gayon,0.0,Assamese,2020-10-05,0.51,0.092,0.227,0.035,-9.039,0.0358,149.96,1,3,0.05,4,42,1974207,0,0,0,Sad
+Tomar Ganat Apon Pahara,Manisha Hazarika,/artist/manisha-hazarika,0.0,Assamese,2020-11-03,0.97,0.43,0.74,0.687,-11.832,0.059,150.018,0,9,0.048,4,70,8328293,0,0,0,Happy
+Karo Jorey Mango Prabhu,Shanta Sharma,/artist/shanta-sharma,0.0,Assamese,2020-11-03,0.4,0.82,0.837,0.589,-5.962,0.04,150.23,0,5,0.07,4,77,7045431,0,0,0,Energetic
+Kaanaai Paar Karaa,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2020-11-08,0.17,0.917,0.121,0.499,-11.793,0.0044,150.172,0,11,0.04,4,62,4835158,0,0,0,Sad
+Tumi Heno Karuna Sagar,Archana Mahanta,/artist/archana-mahanta,0.0,Assamese,2020-11-10,0.06,0.28,0.515,1.0,-5.819,0.097,150.006,0,5,0.0858,4,49,10923338,0,0,0,Energetic
+Moynajan Moynajan,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2021-01-01,0.03,0.218,0.297,0.017,-11.303,0.07,150.029,0,8,0.027,4,28,2836597,0,0,0,Sad
+Bonjui Bontahe Jwale,Anju Devi|Bhupen Hazarika,/artist/anju-devi|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2021-01-01,0.6,0.38,0.716,0.735,-9.2,0.02,154.996,1,8,0.0819,4,89,1642192,0,0,0,Happy
+Gupute Gupute Kiman Khelim - Guiter,Sunil Ganguly,/artist/sunil-ganguly,0.0,Assamese,2021-01-02,0.68,0.09,0.637,0.162,-9.651,0.012,149.962,0,11,0.1,4,47,1312873,0,0,0,Sad
+Dur Duranite,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2021-01-03,0.27,0.813,0.486,0.439,-11.202,0.003,149.738,1,10,0.0187,4,31,2484145,0,0,0,Sad
+Bastra Meli Meli Chay,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,0.0,Assamese,2021-01-03,0.06,0.8,0.034,0.054,-9.534,0.0,152.039,0,5,0.027,4,49,5113630,0,0,0,Sad
+Kala Chola Kuruta,Khagen Mahanta|Chorus,/artist/khagen-mahanta|/artist/chorus,0.0,Assamese,2021-02-03,0.8,0.58,0.505,0.393,-2.161,0.006,149.618,1,5,0.078,4,80,1007021,0,0,0,Sad
+Eke Eke Dui Hole,Aarti Mukherji,/artist/aarti-mukherji,0.0,Assamese,2021-03-05,0.43,0.06,0.466,0.335,-6.447,0.08,149.751,0,7,0.052,4,83,6758015,0,0,0,Sad
+Ei Kapaalat,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2021-04-01,0.81,0.13,0.42,0.533,-7.645,0.0294,149.973,1,7,0.062,4,94,9328956,0,0,0,Sad
+Prochondo Dhumuhai,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2021-04-06,0.39,0.297,0.284,0.432,-4.11,0.0,149.852,0,1,0.06,4,99,4073749,0,0,0,Sad
+Uthre Uth,Chatulal Bachhfore,/artist/chatulal-bachhfore,0.0,Assamese,2021-05-01,0.61,0.543,0.339,0.333,-10.492,0.0992,149.909,0,7,0.004,4,36,2406540,0,0,0,Sad
+Kone Jane Tomar Swapon,Shyamal Mitra,/artist/shyamal-mitra,0.0,Assamese,2021-05-03,0.08,0.107,0.197,0.879,-12.198,0.04,149.983,1,5,0.09,4,91,11399641,0,0,0,Sad
+Natun Tomar Charandhani Sonma,Parveen Sultana,/artist/parveen-sultana,0.0,Assamese,2021-05-04,0.42,0.25,0.866,0.565,-9.879,0.094,155.109,1,2,0.091,4,89,9798115,0,0,0,Happy
+Biyanaam,Ila Kakoti|Krishna Das|Moni Baruah|Kabita Hazarika|Sudakshina Sharma|Bharati Das,/artist/ila-kakoti|/artist/krishna-das|/artist/moni-baruah|/artist/kabita-hazarika|/artist/sudakshina-sharma-1|/artist/bharati-das-1,0.0,Assamese,2021-05-04,0.78,0.53,0.907,0.601,-11.316,0.06,150.016,1,2,0.036,4,87,2599309,0,0,0,Happy
+Bahor Kathi Tulai,Khagen Mahanta,/artist/khagen-mahanta,0.0,Assamese,2021-05-05,0.17,0.23,0.291,0.893,-5.002,0.04,147.656,0,9,0.049,4,35,11175294,0,0,0,Sad
+Tumi Ahichhila,Madhumati Goswami,/artist/madhumati-goswami,0.0,Assamese,2021-06-02,0.19,0.378,0.556,0.836,-7.572,0.085,147.998,1,6,0.006,4,32,8854794,0,0,0,Sad
+Jonoti Olale Tarati,Khagen Mahanta|Archana Mahanta,/artist/khagen-mahanta|/artist/archana-mahanta,0.0,Assamese,2021-06-04,0.71,0.22,0.772,0.377,-3.041,0.093,149.987,1,7,0.041,4,39,10532117,0,0,0,Energetic
+Anor Karone Jiyan,Prasanta Baruah|Bhupen Hazarika,/artist/prasanta-baruah|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2021-06-04,0.71,0.27,0.336,0.637,-12.732,0.08,155.062,1,7,0.0902,4,36,344601,0,0,0,Sad
+Konjani Bhaniti,Mitali Choudhury,/artist/mitali-choudhry,0.0,Assamese,2021-06-08,0.31,0.177,0.055,0.285,-10.682,0.0406,147.985,0,6,0.0806,4,90,2606549,0,0,0,Sad
+Pratham Dekhar,Khagen Mahanta|Mitali Choudhury,/artist/khagen-mahanta|/artist/mitali-choudhry,0.0,Assamese,2021-06-11,0.64,0.608,0.631,0.027,-5.491,0.09,150.05,0,3,0.098,4,53,7689351,0,0,0,Energetic
+Duiroir Bahiti Bagi Thak,Dolly Ghosh,/artist/dolly-ghosh,0.0,Assamese,2021-07-02,0.03,0.674,0.638,0.881,-5.91,0.09,149.993,0,9,0.085,4,45,8594873,0,0,0,Energetic
+Na Jadi Bholali,Unknown,/artist/unknown,0.0,Assamese,2021-07-03,0.91,0.32,0.108,0.526,-7.04,0.06,149.936,1,6,0.044,4,70,3005697,0,0,0,Sad
+Murati Mariloi,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,0.0,Assamese,2021-07-03,0.38,0.691,0.416,0.791,-8.214,0.079,149.927,1,4,0.09,4,47,8626634,0,0,0,Sad
+Karnat Kundal Tomar,Rameshwar Pathak|Dhanada Pathak,/artist/rameshwar-pathak|/artist/dhanada-pathak,0.0,Assamese,2021-07-08,0.64,0.91,0.284,0.37,-12.553,0.0943,150.037,0,11,0.01,4,27,11098088,0,0,0,Sad
+Hole Jale Kumliya,Namita Bhattacharya,/artist/namita-bhattacharya,0.0,Assamese,2021-08-11,0.4,0.98,0.166,0.123,-12.652,0.01,155.116,0,11,0.024,4,87,9172920,0,0,0,Sad
+A Aaji Beular Biya,Dhanada Pathak,/artist/dhanada-pathak,0.0,Assamese,2021-09-08,0.86,0.502,0.364,0.458,-7.531,0.0557,155.101,0,6,0.05,4,57,10266025,0,0,0,Sad
+Gopal Chale,Bani Das,/artist/bani-das,0.0,Assamese,2021-09-10,0.21,0.91,0.93,0.008,-11.152,0.014,150.0,0,1,0.0937,4,71,2039013,0,0,0,Energetic
+Aghone Anile Hanhi,Kuntala Deka|Dwipen Baruah,/artist/kuntala-deka|/artist/dwipen-baruah,0.0,Assamese,2021-10-02,0.97,0.8,0.769,0.719,-5.688,0.0029,150.074,1,3,0.056,4,95,10242254,0,0,0,Happy
+Abor Song No.4,Male Assam soloist|singers with percussion from Mebo|Arbor Hills,/artist/male-assam-soloist|/artist/singers-with-percussion-from-mebo|/artist/arbor-hills,0.0,Assamese,2021-10-06,0.25,0.788,0.861,0.98,-12.49,0.024,148.019,0,0,0.08,4,73,10270160,0,0,0,Sad
+Kurut Kurut Korka Baje,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2021-10-10,0.66,0.26,0.86,0.875,-9.519,0.03,154.986,1,8,0.055,4,64,6018802,0,0,0,Happy
+Lehiri Bonore,Malabika Bora|Samar Hazarika,/artist/malabika-bora|/artist/samar-hazarika,0.0,Assamese,2021-10-12,0.46,0.06,0.024,0.603,-10.631,0.05,150.038,0,10,0.01,4,69,3243145,0,0,0,Sad
+Kola Chola Kuruta,Anima Bhattacharya|Khagen Mahanta|Nikunjalata Mahanta|Ridib Dutta|Archana Mahanta|Nalini Chowdhury,/artist/anima-bhattacharya|/artist/khagen-mahanta|/artist/nikunjalata-mahanta|/artist/ridib-dutta|/artist/archana-mahanta|/artist/nalini-chowdhury,0.0,Assamese,2021-11-07,0.4,0.961,0.119,0.777,-9.576,0.0906,155.117,0,7,0.0185,4,33,244659,0,0,0,Sad
+Jaya Jaya Sankara Guru,Pintoo Bhattacharya|prabhat sharma|Rameshwar Pathak,/artist/pintoo-bhattacharya|/artist/prabhat-sharma|/artist/rameshwar-pathak,0.0,Assamese,2021-11-08,0.83,0.33,0.108,0.417,-3.617,0.067,150.0,0,9,0.0804,4,58,11176326,0,0,0,Sad
+Sou Meghar Cha,Namita Bhattacharya,/artist/namita-bhattacharya,0.0,Assamese,2021-12-02,0.39,0.4,0.336,0.845,-6.935,0.01,150.04,1,1,0.0921,4,46,7905515,0,0,0,Sad
+Boghra Pamru Mon,Rmeswar Pathak,/artist/rmeswar-pathak,0.0,Assamese,2021-12-04,0.63,0.453,0.368,0.255,-8.768,0.0176,150.048,0,4,0.017,4,28,9008504,0,0,0,Sad
+Arundhati Aparup Tumi,Shyamal Mitra,/artist/shyamal-mitra,0.0,Assamese,2021-12-10,0.24,0.244,0.074,0.038,-5.453,0.03,149.92,1,3,0.029,4,49,8379206,0,0,0,Sad
+Asam Deshor Bagichare,Bhupen Hazarika|Usha Mangeshkar,/artist/dr-bhupen-hazarika-2|/artist/usha-mangeshkar-2,0.0,Assamese,2022-01-10,0.57,0.77,0.413,0.848,-10.824,0.09,149.957,1,0,0.0011,4,82,7594591,0,0,0,Sad
+Boi Ja Boi Ja,Manisha Hazarika,/artist/manisha-hazarika,0.0,Assamese,2022-01-11,0.5,0.867,0.174,0.317,-5.411,0.0091,149.983,0,4,0.077,4,95,7026435,0,0,0,Sad
+Tomar Kapalote,Malabika Bora|Samar Hazarika,/artist/malabika-bora|/artist/samar-hazarika,0.0,Assamese,2022-01-11,0.94,0.546,0.208,0.455,-2.967,0.0733,149.994,1,0,0.015,4,62,2192585,0,0,0,Sad
+Moi Aru Mor Chaan,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2022-02-04,0.57,0.08,0.599,0.558,-2.254,0.02,150.036,0,6,0.003,4,83,2492810,0,0,0,Sad
+Ei Chakulobhara Jibante8,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2022-02-05,0.46,0.4,0.328,0.564,-7.074,0.05,149.938,0,4,0.07,4,38,1040093,0,0,0,Sad
+Luitar Bali,Kalpana Bhuyan,/artist/kalpana-bhuyan,0.0,Assamese,2022-02-06,0.73,0.988,0.176,0.052,-8.295,0.0645,156.422,1,8,0.075,4,57,538206,0,0,0,Sad
+Ahan Ahan Kao Shuna,Mitali Chowdhury,/artist/mitali-chowdhury,0.0,Assamese,2022-02-11,0.42,0.01,0.555,0.207,-8.04,0.075,149.878,0,4,0.01,4,68,8655611,0,0,0,Sad
+Ah Ah Ah Olai Ah,Khagen Mahanta,/artist/khagen-mahanta,0.0,Assamese,2022-02-12,0.42,0.26,0.886,0.088,-9.835,0.024,149.875,1,9,0.0142,4,51,1283617,0,0,0,Sad
+Torar Ganerey,Kalpana Bhuyan|Dijen Kakati,/artist/kalpana-bhuyan|/artist/dijen-kakati-4,0.0,Assamese,2022-03-11,0.8,0.73,0.936,0.435,-12.27,0.0974,154.983,0,9,0.05,4,94,8114423,0,0,0,Happy
+Jigija Gijao,Bhupen Hazarika|Usha Mangeshkar,/artist/dr-bhupen-hazarika-2|/artist/usha-mangeshkar-2,0.0,Assamese,2022-04-05,0.77,0.15,0.731,0.185,-12.19,0.096,150.011,0,11,0.0282,4,69,3459047,0,0,0,Happy
+Phagun Ahi,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2022-05-04,0.81,0.508,0.137,0.831,-3.25,0.092,150.095,1,4,0.0813,4,47,8552118,0,0,0,Sad
+Laijar Bhangilu,Dhanada Pathak,/artist/dhanada-pathak,0.0,Assamese,2022-05-09,0.15,0.3,0.146,0.758,-2.735,0.04,150.023,0,11,0.078,4,58,7992222,0,0,0,Sad
+Dayal Guru Kripal Guru,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2022-05-12,0.2,0.054,0.141,0.965,-4.305,0.065,149.951,0,3,0.0526,4,62,1044466,0,0,0,Sad
+Kinno Maya Jal Patila,Naren Das,/artist/naren-das,0.0,Assamese,2022-06-01,0.47,0.421,0.936,0.77,-8.87,0.09,150.934,0,10,0.0262,4,80,3752576,0,0,0,Happy
+Shile Shile Theka Khale,Aarti Mukherji,/artist/aarti-mukherji,0.0,Assamese,2022-06-03,0.87,0.57,0.535,0.779,-8.949,0.0705,150.006,0,6,0.0643,4,28,9505170,0,0,0,Sad
+Akash Aaji Mor,Manisha Hazarika,/artist/manisha-hazarika,0.0,Assamese,2022-06-04,0.72,0.498,0.501,0.198,-4.343,0.0307,149.918,0,10,0.021,4,51,10030082,0,0,0,Sad
+Bihu Anandia,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2022-07-01,0.82,0.66,0.139,0.733,-4.063,0.06,149.944,0,6,0.02,4,78,2767241,0,0,0,Sad
+Murat Dadhire Boja,Anima Choudhury|Rameshwar Pathak|Bharati Choudhury,/artist/anima-choudhury|/artist/rameshwar-pathak|/artist/bharati-choudhury-1,0.0,Assamese,2022-07-12,0.52,0.1,0.713,0.344,-4.034,0.0525,150.021,1,1,0.058,4,55,10043914,0,0,0,Energetic
+Shaal Bhangi Oilale,Mahananda Majinder Barua,/artist/mahananda-majinder-barua,0.0,Assamese,2022-08-08,0.02,0.647,0.514,0.513,-4.972,0.058,155.02,1,4,0.09,4,94,10668675,0,0,0,Sad
+Bahag Ahile,Kalpana Bhuyan,/artist/kalpana-bhuyan,0.0,Assamese,2022-08-12,0.99,0.53,0.589,0.291,-5.232,0.0321,149.998,0,6,0.028,4,88,10007264,0,0,0,Happy
+Ghar Amar Mati Hoy,Mukesh,/artist/mukesh,0.0,Assamese,2022-09-04,0.66,0.67,0.206,0.557,-2.096,0.05,149.977,1,8,0.006,4,51,2533422,0,0,0,Sad
+Korobar Du Nayan,Kula Barua,/artist/kula-barua,0.0,Assamese,2022-09-10,0.96,0.741,0.747,0.711,-2.52,0.0327,153.024,0,0,0.012,4,49,3413838,0,0,0,Energetic
+Tomar Buba,sibcharan das,/artist/sibcharan-das,0.0,Assamese,2022-10-01,0.34,0.964,0.58,0.429,-3.594,0.0466,150.044,0,5,0.009,4,51,3207112,0,0,0,Sad
+Pran Krishna Mor,Snehalata Das,/artist/snehalata-das,0.0,Assamese,2022-10-02,0.38,0.22,0.341,0.16,-3.991,0.01,150.001,0,10,0.0027,4,48,11308004,0,0,0,Sad
+Kinu Maram Lagata,Others|Khagendranath Phukan|Meena Chakraborty,/artist/others|/artist/khagendranath-phukan-1|/artist/meena-chakraborty-3,0.0,Assamese,2022-10-09,0.5,0.04,0.084,0.295,-4.086,0.01,150.026,0,5,0.03,4,54,3940005,0,0,0,Sad
+Beli Lahiai,D Pen Baruah,/artist/d-pen-baruah,0.0,Assamese,2022-11-04,0.55,0.97,0.813,0.759,-13.818,0.09,150.004,0,1,0.02,4,26,1066982,0,0,0,Energetic
+Aaji Toi Jodi,Dipen Baruah,/artist/dipen-baruah,0.0,Assamese,2022-11-06,0.02,0.69,0.838,0.462,-13.686,0.049,154.999,1,8,0.02,4,44,608079,0,0,0,Sad
+Aparoopa Aparoopa,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Assamese,2022-12-02,0.87,0.06,0.287,0.545,-6.033,0.025,154.864,0,5,0.0086,4,63,7102681,0,0,0,Sad
+Bisarilo Sunarkhani,Sagarika Barua,/artist/sagarika-barua,0.0,Assamese,2022-12-03,0.76,0.686,0.647,0.285,-2.354,0.033,149.932,0,8,0.0174,4,66,5198351,0,0,0,Happy
+Asomi Ali,Kalpana Bhuyan,/artist/kalpana-bhuyan,0.0,Assamese,2022-12-04,0.21,0.59,0.221,0.337,-12.423,0.094,149.943,0,1,0.0689,4,86,4604103,0,0,0,Sad
+Surey Surey,Jiten Deka,/artist/jiten-deka,0.0,Assamese,2022-12-05,0.06,0.4,0.502,0.962,-5.312,0.03,149.922,1,1,0.0465,4,57,8669070,0,0,0,Sad
+Ki Khil Khil Khil Khil,Nirmal Mishra,/artist/nirmal-mishra,0.0,Assamese,2022-12-08,0.63,0.94,0.675,0.274,-11.714,0.0574,150.0,0,4,0.009,4,37,6021798,0,0,0,Happy
+Tumi Nai Jadi,Monojyostna Mahanta,/artist/monojyostna-mahanta,0.0,Assamese,2022-12-08,0.96,0.68,0.149,0.835,-8.983,0.03,149.981,1,7,0.0976,4,67,10409099,0,0,0,Sad
+Jamunaloi O Radha,Madhumati Goswami,/artist/madhumati-goswami,0.0,Assamese,2022-12-11,0.76,0.02,0.23,0.691,-11.683,0.0351,154.094,1,3,0.01,4,99,2020343,0,0,0,Sad
+Chanchal Mon,Biren Deka,/artist/biren-deka,0.0,Assamese,2022-12-12,0.93,0.124,0.039,0.538,-7.916,0.0108,154.943,0,5,0.068,4,48,5137174,0,0,0,Sad
+Kon Sei Jane,Dijen Kakati,/artist/dijen-kakati-4,0.0,Assamese,2023-01-01,0.62,0.439,0.399,0.506,-8.429,0.0702,150.069,0,5,0.031,4,83,5621691,0,0,0,Sad
+Ki Bichari Ore Jibon,Anju Devi|Bhupen Hazarika,/artist/anju-devi|/artist/dr-bhupen-hazarika-2,0.0,Assamese,2023-01-01,0.66,0.783,0.314,0.819,-9.891,0.044,149.94,0,7,0.0745,4,27,11324419,0,0,0,Sad
+Eijani Nachani Koneno Srogile,dasarath das,/artist/dasarath-das,0.0,Assamese,2023-02-03,0.06,0.694,0.494,0.054,-5.985,0.0652,155.116,0,9,0.048,4,98,6021886,0,0,0,Sad
+Nidarun Sham,Bangshidhar Das,/artist/bangshidhar-das-5,0.0,Assamese,2023-02-09,0.84,0.001,0.116,0.341,-8.757,0.0216,150.051,0,1,0.0,4,65,8811526,0,0,0,Sad
+Ram Gosai,Late Girikanta Mohanto,/artist/late-girikanta-mohanto,0.0,Assamese,2023-04-06,0.7,0.335,0.306,0.781,-6.812,0.0455,150.07,0,2,0.0312,4,56,888067,0,0,0,Sad
+Dunia Amar,Khagen Mahanta|Manjari Barua,/artist/khagen-mahanta|/artist/manjari-barua,0.0,Assamese,2023-05-03,0.21,0.084,0.314,0.986,-13.074,0.07,149.761,0,9,0.07,4,67,5312498,0,0,0,Sad
+Gati Je Jibaner Naam,Samar Hazarika,/artist/samar-hazarika,0.0,Assamese,2023-06-01,0.97,0.805,0.469,0.189,-8.411,0.065,155.016,1,11,0.069,4,57,11371207,0,0,0,Sad
+Sudhichha Tomaloi,Dwipen Baruah|Namita Bhattacharya,/artist/dwipen-baruah|/artist/namita-bhattacharya,0.0,Assamese,2023-07-07,0.1,0.93,0.541,0.838,-5.506,0.0295,153.96,0,11,0.013,4,58,8602742,0,0,0,Sad
+Hatote Cherenda Loi,Dhanada Pathak|Rameshwar Pathak,/artist/dhanada-pathak|/artist/rameshwar-pathak,0.0,Assamese,2023-08-04,0.49,0.85,0.77,0.566,-2.798,0.0532,150.017,1,9,0.008,4,42,4137267,0,0,0,Energetic
+Kiyo No Phoole,Dwipen Barua|Pahari Saikia,/artist/dwipen-barua-16|/artist/pahari-saikia,0.0,Assamese,2023-08-12,0.47,0.282,0.377,0.621,-6.308,0.0987,149.909,1,5,0.0896,4,44,11200010,0,0,0,Sad
+Koa Na Kar Ma Tumi,Pampa Gagai,/artist/pampa-gagai,0.0,Assamese,2023-09-03,0.45,0.32,0.949,0.665,-9.145,0.0883,150.011,0,9,0.041,4,86,350507,0,0,0,Happy
+Dehi Oi Kalija,Dwipen Baruah,/artist/dwipen-baruah,0.0,Assamese,2023-09-04,0.56,0.415,0.304,0.912,-6.246,0.02,149.991,0,10,0.082,4,41,4558073,0,0,0,Sad
+Kona Batenu Pohara,Rituparna Sharma,/artist/rituparna-sharma,0.0,Assamese,2023-09-04,0.12,0.66,0.078,0.133,-4.622,0.09,149.957,0,11,0.007,4,27,5556969,0,0,0,Sad
+Chokhur Pahit,Anima Choudhury,/artist/anima-choudhury,0.0,Assamese,2023-09-04,0.72,0.44,0.319,0.075,-2.312,0.078,149.974,1,1,0.0465,4,49,9945087,0,0,0,Sad
+Sua Ghane Ghane,Madhumati Goswami,/artist/madhumati-goswami,0.0,Assamese,2023-09-06,0.85,0.648,0.969,0.376,-9.89,0.014,149.84,0,6,0.085,4,67,2423925,0,0,0,Happy
+Sali Mari Nasoni (Bihu Geet),Parag Chaliha|Bihu Group,/artist/parag-chaliha|/artist/bihu-group,0.0,Assamese,2023-09-08,0.5,0.12,0.067,0.009,-5.344,0.03,146.963,0,7,0.03,4,98,4746810,0,0,0,Sad
+Ohe Ki Diya Pujim,Rameshwar Pathak,/artist/rameshwar-pathak,0.0,Assamese,2023-10-09,0.47,0.42,0.481,0.072,-8.104,0.0279,149.998,0,5,0.009,4,57,1596552,0,0,0,Sad
+Phulite Keteki,Bibha Barua|Anu Barkakati|Sharat Sharma,/artist/bibha-barua-1|/artist/anu-barkakati-1|/artist/sharat-sharma,0.0,Assamese,2023-11-01,0.99,0.41,0.078,0.56,-8.036,0.047,149.961,1,2,0.0349,4,49,8983871,0,0,0,Sad
+Man Aji,Pulak Banerjee|Haimanti Shukla,/artist/pulak-banerjee-1|/artist/haimanti-shukla,0.0,Assamese,2023-11-02,0.45,0.64,0.909,0.541,-4.487,0.0589,149.916,0,6,0.08,4,35,1826300,0,0,0,Energetic
+Noire Bukut Uthe Dhou,Dilip Sharma|Anima Chowdhury,/artist/dilip-sharma|/artist/anima-chowdhury-1,0.0,Assamese,2023-11-05,0.87,0.65,0.294,0.097,-9.601,0.018,150.007,1,5,0.096,4,74,9439566,0,0,0,Sad
+Jon Bai E Beji Eti Dia,Jiten Deka|Nirmali Das,/artist/jiten-deka|/artist/nirmali-das,0.0,Assamese,2023-12-01,0.95,0.81,0.19,0.991,-4.587,0.01,153.948,1,1,0.06,4,82,9600216,0,0,0,Sad
+Chinaki Chinaki - Usha Mangeshkar,Usha Mangeshkar,/artist/usha-mangeshkar-2,0.0,Assamese,2023-12-02,0.39,0.94,0.62,0.821,-2.627,0.003,148.722,1,0,0.06,4,26,6026817,0,0,0,Sad
+Bhatiai Jaota,Rameshwar Pathak|Dhanada Pathak,/artist/rameshwar-pathak|/artist/dhanada-pathak,0.0,Assamese,2024-02-01,0.59,0.7,0.887,0.315,-6.963,0.0391,149.982,1,1,0.09,4,46,11315877,0,0,0,Energetic
+Hindu Ki Musolmaan (Jikir),Rekibuddin Ahmed,/artist/rekibuddin-ahmed,0.0,Assamese,2024-02-02,0.83,0.64,0.591,0.618,-9.916,0.02,149.899,1,8,0.0874,4,52,4710162,0,0,0,Sad
+Ne Kaandibaa Ne Kaandibaa,Bhupen Hazarika,/artist/dr-bhupen-hazarika-2,0.0,Assamese,2024-02-02,0.05,0.54,0.503,0.208,-3.862,0.075,154.942,0,6,0.0645,4,58,2014025,0,0,0,Sad
+Sendur Sendur,Satya Baruah,/artist/satya-baruah,0.0,Assamese,2024-04-03,0.96,0.043,0.27,0.781,-12.409,0.02,150.017,1,1,0.0756,4,55,3484008,0,0,0,Sad
+Seuji Banar Suriya Kahini - Part 2,Unknown,/artist/unknown,0.0,Assamese,2024-12-04,0.52,0.68,0.691,0.473,-6.032,0.0773,149.988,0,8,0.026,4,47,3229455,0,0,0,Energetic
