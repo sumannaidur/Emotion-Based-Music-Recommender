@@ -79,9 +79,3 @@ Access the web application at **http://127.0.0.1:5000/**
 | `/` | GET | Home page with input form |
 | `/detect_text` | POST | Detect emotion from user text input |
 | `/detect_face` | POST | Detect emotion from uploaded face image |
-
-## Future Enhancements
-- **Improve Emotion Detection Accuracy**: Fine-tune models for better precision.
-- **Expand Language Support**: Add more regional languages.
-- **Enhanced UI/UX**: Make the web app more interactive.
-- **Mobile App Integration**: Develop an Android/iOS version.
