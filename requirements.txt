@@ -1,0 +1,11 @@
+Flask
+pandas
+textblob
+opencv-python
+opencv-contrib-python
+deepface
+spotipy
+scikit-learn
+xgboost
+numpy
+concurrent.futures
