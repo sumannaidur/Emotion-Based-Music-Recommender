@@ -9,3 +9,8 @@ scikit-learn
 xgboost
 numpy
 concurrent.futures
+yt-dlp
+librosa
+google-api-python-client
+pydub
+ffmpeg
