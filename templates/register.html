@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Register</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-image: url("{{ url_for('static', filename='lr.jpeg') }}");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      padding-left: 190px;
+    }
+
+    .register-container {
+      background:rgba(59, 117, 226, 0.6);
+      padding: 50px 40px;
+      border-radius: 15px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.7);
+      max-width: 400px;
+      width: 100%;
+    }
+
+    .register-container h2 {
+      text-align: center;
+      color: #ffffff;
+      font-size: 2em;
+      margin-bottom: 30px;
+      letter-spacing: 3px;
+    }
+
+    input[type="text"],
+    input[type="password"],
+    input[type="tel"] {
+      width: 100%;
+      padding: 14px 18px;
+      margin: 20px 0;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 30px;
+      background: rgba(214, 113, 239, 0.1);
+      color: #ffffff;
+      font-size: 1em;
+      transition: border-color 0.3s;
+    }
+
+    input:focus {
+      outline: none;
+      border-color: #ffffff;
+    }
+
+    button {
+      width: 100%;
+      padding: 14px;
+      border: none;
+      border-radius: 30px;
+      background-color: #ffffff;
+      color: black;
+      font-weight: bold;
+      font-size: 1.1em;
+      cursor: pointer;
+      transition: background-color 0.3s, transform 0.2s;
+    }
+
+    button:hover {
+      background-color: #e295ec;
+      transform: scale(1.05);
+    }
+
+    p {
+      text-align: center;
+      margin-top: 20px;
+      color: #ffffff;
+    }
+
+    a {
+      color: #ffffff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="register-container">
+    <h2>Register</h2>
+    <form method="POST" autocomplete="off">
+      <input type="text" name="username" placeholder="Username" required autocomplete="off">
+      <input type="tel" name="phone" placeholder="Phone Number" class="form-control" required
+             pattern="[0-9]{10}" minlength="10" maxlength="10"
+             oninput="this.value=this.value.replace(/[^0-9]/g,'')">
+      <input type="password" name="password" placeholder="Password" required autocomplete="off">
+      <input type="password" name="confirm_password" placeholder="Confirm Password" required autocomplete="off">
+      <button type="submit">Register</button>
+    </form>
+    <p>Already have an account? <a href="/login">Login here</a></p>
+  </div>
+
+  <script>
+    window.onload = function() {
+      document.querySelector('input[name="username"]').value = '';
+      document.querySelector('input[name="phone"]').value = '';
+      document.querySelector('input[name="password"]').value = '';
+      document.querySelector('input[name="confirm_password"]').value = '';
+    };
+  </script>
+</body>
+</html>

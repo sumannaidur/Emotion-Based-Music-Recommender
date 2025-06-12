@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recommended Kannada Songs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            /* background-color: {% if emotion == 'happy' %}#fcf8e3{% elif emotion == 'angry' %}#fdecea{% elif emotion == 'sad' %}#e7f0fd{% else %}#f4f4f4{% endif %}; */
+            background-color:#253e81;
+            padding: 20px;
+        }
+
+        .song-container {
+            margin-bottom: 40px;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .song-title {
+            font-size: 20px;
+            font-weight: bold;
+        }
+#h2{
+    color: #ffff;
+}
+        .song-artist {
+            font-size: 16px;
+            color: #555555;
+        }
+
+        .spotify-player {
+            margin-top: 10px;
+            display: none;
+        }
+
+        .feedback-form {
+            display: none;
+            margin-top: 15px;
+        }
+
+        .feedback-form textarea {
+            width: 100%;
+            height: 60px;
+        }
+
+        .play-button, .submit-button {
+            margin-top: 10px;
+            padding: 8px 12px;
+            border: none;
+            border-radius: 5px;
+            background-color: #253e81;
+            color: white;
+            cursor: pointer;
+        }
+
+        .play-button:hover, .submit-button:hover {
+            background-color: #3f61be;
+        }
+    </style>
+
+<script>
+    let currentlyPlayingIndex = null;
+
+    function playSong(index) {
+        // Hide previously playing player and form
+        if (currentlyPlayingIndex !== null && currentlyPlayingIndex !== index) {
+            document.getElementById("player-" + currentlyPlayingIndex).style.display = "none";
+            document.getElementById("form-" + currentlyPlayingIndex).style.display = "none";
+        }
+
+        // Show new player
+        const iframe = document.getElementById("player-" + index);
+        iframe.style.display = "block";
+
+        // Hide all forms initially
+        document.querySelectorAll(".feedback-form").forEach(f => f.style.display = "none");
+
+        // Show feedback form after 60 sec
+        setTimeout(() => {
+            if (currentlyPlayingIndex === index) {
+                document.getElementById("form-" + index).style.display = "block";
+            }
+        }, 60000); // 60 sec
+
+        // Update currently playing
+        currentlyPlayingIndex = index;
+    }
+
+    function submitFeedback(index, songName, emotion) {
+        const feedbackText = document.getElementById("feedback-text-" + index).value;
+
+        fetch("/save_feedback", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/x-www-form-urlencoded"
+            },
+            body: `song_name=${encodeURIComponent(songName)}&feedback=${encodeURIComponent(feedbackText)}&emotion=${encodeURIComponent(emotion)}`
+        })
+        .then(response => {
+            alert("Feedback submitted successfully!");
+            // Hide feedback form after submitting
+            document.getElementById("form-" + index).style.display = "none";
+        });
+    }
+</script>
+
+</head>
+<body>
+
+<h2 style="color: white; ">Recommended Songs Based on Emotion: <em>{{ emotion }}</em></h2>
+
+{% for song in songs %}
+<div class="song-container">
+    <div class="song-title">{{ song.song_name }}</div>
+    <div class="song-artist">by {{ song.artist }}<p>from {{ song.language }} </p></div>
+<!-- language of the year  {{ song.year }} -->
+    <!-- Play button triggers player and timer -->
+    <button class="play-button" onclick="playSong({{ loop.index }})">Play Song</button>
+
+    <!-- Spotify player (initially hidden) -->
+    <iframe
+        id="player-{{ loop.index }}"
+        class="spotify-player"
+        src="https://open.spotify.com/embed/track/{{ song.track_id }}"
+        frameborder="0"
+        allowtransparency="true"
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy">
+    </iframe>
+
+    <!-- Feedback form (initially hidden, shown only after 60 sec) -->
+    <div class="feedback-form" id="form-{{ loop.index }}">
+        <p><strong>Give your feedback on this song:</strong></p>
+        <textarea id="feedback-text-{{ loop.index }}"></textarea>
+        <br>
+        <button class="submit-button" onclick="submitFeedback({{ loop.index }}, '{{ song.song_name }}', '{{ emotion }}')">Submit Feedback</button>
+    </div>
+</div>
+{% endfor %}
+<a href="/buttons" style="display: inline-block; margin: 20px; text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;">⬅ Back</a>
+
+
+</body>
+</html>

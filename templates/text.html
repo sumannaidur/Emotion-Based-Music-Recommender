@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emotion Chatbot</title>
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      padding: 20px; 
+      background-image: url("{{ url_for('static', filename='chat.jpg') }}");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat; 
+      height: 100vh;
+      max-width: 800px;
+      margin: 0 auto;
+      margin-left:40px;
+    }
+    
+    h1 {
+      text-align: center;
+      color: #ffffff;
+    }
+    
+    #chatbox { 
+      width: 100%; 
+      height: 400px; 
+      overflow-y: scroll; 
+      border: 1px solid #ccc; 
+      padding: 10px; 
+      background: white; 
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        /* Move slightly left */
+    }
+    
+    .user { 
+      text-align: right; 
+      color: #2c5282; 
+      margin-bottom: 10px; 
+      background-color: #ebf4ff;
+      padding: 8px 12px;
+      border-radius: 12px 12px 0 12px;
+      display: inline-block;
+      max-width: 80%;
+      float: right;
+      clear: both;
+    }
+    
+    .bot { 
+      text-align: left; 
+      color: #276749; 
+      margin-bottom: 10px; 
+      background-color: #e6fffa;
+      padding: 8px 12px;
+      border-radius: 12px 12px 12px 0;
+      display: inline-block;
+      max-width: 80%;
+      float: left;
+      clear: both;
+    }
+    
+    #inputArea { 
+      margin-top: 20px; 
+      display: flex; 
+      gap: 10px; 
+      clear: both;
+    }
+    
+    #message { 
+      flex: 1; 
+      padding: 10px; 
+      font-size: 1em; 
+      border-radius: 20px;
+      border: 1px solid #ccc;
+    }
+    
+    #submit, #voiceBtn { 
+      padding: 10px 15px; 
+      font-size: 1em; 
+      background-color: #4299e1;
+      color: white;
+      border: none;
+      border-radius: 20px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    
+    #submit:hover, #voiceBtn:hover {
+      background-color: #3182ce;
+    }
+    
+    #submit:disabled, #voiceBtn:disabled {
+      background-color: #a0aec0;
+      cursor: not-allowed;
+    }
+    
+    #finalMood { 
+      margin-top: 20px; 
+      font-size: 1.2em; 
+      color: #5a2da0; 
+      font-weight: bold; 
+      text-align: center;
+      padding: 15px;
+      border-radius: 8px;
+      transition: all 0.5s ease;
+      display: none;
+    }
+    
+    #messageCounter {
+      text-align: right;
+      color: #ffffff;
+      font-size: 0.8em;
+      margin-top: 5px;
+    }
+    
+    /* Mood-specific styles */
+    .mood-happy {
+      background-color: #fefcbf;
+      border: 2px solid #ecc94b;
+    }
+    
+    .mood-sad {
+      background-color: #e2e8f0;
+      border: 2px solid #a0aec0;
+    }
+    
+    .mood-angry {
+      background-color: #fed7d7;
+      border: 2px solid #fc8181;
+    }
+    
+    .mood-relaxed {
+      background-color: #d6ffdd;
+      border: 2px solid #68d391;
+    }
+    
+    .mood-excited {
+      background-color: #feebc8;
+      border: 2px solid #ed8936;
+    }
+    
+    .spinner {
+      display: none;
+      width: 20px;
+      height: 20px;
+      border: 3px solid rgba(0,0,0,0.1);
+      border-radius: 50%;
+      border-top-color: #3182ce;
+      animation: spin 1s ease-in-out infinite;
+      margin-left: 10px;
+    }
+    
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+    
+    @media (max-width: 600px) {
+      body {
+        padding: 10px;
+      }
+      #voiceBtn span {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>🧠 Emotion Chatbot</h1>
+  <div id="chatbox"></div>
+  
+  <div id="messageCounter">Message: 0/6</div>
+
+  <div id="inputArea">
+    <input type="text" id="message" placeholder="Type your message..." />
+    <button id="submit">Send</button>
+    <button id="voiceBtn">🎙️ <span>Speak</span></button>
+    <div class="spinner" id="loadingSpinner"></div>
+  </div>
+
+  <div id="finalMood"></div>
+
+  <script>
+    const chatbox = document.getElementById("chatbox");
+    const messageInput = document.getElementById("message");
+    const submitBtn = document.getElementById("submit");
+    const voiceBtn = document.getElementById("voiceBtn");
+    const finalMoodDiv = document.getElementById("finalMood");
+    const messageCounter = document.getElementById("messageCounter");
+    const loadingSpinner = document.getElementById("loadingSpinner");
+    
+    let messageCount = 0;
+    const MAX_MESSAGES = 6;
+
+    function addMessage(sender, msg) {
+      const div = document.createElement("div");
+      div.className = sender;
+      div.innerText = msg;
+      chatbox.appendChild(div);
+      chatbox.scrollTop = chatbox.scrollHeight;
+    }
+
+    async function sendMessage(text) {
+      if (!text.trim()) return;
+      
+      // Disable input while processing
+      submitBtn.disabled = true;
+      voiceBtn.disabled = true;
+      messageInput.disabled = true;
+      loadingSpinner.style.display = "inline-block";
+      
+      addMessage("user", text);
+      messageInput.value = "";
+      
+      // Update message counter
+      messageCount++;
+      messageCounter.innerText = `Message: ${messageCount}/${MAX_MESSAGES}`;
+
+      try {
+        const res = await fetch("/chat", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ message: text })
+        });
+
+        const data = await res.json();
+        addMessage("bot", data.reply);
+
+        if (data.final && data.mood) {
+          displayFinalMood(data.mood);
+        } else {
+          // Re-enable input for continued conversation
+          submitBtn.disabled = false;
+          voiceBtn.disabled = false;
+          messageInput.disabled = false;
+          messageInput.focus();
+        }
+      } catch (error) {
+        addMessage("bot", "Sorry, there was an error processing your message.");
+        console.error("Error:", error);
+      }
+      
+      loadingSpinner.style.display = "none";
+    }
+
+    function displayFinalMood(mood) {
+      finalMoodDiv.innerText = `🎯 Based on our conversation, I believe you're feeling: ${mood}`;
+      finalMoodDiv.style.display = "block";
+      
+      // Add mood-specific styling
+      finalMoodDiv.className = `mood-${mood}`;
+      
+      // Add emoji based on mood
+      const moodEmojis = {
+        "happy": "😊",
+        "sad": "😢",
+        "angry": "😠",
+        "relaxed": "😌",
+        "excited": "🤩"
+      };
+      
+      if (moodEmojis[mood]) {
+        finalMoodDiv.innerText += ` ${moodEmojis[mood]}`;
+      }
+      
+      // Add restart button
+      const restartBtn = document.createElement("button");
+      restartBtn.innerText = "Start New Chat";
+      restartBtn.style.marginTop = "10px";
+      restartBtn.style.padding = "8px 16px";
+      restartBtn.style.backgroundColor = "#4299e1";
+      restartBtn.style.color = "white";
+      restartBtn.style.border = "none";
+      restartBtn.style.borderRadius = "4px";
+      restartBtn.style.cursor = "pointer";
+      restartBtn.onclick = async () => {
+        await fetch("/reset_session", { method: "POST" });
+        window.location.reload();
+      };
+
+      
+      finalMoodDiv.appendChild(document.createElement("br"));
+      finalMoodDiv.appendChild(restartBtn);
+
+      // Add play song button
+      const playSongBtn = document.createElement("button");
+      playSongBtn.innerText = "🎵 Play Song";
+      playSongBtn.style.marginTop = "10px";
+      playSongBtn.style.padding = "8px 16px";
+      playSongBtn.style.backgroundColor = "#38a169";
+      playSongBtn.style.color = "white";
+      playSongBtn.style.border = "none";
+      playSongBtn.style.borderRadius = "4px";
+      playSongBtn.style.cursor = "pointer";
+      playSongBtn.onclick = () => window.location.href =  `/final_mood/${mood}`;
+
+      finalMoodDiv.appendChild(playSongBtn);
+    }
+
+    submitBtn.onclick = () => sendMessage(messageInput.value);
+    messageInput.addEventListener("keypress", e => {
+      if (e.key === "Enter") sendMessage(messageInput.value);
+    });
+
+    // 🎙️ Speech-to-text
+    const recognition = window.SpeechRecognition || window.webkitSpeechRecognition
+      ? new (window.SpeechRecognition || window.webkitSpeechRecognition)()
+      : null;
+
+    if (recognition) {
+      recognition.continuous = false;
+      recognition.lang = "en-US";
+      recognition.interimResults = false;
+      recognition.maxAlternatives = 1;
+
+      voiceBtn.onclick = () => {
+        // Visual feedback when recording
+        voiceBtn.style.backgroundColor = "#e53e3e";
+        voiceBtn.innerText = "🔴 Recording...";
+        recognition.start();
+      };
+
+      recognition.onresult = (event) => {
+        const voiceText = event.results[0][0].transcript;
+        messageInput.value = voiceText;
+        
+        // Reset button appearance
+        voiceBtn.style.backgroundColor = "#4299e1";
+        voiceBtn.innerHTML = "🎙️ <span>Speak</span>";
+        
+        sendMessage(voiceText);
+      };
+
+      recognition.onend = () => {
+        // Reset button appearance
+        voiceBtn.style.backgroundColor = "#4299e1";
+        voiceBtn.innerHTML = "🎙️ <span>Speak</span>";
+      };
+
+      recognition.onerror = (event) => {
+        alert("Voice recognition error: " + event.error);
+        // Reset button appearance
+        voiceBtn.style.backgroundColor = "#4299e1";
+        voiceBtn.innerHTML = "🎙️ <span>Speak</span>";
+      };
+    } else {
+      voiceBtn.disabled = true;
+      voiceBtn.title = "Speech recognition not supported in this browser";
+    }
+    
+    // Start with focus in the input field
+    messageInput.focus();
+    
+    // Add initial welcome message
+    setTimeout(() => {
+      addMessage("bot", "Hi there! I'm an emotion-sensing chatbot. How are you feeling today?");
+    }, 500);
+  </script>
+</body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Face Emotion Detection</title>
+    <style>
+        html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+        body {
+    font-family: Arial, sans-serif;
+    background-image: url("{{ url_for('static', filename='face1.jpeg') }}");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    
+           
+}
+
+        form {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            width: 400px;
+            margin: 0 auto;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+             margin-left:40px;
+        }
+        input[type="file"], input[type="submit"] {
+            width: 90%;
+            padding: 12px;
+            margin-top: 10px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+        }
+        input[type="submit"] {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color: white; margin-top: 180px; margin-left: 40px;" >Face-Based Emotion Detection 😊</h1>
+    <form action="/detect_face" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept="image/*" required>
+        <input type="submit" value="Upload & Get Songs">
+    </form>
+</body>
+</html>

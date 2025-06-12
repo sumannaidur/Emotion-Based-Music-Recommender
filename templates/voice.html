@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Voice-Only Emotion Chatbot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      max-width: 700px;
+      margin: 0 auto;
+      background-image: url("{{ url_for('static', filename='voice1.jpeg') }}");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      margin-left:40px;
+
+    }
+    h1 {
+      text-align: center;
+      color: #ffffff;
+    }
+    #chatbox {
+      height: 400px;
+      overflow-y: auto;
+      background: white;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      padding: 15px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin-bottom: 10px;
+    }
+    .user {
+      text-align: right;
+      background-color: #ebf4ff;
+      color: #2c5282;
+      margin: 8px 0;
+      padding: 10px 15px;
+      border-radius: 15px 15px 0 15px;
+      display: inline-block;
+      max-width: 80%;
+      float: right;
+      clear: both;
+    }
+    .bot {
+      text-align: left;
+      background-color: #e6fffa;
+      color: #276749;
+      margin: 8px 0;
+      padding: 10px 15px;
+      border-radius: 15px 15px 15px 0;
+      display: inline-block;
+      max-width: 80%;
+      float: left;
+      clear: both;
+    }
+    #voiceBtn {
+      display: block;
+      margin: 0 auto;
+      padding: 15px 25px;
+      font-size: 1.2em;
+      background-color: #4299e1;
+      color: white;
+      border: none;
+      border-radius: 30px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      user-select: none;
+    }
+    #voiceBtn:disabled {
+      background-color: #a0aec0;
+      cursor: not-allowed;
+    }
+    #finalMood {
+      margin-top: 20px;
+      text-align: center;
+      font-size: 1.3em;
+      font-weight: bold;
+      color: #5a2da0;
+      padding: 15px;
+      border-radius: 8px;
+      display: none;
+      transition: all 0.5s ease;
+    }
+    /* Mood styles */
+    .mood-happy { background-color: #fefcbf; border: 2px solid #ecc94b; }
+    .mood-sad { background-color: #e2e8f0; border: 2px solid #a0aec0; }
+    .mood-angry { background-color: #fed7d7; border: 2px solid #fc8181; }
+    .mood-relaxed { background-color: #d6ffdd; border: 2px solid #68d391; }
+    .mood-excited { background-color: #feebc8; border: 2px solid #ed8936; }
+  </style>
+</head>
+<body>
+  <h1>🎙️Meet Aura – Your Emotion Companion</h1>
+  <div id="chatbox"></div>
+  <button id="voiceBtn" title="Click to Speak">Start Speaking 🎤</button>
+  <div id="finalMood"></div>
+
+  <script>
+    const chatbox = document.getElementById("chatbox");
+    const voiceBtn = document.getElementById("voiceBtn");
+    const finalMoodDiv = document.getElementById("finalMood");
+
+    let recognizing = false;
+    let messageCount = 0;
+    let finalGiven = false;
+    let recognition;
+
+    if (!('webkitSpeechRecognition' in window)) {
+      alert("Sorry, your browser does not support Speech Recognition.");
+      voiceBtn.disabled = true;
+    } else {
+      recognition = new webkitSpeechRecognition();
+      recognition.lang = "en-US";
+      recognition.continuous = false;
+      recognition.interimResults = false;
+
+      recognition.onstart = () => {
+        recognizing = true;
+        voiceBtn.textContent = "🎙️ Listening...";
+        voiceBtn.disabled = true;
+      };
+
+      recognition.onend = () => {
+        recognizing = false;
+        voiceBtn.textContent = "Start Speaking 🎤";
+        voiceBtn.disabled = false;
+      };
+
+      recognition.onresult = (event) => {
+        const transcript = event.results[0][0].transcript.trim();
+        if (transcript.length > 0) {
+          addMessage("user", transcript);
+          sendMessage(transcript);
+        }
+      };
+    }
+
+    voiceBtn.onclick = () => {
+      if (!recognizing) {
+        recognition.start();
+      }
+    };
+
+    function addMessage(sender, text) {
+      const msgDiv = document.createElement("div");
+      msgDiv.classList.add(sender);
+      msgDiv.textContent = text;
+      chatbox.appendChild(msgDiv);
+      chatbox.scrollTop = chatbox.scrollHeight;
+    }
+
+    function speak(text) {
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel(); // Stop current speech if any
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = "en-US";
+        window.speechSynthesis.speak(utterance);
+      }
+    }
+
+    async function sendMessage(message) {
+      if (finalGiven) {
+        alert("Session ended. Please refresh the page to start a new chat.");
+        return;
+      }
+
+      try {
+        const response = await fetch("/chat", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ message }),
+        });
+        const data = await response.json();
+
+        addMessage("bot", data.reply);
+        speak(data.reply);
+
+        messageCount++;
+        if (data.final) {
+          finalGiven = true;
+          showFinalMood(data.mood);
+          voiceBtn.disabled = true;
+        }
+      } catch (error) {
+        addMessage("bot", "Sorry, an error occurred. Please try again.");
+        console.error(error);
+      }
+    }
+    // Initial greeting from bot when page loads
+    window.onload = () => {
+      const welcomeMsg = "Hi!, I'm Aura, How are you so far?";
+      addMessage("bot", welcomeMsg);
+      speak(welcomeMsg);
+    };
+
+
+    function showFinalMood(mood) {
+      finalMoodDiv.textContent = `Final mood detected: ${mood.toUpperCase()}`;
+      finalMoodDiv.className = "";
+      finalMoodDiv.style.display = "block";
+      finalMoodDiv.classList.add(`mood-${mood}`);
+      speak(`I have detected that you are feeling ${mood}. Thank you for chatting with me!`);
+
+      
+  // Add play song button
+  const playSongBtn = document.createElement("button");
+  playSongBtn.innerText = "🎵 Play Song";
+  playSongBtn.style.marginTop = "10px";
+  playSongBtn.style.padding = "8px 16px";
+  playSongBtn.style.backgroundColor = "#38a169";
+  playSongBtn.style.color = "white";
+  playSongBtn.style.border = "none";
+  playSongBtn.style.borderRadius = "4px";
+  playSongBtn.style.cursor = "pointer";
+  playSongBtn.onclick = () => window.location.href = `/final_mood/${mood}`;
+
+  finalMoodDiv.appendChild(document.createElement("br")); // optional line break before button
+  finalMoodDiv.appendChild(playSongBtn);
+    }
+  </script>
+</body>
+</html>

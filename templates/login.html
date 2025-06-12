@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Login</title>
+  <style>
+    * {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Roboto", sans-serif;
+      min-height: 100vh;
+      background: url("{{ url_for('static', filename='lr.jpeg') }}") no-repeat center center fixed;
+      background-size: cover;
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      padding-left: 190px;
+    }
+
+    .login-container {
+      background: rgba(59, 117, 226, 0.6);
+      padding: 60px 40px;
+      border-radius: 15px;
+      box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.7);
+      max-width: 400px;
+      width: 100%;
+    }
+
+    .login-container h2 {
+      text-align: center;
+      color: #ffffff;
+      letter-spacing: 4px;
+      padding: 10px 0;
+      font-size: 2.2em;
+    }
+
+    input[type="text"],
+    input[type="password"] {
+      display: block;
+      padding: 18px 20px;
+      margin: 25px auto;
+      background: rgba(0, 0, 0, 0.3);
+      border: 1px rgba(255, 255, 255, 0.2) solid;
+      outline: none;
+      border-radius: 30px;
+      width: 90%;
+      color: #ffffff;
+      font-size: 1.1em;
+      transition: 0.4s border-color;
+    }
+
+    input[type="text"]:focus,
+    input[type="password"]:focus {
+      border-color: #ffffff;
+    }
+
+    button {
+      padding: 18px;
+      width: 90%;
+      margin: 20px auto;
+      border-radius: 30px;
+      border: none;
+      cursor: pointer;
+      color: black;
+      font-weight: bold;
+      font-size: 1.1em;
+      background-color: #ffffff;
+      transition: background-color 0.4s, transform 0.3s;
+      display: block;
+    }
+
+    button:hover {
+      background-color: #b889ff;
+      transform: scale(1.05);
+    }
+
+    p {
+      text-align: center;
+      margin-top: 20px;
+      color: #ffffff;
+    }
+
+    a {
+      color: #ffffff;
+      text-decoration: none;
+      font-size: 1em;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="login-container">
+    <h2>LOGIN</h2>
+    <form method="POST" id="loginForm" autocomplete="off">
+      <input type="text" name="username" placeholder="Username" required autocomplete="off">
+      <input type="password" name="password" placeholder="Password" required autocomplete="new-password">
+      <button type="submit">LOGIN</button>
+    </form>
+    <p>Don't have an account? <a href="/register">Register here</a></p>
+  </div>
+
+  <script>
+    window.onload = function () {
+      setTimeout(() => {
+        document.getElementById('loginForm').reset();
+      }, 100);
+    };
+  </script>
+</body>
+</html>

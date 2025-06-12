@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Music Companion - Options</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url("{{ url_for('static', filename='music.jpeg') }}");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            color: white;
+        }
+
+        h1 {
+            margin-bottom: 30px;
+            text-shadow: 2px 2px 8px black;
+        }
+
+        .button-container {
+            display: flex;
+            gap: 30px;
+            margin-top: 30px;
+        }
+
+        .option-button {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 150px;
+            height: 150px;
+            background: #ff6600;
+            color: white;
+            font-size: 1.2em;
+            font-weight: bold;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            box-shadow: 0px 0px 15px rgba(255, 102, 0, 0.8);
+            transition: 0.3s;
+        }
+
+        .option-button:hover {
+            background: #ff4500;
+            box-shadow: 0px 0px 25px rgba(255, 69, 0, 1);
+        }
+
+        .option-button i {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        #logout-button {
+            position: fixed;
+            top: 15px;
+            left: 15px;
+            background: rgba(0, 0, 0, 0.6);
+            padding: 8px 12px;
+            border-radius: 8px;
+            z-index: 1000;
+        }
+
+        #logout-button a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            font-family: Arial, sans-serif;
+        }
+
+        #logout-button a:hover {
+            text-decoration: underline;
+        }
+
+        form {
+            margin-bottom: 20px;
+        }
+
+        select, button[type="submit"] {
+            padding: 8px 12px;
+            font-size: 1em;
+            border-radius: 8px;
+            border: none;
+            margin: 0 5px;
+        }
+
+        p {
+            font-weight: bold;
+            text-shadow: 1px 1px 5px black;
+        }
+
+    </style>
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <!-- Logout Button -->
+    <div id="logout-button">
+        <a href="{{ url_for('logout') }}">Logout</a>
+    </div>
+
+    <h2>Welcome, {{ session['username'] }}!</h2>
+
+    <!-- Show selected language -->
+    {% if session.get('language') %}
+        <p>Selected Language: {{ session['language'] }}</p>
+    {% endif %}
+
+    <!-- Language Selection Form -->
+    <form method="POST" action="{{ url_for('set_language') }}">
+        <label for="language">Select Language:</label>
+        <select name="language" id="language" required>
+            <option value="">--Choose--</option>
+            <option value="Telugu">Telugu</option>
+            <option value="Kannada">Kannada</option>
+            <option value="Hindi">Hindi</option>
+            <option value="Tamil">Tamil</option>
+            <!-- Add more languages as needed -->
+        </select>
+        <button type="submit">Save</button>
+    </form>
+
+    <h1>Choose Your Input Method</h1>
+
+    <div class="button-container">
+        <!-- Text Input -->
+        <button class="option-button" onclick="window.location.href='{{ url_for('text_input') }}'">
+            <i class="fas fa-keyboard"></i>
+            Text
+        </button>
+
+        <!-- Face Input -->
+        <button class="option-button" onclick="window.location.href='{{ url_for('face_input') }}'">
+            <i class="fas fa-smile"></i>
+            😊 Face
+        </button>
+
+        <!-- Voice Input -->
+        <button class="option-button" onclick="window.location.href='{{ url_for('voice_input') }}'">
+            <i class="fas fa-microphone"></i>
+            🎤 Voice
+        </button>
+    </div>
+
+</body>
+</html>
