@@ -5,9 +5,8 @@ An AI-powered web application that detects user **mood** via **text or voice inp
 ---
 ## 🎬 Demo
 
-[▶️ Click here to watch the demo](media/demo.mp4)
+![Demo Preview](media/demo.gif)
 
-Click the image to watch the demo.
 ---
 
 ## 🔍 Overview
