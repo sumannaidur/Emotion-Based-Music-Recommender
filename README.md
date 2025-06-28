@@ -3,6 +3,12 @@
 An AI-powered web application that detects user **mood** via **text or voice input** and recommends personalized songs using **Spotify**, **YouTube**, and **lyrics analysis**.
 
 ---
+## 🎬 Demo
+
+[![Demo Video](media/preview_thumbnail.png)](media/demo.mp4)
+
+Click the image to watch the demo.
+---
 
 ## 🔍 Overview
 
